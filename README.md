@@ -3,7 +3,7 @@
 Maintaned by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, Cewulu.
 
 <p align='center'>
-    <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/sandwich.png", height="400">
+    <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/img/sandwich.png", height="400">
 </p>
 
 

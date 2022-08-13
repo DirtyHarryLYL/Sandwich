@@ -2,6 +2,10 @@
 ## Bidirectional Mapping between Action Physical-Semantic Space
 Maintaned by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, Cewulu.
 
+<p align='center'>
+    <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/sandwich.png", height="400">
+</p>
+
 
 Sandwich is a project for general human activity understanding. It consists of:
 - A novel structured semantic space to reexplain all the action classes from existing action datasets of multiple modalities.

@@ -8,8 +8,8 @@ Maintaned by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, Cewu Lu.
 
 
 Sandwich is a project for general human activity understanding. It consists of:
-- A novel structured semantic space, **Poincare Action Semantic Space (PASS)**, to reexplain all the action classes from existing action datasets of multiple modalities.
+- A novel structured semantic space, **Poincare Action Semantic Space (PASS)**, to re-explain all the action classes from existing action datasets of multiple modalities.
 - A large-scale multi-modal action database, **Pangea**, aggregating a plenty of existing action datasets.
-- A bidirectional mapping system to learn the bi-mapping between human action physical-semantic space.
+- A bidirectional mapping system to learn the bi-mapping between human action physical-semantic space and facilitate the action recognition and generation.
 
-Under construction. More contents are coming soon!.
+Under construction. More contents are coming soon!

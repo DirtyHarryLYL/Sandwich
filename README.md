@@ -1,6 +1,6 @@
 # Sandwich
 ## Bidirectional Mapping between Action Physical-Semantic Space
-Maintaned by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, Cewulu.
+Maintaned by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, Cewu Lu.
 
 <p align='center'>
     <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/img/sandwich.png", height="400">

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sharpening_pencil".
+There are 50 candidate verbs: 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+
+Output Format Example:
+2578. pencil.
+283. sharpen.
+Strictly follow the output format above. Do not output analysis. 

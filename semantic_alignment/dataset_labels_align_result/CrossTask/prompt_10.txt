@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build Simple Floating Shelves//attach shelve".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+772. float. The definition is: move lightly, as if suspended. The lexname is: motion. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+1601. monitor. The definition is: keep tabs on; keep an eye on; keep under surveillance. The lexname is: perception. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+2184. float. The definition is: be afloat either on or below a liquid surface and not sink to the bottom. The lexname is: motion. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+20. hinge. The definition is: attach with a hinge. The lexname is: contact. 
+2390. channel. The definition is: direct the flow of. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1240. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+567. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+
+Output Format Example:
+1351. shelve.
+2139. balance.
+Strictly follow the output format above. Do not output analysis. 

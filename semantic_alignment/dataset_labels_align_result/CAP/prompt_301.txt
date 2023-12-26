@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_reads_newspaper,".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+996. report. The definition is: announce one's presence. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1608. scan. The definition is: examine hastily. The lexname is: perception. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+
+Output Format Example:
+1266. paper.
+1602. peruse.
+Strictly follow the output format above. Do not output analysis. 

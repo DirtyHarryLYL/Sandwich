@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "open the sluice and test the new faucet".
+There are 50 candidate verbs: 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+1202. suffuse. The definition is: cause to spread or flush or flood through, over, or across. The lexname is: change. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1164. dam. The definition is: obstruct with, or as if with, a dam. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+1998. decoct. The definition is: steep in hot water. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+956. sputter. The definition is: utter with a spitting sound, as if in a rage. The lexname is: communication. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+414. flush.
+1310. water.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "CuttingInKitchen".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+
+Output Format Example:
+1430. cut.
+2546. cut.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "TennisSwing".
+There are 50 candidate verbs: 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+695. enthuse. The definition is: cause to feel enthusiasm. The lexname is: emotion. 
+1559. twiddle. The definition is: manipulate, as in a nervous or unconscious manner. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+
+Output Format Example:
+2089. swing.
+778. swing.
+Strictly follow the output format above. Do not output analysis. 

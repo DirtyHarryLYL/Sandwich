@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_chess".
+There are 50 candidate verbs: 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+2383. pawn. The definition is: leave as a guarantee in return for money. The lexname is: possession. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+
+Output Format Example:
+454. cheat.
+1434. continue.
+Strictly follow the output format above. Do not output analysis. 

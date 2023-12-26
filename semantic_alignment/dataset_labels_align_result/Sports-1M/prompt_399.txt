@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "football tennis".
+There are 50 candidate verbs: 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+2062. pass.
+999. ball.
+Strictly follow the output format above. Do not output analysis. 

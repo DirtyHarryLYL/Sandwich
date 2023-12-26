@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rolling_pastry".
+There are 50 candidate verbs: 
+1949. roll. The definition is: shape by rolling. The lexname is: change. 
+2303. roll. The definition is: shape by rolling. The lexname is: change. 
+1043. roll. The definition is: shape by rolling. The lexname is: change. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+949. rustle. The definition is: make a dry crackling sound. The lexname is: perception. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+495. rustle. The definition is: take illegally. The lexname is: possession. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+685. dissatisfy. The definition is: fail to satisfy. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+1949. roll.
+2303. roll.
+Strictly follow the output format above. Do not output analysis. 

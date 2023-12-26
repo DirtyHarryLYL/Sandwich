@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Vegan French Toast//heat skillet".
+There are 50 candidate verbs: 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+789. backpack. The definition is: hike with a backpack. The lexname is: motion. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+
+Output Format Example:
+150. pan-fry.
+149. pan-broil.
+Strictly follow the output format above. Do not output analysis. 

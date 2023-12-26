@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut off the tail and fin".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+
+Output Format Example:
+1430. cut.
+2546. cut.
+Strictly follow the output format above. Do not output analysis. 

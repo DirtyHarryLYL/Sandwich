@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "reading_newspaper".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2034. lecture. The definition is: deliver a lecture or talk. The lexname is: communication. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+996. report. The definition is: announce one's presence. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+
+Output Format Example:
+1266. paper.
+2686. study.
+Strictly follow the output format above. Do not output analysis. 

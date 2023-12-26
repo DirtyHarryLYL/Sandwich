@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_spins_person_around,".
+There are 50 candidate verbs: 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+549. resound. The definition is: ring or echo with sound. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+
+Output Format Example:
+1774. sound.
+2331. spin.
+Strictly follow the output format above. Do not output analysis. 

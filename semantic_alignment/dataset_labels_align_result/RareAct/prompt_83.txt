@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shake chair".
+There are 50 candidate verbs: 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+597. shake. The definition is: move with or as if with a tremor. The lexname is: body. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+298. steady. The definition is: make steady. The lexname is: change. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+166. age. The definition is: make older. The lexname is: change. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+
+Output Format Example:
+2403. shake.
+1553. shake.
+Strictly follow the output format above. Do not output analysis. 

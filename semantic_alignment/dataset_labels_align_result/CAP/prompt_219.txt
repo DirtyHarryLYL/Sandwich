@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_opens_refrigerator,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+263. open. The definition is: become open. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1443. panic. The definition is: cause sudden fear in or fill with sudden panic. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+738. preoccupy. The definition is: engage or engross the interest or attention of beforehand or occupy urgently or obsessively. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+
+Output Format Example:
+670. confuse.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

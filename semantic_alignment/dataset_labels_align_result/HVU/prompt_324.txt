@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sharpening_knives".
+There are 50 candidate verbs: 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1031. chisel. The definition is: carve with a chisel. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+1588. knife.
+1878. knife.
+Strictly follow the output format above. Do not output analysis. 

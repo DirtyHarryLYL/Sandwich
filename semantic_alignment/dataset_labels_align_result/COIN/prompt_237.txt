@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bake cookies".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+
+Output Format Example:
+2297. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

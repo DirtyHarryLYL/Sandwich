@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mountain unicycling".
+There are 50 candidate verbs: 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+789. backpack. The definition is: hike with a backpack. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+806. hitchhike. The definition is: travel by getting free rides from motorists. The lexname is: motion. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+825. slog. The definition is: walk heavily and firmly, as when weary, or through mud. The lexname is: motion. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+1210. mount. The definition is: fix onto a backing, setting, or support. The lexname is: change. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1684. totter. The definition is: move without being stable, as if threatening to fall. The lexname is: motion. 
+
+Output Format Example:
+2219. bicycle.
+805. hike.
+Strictly follow the output format above. Do not output analysis. 

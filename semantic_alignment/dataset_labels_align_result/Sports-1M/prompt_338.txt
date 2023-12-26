@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "underwater hockey".
+There are 50 candidate verbs: 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1075. certify. The definition is: declare legally insane. The lexname is: communication. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2361. understudy. The definition is: be an understudy or alternate for a role. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2245. undress. The definition is: get undressed. The lexname is: body. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+
+Output Format Example:
+2169. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

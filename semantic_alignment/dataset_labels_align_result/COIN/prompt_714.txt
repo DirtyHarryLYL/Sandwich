@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "press the corresponding button".
+There are 50 candidate verbs: 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+996. report. The definition is: announce one's presence. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+
+Output Format Example:
+1615. behold.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

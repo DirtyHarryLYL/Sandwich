@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "parallel bars".
+There are 50 candidate verbs: 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2086. seesaw. The definition is: move up and down as if on a seesaw. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+199. de-escalate. The definition is: reduce the level or intensity or size or scope of. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2003. pair. The definition is: arrange in pairs. The lexname is: contact. 
+1364. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2141. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+
+Output Format Example:
+2139. balance.
+172. balance.
+Strictly follow the output format above. Do not output analysis. 

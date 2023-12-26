@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "use dried flower to place pattern and fix it".
+There are 50 candidate verbs: 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1809. applique. The definition is: sew on as a decoration. The lexname is: creation. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+
+Output Format Example:
+2335. make.
+443. seed.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Vanilla Custard//pour custard into bowl".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+423. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+1886. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+183. centralize. The definition is: make central. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1956. whisk. The definition is: whip with or as if with a wire whisk. The lexname is: contact. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+
+Output Format Example:
+1993. cream.
+1224. butter.
+Strictly follow the output format above. Do not output analysis. 

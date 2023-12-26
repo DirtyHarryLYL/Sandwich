@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_tears_paper,".
+There are 50 candidate verbs: 
+341. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1512. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+834. tear. The definition is: move quickly and violently. The lexname is: motion. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+
+Output Format Example:
+341. tear.
+1512. tear.
+Strictly follow the output format above. Do not output analysis. 

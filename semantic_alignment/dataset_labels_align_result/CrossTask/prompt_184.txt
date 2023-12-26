@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Papaya Salad//cut tomato".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+45. suture. The definition is: join with a suture. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+
+Output Format Example:
+162. stir-fry.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

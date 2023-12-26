@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "planting".
+There are 50 candidate verbs: 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2417. sow. The definition is: place (seeds) in or on the ground for future growth. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1962. graft. The definition is: cause to grow together parts from different plants. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+279. reproduce. The definition is: have offspring or produce more individuals of a given animal or plant. The lexname is: body. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+
+Output Format Example:
+2438. plant.
+2454. plant.
+Strictly follow the output format above. Do not output analysis. 

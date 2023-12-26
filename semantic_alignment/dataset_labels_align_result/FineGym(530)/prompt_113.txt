@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wolf hop or jump with 1 turn landing in front lying support".
+There are 50 candidate verbs: 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+800. flounce. The definition is: walk emphatically. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1761. whine. The definition is: move with a whining sound. The lexname is: motion. 
+973. whine. The definition is: move with a whining sound. The lexname is: motion. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1896. flop. The definition is: fall suddenly and abruptly. The lexname is: motion. 
+
+Output Format Example:
+2163. hop.
+1772. turn.
+Strictly follow the output format above. Do not output analysis. 

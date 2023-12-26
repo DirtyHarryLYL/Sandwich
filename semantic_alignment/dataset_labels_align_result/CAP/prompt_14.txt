@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_braids_hair_of_person,".
+There are 50 candidate verbs: 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+622. freak_out. The definition is: lose one's nerve. The lexname is: emotion. 
+9. chain. The definition is: fasten or secure with chains. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+
+Output Format Example:
+556. weave.
+442. scalp.
+Strictly follow the output format above. Do not output analysis. 

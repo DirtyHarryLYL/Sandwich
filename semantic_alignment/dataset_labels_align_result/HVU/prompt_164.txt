@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cleaning_pool".
+There are 50 candidate verbs: 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+
+Output Format Example:
+2004. pool.
+452. clean.
+Strictly follow the output format above. Do not output analysis. 

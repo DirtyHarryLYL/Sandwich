@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "jumping_into_pool".
+There are 50 candidate verbs: 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+942. plop. The definition is: drop with the sound of something falling into water. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+
+Output Format Example:
+2004. pool.
+2081. jump.
+Strictly follow the output format above. Do not output analysis. 

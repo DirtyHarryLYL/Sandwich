@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "roller derby".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1075. certify. The definition is: declare legally insane. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+
+Output Format Example:
+2224. skate.
+2225. skateboard.
+Strictly follow the output format above. Do not output analysis. 

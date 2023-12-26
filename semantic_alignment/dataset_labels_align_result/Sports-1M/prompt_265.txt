@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "steeplechase".
+There are 50 candidate verbs: 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+298. steady. The definition is: make steady. The lexname is: change. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+1838. charge. The definition is: to make a rush at or sudden attack upon, as in battle. The lexname is: competition. 
+793. charge. The definition is: to make a rush at or sudden attack upon, as in battle. The lexname is: competition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1998. decoct. The definition is: steep in hot water. The lexname is: change. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+751. stagger. The definition is: astound or overwhelm, as with shock. The lexname is: emotion. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+252. level. The definition is: become level or even. The lexname is: change. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+
+Output Format Example:
+299. steepen.
+2189. race.
+Strictly follow the output format above. Do not output analysis. 

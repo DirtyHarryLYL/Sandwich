@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aerobic straight jump".
+There are 50 candidate verbs: 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+603. tremble. The definition is: move or jerk quickly and involuntarily up and down or sideways. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+830. stomp. The definition is: walk heavily. The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+
+Output Format Example:
+2081. jump.
+1839. jump.
+Strictly follow the output format above. Do not output analysis. 

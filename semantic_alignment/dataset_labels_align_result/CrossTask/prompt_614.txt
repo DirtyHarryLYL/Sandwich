@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make an Americano//tamp espresso".
+There are 50 candidate verbs: 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+
+Output Format Example:
+654. amuse.
+305. sweeten.
+Strictly follow the output format above. Do not output analysis. 

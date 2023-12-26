@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shake table".
+There are 50 candidate verbs: 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+597. shake. The definition is: move with or as if with a tremor. The lexname is: body. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+298. steady. The definition is: make steady. The lexname is: change. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+528. congregate. The definition is: come together, usually for a purpose. The lexname is: motion. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+497. take. The definition is: take by force. The lexname is: possession. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1645. board. The definition is: lodge and take meals (at). The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2155. converge. The definition is: be adjacent or come together. The lexname is: stative. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+
+Output Format Example:
+1553. shake.
+2403. shake.
+Strictly follow the output format above. Do not output analysis. 

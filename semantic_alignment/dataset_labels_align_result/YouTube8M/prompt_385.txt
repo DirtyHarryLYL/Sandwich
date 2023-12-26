@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Canning".
+There are 50 candidate verbs: 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2162. teem. The definition is: be teeming, be abuzz. The lexname is: stative. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+
+Output Format Example:
+1335. can.
+2335. make.
+Strictly follow the output format above. Do not output analysis. 

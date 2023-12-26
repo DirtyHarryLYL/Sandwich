@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "press the fuel nozzle".
+There are 50 candidate verbs: 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+227. fill. The definition is: become full. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+
+Output Format Example:
+1242. fuel.
+1246. gas.
+Strictly follow the output format above. Do not output analysis. 

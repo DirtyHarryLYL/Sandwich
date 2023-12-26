@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "slamball".
+There are 50 candidate verbs: 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1450. compel. The definition is: force somebody to do something. The lexname is: social. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1159. bombard. The definition is: throw bombs at or attack with bombs. The lexname is: competition. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+
+Output Format Example:
+2065. slam.
+1880. slam.
+Strictly follow the output format above. Do not output analysis. 

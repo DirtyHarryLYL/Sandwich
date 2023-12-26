@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sawing_wood".
+There are 50 candidate verbs: 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+809. lumber. The definition is: move heavily or clumsily. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2417. sow. The definition is: place (seeds) in or on the ground for future growth. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+2519. saw.
+1508. saw.
+Strictly follow the output format above. Do not output analysis. 

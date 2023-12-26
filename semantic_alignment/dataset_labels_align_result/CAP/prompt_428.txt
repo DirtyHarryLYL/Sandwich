@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_unfolds_blanket,".
+There are 50 candidate verbs: 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1959. bundle. The definition is: make into a bundle. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+558. blanket.
+1218. blanket.
+Strictly follow the output format above. Do not output analysis. 

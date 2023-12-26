@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shake hair".
+There are 50 candidate verbs: 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+597. shake. The definition is: move with or as if with a tremor. The lexname is: body. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+800. flounce. The definition is: walk emphatically. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+298. steady. The definition is: make steady. The lexname is: change. 
+568. head. The definition is: be in the front of or on top of. The lexname is: stative. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+
+Output Format Example:
+1553. shake.
+2403. shake.
+Strictly follow the output format above. Do not output analysis. 

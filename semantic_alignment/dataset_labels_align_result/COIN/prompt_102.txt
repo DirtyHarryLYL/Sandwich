@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "move the toy and paper bed into the hamster cage".
+There are 50 candidate verbs: 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2284. hamper. The definition is: prevent the progress or free movement of. The lexname is: change. 
+1346. kennel. The definition is: put up in a kennel. The lexname is: social. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1334. cage. The definition is: confine in a cage. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1922. quarantine. The definition is: place into enforced isolation, as for medical reasons. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1133. barter. The definition is: exchange goods without involving money. The lexname is: possession. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+1338. crate. The definition is: put into a crate; as for protection. The lexname is: contact. 
+
+Output Format Example:
+1329. bed.
+1343. imprison.
+Strictly follow the output format above. Do not output analysis. 

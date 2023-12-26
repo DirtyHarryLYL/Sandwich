@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Kabobs//skewer ingredients with stick".
+There are 50 candidate verbs: 
+1353. skewer. The definition is: drive a skewer through. The lexname is: contact. 
+40. skewer. The definition is: drive a skewer through. The lexname is: contact. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+1873. cudgel. The definition is: strike with a cudgel. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+
+Output Format Example:
+1353. skewer.
+40. skewer.
+Strictly follow the output format above. Do not output analysis. 

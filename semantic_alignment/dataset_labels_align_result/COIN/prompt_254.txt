@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "use sandpaper/metal to polish rubber near leak".
+There are 50 candidate verbs: 
+376. sandpaper. The definition is: rub with sandpaper. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2263. seep. The definition is: pass gradually or leak through or as if through small openings. The lexname is: motion. 
+
+Output Format Example:
+376. sandpaper.
+1264. oil.
+Strictly follow the output format above. Do not output analysis. 

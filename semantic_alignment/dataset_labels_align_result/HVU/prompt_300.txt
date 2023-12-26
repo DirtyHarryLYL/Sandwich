@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mowing_lawn".
+There are 50 candidate verbs: 
+2511. mow. The definition is: cut with a blade or mower. The lexname is: contact. 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1305. turf. The definition is: cover (the ground) with a surface layer of grass or grass roots. The lexname is: contact. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+71. tool. The definition is: drive. The lexname is: motion. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+
+Output Format Example:
+2511. mow.
+1249. grass.
+Strictly follow the output format above. Do not output analysis. 

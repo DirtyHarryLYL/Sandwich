@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "leatherworking".
+There are 50 candidate verbs: 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1550. purse. The definition is: gather or contract into wrinkles or folds; pucker. The lexname is: contact. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1811. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1036. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+
+Output Format Example:
+1950. sew.
+2414. sew.
+Strictly follow the output format above. Do not output analysis. 

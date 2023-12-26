@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_takes_off_glasses,".
+There are 50 candidate verbs: 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1622. perceive. The definition is: to become aware of through the senses. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+
+Output Format Example:
+2557. see.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

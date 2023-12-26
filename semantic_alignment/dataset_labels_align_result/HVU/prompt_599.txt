@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "capoeira".
+There are 50 candidate verbs: 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+
+Output Format Example:
+2319. choreograph.
+584. dance.
+Strictly follow the output format above. Do not output analysis. 

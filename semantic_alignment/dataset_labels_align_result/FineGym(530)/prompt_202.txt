@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "whip salto backward with 0.5 twist".
+There are 50 candidate verbs: 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+783. twirl. The definition is: turn in a twisting or spinning motion. The lexname is: motion. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+1008. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+2217. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1876. flagellate. The definition is: whip. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+
+Output Format Example:
+1885. whip.
+784. twist.
+Strictly follow the output format above. Do not output analysis. 

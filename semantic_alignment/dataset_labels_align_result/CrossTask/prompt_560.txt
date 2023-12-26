@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Potato Pancakes//add flour to bowl".
+There are 50 candidate verbs: 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+267. polarize. The definition is: become polarized in a conflict or contrasting situation. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+
+Output Format Example:
+150. pan-fry.
+1239. flour.
+Strictly follow the output format above. Do not output analysis. 

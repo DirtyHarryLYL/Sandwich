@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "freestyle swimming".
+There are 50 candidate verbs: 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1100. qualify. The definition is: prove capable or fit; meet requirements. The lexname is: stative. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+
+Output Format Example:
+2169. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

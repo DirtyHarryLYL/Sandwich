@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Edamame Corn Salad//incorporate edamame into skillet".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1230. chrome. The definition is: plate with chromium. The lexname is: contact. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1662. enamel. The definition is: coat, inlay, or surface with enamel. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+180. calcify. The definition is: convert into lime. The lexname is: change. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2382. lease. The definition is: grant use or occupation of under a term of contract. The lexname is: possession. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2259. exude. The definition is: release (a liquid) in drops or small quantities. The lexname is: body. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+2289. command. The definition is: be in command of. The lexname is: communication. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2683. cram. The definition is: prepare (students) hastily for an impending exam. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+
+Output Format Example:
+162. stir-fry.
+152. pickle.
+Strictly follow the output format above. Do not output analysis. 

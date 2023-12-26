@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_lies_down_on_bed,".
+There are 50 candidate verbs: 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+101. admit. The definition is: declare to be true or admit the existence or reality or truth of. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+
+Output Format Example:
+541. lie.
+1329. bed.
+Strictly follow the output format above. Do not output analysis. 

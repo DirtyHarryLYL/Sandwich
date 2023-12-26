@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mushroom_foraging".
+There are 50 candidate verbs: 
+1116. mushroom. The definition is: pick or gather mushrooms. The lexname is: contact. 
+2082. mushroom. The definition is: grow and spread fast. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1119. oyster. The definition is: gather oysters, dig oysters. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1113. fowl. The definition is: hunt fowl in the forest. The lexname is: competition. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+427. bone. The definition is: remove the bones from. The lexname is: change. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+
+Output Format Example:
+1116. mushroom.
+2082. mushroom.
+Strictly follow the output format above. Do not output analysis. 

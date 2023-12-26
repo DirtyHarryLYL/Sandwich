@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Papaya Salad//add salt".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1282. salve. The definition is: apply a salve to, usually for the purpose of healing. The lexname is: body. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+269. propagate. The definition is: multiply sexually or asexually. The lexname is: body. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+640. salivate. The definition is: be envious, desirous, eager for, or extremely happy about something. The lexname is: emotion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1225. calk. The definition is: provide with calks. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+
+Output Format Example:
+162. stir-fry.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

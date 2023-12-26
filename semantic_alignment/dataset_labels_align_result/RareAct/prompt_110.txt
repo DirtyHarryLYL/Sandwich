@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "peel corn".
+There are 50 candidate verbs: 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2129. cozen. The definition is: cheat or trick. The lexname is: possession. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+437. pith. The definition is: remove the pith from (a plant). The lexname is: possession. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+968. trill. The definition is: pronounce with a trill, of the phoneme `r'. The lexname is: communication. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+227. fill. The definition is: become full. The lexname is: change. 
+
+Output Format Example:
+443. seed.
+1297. sugar.
+Strictly follow the output format above. Do not output analysis. 

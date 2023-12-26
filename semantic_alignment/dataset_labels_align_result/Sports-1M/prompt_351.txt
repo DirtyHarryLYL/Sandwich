@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sledge hockey".
+There are 50 candidate verbs: 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2463. lodge. The definition is: provide housing for. The lexname is: stative. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+871. row. The definition is: propel with oars. The lexname is: motion. 
+69. row. The definition is: propel with oars. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+
+Output Format Example:
+866. sledge.
+2227. sled.
+Strictly follow the output format above. Do not output analysis. 

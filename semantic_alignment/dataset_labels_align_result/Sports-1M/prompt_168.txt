@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "decathlon".
+There are 50 candidate verbs: 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1471. detach. The definition is: cause to become detached or separated; take off. The lexname is: contact. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+200. decelerate. The definition is: reduce the speed of. The lexname is: change. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+673. daunt. The definition is: cause to lose courage. The lexname is: emotion. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+2043. dictate. The definition is: say out loud for the purpose of recording. The lexname is: cognition. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2471. meet. The definition is: collect in one place. The lexname is: social. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+
+Output Format Example:
+2554. detect.
+1616. descry.
+Strictly follow the output format above. Do not output analysis. 

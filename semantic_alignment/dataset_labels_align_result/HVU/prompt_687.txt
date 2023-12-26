@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "water_sliding".
+There are 50 candidate verbs: 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+942. plop. The definition is: drop with the sound of something falling into water. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+1165. deluge. The definition is: fill quickly beyond capacity; as with a liquid. The lexname is: contact. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+699. exhilarate. The definition is: fill with sublime emotion. The lexname is: emotion. 
+
+Output Format Example:
+2169. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

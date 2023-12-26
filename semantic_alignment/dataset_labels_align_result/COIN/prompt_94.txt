@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pour salt and rust removal liquid".
+There are 50 candidate verbs: 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1671. varnish. The definition is: cover with varnish. The lexname is: contact. 
+1306. varnish. The definition is: cover with varnish. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+
+Output Format Example:
+1281. salt.
+1666. paint.
+Strictly follow the output format above. Do not output analysis. 

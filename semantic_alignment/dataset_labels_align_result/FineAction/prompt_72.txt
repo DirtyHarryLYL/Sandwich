@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "brush hair".
+There are 50 candidate verbs: 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+
+Output Format Example:
+2407. brush.
+873. brush.
+Strictly follow the output format above. Do not output analysis. 

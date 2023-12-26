@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Eggnog French Toast//whisk ingredients".
+There are 50 candidate verbs: 
+423. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+1886. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+1956. whisk. The definition is: whip with or as if with a wire whisk. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+1269. perfume. The definition is: apply perfume to. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+1232. cork. The definition is: close a bottle with a cork. The lexname is: contact. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+
+Output Format Example:
+423. whisk.
+1886. whisk.
+Strictly follow the output format above. Do not output analysis. 

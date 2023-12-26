@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make French Toast//add vanilla extract".
+There are 50 candidate verbs: 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1795. brand. The definition is: burn with a branding iron to indicate ownership; of animals. The lexname is: social. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+
+Output Format Example:
+2619. toast.
+892. brunch.
+Strictly follow the output format above. Do not output analysis. 

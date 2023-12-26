@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sea kayak".
+There are 50 candidate verbs: 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1129. whale. The definition is: hunt for whales. The lexname is: competition. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+69. row. The definition is: propel with oars. The lexname is: motion. 
+871. row. The definition is: propel with oars. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2184. float. The definition is: be afloat either on or below a liquid surface and not sink to the bottom. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+
+Output Format Example:
+2221. kayak.
+2220. canoe.
+Strictly follow the output format above. Do not output analysis. 

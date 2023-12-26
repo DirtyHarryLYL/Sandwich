@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tighten the outer cover of the switch or socket".
+There are 50 candidate verbs: 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+
+Output Format Example:
+1192. plug.
+2457. set.
+Strictly follow the output format above. Do not output analysis. 

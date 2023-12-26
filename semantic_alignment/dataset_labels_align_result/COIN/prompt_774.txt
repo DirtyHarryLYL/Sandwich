@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "measure the size of the packing paper".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+506. invoice. The definition is: send an bill to. The lexname is: possession. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1944. collect. The definition is: gather or collect. The lexname is: possession. 
+1380. underlay. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+66. import. The definition is: bring in from abroad. The lexname is: possession. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1152. take. The definition is: take into one's possession. The lexname is: possession. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+
+Output Format Example:
+1266. paper.
+2135. measure.
+Strictly follow the output format above. Do not output analysis. 

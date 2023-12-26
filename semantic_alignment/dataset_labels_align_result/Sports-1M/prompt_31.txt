@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "horizontal bar".
+There are 50 candidate verbs: 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2409. hang. The definition is: place in position as by a hinge so as to allow free movement in one direction. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2609. honor. The definition is: bestow honor or rewards upon. The lexname is: social. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+
+Output Format Example:
+76. hoist.
+2280. bar.
+Strictly follow the output format above. Do not output analysis. 

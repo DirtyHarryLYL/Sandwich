@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray book".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2418. spatter. The definition is: spot, splash, or soil. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1804. copy. The definition is: make a replica of. The lexname is: creation. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1779. copy. The definition is: make a replica of. The lexname is: creation. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+2420. spray.
+1266. paper.
+Strictly follow the output format above. Do not output analysis. 

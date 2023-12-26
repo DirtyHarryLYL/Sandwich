@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "(from high bar) salto forward stretched with 0.5 turn".
+There are 50 candidate verbs: 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+
+Output Format Example:
+584. dance.
+1772. turn.
+Strictly follow the output format above. Do not output analysis. 

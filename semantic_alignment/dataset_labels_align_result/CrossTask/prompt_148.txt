@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Black Forest Cake//sprinkle chocolate on cake".
+There are 50 candidate verbs: 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2422. sprinkle. The definition is: scatter with liquid; wet lightly. The lexname is: change. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+983. glitter. The definition is: be shiny, as if wet. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+426. bark. The definition is: remove the bark of a tree. The lexname is: contact. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1809. applique. The definition is: sew on as a decoration. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1811. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1036. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+166. age. The definition is: make older. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+1233. crown. The definition is: put an enamel cover on. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1521. ache. The definition is: be the source of pain. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+
+Output Format Example:
+1109. blackberry.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

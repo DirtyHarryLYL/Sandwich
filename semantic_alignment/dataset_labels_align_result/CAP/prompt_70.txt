@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_covers_friend_with_blanket,".
+There are 50 candidate verbs: 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1959. bundle. The definition is: make into a bundle. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2426. strew. The definition is: cover; be dispersed over. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1550. purse. The definition is: gather or contract into wrinkles or folds; pucker. The lexname is: contact. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+
+Output Format Example:
+558. blanket.
+1218. blanket.
+Strictly follow the output format above. Do not output analysis. 

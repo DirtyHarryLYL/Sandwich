@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_eats_apple,".
+There are 50 candidate verbs: 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+2251. eat.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

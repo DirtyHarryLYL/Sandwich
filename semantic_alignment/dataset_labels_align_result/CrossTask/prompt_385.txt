@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Limeade//juice limes".
+There are 50 candidate verbs: 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+938. lilt. The definition is: articulate in a very careful and rhythmic way. The lexname is: communication. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+180. calcify. The definition is: convert into lime. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+624. fume. The definition is: be mad, angry, or furious. The lexname is: emotion. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+717. intimidate. The definition is: make timid or fearful. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+711. humble. The definition is: cause to be unpretentious. The lexname is: emotion. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+725. miff. The definition is: cause to be annoyed. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+768. smite. The definition is: affect suddenly with deep feeling. The lexname is: emotion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+
+Output Format Example:
+246. hydrate.
+342. alcoholize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut a certain length".
+There are 50 candidate verbs: 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+
+Output Format Example:
+2524. snip.
+251. lengthen.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "endurance racing (motorsport)".
+There are 50 candidate verbs: 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+
+Output Format Example:
+2189. race.
+64. transport.
+Strictly follow the output format above. Do not output analysis. 

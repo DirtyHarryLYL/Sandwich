@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grind the coffee beans".
+There are 50 candidate verbs: 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2618. thank. The definition is: express gratitude or show appreciation to. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+
+Output Format Example:
+2497. grind.
+443. seed.
+Strictly follow the output format above. Do not output analysis. 

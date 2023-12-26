@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "TableTennisShot".
+There are 50 candidate verbs: 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+792. carom. The definition is: make a carom. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+
+Output Format Example:
+2179. bowl.
+2004. pool.
+Strictly follow the output format above. Do not output analysis. 

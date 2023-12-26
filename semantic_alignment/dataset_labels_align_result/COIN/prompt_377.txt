@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stir the mixture".
+There are 50 candidate verbs: 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+227. fill. The definition is: become full. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+1955. stir.
+598. stir.
+Strictly follow the output format above. Do not output analysis. 

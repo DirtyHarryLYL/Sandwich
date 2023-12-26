@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "from rear support, seat/pike circle forward to rear support".
+There are 50 candidate verbs: 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2446. jam. The definition is: crowd or pack to capacity. The lexname is: contact. 
+
+Output Format Example:
+1610. survey.
+542. lounge.
+Strictly follow the output format above. Do not output analysis. 

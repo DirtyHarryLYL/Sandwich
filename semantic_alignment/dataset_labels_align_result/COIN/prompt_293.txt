@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cone the leaves".
+There are 50 candidate verbs: 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1871. conk. The definition is: hit, especially on the head. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2155. converge. The definition is: be adjacent or come together. The lexname is: stative. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+529. convene. The definition is: meet formally. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+192. coarsen. The definition is: make or become coarse or coarser. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+1674. shade. The definition is: protect from light, heat, or view. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+263. open. The definition is: become open. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+174. blunt. The definition is: make less sharp. The lexname is: change. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+
+Output Format Example:
+429. core.
+1349. pot.
+Strictly follow the output format above. Do not output analysis. 

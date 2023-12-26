@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "FistPump".
+There are 50 candidate verbs: 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+624. fume. The definition is: be mad, angry, or furious. The lexname is: emotion. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+695. enthuse. The definition is: cause to feel enthusiasm. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+
+Output Format Example:
+2591. applaud.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

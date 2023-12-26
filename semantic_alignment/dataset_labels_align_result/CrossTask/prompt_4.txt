@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Jello Shots//stir mixture".
+There are 50 candidate verbs: 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1435. jolt. The definition is: move or cause to move with a sudden jerky motion. The lexname is: motion. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+1291. stain. The definition is: color with a liquid dye or tint. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+
+Output Format Example:
+1955. stir.
+598. stir.
+Strictly follow the output format above. Do not output analysis. 

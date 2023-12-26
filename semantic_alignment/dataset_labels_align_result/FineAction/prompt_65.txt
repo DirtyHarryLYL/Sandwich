@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "play tennis".
+There are 50 candidate verbs: 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+
+Output Format Example:
+2062. pass.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

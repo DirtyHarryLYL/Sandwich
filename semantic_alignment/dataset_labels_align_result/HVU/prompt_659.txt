@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "logging".
+There are 50 candidate verbs: 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+460. deforest. The definition is: remove the trees from. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+809. lumber. The definition is: move heavily or clumsily. The lexname is: motion. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1153. overload. The definition is: become overloaded. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+
+Output Format Example:
+1115. log.
+1656. work.
+Strictly follow the output format above. Do not output analysis. 

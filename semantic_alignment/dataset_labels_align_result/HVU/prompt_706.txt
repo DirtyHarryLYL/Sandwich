@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "painting_fence".
+There are 50 candidate verbs: 
+1238. fence. The definition is: enclose with a fence. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1309. wallpaper. The definition is: cover with wallpaper. The lexname is: contact. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1660. distemper. The definition is: paint with distemper. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+25. lock. The definition is: fasten with a lock. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1334. cage. The definition is: confine in a cage. The lexname is: social. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+20. hinge. The definition is: attach with a hinge. The lexname is: contact. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+
+Output Format Example:
+1238. fence.
+2330. paint.
+Strictly follow the output format above. Do not output analysis. 

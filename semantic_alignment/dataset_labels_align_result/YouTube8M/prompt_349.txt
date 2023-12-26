@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "inking".
+There are 50 candidate verbs: 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1819. stipple. The definition is: engrave by means of dots and flicks. The lexname is: creation. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+
+Output Format Example:
+2321. draft.
+2582. sketch.
+Strictly follow the output format above. Do not output analysis. 

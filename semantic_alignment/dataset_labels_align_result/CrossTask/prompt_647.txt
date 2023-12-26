@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Vegan Meringue//preheat oven".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+2685. relearn. The definition is: learn something again, as after having forgotten or neglected it. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1178. impregnate. The definition is: make pregnant. The lexname is: body. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

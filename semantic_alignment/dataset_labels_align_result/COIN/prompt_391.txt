@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mix and pickle".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+405. winkle. The definition is: remove or displace from a position. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+325. widen. The definition is: make wider. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+
+Output Format Example:
+152. pickle.
+1989. admix.
+Strictly follow the output format above. Do not output analysis. 

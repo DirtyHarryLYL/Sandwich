@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_yawns,".
+There are 50 candidate verbs: 
+1579. yawn. The definition is: utter a yawn, as from lack of oxygen or when one is tired. The lexname is: body. 
+950. scream. The definition is: make a loud, piercing sound. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+609. anger. The definition is: become angry. The lexname is: emotion. 
+655. anger. The definition is: become angry. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+704. frighten. The definition is: cause fear in. The lexname is: emotion. 
+1440. frighten. The definition is: cause fear in. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1443. panic. The definition is: cause sudden fear in or fill with sudden panic. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+636. rage. The definition is: feel intense anger. The lexname is: emotion. 
+737. please. The definition is: give pleasure to or be pleasing to. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+683. dismay. The definition is: fill with apprehension or alarm; cause to be unpleasantly surprised. The lexname is: emotion. 
+750. spook. The definition is: frighten or scare, and often provoke into a violent action. The lexname is: emotion. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+
+Output Format Example:
+1579. yawn.
+950. scream.
+Strictly follow the output format above. Do not output analysis. 

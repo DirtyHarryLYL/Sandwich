@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "iaidō".
+There are 50 candidate verbs: 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+1058. transmute. The definition is: alter the nature of (elements). The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+
+Output Format Example:
+349. iodize.
+1664. japan.
+Strictly follow the output format above. Do not output analysis. 

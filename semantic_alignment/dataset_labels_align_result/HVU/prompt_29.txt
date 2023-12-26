@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_ocarina".
+There are 50 candidate verbs: 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2688. memorize. The definition is: commit to memory; learn by heart. The lexname is: cognition. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+2685. relearn. The definition is: learn something again, as after having forgotten or neglected it. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1685. twitch. The definition is: move or pull with a sudden motion. The lexname is: contact. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+
+Output Format Example:
+1588. knife.
+1878. knife.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Install Lowering Springs//remove shock_absorber".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+749. sober. The definition is: cause to become sober. The lexname is: change. 
+292. sober. The definition is: cause to become sober. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+
+Output Format Example:
+312. tire.
+971. vroom.
+Strictly follow the output format above. Do not output analysis. 

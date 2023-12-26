@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throwing_water_balloon".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+856. balloon. The definition is: ride in a hot-air balloon. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2254. bubble. The definition is: form, produce, or emit bubbles. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+424. winnow. The definition is: blow away or off with a current of air. The lexname is: change. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+
+Output Format Example:
+2072. throw.
+856. balloon.
+Strictly follow the output format above. Do not output analysis. 

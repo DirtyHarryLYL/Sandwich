@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Archery".
+There are 50 candidate verbs: 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+1690. hunt. The definition is: search (an area) for prey. The lexname is: competition. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1. anchor. The definition is: fix firmly and stably. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+
+Output Format Example:
+1710. rifle.
+2064. shoot.
+Strictly follow the output format above. Do not output analysis. 

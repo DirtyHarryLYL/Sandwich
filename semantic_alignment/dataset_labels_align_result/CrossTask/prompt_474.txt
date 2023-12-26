@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Remove Lug Nuts and Tires//place jack beneath jack_point".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1920. impound. The definition is: place or shut up in a pound. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+
+Output Format Example:
+312. tire.
+393. kill.
+Strictly follow the output format above. Do not output analysis. 

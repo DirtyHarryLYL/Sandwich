@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dig a pit with proper size".
+There are 50 candidate verbs: 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+436. pit. The definition is: remove the pits from. The lexname is: change. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+470. rid. The definition is: relieve from. The lexname is: possession. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1707. probe. The definition is: examine physically with or as if with a probe. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1691. mine. The definition is: get from the earth by excavation. The lexname is: consumption. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2290. direct. The definition is: command with authority. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+
+Output Format Example:
+2328. dig.
+1687. dig.
+Strictly follow the output format above. Do not output analysis. 

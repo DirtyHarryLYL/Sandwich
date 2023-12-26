@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Washing some clothes".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2245. undress. The definition is: get undressed. The lexname is: body. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+
+Output Format Example:
+2318. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

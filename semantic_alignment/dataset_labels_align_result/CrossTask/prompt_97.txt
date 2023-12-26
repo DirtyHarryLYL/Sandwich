@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Add Oil to Your Car//pull out dipstick".
+There are 50 candidate verbs: 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1147. pluck. The definition is: pull or pull out sharply. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+483. cull. The definition is: remove something that has been rejected. The lexname is: possession. 
+381. cull. The definition is: remove something that has been rejected. The lexname is: possession. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+380. abolish. The definition is: do away with. The lexname is: social. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+216. dull. The definition is: make dull or blunt. The lexname is: contact. 
+
+Output Format Example:
+1264. oil.
+1242. fuel.
+Strictly follow the output format above. Do not output analysis. 

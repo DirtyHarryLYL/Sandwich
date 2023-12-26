@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_stretches_back,".
+There are 50 candidate verbs: 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1324. back. The definition is: cause to travel backward. The lexname is: motion. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+597. shake. The definition is: move with or as if with a tremor. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+
+Output Format Example:
+1557. stretch.
+555. stretch.
+Strictly follow the output format above. Do not output analysis. 

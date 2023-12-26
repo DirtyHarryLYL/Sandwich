@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_drums_on_chest,".
+There are 50 candidate verbs: 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1533. beat. The definition is: strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+
+Output Format Example:
+2669. drum.
+1774. sound.
+Strictly follow the output format above. Do not output analysis. 

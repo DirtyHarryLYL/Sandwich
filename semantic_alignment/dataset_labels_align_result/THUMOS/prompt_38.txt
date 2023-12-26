@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "HeadMassage".
+There are 50 candidate verbs: 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+568. head. The definition is: be in the front of or on top of. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1425. embrace. The definition is: squeeze (someone) tightly in your arms, usually with fondness. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+569. hug. The definition is: fit closely or tightly. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1422. cuddle. The definition is: hold (a person or thing) close, as for affection, comfort, or warmth. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1744. peep. The definition is: make high-pitched sounds. The lexname is: communication. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2650. tickle. The definition is: touch or stroke lightly. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1428. nuzzle. The definition is: rub noses. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+
+Output Format Example:
+2643. massage.
+431. head.
+Strictly follow the output format above. Do not output analysis. 

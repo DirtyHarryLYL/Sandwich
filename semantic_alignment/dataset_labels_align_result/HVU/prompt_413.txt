@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "watering_plants".
+There are 50 candidate verbs: 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1962. graft. The definition is: cause to grow together parts from different plants. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+2438. plant.
+2454. plant.
+Strictly follow the output format above. Do not output analysis. 

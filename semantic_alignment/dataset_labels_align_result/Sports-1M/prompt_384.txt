@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wiffle ball".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2254. bubble. The definition is: form, produce, or emit bubbles. The lexname is: change. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1463. wheedle. The definition is: influence or urge by gentle urging, caressing, or flattering. The lexname is: communication. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+752. startle. The definition is: to stimulate to action. The lexname is: emotion. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1450. compel. The definition is: force somebody to do something. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+564. encircle. The definition is: form a circle around. The lexname is: contact. 
+1170. encircle. The definition is: form a circle around. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+
+Output Format Example:
+999. ball.
+2057. hurl.
+Strictly follow the output format above. Do not output analysis. 

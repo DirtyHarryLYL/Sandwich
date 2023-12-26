@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Edamame Corn Salad//take skillet off heat".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1230. chrome. The definition is: plate with chromium. The lexname is: contact. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2289. command. The definition is: be in command of. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+180. calcify. The definition is: convert into lime. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+
+Output Format Example:
+162. stir-fry.
+152. pickle.
+Strictly follow the output format above. Do not output analysis. 

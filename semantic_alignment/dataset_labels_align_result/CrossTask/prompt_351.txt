@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Sourdough Pancakes//crack egg".
+There are 50 candidate verbs: 
+330. crack. The definition is: cause to become cracked. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+922. crack. The definition is: make a very sharp explosive sound. The lexname is: perception. 
+2656. crack. The definition is: hit forcefully; deal a hard blow, making a cracking noise. The lexname is: contact. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+622. freak_out. The definition is: lose one's nerve. The lexname is: emotion. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+334. fissure. The definition is: break into fissures or fine cracks. The lexname is: change. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2487. crumb. The definition is: break into crumbs. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+1052. hatch. The definition is: emerge from the eggs. The lexname is: body. 
+1104. make. The definition is: engage in. The lexname is: social. 
+
+Output Format Example:
+330. crack.
+892. brunch.
+Strictly follow the output format above. Do not output analysis. 

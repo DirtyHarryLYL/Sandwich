@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "directing_traffic".
+There are 50 candidate verbs: 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2290. direct. The definition is: command with authority. The lexname is: communication. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+2482. stop. The definition is: come to a halt, stop moving. The lexname is: motion. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1651. stop. The definition is: interrupt a trip. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2232. navigate. The definition is: direct carefully and safely. The lexname is: motion. 
+
+Output Format Example:
+2554. detect.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

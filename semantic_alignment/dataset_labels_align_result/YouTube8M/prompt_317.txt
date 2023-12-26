@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Engraving".
+There are 50 candidate verbs: 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1819. stipple. The definition is: engrave by means of dots and flicks. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1812. engrave. The definition is: carve or cut into a block used for printing or print from such a block. The lexname is: creation. 
+1200. stipple. The definition is: produce a mottled effect. The lexname is: contact. 
+1603. proofread. The definition is: read for errors. The lexname is: cognition. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+
+Output Format Example:
+2582. sketch.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

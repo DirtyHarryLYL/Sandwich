@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "handspring forward on, stretched salto forward off".
+There are 50 candidate verbs: 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+
+Output Format Example:
+584. dance.
+2055. flip.
+Strictly follow the output format above. Do not output analysis. 

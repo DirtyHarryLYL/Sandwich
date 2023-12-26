@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take shower".
+There are 50 candidate verbs: 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+497. take. The definition is: take by force. The lexname is: possession. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+
+Output Format Example:
+2243. shower.
+2415. shower.
+Strictly follow the output format above. Do not output analysis. 

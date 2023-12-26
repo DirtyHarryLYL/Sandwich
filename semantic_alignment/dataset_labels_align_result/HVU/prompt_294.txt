@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "massaging_person_s_head".
+There are 50 candidate verbs: 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+568. head. The definition is: be in the front of or on top of. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+
+Output Format Example:
+431. head.
+2643. massage.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dig some holes on the soil".
+There are 50 candidate verbs: 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+646. wallow. The definition is: delight greatly in. The lexname is: consumption. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+
+Output Format Example:
+2328. dig.
+1687. dig.
+Strictly follow the output format above. Do not output analysis. 

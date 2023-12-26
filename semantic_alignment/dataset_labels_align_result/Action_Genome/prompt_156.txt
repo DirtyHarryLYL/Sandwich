@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Someone is eating something".
+There are 50 candidate verbs: 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+
+Output Format Example:
+891. breakfast.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

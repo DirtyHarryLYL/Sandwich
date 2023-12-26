@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_polishes_car_with_rag,".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+993. hail. The definition is: call for. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+
+Output Format Example:
+2318. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

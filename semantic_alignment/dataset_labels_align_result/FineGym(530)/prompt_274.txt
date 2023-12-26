@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "1.5 turn on one leg, thigh of free leg at horizontal, backward upward throughout turn".
+There are 50 candidate verbs: 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2701. thrust. The definition is: press or force. The lexname is: motion. 
+2033. thrust. The definition is: press or force. The lexname is: motion. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+603. tremble. The definition is: move or jerk quickly and involuntarily up and down or sideways. The lexname is: motion. 
+
+Output Format Example:
+1895. crouch.
+1557. stretch.
+Strictly follow the output format above. Do not output analysis. 

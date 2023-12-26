@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throwing_snowballs".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+993. hail. The definition is: call for. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1685. twitch. The definition is: move or pull with a sudden motion. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1159. bombard. The definition is: throw bombs at or attack with bombs. The lexname is: competition. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+380. abolish. The definition is: do away with. The lexname is: social. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+2072. throw.
+999. ball.
+Strictly follow the output format above. Do not output analysis. 

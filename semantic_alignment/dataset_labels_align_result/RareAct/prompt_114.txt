@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "blend corn".
+There are 50 candidate verbs: 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1997. compound. The definition is: combine so as to form a whole; mix. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+
+Output Format Example:
+1996. blend.
+2298. blend.
+Strictly follow the output format above. Do not output analysis. 

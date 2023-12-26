@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_congas".
+There are 50 candidate verbs: 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+528. congregate. The definition is: come together, usually for a purpose. The lexname is: motion. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1533. beat. The definition is: strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+
+Output Format Example:
+2669. drum.
+1252. groove.
+Strictly follow the output format above. Do not output analysis. 

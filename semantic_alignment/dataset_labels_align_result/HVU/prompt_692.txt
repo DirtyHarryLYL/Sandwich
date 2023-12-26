@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rollerblading".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2201. promenade. The definition is: take a leisurely walk. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+836. toddle. The definition is: walk unsteadily. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+
+Output Format Example:
+2224. skate.
+2225. skateboard.
+Strictly follow the output format above. Do not output analysis. 

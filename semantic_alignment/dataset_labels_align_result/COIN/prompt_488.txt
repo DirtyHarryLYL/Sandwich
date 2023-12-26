@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tie the bag tightly".
+There are 50 candidate verbs: 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+1102. carry_through. The definition is: put in effect. The lexname is: creation. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1550. purse. The definition is: gather or contract into wrinkles or folds; pucker. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1803. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+1299. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2066. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+1212. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+497. take. The definition is: take by force. The lexname is: possession. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+
+Output Format Example:
+1326. bag.
+43. strap.
+Strictly follow the output format above. Do not output analysis. 

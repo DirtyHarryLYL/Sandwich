@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_puts_down_person,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+
+Output Format Example:
+670. confuse.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

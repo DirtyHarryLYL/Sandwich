@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the new bolt".
+There are 50 candidate verbs: 
+1479. unbolt. The definition is: undo the bolt of. The lexname is: contact. 
+4. bolt. The definition is: secure or lock with a bolt. The lexname is: contact. 
+2247. bolt. The definition is: swallow hastily. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1149. pull. The definition is: take away. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+248. intensify. The definition is: become more intense. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+581. bob. The definition is: move up and down repeatedly. The lexname is: motion. 
+263. open. The definition is: become open. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+
+Output Format Example:
+1479. unbolt.
+4. bolt.
+Strictly follow the output format above. Do not output analysis. 

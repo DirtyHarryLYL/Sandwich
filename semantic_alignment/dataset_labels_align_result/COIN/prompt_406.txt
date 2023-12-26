@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unroll the dough".
+There are 50 candidate verbs: 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1043. roll. The definition is: shape by rolling. The lexname is: change. 
+2303. roll. The definition is: shape by rolling. The lexname is: change. 
+1949. roll. The definition is: shape by rolling. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+579. underlie. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+
+Output Format Example:
+947. roll.
+1239. flour.
+Strictly follow the output format above. Do not output analysis. 

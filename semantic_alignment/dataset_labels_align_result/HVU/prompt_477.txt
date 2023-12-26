@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "using_puppets".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+
+Output Format Example:
+2615. satirize.
+1654. exploit.
+Strictly follow the output format above. Do not output analysis. 

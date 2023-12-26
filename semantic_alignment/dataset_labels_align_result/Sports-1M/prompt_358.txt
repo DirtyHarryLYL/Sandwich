@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "paintball".
+There are 50 candidate verbs: 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1692. poach. The definition is: hunt illegally. The lexname is: competition. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1416. skirmish. The definition is: engage in a skirmish. The lexname is: competition. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+1690. hunt. The definition is: search (an area) for prey. The lexname is: competition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+485. extort. The definition is: obtain by coercion or intimidation. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+1705. patrol. The definition is: maintain the security of by carrying out a patrol. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1159. bombard. The definition is: throw bombs at or attack with bombs. The lexname is: competition. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+
+Output Format Example:
+805. hike.
+1666. paint.
+Strictly follow the output format above. Do not output analysis. 

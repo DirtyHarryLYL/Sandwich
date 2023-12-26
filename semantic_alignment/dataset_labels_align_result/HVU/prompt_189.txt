@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dyeing_eyebrows".
+There are 50 candidate verbs: 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+1661. dye.
+1618. eye.
+Strictly follow the output format above. Do not output analysis. 

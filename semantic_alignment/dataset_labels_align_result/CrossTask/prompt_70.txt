@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make French Toast//dip bread in mixture".
+There are 50 candidate verbs: 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+
+Output Format Example:
+2619. toast.
+1221. bread.
+Strictly follow the output format above. Do not output analysis. 

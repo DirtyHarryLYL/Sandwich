@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Garlic Dill Pickles//screw lid".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1282. salve. The definition is: apply a salve to, usually for the purpose of healing. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1524. prickle. The definition is: cause a prickling sensation. The lexname is: perception. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+708. grieve. The definition is: cause to feel sorrow. The lexname is: emotion. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+1247. gild. The definition is: decorate with, or as if with, gold leaf or liquid gold. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2238. dress. The definition is: dress in a certain manner. The lexname is: body. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+
+Output Format Example:
+152. pickle.
+1344. jar.
+Strictly follow the output format above. Do not output analysis. 

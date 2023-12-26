@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_drums".
+There are 50 candidate verbs: 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1533. beat. The definition is: strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+
+Output Format Example:
+2669. drum.
+1252. groove.
+Strictly follow the output format above. Do not output analysis. 

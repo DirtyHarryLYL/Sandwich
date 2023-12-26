@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "falling_off_bike".
+There are 50 candidate verbs: 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+622. freak_out. The definition is: lose one's nerve. The lexname is: emotion. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+1443. panic. The definition is: cause sudden fear in or fill with sudden panic. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2655. collide. The definition is: crash together with violent impact. The lexname is: contact. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+
+Output Format Example:
+2219. bicycle.
+2222. motorbike.
+Strictly follow the output format above. Do not output analysis. 

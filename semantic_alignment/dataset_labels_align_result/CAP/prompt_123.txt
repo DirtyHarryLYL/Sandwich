@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_gestures_be_quiet,".
+There are 50 candidate verbs: 
+274. quieten. The definition is: become quiet or quieter. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+430. gut. The definition is: remove the guts of. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+
+Output Format Example:
+274. quieten.
+1434. continue.
+Strictly follow the output format above. Do not output analysis. 

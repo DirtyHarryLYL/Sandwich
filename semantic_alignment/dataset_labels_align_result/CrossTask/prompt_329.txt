@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change Wheel Bearings//disassemble hub_assembly".
+There are 50 candidate verbs: 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1026. assemble. The definition is: create by putting components or members together. The lexname is: creation. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1061. gear. The definition is: set the level or character of. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2593. bless. The definition is: confer prosperity or happiness on. The lexname is: possession. 
+
+Output Format Example:
+1472. disassemble.
+1042. reassemble.
+Strictly follow the output format above. Do not output analysis. 

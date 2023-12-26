@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fit on the fuse".
+There are 50 candidate verbs: 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+2211. flee. The definition is: run away quickly. The lexname is: motion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+1062. fit.
+2456. put.
+Strictly follow the output format above. Do not output analysis. 

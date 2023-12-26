@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_folds_towel,".
+There are 50 candidate verbs: 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1550. purse. The definition is: gather or contract into wrinkles or folds; pucker. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1613. try_on. The definition is: put on a garment in order to see whether it fits and looks nice. The lexname is: body. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+
+Output Format Example:
+379. towel.
+1266. paper.
+Strictly follow the output format above. Do not output analysis. 

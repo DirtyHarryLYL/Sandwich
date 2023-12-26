@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "prepare flower".
+There are 50 candidate verbs: 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+
+Output Format Example:
+1828. produce.
+1656. work.
+Strictly follow the output format above. Do not output analysis. 

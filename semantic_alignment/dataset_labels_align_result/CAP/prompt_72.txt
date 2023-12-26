@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_covers_with_blanket,".
+There are 50 candidate verbs: 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2426. strew. The definition is: cover; be dispersed over. The lexname is: contact. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+1959. bundle. The definition is: make into a bundle. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+263. open. The definition is: become open. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+
+Output Format Example:
+558. blanket.
+1218. blanket.
+Strictly follow the output format above. Do not output analysis. 

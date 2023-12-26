@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make an Americano//measure espresso powder".
+There are 50 candidate verbs: 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+151. percolate. The definition is: prepare in a percolator. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1214. superimpose. The definition is: place on top of. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+1786. photograph. The definition is: record on photographic film. The lexname is: communication. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1974. match. The definition is: bring two objects, ideas, or people together. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1183. intersperse. The definition is: introduce one's writing or speech with certain expressions. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+2299. brew.
+2135. measure.
+Strictly follow the output format above. Do not output analysis. 

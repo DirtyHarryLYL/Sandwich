@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "kyūdō".
+There are 50 candidate verbs: 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2259. exude. The definition is: release (a liquid) in drops or small quantities. The lexname is: body. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+2617. stigmatize. The definition is: to accuse or condemn or openly or formally or brand as disgraceful. The lexname is: social. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+1664. japan.
+392. extrude.
+Strictly follow the output format above. Do not output analysis. 

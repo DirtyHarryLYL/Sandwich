@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Lavender Lemonade//cut lavender flowers".
+There are 50 candidate verbs: 
+271. purple. The definition is: color purple. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1175. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+1245. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+872. groom. The definition is: care for one's external appearance. The lexname is: body. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+725. miff. The definition is: cause to be annoyed. The lexname is: emotion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2351. mother. The definition is: care for like a mother. The lexname is: social. 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+
+Output Format Example:
+271. purple.
+1771. befriend.
+Strictly follow the output format above. Do not output analysis. 

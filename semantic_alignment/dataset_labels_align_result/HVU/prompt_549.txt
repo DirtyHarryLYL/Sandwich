@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tagging_graffiti".
+There are 50 candidate verbs: 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+1803. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+1299. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2572. chalk. The definition is: write, draw, or trace with chalk. The lexname is: creation. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+
+Output Format Example:
+2583. stencil.
+1803. tag.
+Strictly follow the output format above. Do not output analysis. 

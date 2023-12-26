@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_rubs_eyes,".
+There are 50 candidate verbs: 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2114. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2412. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+
+Output Format Example:
+1618. eye.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

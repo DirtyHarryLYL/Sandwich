@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clean_and_jerk".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2342. clerk. The definition is: work as a clerk, as in the legal business. The lexname is: social. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2300. clear. The definition is: make a way or path by removing objects. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1694. seek. The definition is: inquire for. The lexname is: communication. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2263. seep. The definition is: pass gradually or leak through or as if through small openings. The lexname is: motion. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+
+Output Format Example:
+452. clean.
+187. clean.
+Strictly follow the output format above. Do not output analysis. 

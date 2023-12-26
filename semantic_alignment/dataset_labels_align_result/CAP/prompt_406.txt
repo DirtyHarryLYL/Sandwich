@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_touches_back_of_person,".
+There are 50 candidate verbs: 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+497. take. The definition is: take by force. The lexname is: possession. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2650. tickle. The definition is: touch or stroke lightly. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+61. return. The definition is: make a return. The lexname is: contact. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+
+Output Format Example:
+2651. touch.
+763. touch.
+Strictly follow the output format above. Do not output analysis. 

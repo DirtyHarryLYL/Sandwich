@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Sourdough Pancakes//add sugar".
+There are 50 candidate verbs: 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+992. encourage. The definition is: inspire with confidence; give hope or courage to. The lexname is: emotion. 
+691. encourage. The definition is: inspire with confidence; give hope or courage to. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+
+Output Format Example:
+1027. bake.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

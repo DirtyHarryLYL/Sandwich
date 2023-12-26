@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "flic-flac from side position with 0.5 twist to side handstand lower to optional end position".
+There are 50 candidate verbs: 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1419. tilt. The definition is: charge with a tilt. The lexname is: competition. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+362. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+1003. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+1542. flex. The definition is: contract. The lexname is: motion. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+587. flap. The definition is: move noisily. The lexname is: motion. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+772. float. The definition is: move lightly, as if suspended. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+
+Output Format Example:
+2055. flip.
+1557. stretch.
+Strictly follow the output format above. Do not output analysis. 

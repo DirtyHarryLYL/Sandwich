@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "swim".
+There are 50 candidate verbs: 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+665. calm. The definition is: make calm or still. The lexname is: emotion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+
+Output Format Example:
+2161. swim.
+2169. swim.
+Strictly follow the output format above. Do not output analysis. 

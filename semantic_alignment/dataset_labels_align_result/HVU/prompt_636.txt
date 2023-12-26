@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bodysurfing".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2259. exude. The definition is: release (a liquid) in drops or small quantities. The lexname is: body. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+
+Output Format Example:
+2076. dive.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

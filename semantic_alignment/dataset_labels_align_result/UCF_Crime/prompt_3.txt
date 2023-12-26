@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Assault".
+There are 50 candidate verbs: 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1413. quarrel. The definition is: have a disagreement over something. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2561. abet. The definition is: assist or encourage, usually in some wrongdoing. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2132. absolve. The definition is: let off the hook. The lexname is: communication. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1064. assimilate. The definition is: become similar to one's environment. The lexname is: change. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+
+Output Format Example:
+1837. assail.
+1415. scuffle.
+Strictly follow the output format above. Do not output analysis. 

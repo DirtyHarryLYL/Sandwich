@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cutting_wood".
+There are 50 candidate verbs: 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+809. lumber. The definition is: move heavily or clumsily. The lexname is: motion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1308. veneer. The definition is: cover with veneer. The lexname is: contact. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+
+Output Format Example:
+1115. log.
+2508. carve.
+Strictly follow the output format above. Do not output analysis. 

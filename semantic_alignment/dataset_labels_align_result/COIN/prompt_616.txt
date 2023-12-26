@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "remove the light socket and disconnect the wire".
+There are 50 candidate verbs: 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2323. invent. The definition is: come up with (an idea, plan, explanation, theory, or principle) after a mental effort. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+
+Output Format Example:
+1978. interconnect.
+2001. connect.
+Strictly follow the output format above. Do not output analysis. 

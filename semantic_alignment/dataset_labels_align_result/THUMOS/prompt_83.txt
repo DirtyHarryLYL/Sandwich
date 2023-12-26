@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "SoccerJuggling".
+There are 50 candidate verbs: 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+57. dispatch. The definition is: send away towards a designated goal. The lexname is: motion. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+2561. abet. The definition is: assist or encourage, usually in some wrongdoing. The lexname is: social. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+
+Output Format Example:
+2062. pass.
+999. ball.
+Strictly follow the output format above. Do not output analysis. 

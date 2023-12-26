@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "inline hockey".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1424. divorce. The definition is: get a divorce; formally terminate a marriage. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1075. certify. The definition is: declare legally insane. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+1421. court. The definition is: engage in social activities leading to marriage. The lexname is: social. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+
+Output Format Example:
+2224. skate.
+2226. ski.
+Strictly follow the output format above. Do not output analysis. 

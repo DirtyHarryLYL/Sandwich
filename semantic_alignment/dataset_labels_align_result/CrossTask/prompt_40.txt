@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Meringue//spread mixture".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+524. aggregate. The definition is: gather in a mass, sum, or whole. The lexname is: contact. 
+1004. knead. The definition is: make uniform. The lexname is: contact. 
+572. precede. The definition is: move ahead (of others) in time or space. The lexname is: motion. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2422. sprinkle. The definition is: scatter with liquid; wet lightly. The lexname is: change. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+
+Output Format Example:
+1993. cream.
+1297. sugar.
+Strictly follow the output format above. Do not output analysis. 

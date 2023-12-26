@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Mad Eye Martini Jello Shots//mix ingredients".
+There are 50 candidate verbs: 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+1744. peep. The definition is: make high-pitched sounds. The lexname is: communication. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1269. perfume. The definition is: apply perfume to. The lexname is: body. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2097. magnetize. The definition is: make magnetic. The lexname is: change. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+
+Output Format Example:
+724. madden.
+1618. eye.
+Strictly follow the output format above. Do not output analysis. 

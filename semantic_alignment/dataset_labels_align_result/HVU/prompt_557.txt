@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bungee_jumping".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1364. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2141. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2409. hang. The definition is: place in position as by a hinge so as to allow free movement in one direction. The lexname is: contact. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+
+Output Format Example:
+2076. dive.
+2081. jump.
+Strictly follow the output format above. Do not output analysis. 

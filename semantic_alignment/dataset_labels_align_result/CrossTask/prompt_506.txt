@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Battenburg Cake//brush cake with jam".
+There are 50 candidate verbs: 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1128. sponge. The definition is: gather sponges, in the ocean. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2543. bruise. The definition is: injure the underlying soft tissue or bone of. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+
+Output Format Example:
+1027. bake.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "slacklining".
+There are 50 candidate verbs: 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+570. line. The definition is: be in line with; form a line along. The lexname is: stative. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2201. promenade. The definition is: take a leisurely walk. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+
+Output Format Example:
+172. balance.
+2139. balance.
+Strictly follow the output format above. Do not output analysis. 

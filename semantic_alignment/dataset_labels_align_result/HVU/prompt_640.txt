@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wading_through_water".
+There are 50 candidate verbs: 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+1165. deluge. The definition is: fill quickly beyond capacity; as with a liquid. The lexname is: contact. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+
+Output Format Example:
+2169. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

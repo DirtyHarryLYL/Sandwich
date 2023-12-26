@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "blowing_glass".
+There are 50 candidate verbs: 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+2254. bubble. The definition is: form, produce, or emit bubbles. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+1721. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+909. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+
+Output Format Example:
+1248. glass.
+1029. blow.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Garlic Dill Pickles//pour vinegar".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+1282. salve. The definition is: apply a salve to, usually for the purpose of healing. The lexname is: body. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+1247. gild. The definition is: decorate with, or as if with, gold leaf or liquid gold. The lexname is: creation. 
+708. grieve. The definition is: cause to feel sorrow. The lexname is: emotion. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+270. purify. The definition is: remove impurities from, increase the concentration of, and separate through the process of distillation. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1524. prickle. The definition is: cause a prickling sensation. The lexname is: perception. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+
+Output Format Example:
+152. pickle.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the screws and sheetmetals and baffles onto the hard disk tray".
+There are 50 candidate verbs: 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2496. grate. The definition is: reduce to small shreds or pulverize by rubbing against a rough or sharp perforated surface. The lexname is: contact. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+1191. plate. The definition is: coat with a layer of metal. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1230. chrome. The definition is: plate with chromium. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+41. solder. The definition is: join or fuse with solder. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1286. silver. The definition is: coat with a layer of silver or a silver amalgam. The lexname is: contact. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+
+Output Format Example:
+2457. set.
+2455. reinstall.
+Strictly follow the output format above. Do not output analysis. 

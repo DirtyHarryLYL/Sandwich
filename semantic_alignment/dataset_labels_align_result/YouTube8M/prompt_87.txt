@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Mixing".
+There are 50 candidate verbs: 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+
+Output Format Example:
+1999. mix.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

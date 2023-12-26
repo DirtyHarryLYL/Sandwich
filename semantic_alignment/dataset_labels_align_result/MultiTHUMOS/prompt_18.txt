@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ThrowDiscus".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+2033. thrust. The definition is: press or force. The lexname is: motion. 
+2701. thrust. The definition is: press or force. The lexname is: motion. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+
+Output Format Example:
+2072. throw.
+128. drive.
+Strictly follow the output format above. Do not output analysis. 

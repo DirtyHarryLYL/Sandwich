@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Steak Teppanyaki//add oil to skillet".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2271. steam. The definition is: emit steam. The lexname is: weather. 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+162. stir-fry.
+953. sizzle.
+Strictly follow the output format above. Do not output analysis. 

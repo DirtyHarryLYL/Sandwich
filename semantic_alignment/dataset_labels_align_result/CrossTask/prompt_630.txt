@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Rainbow Jello//place pan in refrigerator".
+There are 50 candidate verbs: 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1291. stain. The definition is: color with a liquid dye or tint. The lexname is: change. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1230. chrome. The definition is: plate with chromium. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1668. stain. The definition is: color for microscopic study. The lexname is: change. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+
+Output Format Example:
+1659. color.
+237. gelatinize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "remove old rubber and glue".
+There are 50 candidate verbs: 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+166. age. The definition is: make older. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2434. daub. The definition is: cover (a surface) by smearing (a substance) over it. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+
+Output Format Example:
+17. glue.
+14. epoxy.
+Strictly follow the output format above. Do not output analysis. 

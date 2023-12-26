@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_closes_clothes_washer,".
+There are 50 candidate verbs: 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+
+Output Format Example:
+326. worsen.
+1868. clobber.
+Strictly follow the output format above. Do not output analysis. 

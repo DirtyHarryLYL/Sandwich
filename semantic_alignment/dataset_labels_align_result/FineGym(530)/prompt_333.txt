@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "flic-flac with 0.5 twist after hand support".
+There are 50 candidate verbs: 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1877. flog. The definition is: beat severely with a whip or rod. The lexname is: contact. 
+1542. flex. The definition is: contract. The lexname is: motion. 
+362. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+1003. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+1147. pluck. The definition is: pull or pull out sharply. The lexname is: contact. 
+1874. cuff. The definition is: hit with the hand. The lexname is: contact. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2217. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+1008. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1419. tilt. The definition is: charge with a tilt. The lexname is: competition. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+82. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+2694. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+2112. pluck. The definition is: strip of feathers. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+1513. tug. The definition is: move by pulling hard. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+
+Output Format Example:
+12. clip.
+1483. unclip.
+Strictly follow the output format above. Do not output analysis. 

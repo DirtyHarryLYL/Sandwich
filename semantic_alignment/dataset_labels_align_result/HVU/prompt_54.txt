@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "contact_juggling".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1908. give. The definition is: perform for an audience. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+
+Output Format Example:
+999. ball.
+2664. strike.
+Strictly follow the output format above. Do not output analysis. 

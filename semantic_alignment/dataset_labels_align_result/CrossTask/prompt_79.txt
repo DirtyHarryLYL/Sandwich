@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Jack Up a Car//lower jack".
+There are 50 candidate verbs: 
+481. carjack. The definition is: take someone's car from him by force, usually with the intention of stealing it. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+1983. contrast. The definition is: to show differences when compared; be different. The lexname is: stative. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+166. age. The definition is: make older. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+2610. mock. The definition is: treat with contempt. The lexname is: communication. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+481. carjack.
+1322. lower.
+Strictly follow the output format above. Do not output analysis. 

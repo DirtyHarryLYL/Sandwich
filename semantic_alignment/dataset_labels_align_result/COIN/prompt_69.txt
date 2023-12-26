@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "carve along the outline".
+There are 50 candidate verbs: 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+
+Output Format Example:
+2571. carve.
+1470. carve.
+Strictly follow the output format above. Do not output analysis. 

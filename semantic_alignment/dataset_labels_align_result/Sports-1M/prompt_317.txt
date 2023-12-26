@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "f1 powerboat racing".
+There are 50 candidate verbs: 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+871. row. The definition is: propel with oars. The lexname is: motion. 
+69. row. The definition is: propel with oars. The lexname is: motion. 
+2026. ferry. The definition is: transport by ferry. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+1129. whale. The definition is: hunt for whales. The lexname is: competition. 
+862. ferry. The definition is: travel by ferry. The lexname is: motion. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+181. capsize. The definition is: overturn accidentally. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+
+Output Format Example:
+857. boat.
+2344. cox.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mountaineering".
+There are 50 candidate verbs: 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+1210. mount. The definition is: fix onto a backing, setting, or support. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+
+Output Format Example:
+2074. climb.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

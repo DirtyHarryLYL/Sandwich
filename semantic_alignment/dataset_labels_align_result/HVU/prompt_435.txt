@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tasting_food".
+There are 50 candidate verbs: 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+900. chomp. The definition is: chew noisily. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+
+Output Format Example:
+1775. taste.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Tidying up with a broom".
+There are 50 candidate verbs: 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1163. clutter. The definition is: fill a space in a disorderly way. The lexname is: change. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+
+Output Format Example:
+2404. sweep.
+2122. sweep.
+Strictly follow the output format above. Do not output analysis. 

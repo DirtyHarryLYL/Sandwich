@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "flic-flac with 0.25 twist to side handstand, keep 2 seconds, lower to optional end position".
+There are 50 candidate verbs: 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+1003. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+362. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1877. flog. The definition is: beat severely with a whip or rod. The lexname is: contact. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1419. tilt. The definition is: charge with a tilt. The lexname is: competition. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+1542. flex. The definition is: contract. The lexname is: motion. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+
+Output Format Example:
+2055. flip.
+1557. stretch.
+Strictly follow the output format above. Do not output analysis. 

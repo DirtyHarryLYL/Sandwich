@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Prawn Curry//add turmeric".
+There are 50 candidate verbs: 
+1121. prawn. The definition is: fish for prawns. The lexname is: contact. 
+1125. shrimp. The definition is: fish for shrimp. The lexname is: competition. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+465. devein. The definition is: remove the dark dorsal vein of (a shrimp). The lexname is: possession. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+1121. prawn.
+1125. shrimp.
+Strictly follow the output format above. Do not output analysis. 

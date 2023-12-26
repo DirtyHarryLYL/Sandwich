@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "paste paper into base of paper basket".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+2284. hamper. The definition is: prevent the progress or free movement of. The lexname is: change. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+1785. photocopy. The definition is: reproduce by xerography. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+1338. crate. The definition is: put into a crate; as for protection. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2434. daub. The definition is: cover (a surface) by smearing (a substance) over it. The lexname is: contact. 
+
+Output Format Example:
+1266. paper.
+34. plaster.
+Strictly follow the output format above. Do not output analysis. 

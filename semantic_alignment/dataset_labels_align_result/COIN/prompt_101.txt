@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clean toys and hamster cages".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1163. clutter. The definition is: fill a space in a disorderly way. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1922. quarantine. The definition is: place into enforced isolation, as for medical reasons. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+
+Output Format Example:
+452. clean.
+2310. clean.
+Strictly follow the output format above. Do not output analysis. 

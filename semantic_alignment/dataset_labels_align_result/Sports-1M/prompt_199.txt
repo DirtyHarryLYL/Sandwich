@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bodybuilding".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+279. reproduce. The definition is: have offspring or produce more individuals of a given animal or plant. The lexname is: body. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+
+Output Format Example:
+2239. exercise.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

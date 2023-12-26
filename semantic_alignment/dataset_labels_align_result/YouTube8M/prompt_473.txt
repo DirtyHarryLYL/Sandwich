@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "messaging".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+
+Output Format Example:
+2615. satirize.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

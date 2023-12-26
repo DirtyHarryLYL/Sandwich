@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fixing_hair".
+There are 50 candidate verbs: 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+
+Output Format Example:
+442. scalp.
+2242. shave.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fry meat".
+There are 50 candidate verbs: 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+
+Output Format Example:
+144. fry.
+2311. fry.
+Strictly follow the output format above. Do not output analysis. 

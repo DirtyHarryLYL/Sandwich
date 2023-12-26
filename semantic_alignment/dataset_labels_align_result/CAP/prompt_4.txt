@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_applies_foundation_makeup,".
+There are 50 candidate verbs: 
+1010. coin. The definition is: make up. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+671. content. The definition is: make content. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1199. staff. The definition is: provide with staff. The lexname is: competition. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+
+Output Format Example:
+1010. coin.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

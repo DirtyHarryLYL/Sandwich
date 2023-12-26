@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "giving_or_receiving_award".
+There are 50 candidate verbs: 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1908. give. The definition is: perform for an audience. The lexname is: creation. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+996. report. The definition is: announce one's presence. The lexname is: communication. 
+2558. hear. The definition is: receive a communication from someone. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1151. reserve. The definition is: arrange for and reserve (something for someone else) in advance. The lexname is: social. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+
+Output Format Example:
+2277. receive.
+2379. give.
+Strictly follow the output format above. Do not output analysis. 

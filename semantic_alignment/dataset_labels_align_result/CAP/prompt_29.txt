@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_carries_person_over_shoulder,".
+There are 50 candidate verbs: 
+1352. shoulder. The definition is: lift onto one's shoulders. The lexname is: contact. 
+1102. carry_through. The definition is: put in effect. The lexname is: creation. 
+2304. run. The definition is: carry out. The lexname is: creation. 
+1912. run. The definition is: carry out. The lexname is: creation. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+569. hug. The definition is: fit closely or tightly. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1425. embrace. The definition is: squeeze (someone) tightly in your arms, usually with fondness. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+55. convey. The definition is: transfer to another. The lexname is: possession. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2371. burden. The definition is: weight down with a load. The lexname is: contact. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2368. obtain. The definition is: come into possession of. The lexname is: possession. 
+
+Output Format Example:
+1352. shoulder.
+1102. carry_through.
+Strictly follow the output format above. Do not output analysis. 

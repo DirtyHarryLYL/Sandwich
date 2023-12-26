@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "equestrian vaulting".
+There are 50 candidate verbs: 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1412. joust. The definition is: joust against somebody in a tournament by fighting on horseback. The lexname is: competition. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2234. tack. The definition is: turn into the wind. The lexname is: motion. 
+2194. tack. The definition is: turn into the wind. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+699. exhilarate. The definition is: fill with sublime emotion. The lexname is: emotion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+
+Output Format Example:
+2180. canter.
+1743. neigh.
+Strictly follow the output format above. Do not output analysis. 

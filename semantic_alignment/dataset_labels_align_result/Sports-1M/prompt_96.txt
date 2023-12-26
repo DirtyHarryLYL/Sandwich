@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "table tennis".
+There are 50 candidate verbs: 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+792. carom. The definition is: make a carom. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1007. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1890. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2505. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2663. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+
+Output Format Example:
+2004. pool.
+792. carom.
+Strictly follow the output format above. Do not output analysis. 

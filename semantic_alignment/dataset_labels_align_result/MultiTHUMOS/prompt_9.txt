@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "GolfSwing".
+There are 50 candidate verbs: 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+591. oscillate. The definition is: move or swing from side to side regularly. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+802. gallivant. The definition is: wander aimlessly in search of pleasure. The lexname is: motion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+
+Output Format Example:
+2089. swing.
+778. swing.
+Strictly follow the output format above. Do not output analysis. 

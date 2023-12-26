@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "apply toothpaste or other cleaning agent to scratch".
+There are 50 candidate verbs: 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+
+Output Format Example:
+876. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

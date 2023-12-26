@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash cucumber".
+There are 50 candidate verbs: 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2505. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1007. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1890. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2663. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+325. widen. The definition is: make wider. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+
+Output Format Example:
+2246. wash.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

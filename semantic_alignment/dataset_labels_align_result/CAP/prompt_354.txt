@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_takes_clothes_from_dresser,".
+There are 50 candidate verbs: 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2381. sell. The definition is: exchange or deliver for money or its equivalent. The lexname is: possession. 
+
+Output Format Example:
+1868. clobber.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

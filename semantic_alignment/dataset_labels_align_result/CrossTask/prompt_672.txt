@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Chinese Fried Rice//add rice".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+166. age. The definition is: make older. The lexname is: change. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+162. stir-fry.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

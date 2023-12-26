@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "air racing".
+There are 50 candidate verbs: 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+863. jet. The definition is: fly a jet plane. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2013. airmail. The definition is: send or transport by airmail. The lexname is: communication. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+
+Output Format Example:
+2231. fly.
+2027. fly.
+Strictly follow the output format above. Do not output analysis. 

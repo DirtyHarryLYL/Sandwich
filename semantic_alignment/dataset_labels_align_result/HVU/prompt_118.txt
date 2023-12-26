@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tickling".
+There are 50 candidate verbs: 
+2650. tickle. The definition is: touch or stroke lightly. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+638. rejoice. The definition is: feel happiness or joy. The lexname is: emotion. 
+761. titillate. The definition is: excite pleasurably or erotically. The lexname is: emotion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+313. topple. The definition is: cause to topple or tumble by pushing. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+762. torment. The definition is: treat cruelly. The lexname is: emotion. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+759. terrify. The definition is: fill with terror; frighten greatly. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1447. terrify. The definition is: fill with terror; frighten greatly. The lexname is: emotion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1559. twiddle. The definition is: manipulate, as in a nervous or unconscious manner. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+617. delight. The definition is: take delight in. The lexname is: consumption. 
+16. fetter. The definition is: restrain with fetters. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+
+Output Format Example:
+2650. tickle.
+2651. touch.
+Strictly follow the output format above. Do not output analysis. 

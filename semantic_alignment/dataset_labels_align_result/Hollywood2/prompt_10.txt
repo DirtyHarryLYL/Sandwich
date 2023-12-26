@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "DriveCar".
+There are 50 candidate verbs: 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+472. bereave. The definition is: deprive through death. The lexname is: possession. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+56. deliver. The definition is: bring to a destination, make a delivery. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+192. coarsen. The definition is: make or become coarse or coarser. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+200. decelerate. The definition is: reduce the speed of. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+
+Output Format Example:
+1319. drive.
+58. drive.
+Strictly follow the output format above. Do not output analysis. 

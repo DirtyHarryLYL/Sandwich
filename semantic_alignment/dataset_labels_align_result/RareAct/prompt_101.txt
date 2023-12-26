@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray chair".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1360. whirl. The definition is: cause to spin. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+
+Output Format Example:
+2420. spray.
+955. splash.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "jeet kune do".
+There are 50 candidate verbs: 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+
+Output Format Example:
+2672. jab.
+2664. strike.
+Strictly follow the output format above. Do not output analysis. 

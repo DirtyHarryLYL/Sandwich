@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shave head".
+There are 50 candidate verbs: 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+568. head. The definition is: be in the front of or on top of. The lexname is: stative. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+166. age. The definition is: make older. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+
+Output Format Example:
+875. shave.
+2242. shave.
+Strictly follow the output format above. Do not output analysis. 

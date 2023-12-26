@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "kalaripayattu".
+There are 50 candidate verbs: 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+592. pulsate. The definition is: expand and contract rhythmically; beat rhythmically. The lexname is: motion. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1412. joust. The definition is: joust against somebody in a tournament by fighting on horseback. The lexname is: competition. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+1282. salve. The definition is: apply a salve to, usually for the purpose of healing. The lexname is: body. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+591. oscillate. The definition is: move or swing from side to side regularly. The lexname is: motion. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2069. catapult. The definition is: shoot forth or launch, as if from a catapult. The lexname is: contact. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+1798. illuminate. The definition is: add embellishments and paintings to (medieval manuscripts). The lexname is: creation. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+
+Output Format Example:
+2319. choreograph.
+584. dance.
+Strictly follow the output format above. Do not output analysis. 

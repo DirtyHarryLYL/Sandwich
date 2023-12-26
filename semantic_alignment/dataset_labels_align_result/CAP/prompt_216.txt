@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_opens_mailbox,".
+There are 50 candidate verbs: 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+263. open. The definition is: become open. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1792. address. The definition is: put an address on (an envelope). The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+2016. mail.
+853. misdirect.
+Strictly follow the output format above. Do not output analysis. 

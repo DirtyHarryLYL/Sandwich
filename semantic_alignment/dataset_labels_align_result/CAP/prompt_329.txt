@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_slaps_hands_on_thighs,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2629. jab. The definition is: poke or thrust abruptly. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+670. confuse.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

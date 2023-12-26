@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Caramel Macchiato//add caramel_syrup to milk".
+There are 50 candidate verbs: 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+84. explain. The definition is: define. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+
+Output Format Example:
+140. caramelize.
+1993. cream.
+Strictly follow the output format above. Do not output analysis. 

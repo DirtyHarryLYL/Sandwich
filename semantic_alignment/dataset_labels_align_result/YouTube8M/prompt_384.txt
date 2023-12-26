@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Dipping".
+There are 50 candidate verbs: 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+954. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+1556. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+
+Output Format Example:
+2075. dip.
+2087. slip.
+Strictly follow the output format above. Do not output analysis. 

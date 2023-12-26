@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "remove old glass from window lift".
+There are 50 candidate verbs: 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+
+Output Format Example:
+190. close.
+921. clink.
+Strictly follow the output format above. Do not output analysis. 

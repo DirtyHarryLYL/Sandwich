@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "kabaddi".
+There are 50 candidate verbs: 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+1416. skirmish. The definition is: engage in a skirmish. The lexname is: competition. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+792. carom. The definition is: make a carom. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+
+Output Format Example:
+1854. kick.
+2673. kick.
+Strictly follow the output format above. Do not output analysis. 

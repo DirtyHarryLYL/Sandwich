@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fixing_the_roof".
+There are 50 candidate verbs: 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+578. top. The definition is: provide with a top or finish the top (of a structure). The lexname is: possession. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+
+Output Format Example:
+1277. roof.
+1021. rebuild.
+Strictly follow the output format above. Do not output analysis. 

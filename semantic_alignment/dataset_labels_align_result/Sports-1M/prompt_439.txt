@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "okinawan kobudō".
+There are 50 candidate verbs: 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2296. recognize. The definition is: be fully aware or cognizant of. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2685. relearn. The definition is: learn something again, as after having forgotten or neglected it. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1462. suborn. The definition is: induce to commit perjury or give false testimony. The lexname is: communication. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+274. quieten. The definition is: become quiet or quieter. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2681. whang. The definition is: beat with force. The lexname is: contact. 
+2568. look. The definition is: have a certain outward or facial expression. The lexname is: body. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+
+Output Format Example:
+1664. japan.
+2092. awaken.
+Strictly follow the output format above. Do not output analysis. 

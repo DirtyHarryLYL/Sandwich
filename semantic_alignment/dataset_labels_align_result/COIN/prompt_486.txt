@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray towards the fire".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+
+Output Format Example:
+2420. spray.
+2053. fire.
+Strictly follow the output format above. Do not output analysis. 

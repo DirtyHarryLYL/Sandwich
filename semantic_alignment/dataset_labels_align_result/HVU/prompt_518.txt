@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "square_dancing".
+There are 50 candidate verbs: 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+528. congregate. The definition is: come together, usually for a purpose. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+1421. court. The definition is: engage in social activities leading to marriage. The lexname is: social. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2155. converge. The definition is: be adjacent or come together. The lexname is: stative. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1413. quarrel. The definition is: have a disagreement over something. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1981. unite. The definition is: join or combine. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2007. unite. The definition is: join or combine. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+532. group. The definition is: form a group or group together. The lexname is: competition. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1947. group. The definition is: form a group or group together. The lexname is: competition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+
+Output Format Example:
+584. dance.
+1404. square.
+Strictly follow the output format above. Do not output analysis. 

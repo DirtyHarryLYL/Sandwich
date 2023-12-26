@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_transfers_object_to_person,".
+There are 50 candidate verbs: 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+55. convey. The definition is: transfer to another. The lexname is: possession. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2018. send. The definition is: transfer. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+59. pass_on. The definition is: give to or transfer possession of. The lexname is: possession. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2381. sell. The definition is: exchange or deliver for money or its equivalent. The lexname is: possession. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+
+Output Format Example:
+2021. transmit.
+1136. trade.
+Strictly follow the output format above. Do not output analysis. 

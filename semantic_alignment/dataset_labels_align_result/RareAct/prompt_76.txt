@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "roll shirt".
+There are 50 candidate verbs: 
+2303. roll. The definition is: shape by rolling. The lexname is: change. 
+1043. roll. The definition is: shape by rolling. The lexname is: change. 
+1949. roll. The definition is: shape by rolling. The lexname is: change. 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+966. toll. The definition is: ring slowly. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+470. rid. The definition is: relieve from. The lexname is: possession. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+
+Output Format Example:
+2303. roll.
+1043. roll.
+Strictly follow the output format above. Do not output analysis. 

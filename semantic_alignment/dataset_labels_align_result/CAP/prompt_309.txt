@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_searches_in_backback,".
+There are 50 candidate verbs: 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+61. return. The definition is: make a return. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1694. seek. The definition is: inquire for. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1324. back. The definition is: cause to travel backward. The lexname is: motion. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+
+Output Format Example:
+1638. peer.
+1713. search.
+Strictly follow the output format above. Do not output analysis. 

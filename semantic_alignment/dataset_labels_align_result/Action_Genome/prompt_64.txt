@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Throwing food somewhere".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+478. deprive. The definition is: take away. The lexname is: change. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+
+Output Format Example:
+2072. throw.
+2030. heave.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wiring".
+There are 50 candidate verbs: 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+325. widen. The definition is: make wider. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+183. centralize. The definition is: make central. The lexname is: change. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+
+Output Format Example:
+52. wire.
+449. string.
+Strictly follow the output format above. Do not output analysis. 

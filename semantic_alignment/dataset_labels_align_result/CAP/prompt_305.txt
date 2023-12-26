@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_rubs_neck,".
+There are 50 candidate verbs: 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2412. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2114. rub. The definition is: move over something with pressure. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+84. explain. The definition is: define. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+1427. neck. The definition is: kiss, embrace, or fondle with sexual passion. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2650. tickle. The definition is: touch or stroke lightly. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+495. rustle. The definition is: take illegally. The lexname is: possession. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2558. hear. The definition is: receive a communication from someone. The lexname is: perception. 
+737. please. The definition is: give pleasure to or be pleasing to. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+
+Output Format Example:
+2648. rub.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

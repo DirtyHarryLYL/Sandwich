@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shuffling_cards".
+There are 50 candidate verbs: 
+1952. shuffle. The definition is: mix so as to make a random order or arrangement. The lexname is: contact. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+300. stiffen. The definition is: make stiff or stiffer. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1575. snuff. The definition is: inhale audibly through the nose. The lexname is: body. 
+
+Output Format Example:
+1952. shuffle.
+818. shuffle.
+Strictly follow the output format above. Do not output analysis. 

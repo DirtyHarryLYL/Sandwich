@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_exercises_with_situp,".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2367. act. The definition is: perform an action, or work out or perform (an action). The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+
+Output Format Example:
+2239. exercise.
+1294. stress.
+Strictly follow the output format above. Do not output analysis. 

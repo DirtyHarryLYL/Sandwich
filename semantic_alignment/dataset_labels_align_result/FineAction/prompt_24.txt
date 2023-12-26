@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut nails".
+There are 50 candidate verbs: 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1853. claw. The definition is: scratch, scrape, pull, or dig with claws or nails. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1667. shellac. The definition is: cover with shellac. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2499. notch. The definition is: cut or make a notch into. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+
+Output Format Example:
+30. nail.
+2546. cut.
+Strictly follow the output format above. Do not output analysis. 

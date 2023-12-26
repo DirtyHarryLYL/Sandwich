@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "nfl_catches".
+There are 50 candidate verbs: 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+
+Output Format Example:
+2474. close.
+1139. catch.
+Strictly follow the output format above. Do not output analysis. 

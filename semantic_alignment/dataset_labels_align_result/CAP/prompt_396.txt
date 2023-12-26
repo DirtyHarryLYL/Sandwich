@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_talks_to_person,".
+There are 50 candidate verbs: 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2558. hear. The definition is: receive a communication from someone. The lexname is: perception. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2047. tell. The definition is: narrate or give a detailed account of. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1388. bargain. The definition is: come to terms; arrive at an agreement. The lexname is: communication. 
+1406. bargain. The definition is: come to terms; arrive at an agreement. The lexname is: communication. 
+
+Output Format Example:
+2038. talk.
+92. talk.
+Strictly follow the output format above. Do not output analysis. 

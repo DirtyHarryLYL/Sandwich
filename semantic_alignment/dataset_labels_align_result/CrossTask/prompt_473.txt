@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Remove Lug Nuts and Tires//engage parking brake".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2453. park. The definition is: maneuver a vehicle into a parking space. The lexname is: motion. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+
+Output Format Example:
+312. tire.
+2453. park.
+Strictly follow the output format above. Do not output analysis. 

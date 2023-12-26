@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pump up the fuel".
+There are 50 candidate verbs: 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+1242. fuel.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

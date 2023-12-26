@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "trim shrubs".
+There are 50 candidate verbs: 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1835. shun. The definition is: avoid and stay away from deliberately; stay clear of. The lexname is: communication. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1305. turf. The definition is: cover (the ground) with a surface layer of grass or grass roots. The lexname is: contact. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+
+Output Format Example:
+2454. plant.
+2438. plant.
+Strictly follow the output format above. Do not output analysis. 

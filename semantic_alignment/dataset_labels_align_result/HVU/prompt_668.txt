@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "plastering".
+There are 50 candidate verbs: 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1660. distemper. The definition is: paint with distemper. The lexname is: creation. 
+1296. stucco. The definition is: coat with stucco. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2436. dust. The definition is: cover with a light dusting of a substance. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2358. sponsor. The definition is: assume responsibility for or leadership of. The lexname is: possession. 
+
+Output Format Example:
+34. plaster.
+1271. plaster.
+Strictly follow the output format above. Do not output analysis. 

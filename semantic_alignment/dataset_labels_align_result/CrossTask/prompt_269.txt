@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Steak Teppanyaki//flip steak".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2342. clerk. The definition is: work as a clerk, as in the legal business. The lexname is: social. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+
+Output Format Example:
+162. stir-fry.
+2492. fillet.
+Strictly follow the output format above. Do not output analysis. 

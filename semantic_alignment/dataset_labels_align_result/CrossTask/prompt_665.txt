@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Tri Tip//remove steak from grill".
+There are 50 candidate verbs: 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+968. trill. The definition is: pronounce with a trill, of the phoneme `r'. The lexname is: communication. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+
+Output Format Example:
+145. grill.
+2312. grill.
+Strictly follow the output format above. Do not output analysis. 

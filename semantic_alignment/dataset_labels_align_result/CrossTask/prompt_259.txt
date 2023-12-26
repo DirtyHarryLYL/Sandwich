@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Pickle Okra//add salt in pot".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1524. prickle. The definition is: cause a prickling sensation. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2084. rocket. The definition is: shoot up abruptly, like a rocket. The lexname is: motion. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+
+Output Format Example:
+152. pickle.
+1317. sauce.
+Strictly follow the output format above. Do not output analysis. 

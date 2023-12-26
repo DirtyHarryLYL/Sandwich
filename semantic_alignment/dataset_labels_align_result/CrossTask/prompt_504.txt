@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Battenburg Cake//roll paste".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+267. polarize. The definition is: become polarized in a conflict or contrasting situation. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+317. ulcerate. The definition is: affect with an ulcer. The lexname is: body. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1155. bandage. The definition is: dress by covering or binding. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1274. postmark. The definition is: stamp with a postmark to indicate date and time of mailing. The lexname is: contact. 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1282. salve. The definition is: apply a salve to, usually for the purpose of healing. The lexname is: body. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+
+Output Format Example:
+2297. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "press book or heat flower".
+There are 50 candidate verbs: 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2698. press. The definition is: crowd closely. The lexname is: motion. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+103. boast. The definition is: show off. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+1936. react. The definition is: act against or in opposition to. The lexname is: social. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+
+Output Format Example:
+243. heat.
+146. heat.
+Strictly follow the output format above. Do not output analysis. 

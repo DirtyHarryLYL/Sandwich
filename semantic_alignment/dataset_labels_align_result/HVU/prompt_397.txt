@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "skiing_crosscountry".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+
+Output Format Example:
+2226. ski.
+828. sprint.
+Strictly follow the output format above. Do not output analysis. 

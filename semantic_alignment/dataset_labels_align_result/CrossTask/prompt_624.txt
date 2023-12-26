@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Fish Stew//season stew".
+There are 50 candidate verbs: 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+642. stew. The definition is: bear a grudge; harbor ill feelings. The lexname is: emotion. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1202. suffuse. The definition is: cause to spread or flush or flood through, over, or across. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+161. stew.
+642. stew.
+Strictly follow the output format above. Do not output analysis. 

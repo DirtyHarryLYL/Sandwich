@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lay down shelf".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1367. lay. The definition is: put in a horizontal position. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1720. bay. The definition is: utter in deep prolonged tones. The lexname is: communication. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1014. lay. The definition is: prepare or position for action or operation. The lexname is: creation. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1330. bench. The definition is: take out of a game; of players. The lexname is: social. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+
+Output Format Example:
+1351. shelve.
+1367. lay.
+Strictly follow the output format above. Do not output analysis. 

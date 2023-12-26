@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "blowing_nose".
+There are 50 candidate verbs: 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+775. nose. The definition is: push or move with the nose. The lexname is: motion. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+424. winnow. The definition is: blow away or off with a current of air. The lexname is: change. 
+1428. nuzzle. The definition is: rub noses. The lexname is: contact. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1573. sneeze. The definition is: exhale spasmodically, as when an irritant entered one's nose. The lexname is: body. 
+1721. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+909. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1575. snuff. The definition is: inhale audibly through the nose. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1574. snore. The definition is: breathe noisily during one's sleep. The lexname is: body. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+
+Output Format Example:
+1534. blow.
+1029. blow.
+Strictly follow the output format above. Do not output analysis. 

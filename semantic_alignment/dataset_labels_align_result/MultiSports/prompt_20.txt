@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aerobic balance turn".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+
+Output Format Example:
+2239. exercise.
+1772. turn.
+Strictly follow the output format above. Do not output analysis. 

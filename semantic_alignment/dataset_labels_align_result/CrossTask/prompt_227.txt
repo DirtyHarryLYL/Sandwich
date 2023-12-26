@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Cook Italian Sausage//add sausage".
+There are 50 candidate verbs: 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2550. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+157. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+191. cloud. The definition is: make less clear. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+
+Output Format Example:
+1195. sauce.
+2301. cook.
+Strictly follow the output format above. Do not output analysis. 

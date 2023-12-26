@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "remove pumpkin pedicle".
+There are 50 candidate verbs: 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+2248. gobble. The definition is: eat hastily without proper chewing. The lexname is: consumption. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+737. please. The definition is: give pleasure to or be pleasing to. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+750. spook. The definition is: frighten or scare, and often provoke into a violent action. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+
+Output Format Example:
+2346. doctor.
+732. pain.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Banana Ice Cream//cut banana".
+There are 50 candidate verbs: 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2542. bite. The definition is: to grip, cut off, or tear with or as if with the teeth or jaws. The lexname is: contact. 
+1851. bite. The definition is: to grip, cut off, or tear with or as if with the teeth or jaws. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1224. butter.
+1993. cream.
+Strictly follow the output format above. Do not output analysis. 

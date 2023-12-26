@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "add milk".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+
+Output Format Example:
+488. milk.
+434. milk.
+Strictly follow the output format above. Do not output analysis. 

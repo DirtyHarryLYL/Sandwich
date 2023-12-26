@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Christmas Cake//add egg".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+166. age. The definition is: make older. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2587. cause. The definition is: give rise to; cause to happen or occur, not always intentionally. The lexname is: creation. 
+1105. cause. The definition is: give rise to; cause to happen or occur, not always intentionally. The lexname is: creation. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

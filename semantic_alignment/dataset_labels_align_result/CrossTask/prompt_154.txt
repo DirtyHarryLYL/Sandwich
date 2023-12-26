@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Lavender Lemonade//sift flowers from liquid".
+There are 50 candidate verbs: 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+271. purple. The definition is: color purple. The lexname is: change. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1245. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+1175. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+293. soften. The definition is: become soft or softer. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+725. miff. The definition is: cause to be annoyed. The lexname is: emotion. 
+938. lilt. The definition is: articulate in a very careful and rhythmic way. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1247. gild. The definition is: decorate with, or as if with, gold leaf or liquid gold. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+
+Output Format Example:
+1310. water.
+1771. befriend.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "snatch_weight_lifting".
+There are 50 candidate verbs: 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1933. outweigh. The definition is: be heavier than. The lexname is: competition. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1471. detach. The definition is: cause to become detached or separated; take off. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+
+Output Format Example:
+76. hoist.
+303. strengthen.
+Strictly follow the output format above. Do not output analysis. 

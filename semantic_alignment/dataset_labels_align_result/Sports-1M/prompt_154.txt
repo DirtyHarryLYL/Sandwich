@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ice climbing".
+There are 50 candidate verbs: 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1521. ache. The definition is: be the source of pain. The lexname is: perception. 
+203. defrost. The definition is: make or become free of frost or ice. The lexname is: change. 
+461. defrost. The definition is: make or become free of frost or ice. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1387. trickle. The definition is: run or flow slowly, as in drops or in an unsteady stream. The lexname is: motion. 
+493. rescue. The definition is: take forcibly from legal custody. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1443. panic. The definition is: cause sudden fear in or fill with sudden panic. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+
+Output Format Example:
+348. ice.
+2074. climb.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "flip table".
+There are 50 candidate verbs: 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+
+Output Format Example:
+2055. flip.
+1062. fit.
+Strictly follow the output format above. Do not output analysis. 

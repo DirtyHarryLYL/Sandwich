@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "planing_wood".
+There are 50 candidate verbs: 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+
+Output Format Example:
+1394. plot.
+1656. work.
+Strictly follow the output format above. Do not output analysis. 

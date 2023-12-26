@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shidokan".
+There are 50 candidate verbs: 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1462. suborn. The definition is: induce to commit perjury or give false testimony. The lexname is: communication. 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1074. diagnose. The definition is: subject to a medical analysis. The lexname is: cognition. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1675. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+2349. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1749. stridulate. The definition is: make a shrill creaking noise by rubbing together special bodily structures. The lexname is: perception. 
+
+Output Format Example:
+1925. suppress.
+1580. sympathize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_exercises_with_lunges,".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1903. squat. The definition is: sit on one's heels. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+546. squat. The definition is: be close to the earth, or be disproportionately wide. The lexname is: stative. 
+
+Output Format Example:
+2239. exercise.
+2202. run.
+Strictly follow the output format above. Do not output analysis. 

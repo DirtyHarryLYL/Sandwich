@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pole climbing (gymnastic)".
+There are 50 candidate verbs: 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+864. punt. The definition is: propel with a pole. The lexname is: contact. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+2409. hang. The definition is: place in position as by a hinge so as to allow free movement in one direction. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1364. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2141. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+
+Output Format Example:
+2074. climb.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

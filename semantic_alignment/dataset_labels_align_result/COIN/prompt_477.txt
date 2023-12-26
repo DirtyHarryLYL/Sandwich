@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bent the paperclips by hands".
+There are 50 candidate verbs: 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+42. staple. The definition is: secure or fasten with a staple or staples. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2097. magnetize. The definition is: make magnetic. The lexname is: change. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+9. chain. The definition is: fasten or secure with chains. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1215. tack_on. The definition is: fasten with tacks. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+310. thin. The definition is: make thin or thinner. The lexname is: change. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+
+Output Format Example:
+52. wire.
+449. string.
+Strictly follow the output format above. Do not output analysis. 

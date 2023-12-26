@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "snooker".
+There are 50 candidate verbs: 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+792. carom. The definition is: make a carom. The lexname is: contact. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+
+Output Format Example:
+2004. pool.
+792. carom.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "majorette (dancer)".
+There are 50 candidate verbs: 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+801. frolic. The definition is: play boisterously. The lexname is: motion. 
+839. troop. The definition is: move or march as if in a crowd. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+
+Output Format Example:
+584. dance.
+2200. parade.
+Strictly follow the output format above. Do not output analysis. 

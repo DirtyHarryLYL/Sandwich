@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Tri Tip//replace cover on grill".
+There are 50 candidate verbs: 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+968. trill. The definition is: pronounce with a trill, of the phoneme `r'. The lexname is: communication. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+499. cost. The definition is: be priced at. The lexname is: stative. 
+1804. copy. The definition is: make a replica of. The lexname is: creation. 
+
+Output Format Example:
+2312. grill.
+145. grill.
+Strictly follow the output format above. Do not output analysis. 

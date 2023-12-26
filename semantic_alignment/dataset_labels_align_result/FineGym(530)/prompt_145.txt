@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "4 turn on one leg, free leg optional below horizontal".
+There are 50 candidate verbs: 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1367. lay. The definition is: put in a horizontal position. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2150. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+1375. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+1902. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+
+Output Format Example:
+1895. crouch.
+1557. stretch.
+Strictly follow the output format above. Do not output analysis. 

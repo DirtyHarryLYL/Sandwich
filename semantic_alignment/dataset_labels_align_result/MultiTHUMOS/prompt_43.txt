@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Squat".
+There are 50 candidate verbs: 
+546. squat. The definition is: be close to the earth, or be disproportionately wide. The lexname is: stative. 
+1903. squat. The definition is: sit on one's heels. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+539. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1518. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1897. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+826. slouch. The definition is: walk slovenly. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2561. abet. The definition is: assist or encourage, usually in some wrongdoing. The lexname is: social. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2270. squirt. The definition is: cause to come out in a squirt. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1921. isolate. The definition is: place or set apart. The lexname is: change. 
+673. daunt. The definition is: cause to lose courage. The lexname is: emotion. 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+
+Output Format Example:
+546. squat.
+1903. squat.
+Strictly follow the output format above. Do not output analysis. 

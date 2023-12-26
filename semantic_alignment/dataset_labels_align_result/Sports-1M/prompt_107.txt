@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "parasailing".
+There are 50 candidate verbs: 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+856. balloon. The definition is: ride in a hot-air balloon. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+862. ferry. The definition is: travel by ferry. The lexname is: motion. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2026. ferry. The definition is: transport by ferry. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2013. airmail. The definition is: send or transport by airmail. The lexname is: communication. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+
+Output Format Example:
+2205. sail.
+2233. sail.
+Strictly follow the output format above. Do not output analysis. 

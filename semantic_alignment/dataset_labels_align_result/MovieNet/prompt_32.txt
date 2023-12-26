@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "applaud and cheer".
+There are 50 candidate verbs: 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2598. congratulate. The definition is: express congratulations. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+627. glory. The definition is: rejoice proudly. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2618. thank. The definition is: express gratitude or show appreciation to. The lexname is: communication. 
+1563. clap. The definition is: clap one's hands together. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+638. rejoice. The definition is: feel happiness or joy. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+
+Output Format Example:
+2591. applaud.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

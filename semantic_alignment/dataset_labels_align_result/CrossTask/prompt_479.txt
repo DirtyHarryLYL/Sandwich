@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Stuffed Eggplant with Fish//cut eggplant".
+There are 50 candidate verbs: 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1119. oyster. The definition is: gather oysters, dig oysters. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2082. mushroom. The definition is: grow and spread fast. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+1116. mushroom. The definition is: pick or gather mushrooms. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+694. entertain. The definition is: provide entertainment for. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+
+Output Format Example:
+1112. fish.
+1689. fish.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Vegan Meringue//beat tartar into bowl".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2685. relearn. The definition is: learn something again, as after having forgotten or neglected it. The lexname is: cognition. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+2297. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

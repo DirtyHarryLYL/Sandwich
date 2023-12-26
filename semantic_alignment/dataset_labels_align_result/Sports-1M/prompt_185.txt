@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mountainboarding".
+There are 50 candidate verbs: 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+806. hitchhike. The definition is: travel by getting free rides from motorists. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+825. slog. The definition is: walk heavily and firmly, as when weary, or through mud. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2201. promenade. The definition is: take a leisurely walk. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1220. board. The definition is: get on board of (trains, buses, ships, aircraft, etc.). The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+
+Output Format Example:
+2225. skateboard.
+2224. skate.
+Strictly follow the output format above. Do not output analysis. 

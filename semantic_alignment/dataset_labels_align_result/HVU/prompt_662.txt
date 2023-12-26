@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "jaywalking".
+There are 50 candidate verbs: 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2201. promenade. The definition is: take a leisurely walk. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+
+Output Format Example:
+2204. walk.
+2131. walk_out.
+Strictly follow the output format above. Do not output analysis. 

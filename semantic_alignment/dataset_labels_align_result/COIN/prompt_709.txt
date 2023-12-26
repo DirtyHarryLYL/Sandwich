@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "add baking soda to the sink hole".
+There are 50 candidate verbs: 
+288. sink. The definition is: go under,. The lexname is: motion. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+
+Output Format Example:
+288. sink.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

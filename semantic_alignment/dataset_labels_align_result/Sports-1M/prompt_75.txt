@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "vovinam".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1458. motivate. The definition is: give an incentive for action. The lexname is: creation. 
+2473. visit. The definition is: come to see in an official or professional capacity. The lexname is: motion. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+730. overwhelm. The definition is: overcome, as with emotions or perceptual stimuli. The lexname is: emotion. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2685. relearn. The definition is: learn something again, as after having forgotten or neglected it. The lexname is: cognition. 
+
+Output Format Example:
+2239. exercise.
+584. dance.
+Strictly follow the output format above. Do not output analysis. 

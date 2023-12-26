@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Throwing a blanket somewhere".
+There are 50 candidate verbs: 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+
+Output Format Example:
+558. blanket.
+1218. blanket.
+Strictly follow the output format above. Do not output analysis. 

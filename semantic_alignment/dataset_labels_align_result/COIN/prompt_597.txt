@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "use screwdriver or electirc screwdriver to screw the wire in the wall into the screw of the new switch".
+There are 50 candidate verbs: 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+41. solder. The definition is: join or fuse with solder. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+
+Output Format Example:
+38. screw.
+2457. set.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer banana".
+There are 50 candidate verbs: 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+1537. cock. The definition is: tilt or slant to one side. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+174. blunt. The definition is: make less sharp. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+406. wrench. The definition is: twist or pull violently or suddenly, especially so as to remove (something) from that to which it is attached or from where it originates. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+427. bone. The definition is: remove the bones from. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+71. tool. The definition is: drive. The lexname is: motion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+
+Output Format Example:
+2670. hammer.
+2658. hammer.
+Strictly follow the output format above. Do not output analysis. 

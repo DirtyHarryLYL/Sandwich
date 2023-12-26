@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_clarinet".
+There are 50 candidate verbs: 
+969. trumpet. The definition is: utter in trumpet-like sounds. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1751. warble. The definition is: sing or play with trills, alternating with the half note above or below. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+101. admit. The definition is: declare to be true or admit the existence or reality or truth of. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+
+Output Format Example:
+969. trumpet.
+1710. rifle.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "heat the back cover of the phone".
+There are 50 candidate verbs: 
+1309. wallpaper. The definition is: cover with wallpaper. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2302. kindle. The definition is: cause to start burning. The lexname is: weather. 
+250. kindle. The definition is: cause to start burning. The lexname is: weather. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1786. photograph. The definition is: record on photographic film. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+1309. wallpaper.
+243. heat.
+Strictly follow the output format above. Do not output analysis. 

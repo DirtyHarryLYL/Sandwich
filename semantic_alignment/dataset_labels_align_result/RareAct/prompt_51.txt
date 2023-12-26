@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer keyboard".
+There are 50 candidate verbs: 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+
+Output Format Example:
+2400. hammer.
+2658. hammer.
+Strictly follow the output format above. Do not output analysis. 

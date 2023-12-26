@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "blowing_leaves".
+There are 50 candidate verbs: 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+424. winnow. The definition is: blow away or off with a current of air. The lexname is: change. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+1721. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+909. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+834. tear. The definition is: move quickly and violently. The lexname is: motion. 
+174. blunt. The definition is: make less sharp. The lexname is: change. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+
+Output Format Example:
+1029. blow.
+1534. blow.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "downhill_mountain_biking".
+There are 50 candidate verbs: 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+208. derail. The definition is: cause to run off the tracks. The lexname is: motion. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+825. slog. The definition is: walk heavily and firmly, as when weary, or through mud. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+
+Output Format Example:
+2219. bicycle.
+2222. motorbike.
+Strictly follow the output format above. Do not output analysis. 

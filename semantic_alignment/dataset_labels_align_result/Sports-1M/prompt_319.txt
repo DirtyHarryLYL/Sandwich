@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "jetsprint".
+There are 50 candidate verbs: 
+863. jet. The definition is: fly a jet plane. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2207. depart. The definition is: leave. The lexname is: motion. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1653. exert. The definition is: put to use. The lexname is: consumption. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+885. exist. The definition is: support oneself. The lexname is: stative. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+689. electrify. The definition is: excite suddenly and intensely. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+509. scrimp. The definition is: subsist on a meager allowance. The lexname is: possession. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+
+Output Format Example:
+863. jet.
+828. sprint.
+Strictly follow the output format above. Do not output analysis. 

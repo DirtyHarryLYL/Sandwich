@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tackling".
+There are 50 candidate verbs: 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+313. topple. The definition is: cause to topple or tumble by pushing. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1152. take. The definition is: take into one's possession. The lexname is: possession. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2694. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+82. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+1513. tug. The definition is: move by pulling hard. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+495. rustle. The definition is: take illegally. The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+813. pounce. The definition is: move down on as if in an attack. The lexname is: motion. 
+
+Output Format Example:
+1926. heave.
+2030. heave.
+Strictly follow the output format above. Do not output analysis. 

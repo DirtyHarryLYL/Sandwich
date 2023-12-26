@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "roller_skating".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+821. skulk. The definition is: move stealthily. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1949. roll. The definition is: shape by rolling. The lexname is: change. 
+2303. roll. The definition is: shape by rolling. The lexname is: change. 
+1043. roll. The definition is: shape by rolling. The lexname is: change. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+801. frolic. The definition is: play boisterously. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2191. skitter. The definition is: glide easily along a surface. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+837. totter. The definition is: move without being stable, as if threatening to fall. The lexname is: motion. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+602. totter. The definition is: move without being stable, as if threatening to fall. The lexname is: motion. 
+1684. totter. The definition is: move without being stable, as if threatening to fall. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+
+Output Format Example:
+2224. skate.
+2225. skateboard.
+Strictly follow the output format above. Do not output analysis. 

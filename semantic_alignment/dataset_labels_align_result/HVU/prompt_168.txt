@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "coloring_in".
+There are 50 candidate verbs: 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+
+Output Format Example:
+1659. color.
+2575. doodle.
+Strictly follow the output format above. Do not output analysis. 

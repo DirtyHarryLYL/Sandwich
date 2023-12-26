@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rock_climbing".
+There are 50 candidate verbs: 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+
+Output Format Example:
+2074. climb.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "salto backward piked with 0.5 twist".
+There are 50 candidate verbs: 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2217. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+1008. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+942. plop. The definition is: drop with the sound of something falling into water. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1419. tilt. The definition is: charge with a tilt. The lexname is: competition. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+784. twist.
+2468. twist.
+Strictly follow the output format above. Do not output analysis. 

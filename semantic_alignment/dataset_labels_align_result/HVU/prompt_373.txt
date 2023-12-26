@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pouring_beer".
+There are 50 candidate verbs: 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+942. plop. The definition is: drop with the sound of something falling into water. The lexname is: motion. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1165. deluge. The definition is: fill quickly beyond capacity; as with a liquid. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+
+Output Format Example:
+2299. brew.
+2261. pour.
+Strictly follow the output format above. Do not output analysis. 

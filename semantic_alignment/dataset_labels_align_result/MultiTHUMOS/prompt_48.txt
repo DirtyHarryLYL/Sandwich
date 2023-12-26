@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "BasketballGuard".
+There are 50 candidate verbs: 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2349. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+1675. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1413. quarrel. The definition is: have a disagreement over something. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1922. quarantine. The definition is: place into enforced isolation, as for medical reasons. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1672. defend. The definition is: be the defense counsel for someone in a trial. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+
+Output Format Example:
+2346. doctor.
+2547. hurt.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut both ends and remove fruit seeds".
+There are 50 candidate verbs: 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+450. tail. The definition is: remove the stalk of fruits or berries. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+
+Output Format Example:
+443. seed.
+2439. seed.
+Strictly follow the output format above. Do not output analysis. 

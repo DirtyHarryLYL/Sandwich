@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Caramel Macchiato//pour espresso over foam".
+There are 50 candidate verbs: 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+671. content. The definition is: make content. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+151. percolate. The definition is: prepare in a percolator. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+
+Output Format Example:
+140. caramelize.
+2261. pour.
+Strictly follow the output format above. Do not output analysis. 

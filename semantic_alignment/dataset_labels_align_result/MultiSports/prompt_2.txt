@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aerobic explosive support".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2358. sponsor. The definition is: assume responsibility for or leadership of. The lexname is: possession. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+279. reproduce. The definition is: have offspring or produce more individuals of a given animal or plant. The lexname is: body. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+
+Output Format Example:
+2239. exercise.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_grabs_person_by_bicep,".
+There are 50 candidate verbs: 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2593. bless. The definition is: confer prosperity or happiness on. The lexname is: possession. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+
+Output Format Example:
+734. perplex.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

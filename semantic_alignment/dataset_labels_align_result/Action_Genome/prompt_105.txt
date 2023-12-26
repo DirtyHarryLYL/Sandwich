@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Turning off a light".
+There are 50 candidate verbs: 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+987. shine. The definition is: emit light; be bright, as of the sun or a light. The lexname is: weather. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+
+Output Format Example:
+350. light.
+1772. turn.
+Strictly follow the output format above. Do not output analysis. 

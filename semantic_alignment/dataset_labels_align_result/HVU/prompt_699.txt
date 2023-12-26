@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wicker_weaving".
+There are 50 candidate verbs: 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+1046. weave. The definition is: create a piece of cloth by interlacing strands of fabric, such as wool or cotton. The lexname is: creation. 
+1041. knit. The definition is: make (textiles) by knitting. The lexname is: creation. 
+1034. crochet. The definition is: create by looping or crocheting. The lexname is: creation. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+325. widen. The definition is: make wider. The lexname is: change. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1360. whirl. The definition is: cause to spin. The lexname is: motion. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1811. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1036. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+
+Output Format Example:
+556. weave.
+1046. weave.
+Strictly follow the output format above. Do not output analysis. 

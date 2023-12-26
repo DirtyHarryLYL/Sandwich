@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bouldering".
+There are 50 candidate verbs: 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+699. exhilarate. The definition is: fill with sublime emotion. The lexname is: emotion. 
+
+Output Format Example:
+1682. rock.
+595. rock.
+Strictly follow the output format above. Do not output analysis. 

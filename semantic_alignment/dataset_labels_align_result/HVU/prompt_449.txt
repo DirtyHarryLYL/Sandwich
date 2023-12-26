@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "roasting_marshmallows".
+There are 50 candidate verbs: 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+1974. match. The definition is: bring two objects, ideas, or people together. The lexname is: contact. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+277. rekindle. The definition is: kindle anew, as of a fire. The lexname is: weather. 
+
+Output Format Example:
+2053. fire.
+1522. burn.
+Strictly follow the output format above. Do not output analysis. 

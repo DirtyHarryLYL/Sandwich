@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wolf hop or jump (hip angle at 45, knees together)".
+There are 50 candidate verbs: 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1560. wag. The definition is: move from side to side. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+313. topple. The definition is: cause to topple or tumble by pushing. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+800. flounce. The definition is: walk emphatically. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+
+Output Format Example:
+2163. hop.
+2160. hop.
+Strictly follow the output format above. Do not output analysis. 

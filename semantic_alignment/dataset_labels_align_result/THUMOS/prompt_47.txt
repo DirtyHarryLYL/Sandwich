@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "JumpRope".
+There are 50 candidate verbs: 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+
+Output Format Example:
+37. rope.
+814. romp.
+Strictly follow the output format above. Do not output analysis. 

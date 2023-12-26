@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "arm_wrestling".
+There are 50 candidate verbs: 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1875. elbow. The definition is: shove one's elbow into another person's ribs. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2645. paw. The definition is: touch clumsily. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1874. cuff. The definition is: hit with the hand. The lexname is: contact. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2650. tickle. The definition is: touch or stroke lightly. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1853. claw. The definition is: scratch, scrape, pull, or dig with claws or nails. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+2629. jab. The definition is: poke or thrust abruptly. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2661. slap. The definition is: hit with something flat, like a paddle or the open hand. The lexname is: contact. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2677. slap. The definition is: hit with something flat, like a paddle or the open hand. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1406. bargain. The definition is: come to terms; arrive at an agreement. The lexname is: communication. 
+
+Output Format Example:
+2626. grip.
+2640. grip.
+Strictly follow the output format above. Do not output analysis. 

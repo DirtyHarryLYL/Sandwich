@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "prepare the soil carefully".
+There are 50 candidate verbs: 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2417. sow. The definition is: place (seeds) in or on the ground for future growth. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+
+Output Format Example:
+1615. behold.
+1687. dig.
+Strictly follow the output format above. Do not output analysis. 

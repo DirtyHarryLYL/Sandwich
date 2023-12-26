@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dressage".
+There are 50 candidate verbs: 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+1183. intersperse. The definition is: introduce one's writing or speech with certain expressions. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+714. impress. The definition is: produce or try to produce a vivid impression of. The lexname is: cognition. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+
+Output Format Example:
+2180. canter.
+1743. neigh.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Remove Lug Nuts and Tires//lift vehicle with jack".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2453. park. The definition is: maneuver a vehicle into a parking space. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2370. overburden. The definition is: load with excessive weight. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+
+Output Format Example:
+312. tire.
+2029. truck.
+Strictly follow the output format above. Do not output analysis. 

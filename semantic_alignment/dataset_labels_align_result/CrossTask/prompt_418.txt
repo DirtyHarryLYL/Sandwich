@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Mocha Nutella Gelato//put bowl in refrigerator".
+There are 50 candidate verbs: 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+453. hollow. The definition is: remove the interior of. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+258. mellow. The definition is: make or grow (more) mellow. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1263. nickel. The definition is: plate with nickel. The lexname is: contact. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+646. wallow. The definition is: delight greatly in. The lexname is: consumption. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+
+Output Format Example:
+1223. bronze.
+488. milk.
+Strictly follow the output format above. Do not output analysis. 

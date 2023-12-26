@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stir raw materials".
+There are 50 candidate verbs: 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1292. starch. The definition is: stiffen with starch. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1669. starch. The definition is: stiffen with starch. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+
+Output Format Example:
+1955. stir.
+598. stir.
+Strictly follow the output format above. Do not output analysis. 

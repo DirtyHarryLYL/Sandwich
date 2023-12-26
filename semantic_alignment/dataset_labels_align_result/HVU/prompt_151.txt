@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "carving_ice".
+There are 50 candidate verbs: 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+461. defrost. The definition is: make or become free of frost or ice. The lexname is: change. 
+203. defrost. The definition is: make or become free of frost or ice. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+
+Output Format Example:
+348. ice.
+2508. carve.
+Strictly follow the output format above. Do not output analysis. 

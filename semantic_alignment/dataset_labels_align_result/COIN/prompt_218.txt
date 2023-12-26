@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take out old grease container".
+There are 50 candidate verbs: 
+402. take_out. The definition is: remove something from a container or an enclosed space. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1251. grease. The definition is: lubricate with grease. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+56. deliver. The definition is: bring to a destination, make a delivery. The lexname is: contact. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1331. bin. The definition is: store in bins. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+227. fill. The definition is: become full. The lexname is: change. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+
+Output Format Example:
+402. take_out.
+1333. box.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_grabs_person_by_shoulder,".
+There are 50 candidate verbs: 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1352. shoulder. The definition is: lift onto one's shoulders. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2655. collide. The definition is: crash together with violent impact. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+1872. cosh. The definition is: hit with a cosh, usually on the head. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1459. persuade. The definition is: cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm. The lexname is: communication. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+55. convey. The definition is: transfer to another. The lexname is: possession. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2386. cash. The definition is: exchange for cash. The lexname is: possession. 
+
+Output Format Example:
+2700. shove.
+1136. trade.
+Strictly follow the output format above. Do not output analysis. 

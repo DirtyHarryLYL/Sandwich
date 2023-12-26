@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "paste and level the wallpaper".
+There are 50 candidate verbs: 
+1309. wallpaper. The definition is: cover with wallpaper. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+35. reeve. The definition is: fasten by passing through a hole or around something. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1064. assimilate. The definition is: become similar to one's environment. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+
+Output Format Example:
+1309. wallpaper.
+252. level.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sprint car racing".
+There are 50 candidate verbs: 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+
+Output Format Example:
+2189. race.
+828. sprint.
+Strictly follow the output format above. Do not output analysis. 

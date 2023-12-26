@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_takes_off_ring,".
+There are 50 candidate verbs: 
+966. toll. The definition is: ring slowly. The lexname is: perception. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+937. knell. The definition is: ring as in announcing death. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+549. resound. The definition is: ring or echo with sound. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+966. toll.
+945. ring.
+Strictly follow the output format above. Do not output analysis. 

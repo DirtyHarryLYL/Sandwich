@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cutting_pineapple".
+There are 50 candidate verbs: 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1524. prickle. The definition is: cause a prickling sensation. The lexname is: perception. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+1588. knife.
+1878. knife.
+Strictly follow the output format above. Do not output analysis. 

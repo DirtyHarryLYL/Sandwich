@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grinding_meat".
+There are 50 candidate verbs: 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+
+Output Format Example:
+2497. grind.
+707. gratify.
+Strictly follow the output format above. Do not output analysis. 

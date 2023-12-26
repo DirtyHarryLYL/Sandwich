@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lifting_hat".
+There are 50 candidate verbs: 
+1255. hat. The definition is: furnish with a hat. The lexname is: possession. 
+1227. cap. The definition is: lie at the top of. The lexname is: stative. 
+562. cap. The definition is: lie at the top of. The lexname is: stative. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+568. head. The definition is: be in the front of or on top of. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+
+Output Format Example:
+1255. hat.
+1227. cap.
+Strictly follow the output format above. Do not output analysis. 

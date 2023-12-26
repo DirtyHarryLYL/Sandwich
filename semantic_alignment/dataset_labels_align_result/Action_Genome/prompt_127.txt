@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Tidying something on the floor".
+There are 50 candidate verbs: 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+1163. clutter. The definition is: fill a space in a disorderly way. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+973. whine. The definition is: move with a whining sound. The lexname is: motion. 
+1761. whine. The definition is: move with a whining sound. The lexname is: motion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+
+Output Format Example:
+1187. litter.
+1163. clutter.
+Strictly follow the output format above. Do not output analysis. 

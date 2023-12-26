@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_arranges_flowers_in_vase,".
+There are 50 candidate verbs: 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1205. arrange. The definition is: put into a proper or systematic order. The lexname is: contact. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1082. classify. The definition is: arrange or order by classes or categories. The lexname is: cognition. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1151. reserve. The definition is: arrange for and reserve (something for someone else) in advance. The lexname is: social. 
+1175. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+1245. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2593. bless. The definition is: confer prosperity or happiness on. The lexname is: possession. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1962. graft. The definition is: cause to grow together parts from different plants. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+268. proliferate. The definition is: cause to grow or increase rapidly. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+
+Output Format Example:
+2438. plant.
+2454. plant.
+Strictly follow the output format above. Do not output analysis. 

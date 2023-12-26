@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Steak//cut steak".
+There are 50 candidate verbs: 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1983. contrast. The definition is: to show differences when compared; be different. The lexname is: stative. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+
+Output Format Example:
+2312. grill.
+145. grill.
+Strictly follow the output format above. Do not output analysis. 

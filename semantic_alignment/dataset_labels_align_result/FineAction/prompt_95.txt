@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fold clothes".
+There are 50 candidate verbs: 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+1163. clutter. The definition is: fill a space in a disorderly way. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2381. sell. The definition is: exchange or deliver for money or its equivalent. The lexname is: possession. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1613. try_on. The definition is: put on a garment in order to see whether it fits and looks nice. The lexname is: body. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+
+Output Format Example:
+363. fold.
+1002. fold.
+Strictly follow the output format above. Do not output analysis. 

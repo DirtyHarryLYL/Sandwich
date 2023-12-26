@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "putting_on_foundation".
+There are 50 candidate verbs: 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+263. open. The definition is: become open. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+
+Output Format Example:
+2560. function.
+2374. contribute.
+Strictly follow the output format above. Do not output analysis. 

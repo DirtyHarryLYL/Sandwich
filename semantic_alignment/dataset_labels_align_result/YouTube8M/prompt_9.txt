@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Drawing".
+There are 50 candidate verbs: 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+2576. draw.
+2329. draw.
+Strictly follow the output format above. Do not output analysis. 

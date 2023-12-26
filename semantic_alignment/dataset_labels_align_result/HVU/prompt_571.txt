@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "doing_jigsaw_puzzle".
+There are 50 candidate verbs: 
+635. puzzle. The definition is: be uncertain about; think about without fully understanding or being able to decide. The lexname is: emotion. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+
+Output Format Example:
+635. puzzle.
+1472. disassemble.
+Strictly follow the output format above. Do not output analysis. 

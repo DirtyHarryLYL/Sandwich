@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Caramel Macchiato//dose espresso".
+There are 50 candidate verbs: 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+671. content. The definition is: make content. The lexname is: emotion. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+140. caramelize.
+1297. sugar.
+Strictly follow the output format above. Do not output analysis. 

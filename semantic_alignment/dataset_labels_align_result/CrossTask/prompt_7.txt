@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build Simple Floating Shelves//assemble shelve".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+1026. assemble. The definition is: create by putting components or members together. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+772. float. The definition is: move lightly, as if suspended. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+525. assemble. The definition is: get people together. The lexname is: social. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+362. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+1003. flex. The definition is: cause (a plastic object) to assume a crooked or angular form. The lexname is: contact. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+1649. reside. The definition is: make one's home in a particular place or community. The lexname is: stative. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+
+Output Format Example:
+1351. shelve.
+2686. study.
+Strictly follow the output format above. Do not output analysis. 

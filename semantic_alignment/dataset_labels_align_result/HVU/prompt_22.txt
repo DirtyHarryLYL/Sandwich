@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "singing".
+There are 50 candidate verbs: 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2049. vocalize. The definition is: utter speech sounds. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1751. warble. The definition is: sing or play with trills, alternating with the half note above or below. The lexname is: communication. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1066. pronounce. The definition is: speak, pronounce, or utter in a certain way. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2347. emcee. The definition is: act as a master of ceremonies. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2047. tell. The definition is: narrate or give a detailed account of. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+
+Output Format Example:
+952. sing.
+2049. vocalize.
+Strictly follow the output format above. Do not output analysis. 

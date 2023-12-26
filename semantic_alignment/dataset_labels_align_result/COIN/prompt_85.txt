@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "adjust the tightness of the new string".
+There are 50 candidate verbs: 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+263. open. The definition is: become open. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+504. bet. The definition is: stake on the outcome of an issue. The lexname is: competition. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+
+Output Format Example:
+449. string.
+44. string.
+Strictly follow the output format above. Do not output analysis. 

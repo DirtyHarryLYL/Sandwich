@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "remove the old graphics card".
+There are 50 candidate verbs: 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+84. explain. The definition is: define. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+
+Output Format Example:
+2455. reinstall.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

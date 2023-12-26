@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "telemark skiing".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+871. row. The definition is: propel with oars. The lexname is: motion. 
+69. row. The definition is: propel with oars. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+
+Output Format Example:
+2226. ski.
+2173. trek.
+Strictly follow the output format above. Do not output analysis. 

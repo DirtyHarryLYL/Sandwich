@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "do the third jump".
+There are 50 candidate verbs: 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+252. level. The definition is: become level or even. The lexname is: change. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1443. panic. The definition is: cause sudden fear in or fill with sudden panic. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2482. stop. The definition is: come to a halt, stop moving. The lexname is: motion. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+
+Output Format Example:
+1839. jump.
+2081. jump.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_pushes_wheeled_trashcan,".
+There are 50 candidate verbs: 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+1331. bin. The definition is: store in bins. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+603. tremble. The definition is: move or jerk quickly and involuntarily up and down or sideways. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+
+Output Format Example:
+1187. litter.
+1331. bin.
+Strictly follow the output format above. Do not output analysis. 

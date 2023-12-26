@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rings (gymnastics)".
+There are 50 candidate verbs: 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+966. toll. The definition is: ring slowly. The lexname is: perception. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+937. knell. The definition is: ring as in announcing death. The lexname is: perception. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+549. resound. The definition is: ring or echo with sound. The lexname is: perception. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+110. promise. The definition is: make a promise or commitment. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+
+Output Format Example:
+945. ring.
+966. toll.
+Strictly follow the output format above. Do not output analysis. 

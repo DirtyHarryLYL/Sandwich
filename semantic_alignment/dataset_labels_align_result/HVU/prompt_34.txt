@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grooming_horse".
+There are 50 candidate verbs: 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1737. hee-haw. The definition is: braying characteristic of donkeys. The lexname is: communication. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+872. groom. The definition is: care for one's external appearance. The lexname is: body. 
+1222. bridle. The definition is: put a bridle on. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1742. moo. The definition is: make a low noise, characteristic of bovines. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+281. roughen. The definition is: make rough or rougher. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1059. accommodate. The definition is: make (one thing) compatible with (another). The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+
+Output Format Example:
+1743. neigh.
+2180. canter.
+Strictly follow the output format above. Do not output analysis. 

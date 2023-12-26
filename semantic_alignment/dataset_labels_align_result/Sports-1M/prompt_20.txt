@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "slopestyle".
+There are 50 candidate verbs: 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+1227. cap. The definition is: lie at the top of. The lexname is: stative. 
+562. cap. The definition is: lie at the top of. The lexname is: stative. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+885. exist. The definition is: support oneself. The lexname is: stative. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+543. rise. The definition is: rise up. The lexname is: stative. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1649. reside. The definition is: make one's home in a particular place or community. The lexname is: stative. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1100. qualify. The definition is: prove capable or fit; meet requirements. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+
+Output Format Example:
+2149. slope.
+1374. slope.
+Strictly follow the output format above. Do not output analysis. 

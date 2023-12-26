@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "apply eyeliner".
+There are 50 candidate verbs: 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+84. explain. The definition is: define. The lexname is: communication. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+166. age. The definition is: make older. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+
+Output Format Example:
+1618. eye.
+1258. lipstick.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "show jumping".
+There are 50 candidate verbs: 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+
+Output Format Example:
+2180. canter.
+1743. neigh.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "CliffDiving".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1908. give. The definition is: perform for an audience. The lexname is: creation. 
+699. exhilarate. The definition is: fill with sublime emotion. The lexname is: emotion. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+
+Output Format Example:
+2076. dive.
+2074. climb.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bobsledding".
+There are 50 candidate verbs: 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+836. toddle. The definition is: walk unsteadily. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+581. bob. The definition is: move up and down repeatedly. The lexname is: motion. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+858. bobsled.
+2228. toboggan.
+Strictly follow the output format above. Do not output analysis. 

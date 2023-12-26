@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Riot".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+470. rid. The definition is: relieve from. The lexname is: possession. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+485. extort. The definition is: obtain by coercion or intimidation. The lexname is: possession. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1936. react. The definition is: act against or in opposition to. The lexname is: social. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1653. exert. The definition is: put to use. The lexname is: consumption. 
+
+Output Format Example:
+2615. satirize.
+1767. protest.
+Strictly follow the output format above. Do not output analysis. 

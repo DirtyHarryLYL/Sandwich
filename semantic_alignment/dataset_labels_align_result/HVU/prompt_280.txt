@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shaping_bread_dough".
+There are 50 candidate verbs: 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1004. knead. The definition is: make uniform. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+1027. bake.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

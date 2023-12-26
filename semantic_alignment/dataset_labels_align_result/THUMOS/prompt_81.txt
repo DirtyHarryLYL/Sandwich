@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Skijet".
+There are 50 candidate verbs: 
+2191. skitter. The definition is: glide easily along a surface. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+300. stiffen. The definition is: make stiff or stiffer. The lexname is: change. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+1653. exert. The definition is: put to use. The lexname is: consumption. 
+863. jet. The definition is: fly a jet plane. The lexname is: motion. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+768. smite. The definition is: affect suddenly with deep feeling. The lexname is: emotion. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+885. exist. The definition is: support oneself. The lexname is: stative. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1714. sift. The definition is: move as if through a sieve. The lexname is: motion. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+485. extort. The definition is: obtain by coercion or intimidation. The lexname is: possession. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+821. skulk. The definition is: move stealthily. The lexname is: motion. 
+2028. shuttle. The definition is: travel back and forth between two points. The lexname is: motion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2561. abet. The definition is: assist or encourage, usually in some wrongdoing. The lexname is: social. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+2207. depart. The definition is: leave. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1395. settle. The definition is: settle conclusively; come to terms. The lexname is: communication. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+1929. exceed. The definition is: be superior or better than some standard. The lexname is: stative. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+
+Output Format Example:
+2191. skitter.
+2226. ski.
+Strictly follow the output format above. Do not output analysis. 

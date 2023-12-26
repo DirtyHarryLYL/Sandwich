@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ultralight aviation".
+There are 50 candidate verbs: 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+863. jet. The definition is: fly a jet plane. The lexname is: motion. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+2013. airmail. The definition is: send or transport by airmail. The lexname is: communication. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2232. navigate. The definition is: direct carefully and safely. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+
+Output Format Example:
+2231. fly.
+2027. fly.
+Strictly follow the output format above. Do not output analysis. 

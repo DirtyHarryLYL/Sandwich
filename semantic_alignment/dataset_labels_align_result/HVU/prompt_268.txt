@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "purl".
+There are 50 candidate verbs: 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+723. lull. The definition is: calm by deception. The lexname is: emotion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+735. perturb. The definition is: disturb in mind or make uneasy or cause to be worried or alarmed. The lexname is: emotion. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+216. dull. The definition is: make dull or blunt. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1653. exert. The definition is: put to use. The lexname is: consumption. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1147. pluck. The definition is: pull or pull out sharply. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+
+Output Format Example:
+2456. put.
+723. lull.
+Strictly follow the output format above. Do not output analysis. 

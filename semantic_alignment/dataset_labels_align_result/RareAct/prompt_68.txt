@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer tomato".
+There are 50 candidate verbs: 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+762. torment. The definition is: treat cruelly. The lexname is: emotion. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1268. pepper. The definition is: add pepper to. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1058. transmute. The definition is: alter the nature of (elements). The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+
+Output Format Example:
+2400. hammer.
+2658. hammer.
+Strictly follow the output format above. Do not output analysis. 

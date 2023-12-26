@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put the thread on the spool".
+There are 50 candidate verbs: 
+1354. spool. The definition is: wind onto a spool or a reel. The lexname is: contact. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1750. tweet. The definition is: make a weak, chirping sound. The lexname is: perception. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+
+Output Format Example:
+1354. spool.
+1045. spin.
+Strictly follow the output format above. Do not output analysis. 

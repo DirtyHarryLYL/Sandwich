@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Kabobs//place kebab on grill".
+There are 50 candidate verbs: 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+1353. skewer. The definition is: drive a skewer through. The lexname is: contact. 
+40. skewer. The definition is: drive a skewer through. The lexname is: contact. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1149. pull. The definition is: take away. The lexname is: change. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+157. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+2550. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+261. narrow. The definition is: make or become more narrow or restricted. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+
+Output Format Example:
+2312. grill.
+145. grill.
+Strictly follow the output format above. Do not output analysis. 

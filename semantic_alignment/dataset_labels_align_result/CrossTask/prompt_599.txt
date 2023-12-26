@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Low Carb Coffee Cake//add baking_soda".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1282. salve. The definition is: apply a salve to, usually for the purpose of healing. The lexname is: body. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+662. bore. The definition is: cause to be bored. The lexname is: emotion. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2351. mother. The definition is: care for like a mother. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+
+Output Format Example:
+2297. bake.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

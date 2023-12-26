@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "brush the gesso evenly".
+There are 50 candidate verbs: 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1313. whitewash. The definition is: cover with whitewash. The lexname is: contact. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+1660. distemper. The definition is: paint with distemper. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1158. blot. The definition is: dry (ink) with blotting paper. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1666. paint.
+1071. paint.
+Strictly follow the output format above. Do not output analysis. 

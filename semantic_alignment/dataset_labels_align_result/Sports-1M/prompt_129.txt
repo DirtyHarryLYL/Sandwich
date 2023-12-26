@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "russian pyramid".
+There are 50 candidate verbs: 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2435. mound. The definition is: form into a rounded elevation. The lexname is: creation. 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1210. mount. The definition is: fix onto a backing, setting, or support. The lexname is: change. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2039. testify. The definition is: provide evidence for. The lexname is: communication. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+1342. house. The definition is: provide housing for. The lexname is: social. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+84. explain. The definition is: define. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1622. perceive. The definition is: to become aware of through the senses. The lexname is: perception. 
+2441. stack. The definition is: arrange in stacks. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+101. admit. The definition is: declare to be true or admit the existence or reality or truth of. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+2154. climb.
+2435. mound.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "place mattress on the bed".
+There are 50 candidate verbs: 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+2371. burden. The definition is: weight down with a load. The lexname is: contact. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+
+Output Format Example:
+1329. bed.
+2539. sleep.
+Strictly follow the output format above. Do not output analysis. 

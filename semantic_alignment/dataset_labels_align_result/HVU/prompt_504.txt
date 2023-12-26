@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tango_dancing".
+There are 50 candidate verbs: 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+569. hug. The definition is: fit closely or tightly. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1849. fancy. The definition is: have a fancy or particular liking or desire for. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1425. embrace. The definition is: squeeze (someone) tightly in your arms, usually with fondness. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+
+Output Format Example:
+584. dance.
+1203. tinge.
+Strictly follow the output format above. Do not output analysis. 

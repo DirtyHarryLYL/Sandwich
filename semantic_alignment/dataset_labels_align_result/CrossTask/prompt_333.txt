@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change Wheel Bearings//install wheel_bearings".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+205. demagnetize. The definition is: make nonmagnetic; take away the magnetic properties (of). The lexname is: change. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2382. lease. The definition is: grant use or occupation of under a term of contract. The lexname is: possession. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+549. resound. The definition is: ring or echo with sound. The lexname is: perception. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+
+Output Format Example:
+312. tire.
+2457. set.
+Strictly follow the output format above. Do not output analysis. 

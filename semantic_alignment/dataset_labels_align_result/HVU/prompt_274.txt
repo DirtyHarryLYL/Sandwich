@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lawn_mower_racing".
+There are 50 candidate verbs: 
+2511. mow. The definition is: cut with a blade or mower. The lexname is: contact. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1305. turf. The definition is: cover (the ground) with a surface layer of grass or grass roots. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1133. barter. The definition is: exchange goods without involving money. The lexname is: possession. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2101. plow. The definition is: to break and turn over earth especially with a plow. The lexname is: creation. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+59. pass_on. The definition is: give to or transfer possession of. The lexname is: possession. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+
+Output Format Example:
+2511. mow.
+2222. motorbike.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Sowing".
+There are 50 candidate verbs: 
+2417. sow. The definition is: place (seeds) in or on the ground for future growth. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2413. scatter. The definition is: sow by scattering. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+2417. sow.
+443. seed.
+Strictly follow the output format above. Do not output analysis. 

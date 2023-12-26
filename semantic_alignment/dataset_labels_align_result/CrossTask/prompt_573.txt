@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Steamed Rice//remove pan from heater".
+There are 50 candidate verbs: 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+196. cool. The definition is: loose heat. The lexname is: change. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+
+Output Format Example:
+159. simmer.
+162. stir-fry.
+Strictly follow the output format above. Do not output analysis. 

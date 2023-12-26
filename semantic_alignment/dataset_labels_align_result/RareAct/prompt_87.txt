@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray banana".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+327. yellow. The definition is: turn yellow. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2424. squirt. The definition is: wet with a spurt of liquid. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2270. squirt. The definition is: cause to come out in a squirt. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+
+Output Format Example:
+2420. spray.
+1224. butter.
+Strictly follow the output format above. Do not output analysis. 

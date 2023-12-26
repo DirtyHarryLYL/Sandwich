@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Christmas Cake//remove cake from oven".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+166. age. The definition is: make older. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1105. cause. The definition is: give rise to; cause to happen or occur, not always intentionally. The lexname is: creation. 
+2587. cause. The definition is: give rise to; cause to happen or occur, not always intentionally. The lexname is: creation. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+
+Output Format Example:
+2297. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

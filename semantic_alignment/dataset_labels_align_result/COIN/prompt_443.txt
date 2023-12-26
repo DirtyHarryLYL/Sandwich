@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put the sheet on the bed".
+There are 50 candidate verbs: 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+
+Output Format Example:
+1329. bed.
+1266. paper.
+Strictly follow the output format above. Do not output analysis. 

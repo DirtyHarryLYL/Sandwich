@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "combing_hair".
+There are 50 candidate verbs: 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+
+Output Format Example:
+1702. comb.
+2407. brush.
+Strictly follow the output format above. Do not output analysis. 

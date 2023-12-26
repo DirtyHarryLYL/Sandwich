@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_takes_object_from_bag,".
+There are 50 candidate verbs: 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+738. preoccupy. The definition is: engage or engross the interest or attention of beforehand or occupy urgently or obsessively. The lexname is: emotion. 
+108. object. The definition is: express or raise an objection or protest or criticism or express dissent. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2558. hear. The definition is: receive a communication from someone. The lexname is: perception. 
+1720. bay. The definition is: utter in deep prolonged tones. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+
+Output Format Example:
+1326. bag.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

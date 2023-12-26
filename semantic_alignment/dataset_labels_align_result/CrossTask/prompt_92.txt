@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Add Oil to Your Car//remove cap".
+There are 50 candidate verbs: 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1231. coal. The definition is: supply with coal. The lexname is: possession. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+1264. oil.
+1259. lubricate.
+Strictly follow the output format above. Do not output analysis. 

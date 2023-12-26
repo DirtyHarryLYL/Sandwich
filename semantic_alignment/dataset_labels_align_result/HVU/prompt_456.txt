@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "visiting_the_zoo".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2296. recognize. The definition is: be fully aware or cognizant of. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+
+Output Format Example:
+2615. satirize.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

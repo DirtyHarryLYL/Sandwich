@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "carom billiards".
+There are 50 candidate verbs: 
+792. carom. The definition is: make a carom. The lexname is: contact. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+192. coarsen. The definition is: make or become coarse or coarser. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2592. approve_of. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+
+Output Format Example:
+792. carom.
+2004. pool.
+Strictly follow the output format above. Do not output analysis. 

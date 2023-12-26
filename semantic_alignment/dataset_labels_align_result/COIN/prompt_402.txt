@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put the ingredients into the can".
+There are 50 candidate verbs: 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+84. explain. The definition is: define. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+
+Output Format Example:
+1335. can.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

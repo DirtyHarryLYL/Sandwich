@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Can Tomato Sauce//remove tomato skin".
+There are 50 candidate verbs: 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+
+Output Format Example:
+1195. sauce.
+1317. sauce.
+Strictly follow the output format above. Do not output analysis. 

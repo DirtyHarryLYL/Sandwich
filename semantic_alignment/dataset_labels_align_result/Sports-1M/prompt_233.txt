@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "flyball".
+There are 50 candidate verbs: 
+1346. kennel. The definition is: put up in a kennel. The lexname is: social. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2013. airmail. The definition is: send or transport by airmail. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1159. bombard. The definition is: throw bombs at or attack with bombs. The lexname is: competition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1721. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+909. bellow. The definition is: make a loud noise, as of animal. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+
+Output Format Example:
+1346. kennel.
+2231. fly.
+Strictly follow the output format above. Do not output analysis. 

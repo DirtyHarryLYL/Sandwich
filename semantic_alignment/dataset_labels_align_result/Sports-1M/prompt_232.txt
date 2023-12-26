@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dock jumping".
+There are 50 candidate verbs: 
+2459. dock. The definition is: maneuver into a dock. The lexname is: contact. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1216. wharf. The definition is: moor at a wharf. The lexname is: contact. 
+2461. moor. The definition is: come into or dock at a wharf. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1358. wharf. The definition is: store on a wharf. The lexname is: possession. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1312. wharf. The definition is: provide with a wharf. The lexname is: possession. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2026. ferry. The definition is: transport by ferry. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+862. ferry. The definition is: travel by ferry. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+
+Output Format Example:
+2459. dock.
+2198. jump.
+Strictly follow the output format above. Do not output analysis. 

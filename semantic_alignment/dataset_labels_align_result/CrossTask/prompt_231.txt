@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build a Bookshelf//cut boards".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1645. board. The definition is: lodge and take meals (at). The lexname is: consumption. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+809. lumber. The definition is: move heavily or clumsily. The lexname is: motion. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1220. board. The definition is: get on board of (trains, buses, ships, aircraft, etc.). The lexname is: motion. 
+1308. veneer. The definition is: cover with veneer. The lexname is: contact. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+
+Output Format Example:
+1351. shelve.
+2449. build-in.
+Strictly follow the output format above. Do not output analysis. 

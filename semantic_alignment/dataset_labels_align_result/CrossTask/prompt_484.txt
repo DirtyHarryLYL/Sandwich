@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Banana Pudding//add milk".
+There are 50 candidate verbs: 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+265. pale. The definition is: turn pale, as if in fear. The lexname is: body. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+
+Output Format Example:
+1224. butter.
+1993. cream.
+Strictly follow the output format above. Do not output analysis. 

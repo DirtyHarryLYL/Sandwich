@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "split ring jump with 0.5 turn".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+966. toll. The definition is: ring slowly. The lexname is: perception. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+549. resound. The definition is: ring or echo with sound. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+1772. turn.
+1839. jump.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "add some water to the vessel".
+There are 50 candidate verbs: 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+
+Output Format Example:
+1310. water.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

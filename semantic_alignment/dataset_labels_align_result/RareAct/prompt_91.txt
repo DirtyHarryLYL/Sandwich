@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer coconut".
+There are 50 candidate verbs: 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+192. coarsen. The definition is: make or become coarse or coarser. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+653. amaze. The definition is: affect with wonder. The lexname is: cognition. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+227. fill. The definition is: become full. The lexname is: change. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1653. exert. The definition is: put to use. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+
+Output Format Example:
+2400. hammer.
+2670. hammer.
+Strictly follow the output format above. Do not output analysis. 

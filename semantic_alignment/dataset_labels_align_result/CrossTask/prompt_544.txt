@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Swordfish//brush steaks with marinade".
+There are 50 candidate verbs: 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1795. brand. The definition is: burn with a branding iron to indicate ownership; of animals. The lexname is: social. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2550. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+157. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+
+Output Format Example:
+2312. grill.
+145. grill.
+Strictly follow the output format above. Do not output analysis. 

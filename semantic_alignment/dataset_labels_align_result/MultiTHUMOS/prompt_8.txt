@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "FrisbeeCatch".
+There are 50 candidate verbs: 
+2385. fetch. The definition is: be sold for a certain price. The lexname is: possession. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1172. enrich. The definition is: make wealthy or richer. The lexname is: possession. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2052. chuck. The definition is: throw carelessly. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+35. reeve. The definition is: fasten by passing through a hole or around something. The lexname is: contact. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+564. encircle. The definition is: form a circle around. The lexname is: contact. 
+1170. encircle. The definition is: form a circle around. The lexname is: contact. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+
+Output Format Example:
+2385. fetch.
+2072. throw.
+Strictly follow the output format above. Do not output analysis. 

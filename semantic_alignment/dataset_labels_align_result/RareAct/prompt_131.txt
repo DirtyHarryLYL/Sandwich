@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "open blender".
+There are 50 candidate verbs: 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+201. decentralize. The definition is: make less central. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+263. open. The definition is: become open. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+325. widen. The definition is: make wider. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+
+Output Format Example:
+2298. blend.
+1996. blend.
+Strictly follow the output format above. Do not output analysis. 

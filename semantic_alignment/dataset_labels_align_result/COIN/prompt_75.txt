@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unload the wheel".
+There are 50 candidate verbs: 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+2371. burden. The definition is: weight down with a load. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1153. overload. The definition is: become overloaded. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1360. whirl. The definition is: cause to spin. The lexname is: motion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+73. wheel.
+2331. spin.
+Strictly follow the output format above. Do not output analysis. 

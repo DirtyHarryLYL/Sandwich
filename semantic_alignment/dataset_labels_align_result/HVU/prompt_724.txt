@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rafting".
+There are 50 candidate verbs: 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+768. smite. The definition is: affect suddenly with deep feeling. The lexname is: emotion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+
+Output Format Example:
+2223. raft.
+2221. kayak.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "BalanceBeam".
+There are 50 candidate verbs: 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1631. glance. The definition is: throw a glance at; take a brief look at. The lexname is: perception. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2371. burden. The definition is: weight down with a load. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+273. quicken. The definition is: give life or energy to. The lexname is: change. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+
+Output Format Example:
+1362. balance.
+2139. balance.
+Strictly follow the output format above. Do not output analysis. 

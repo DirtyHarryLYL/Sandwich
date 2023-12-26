@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Sourdough Pancakes//add water".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

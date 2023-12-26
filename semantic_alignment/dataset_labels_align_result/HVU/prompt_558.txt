@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shining_flashlight".
+There are 50 candidate verbs: 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+987. shine. The definition is: emit light; be bright, as of the sun or a light. The lexname is: weather. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+986. shimmer. The definition is: shine with a weak or fitful light. The lexname is: weather. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1932. outshine. The definition is: attract more attention and praise than others. The lexname is: competition. 
+978. flare. The definition is: shine with a sudden light. The lexname is: weather. 
+981. glare. The definition is: shine intensely. The lexname is: perception. 
+964. ting. The definition is: make a light, metallic sound; go `ting'. The lexname is: perception. 
+982. gleam. The definition is: shine brightly, like a star or a light. The lexname is: perception. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+1674. shade. The definition is: protect from light, heat, or view. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+989. twinkle. The definition is: emit or reflect light in a flickering manner. The lexname is: weather. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+988. sparkle. The definition is: reflect brightly. The lexname is: weather. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+617. delight. The definition is: take delight in. The lexname is: consumption. 
+
+Output Format Example:
+350. light.
+987. shine.
+Strictly follow the output format above. Do not output analysis. 

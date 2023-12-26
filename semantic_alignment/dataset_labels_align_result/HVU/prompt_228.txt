@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "getting_a_haircut".
+There are 50 candidate verbs: 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+872. groom. The definition is: care for one's external appearance. The lexname is: body. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+
+Output Format Example:
+2242. shave.
+875. shave.
+Strictly follow the output format above. Do not output analysis. 

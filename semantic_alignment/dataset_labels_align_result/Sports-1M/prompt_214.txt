@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ice skating".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+101. admit. The definition is: declare to be true or admit the existence or reality or truth of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2134. free. The definition is: free from obligations or duties. The lexname is: social. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+
+Output Format Example:
+2224. skate.
+348. ice.
+Strictly follow the output format above. Do not output analysis. 

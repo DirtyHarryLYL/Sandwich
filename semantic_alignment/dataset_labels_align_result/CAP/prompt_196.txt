@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_mops,".
+There are 50 candidate verbs: 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2014. express. The definition is: send by rapid transport or special messenger service. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+
+Output Format Example:
+326. worsen.
+1627. witness.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cutting_watermelon".
+There are 50 candidate verbs: 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+
+Output Format Example:
+1878. knife.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

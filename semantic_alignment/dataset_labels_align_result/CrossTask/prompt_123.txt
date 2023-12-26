@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make French Strawberry Cake//cut strawberries".
+There are 50 candidate verbs: 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+450. tail. The definition is: remove the stalk of fruits or berries. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+1568. blush. The definition is: turn red, as if in embarrassment or shame. The lexname is: body. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+
+Output Format Example:
+353. pink.
+1107. berry.
+Strictly follow the output format above. Do not output analysis. 

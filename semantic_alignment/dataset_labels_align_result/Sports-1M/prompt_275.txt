@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rally raid".
+There are 50 candidate verbs: 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+825. slog. The definition is: walk heavily and firmly, as when weary, or through mud. The lexname is: motion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+298. steady. The definition is: make steady. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+
+Output Format Example:
+2189. race.
+1889. run.
+Strictly follow the output format above. Do not output analysis. 

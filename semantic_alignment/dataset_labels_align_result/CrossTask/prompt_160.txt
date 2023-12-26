@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Gummy Bears//add flavoring".
+There are 50 candidate verbs: 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+234. fructify. The definition is: bear fruit. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+
+Output Format Example:
+1297. sugar.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

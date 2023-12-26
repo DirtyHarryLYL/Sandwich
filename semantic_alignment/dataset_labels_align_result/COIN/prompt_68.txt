@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "draw an outline".
+There are 50 candidate verbs: 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1807. trace. The definition is: copy by following the lines of the original drawing on a transparent sheet placed upon it; make a tracing of. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+
+Output Format Example:
+2321. draft.
+2576. draw.
+Strictly follow the output format above. Do not output analysis. 

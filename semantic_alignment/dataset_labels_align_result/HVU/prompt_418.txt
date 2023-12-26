@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wood_burning_art_".
+There are 50 candidate verbs: 
+1795. brand. The definition is: burn with a branding iron to indicate ownership; of animals. The lexname is: social. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1798. illuminate. The definition is: add embellishments and paintings to (medieval manuscripts). The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+
+Output Format Example:
+1795. brand.
+1181. inlay.
+Strictly follow the output format above. Do not output analysis. 

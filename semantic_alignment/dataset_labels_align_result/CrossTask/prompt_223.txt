@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Vegan French Toast//dip bread into milk mixture".
+There are 50 candidate verbs: 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2035. preach. The definition is: speak, plead, or argue in favor of. The lexname is: communication. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+
+Output Format Example:
+892. brunch.
+2619. toast.
+Strictly follow the output format above. Do not output analysis. 

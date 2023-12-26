@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Cafe Au Lait//pour milk".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1104. make. The definition is: engage in. The lexname is: social. 
+265. pale. The definition is: turn pale, as if in fear. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1225. calk. The definition is: provide with calks. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+
+Output Format Example:
+488. milk.
+434. milk.
+Strictly follow the output format above. Do not output analysis. 

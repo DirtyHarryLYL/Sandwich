@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Sharpening".
+There are 50 candidate verbs: 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+298. steady. The definition is: make steady. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+
+Output Format Example:
+283. sharpen.
+1430. cut.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut the rope".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+570. line. The definition is: be in line with; form a line along. The lexname is: stative. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+430. gut. The definition is: remove the guts of. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+581. bob. The definition is: move up and down repeatedly. The lexname is: motion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+
+Output Format Example:
+1430. cut.
+37. rope.
+Strictly follow the output format above. Do not output analysis. 

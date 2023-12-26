@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_folds_blanket,".
+There are 50 candidate verbs: 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+1550. purse. The definition is: gather or contract into wrinkles or folds; pucker. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1959. bundle. The definition is: make into a bundle. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1041. knit. The definition is: make (textiles) by knitting. The lexname is: creation. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1348. pocket. The definition is: put in one's pocket. The lexname is: possession. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+
+Output Format Example:
+558. blanket.
+1218. blanket.
+Strictly follow the output format above. Do not output analysis. 

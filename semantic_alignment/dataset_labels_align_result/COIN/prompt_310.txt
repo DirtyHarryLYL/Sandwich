@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install fan frame".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+567. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1240. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+
+Output Format Example:
+2452. install.
+2455. reinstall.
+Strictly follow the output format above. Do not output analysis. 

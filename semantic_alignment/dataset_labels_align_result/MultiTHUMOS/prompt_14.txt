@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "PoleVault".
+There are 50 candidate verbs: 
+864. punt. The definition is: propel with a pole. The lexname is: contact. 
+871. row. The definition is: propel with oars. The lexname is: motion. 
+69. row. The definition is: propel with oars. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+102. proclaim. The definition is: state or announce. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2332. proclaim. The definition is: declare formally; declare someone to be something; of titles. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+640. salivate. The definition is: be envious, desirous, eager for, or extremely happy about something. The lexname is: emotion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+
+Output Format Example:
+864. punt.
+871. row.
+Strictly follow the output format above. Do not output analysis. 

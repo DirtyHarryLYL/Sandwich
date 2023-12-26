@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stag jump with 0.5 turn".
+There are 50 candidate verbs: 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+751. stagger. The definition is: astound or overwhelm, as with shock. The lexname is: emotion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+855. steer. The definition is: direct the course; determine the direction of travelling. The lexname is: motion. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+504. bet. The definition is: stake on the outcome of an issue. The lexname is: competition. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+298. steady. The definition is: make steady. The lexname is: change. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2666. beat. The definition is: strike (water or bushes) repeatedly to rouse animals for hunting. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+
+Output Format Example:
+1839. jump.
+1678. buck.
+Strictly follow the output format above. Do not output analysis. 

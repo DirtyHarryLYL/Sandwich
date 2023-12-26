@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Lemonade//pour lemonade into glass".
+There are 50 candidate verbs: 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+
+Output Format Example:
+246. hydrate.
+921. clink.
+Strictly follow the output format above. Do not output analysis. 

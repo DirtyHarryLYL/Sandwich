@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_washes_face,".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+
+Output Format Example:
+2318. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

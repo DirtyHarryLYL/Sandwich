@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "PullUps".
+There are 50 candidate verbs: 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2693. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1505. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+79. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+
+Output Format Example:
+76. hoist.
+1545. hang.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "putting_on_eyeliner".
+There are 50 candidate verbs: 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2039. testify. The definition is: provide evidence for. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+
+Output Format Example:
+1618. eye.
+1725. call.
+Strictly follow the output format above. Do not output analysis. 

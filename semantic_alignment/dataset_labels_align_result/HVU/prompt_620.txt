@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "delivering_mail".
+There are 50 candidate verbs: 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+2013. airmail. The definition is: send or transport by airmail. The lexname is: communication. 
+56. deliver. The definition is: bring to a destination, make a delivery. The lexname is: contact. 
+1792. address. The definition is: put an address on (an envelope). The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2014. express. The definition is: send by rapid transport or special messenger service. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+
+Output Format Example:
+2016. mail.
+2013. airmail.
+Strictly follow the output format above. Do not output analysis. 

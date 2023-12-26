@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Washing".
+There are 50 candidate verbs: 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+
+Output Format Example:
+2246. wash.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

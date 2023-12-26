@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "frying_vegetables".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+
+Output Format Example:
+162. stir-fry.
+150. pan-fry.
+Strictly follow the output format above. Do not output analysis. 

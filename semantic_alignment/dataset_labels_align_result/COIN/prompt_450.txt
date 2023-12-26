@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "filtrate the coffee beans".
+There are 50 candidate verbs: 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2252. huff. The definition is: inhale recreational drugs. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+151. percolate. The definition is: prepare in a percolator. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+761. titillate. The definition is: excite pleasurably or erotically. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+
+Output Format Example:
+2299. brew.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

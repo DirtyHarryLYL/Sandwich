@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Low Carb Coffee Cake//add cream".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+662. bore. The definition is: cause to be bored. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+
+Output Format Example:
+1993. cream.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

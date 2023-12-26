@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tiramisu Coffee//sprinkle chocolate over mixture".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2422. sprinkle. The definition is: scatter with liquid; wet lightly. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+151. percolate. The definition is: prepare in a percolator. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+983. glitter. The definition is: be shiny, as if wet. The lexname is: perception. 
+1956. whisk. The definition is: whip with or as if with a wire whisk. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+986. shimmer. The definition is: shine with a weak or fitful light. The lexname is: weather. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1200. stipple. The definition is: produce a mottled effect. The lexname is: contact. 
+
+Output Format Example:
+488. milk.
+1993. cream.
+Strictly follow the output format above. Do not output analysis. 

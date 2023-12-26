@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray keyboard".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1685. twitch. The definition is: move or pull with a sudden motion. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+
+Output Format Example:
+2420. spray.
+1789. type.
+Strictly follow the output format above. Do not output analysis. 

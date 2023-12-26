@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "(swing backward) salto forward tucked with 0.5 turn".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+
+Output Format Example:
+1772. turn.
+2056. hit.
+Strictly follow the output format above. Do not output analysis. 

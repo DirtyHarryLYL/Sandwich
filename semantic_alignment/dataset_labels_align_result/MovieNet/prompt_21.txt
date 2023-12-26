@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "do playful game".
+There are 50 candidate verbs: 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+
+Output Format Example:
+2472. play.
+1850. love.
+Strictly follow the output format above. Do not output analysis. 

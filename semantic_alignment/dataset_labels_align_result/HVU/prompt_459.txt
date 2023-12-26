@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tying_necktie".
+There are 50 candidate verbs: 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+1995. tie. The definition is: make by tying pieces together. The lexname is: creation. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+10. cinch. The definition is: tie a cinch around. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+22. knot. The definition is: tie or fasten into a knot. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1244. gag. The definition is: tie a gag around someone's mouth in order to silence them. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+
+Output Format Example:
+50. tie.
+1995. tie.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "riding_mechanical_bull".
+There are 50 candidate verbs: 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2371. burden. The definition is: weight down with a load. The lexname is: contact. 
+1742. moo. The definition is: make a low noise, characteristic of bovines. The lexname is: communication. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2194. tack. The definition is: turn into the wind. The lexname is: motion. 
+2234. tack. The definition is: turn into the wind. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+5. buckle. The definition is: fasten with a buckle or buckles. The lexname is: contact. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1480. unbuckle. The definition is: undo the buckle of. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+10. cinch. The definition is: tie a cinch around. The lexname is: contact. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+
+Output Format Example:
+870. ride.
+1280. saddle.
+Strictly follow the output format above. Do not output analysis. 

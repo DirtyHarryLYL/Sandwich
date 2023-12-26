@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the new hard disk".
+There are 50 candidate verbs: 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+183. centralize. The definition is: make central. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2683. cram. The definition is: prepare (students) hastily for an impending exam. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+
+Output Format Example:
+2455. reinstall.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

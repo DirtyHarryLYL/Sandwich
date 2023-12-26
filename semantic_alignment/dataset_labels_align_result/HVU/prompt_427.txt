@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "weaving_fabric".
+There are 50 candidate verbs: 
+1046. weave. The definition is: create a piece of cloth by interlacing strands of fabric, such as wool or cotton. The lexname is: creation. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1041. knit. The definition is: make (textiles) by knitting. The lexname is: creation. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1034. crochet. The definition is: create by looping or crocheting. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1811. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1036. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+1046. weave.
+1950. sew.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rub back and forth with potatoes or rust remover".
+There are 50 candidate verbs: 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2114. rub. The definition is: move over something with pressure. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2412. rub. The definition is: move over something with pressure. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2629. jab. The definition is: poke or thrust abruptly. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+61. return. The definition is: make a return. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+
+Output Format Example:
+2648. rub.
+411. remove.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Printing".
+There are 50 candidate verbs: 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+1785. photocopy. The definition is: reproduce by xerography. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+113. fax. The definition is: send something via a facsimile machine. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+
+Output Format Example:
+2579. print.
+2324. silkscreen.
+Strictly follow the output format above. Do not output analysis. 

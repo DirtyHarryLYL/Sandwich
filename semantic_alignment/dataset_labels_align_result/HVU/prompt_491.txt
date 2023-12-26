@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "trimming_shrubs".
+There are 50 candidate verbs: 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2511. mow. The definition is: cut with a blade or mower. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+
+Output Format Example:
+2099. brush.
+873. brush.
+Strictly follow the output format above. Do not output analysis. 

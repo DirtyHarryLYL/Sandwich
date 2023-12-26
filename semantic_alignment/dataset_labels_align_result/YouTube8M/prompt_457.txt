@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cleaning".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+
+Output Format Example:
+452. clean.
+2310. clean.
+Strictly follow the output format above. Do not output analysis. 

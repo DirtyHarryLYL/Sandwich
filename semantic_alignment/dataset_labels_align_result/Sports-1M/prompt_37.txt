@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "vault (gymnastics)".
+There are 50 candidate verbs: 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2349. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+1675. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+321. volatilize. The definition is: make volatile; cause to pass off in a vapor. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+1530. arch. The definition is: form an arch or curve. The lexname is: motion. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+
+Output Format Example:
+2174. vault.
+1992. tumble.
+Strictly follow the output format above. Do not output analysis. 

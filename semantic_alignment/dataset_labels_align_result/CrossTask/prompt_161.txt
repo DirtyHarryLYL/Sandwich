@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Gummy Bears//pour juice".
+There are 50 candidate verbs: 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+2254. bubble. The definition is: form, produce, or emit bubbles. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2259. exude. The definition is: release (a liquid) in drops or small quantities. The lexname is: body. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1382. drip. The definition is: fall in drops. The lexname is: motion. 
+2256. drip. The definition is: fall in drops. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+
+Output Format Example:
+1383. pour.
+2261. pour.
+Strictly follow the output format above. Do not output analysis. 

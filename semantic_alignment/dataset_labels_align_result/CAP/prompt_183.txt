@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_lifts_dummbells,".
+There are 50 candidate verbs: 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+723. lull. The definition is: calm by deception. The lexname is: emotion. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+948. rumble. The definition is: make a low noise. The lexname is: perception. 
+1758. rumble. The definition is: make a low noise. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+712. humiliate. The definition is: cause to feel shame; hurt the pride of. The lexname is: emotion. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+
+Output Format Example:
+1321. lift.
+680. disgruntle.
+Strictly follow the output format above. Do not output analysis. 

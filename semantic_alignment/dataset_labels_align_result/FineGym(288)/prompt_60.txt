@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "split leap with 1 turn or more to ring position".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+966. toll. The definition is: ring slowly. The lexname is: perception. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+1772. turn.
+782. turn.
+Strictly follow the output format above. Do not output analysis. 

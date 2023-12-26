@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "making_jewelry".
+There are 50 candidate verbs: 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1594. assay. The definition is: analyze (chemical substances). The lexname is: cognition. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+
+Output Format Example:
+1037. fashion.
+2326. craft.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "skiing_slalom".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+821. skulk. The definition is: move stealthily. The lexname is: motion. 
+825. slog. The definition is: walk heavily and firmly, as when weary, or through mud. The lexname is: motion. 
+
+Output Format Example:
+2226. ski.
+2149. slope.
+Strictly follow the output format above. Do not output analysis. 

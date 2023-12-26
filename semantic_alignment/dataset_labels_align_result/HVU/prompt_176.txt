@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "curling_sport_".
+There are 50 candidate verbs: 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1421. court. The definition is: engage in social activities leading to marriage. The lexname is: social. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+
+Output Format Example:
+1870. club.
+1264. oil.
+Strictly follow the output format above. Do not output analysis. 

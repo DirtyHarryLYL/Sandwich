@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pull out a lock lever at bottom of gun".
+There are 50 candidate verbs: 
+25. lock. The definition is: fasten with a lock. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+71. tool. The definition is: drive. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+79. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+
+Output Format Example:
+25. lock.
+2517. hack.
+Strictly follow the output format above. Do not output analysis. 

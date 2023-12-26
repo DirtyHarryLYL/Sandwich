@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clipping_cat_claws".
+There are 50 candidate verbs: 
+1853. claw. The definition is: scratch, scrape, pull, or dig with claws or nails. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2645. paw. The definition is: touch clumsily. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1855. paw. The definition is: scrape with the paws. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+456. declaw. The definition is: remove the claws from. The lexname is: change. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2486. cleave. The definition is: make by cutting into. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+2623. clasp. The definition is: hold firmly and tightly. The lexname is: contact. 
+1741. meow. The definition is: cry like a cat. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+483. cull. The definition is: remove something that has been rejected. The lexname is: possession. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+381. cull. The definition is: remove something that has been rejected. The lexname is: possession. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+
+Output Format Example:
+1853. claw.
+54. cling.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Pickle Okra//add vinegar in pot".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1524. prickle. The definition is: cause a prickling sensation. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+269. propagate. The definition is: multiply sexually or asexually. The lexname is: body. 
+736. pique. The definition is: cause to feel resentment or indignation. The lexname is: emotion. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2084. rocket. The definition is: shoot up abruptly, like a rocket. The lexname is: motion. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+865. rocket. The definition is: propel with a rocket. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1119. oyster. The definition is: gather oysters, dig oysters. The lexname is: contact. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+
+Output Format Example:
+152. pickle.
+1344. jar.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "trapeze".
+There are 50 candidate verbs: 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+1364. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2141. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+674. dazzle. The definition is: amaze or bewilder, as with brilliant wit or intellect or skill. The lexname is: cognition. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2134. free. The definition is: free from obligations or duties. The lexname is: social. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+
+Output Format Example:
+2170. traipse.
+1356. trap.
+Strictly follow the output format above. Do not output analysis. 

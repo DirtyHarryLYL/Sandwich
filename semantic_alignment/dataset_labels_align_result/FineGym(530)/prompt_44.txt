@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "handspring forward with 1 turn on, handspring forward off".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+272. quadruple. The definition is: increase fourfold. The lexname is: change. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+
+Output Format Example:
+1772. turn.
+1558. turn.
+Strictly follow the output format above. Do not output analysis. 

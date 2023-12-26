@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wet and wash hands".
+There are 50 candidate verbs: 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+993. hail. The definition is: call for. The lexname is: communication. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+
+Output Format Example:
+414. flush.
+2113. rinse.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_unzips_jacket,".
+There are 50 candidate verbs: 
+1495. unzip. The definition is: open the zipper of. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+
+Output Format Example:
+1495. unzip.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

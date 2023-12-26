@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hang the ironed clothes".
+There are 50 candidate verbs: 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2409. hang. The definition is: place in position as by a hinge so as to allow free movement in one direction. The lexname is: contact. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+
+Output Format Example:
+1545. hang.
+1868. clobber.
+Strictly follow the output format above. Do not output analysis. 

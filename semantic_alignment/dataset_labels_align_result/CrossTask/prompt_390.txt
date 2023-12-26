@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tuna Salad//add onion".
+There are 50 candidate verbs: 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+166. age. The definition is: make older. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+
+Output Format Example:
+1011. concoct.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

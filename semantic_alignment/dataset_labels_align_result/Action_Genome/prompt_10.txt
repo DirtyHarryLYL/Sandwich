@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Sitting on a table".
+There are 50 candidate verbs: 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+1330. bench. The definition is: take out of a game; of players. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+
+Output Format Example:
+2148. sit.
+1373. sit.
+Strictly follow the output format above. Do not output analysis. 

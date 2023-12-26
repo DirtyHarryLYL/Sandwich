@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "broomball".
+There are 50 candidate verbs: 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+1452. dragoon. The definition is: compel by coercion, threats, or crude means. The lexname is: social. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1450. compel. The definition is: force somebody to do something. The lexname is: social. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+380. abolish. The definition is: do away with. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+
+Output Format Example:
+1771. befriend.
+2004. pool.
+Strictly follow the output format above. Do not output analysis. 

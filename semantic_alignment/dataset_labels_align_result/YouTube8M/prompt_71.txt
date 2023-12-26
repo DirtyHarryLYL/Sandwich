@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Longboarding".
+There are 50 candidate verbs: 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2201. promenade. The definition is: take a leisurely walk. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1645. board. The definition is: lodge and take meals (at). The lexname is: consumption. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+806. hitchhike. The definition is: travel by getting free rides from motorists. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1220. board. The definition is: get on board of (trains, buses, ships, aircraft, etc.). The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+2225. skateboard.
+2224. skate.
+Strictly follow the output format above. Do not output analysis. 

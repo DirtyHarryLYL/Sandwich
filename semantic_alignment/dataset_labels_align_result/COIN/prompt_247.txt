@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "knead together".
+There are 50 candidate verbs: 
+1004. knead. The definition is: make uniform. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+539. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1518. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1897. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+1763. collaborate. The definition is: cooperate as a traitor. The lexname is: social. 
+1396. collaborate. The definition is: cooperate as a traitor. The lexname is: social. 
+1389. collaborate. The definition is: cooperate as a traitor. The lexname is: social. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1425. embrace. The definition is: squeeze (someone) tightly in your arms, usually with fondness. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+
+Output Format Example:
+1004. knead.
+1239. flour.
+Strictly follow the output format above. Do not output analysis. 

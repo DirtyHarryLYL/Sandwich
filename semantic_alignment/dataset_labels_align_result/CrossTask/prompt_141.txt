@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Black Forest Cake//pour batter into pan".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+265. pale. The definition is: turn pale, as if in fear. The lexname is: body. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+
+Output Format Example:
+2297. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

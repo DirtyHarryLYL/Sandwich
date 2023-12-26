@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "weigh tomato".
+There are 50 candidate verbs: 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+1933. outweigh. The definition is: be heavier than. The lexname is: competition. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+516. meter. The definition is: measure with a meter. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+441. scale. The definition is: remove the scales from. The lexname is: contact. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1750. tweet. The definition is: make a weak, chirping sound. The lexname is: perception. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1568. blush. The definition is: turn red, as if in embarrassment or shame. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+
+Output Format Example:
+2138. weigh.
+1933. outweigh.
+Strictly follow the output format above. Do not output analysis. 

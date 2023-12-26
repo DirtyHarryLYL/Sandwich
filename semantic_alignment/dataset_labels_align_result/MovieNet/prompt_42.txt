@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "drive other vehicle".
+There are 50 candidate verbs: 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+56. deliver. The definition is: bring to a destination, make a delivery. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+263. open. The definition is: become open. The lexname is: contact. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+
+Output Format Example:
+58. drive.
+68. drive.
+Strictly follow the output format above. Do not output analysis. 

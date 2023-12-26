@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "disc_golfing".
+There are 50 candidate verbs: 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+897. picnic. The definition is: eat alfresco, in the open air. The lexname is: consumption. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+127. discard. The definition is: throw or cast away. The lexname is: possession. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+1718. quest. The definition is: search the trail of (game). The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+
+Output Format Example:
+805. hike.
+2072. throw.
+Strictly follow the output format above. Do not output analysis. 

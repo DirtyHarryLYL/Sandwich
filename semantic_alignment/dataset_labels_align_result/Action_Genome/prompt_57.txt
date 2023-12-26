@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Taking off some shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+1284. shoe.
+835. tiptoe.
+Strictly follow the output format above. Do not output analysis. 

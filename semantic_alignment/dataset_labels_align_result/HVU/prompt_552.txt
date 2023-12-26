@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "springboard_diving".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2134. free. The definition is: free from obligations or duties. The lexname is: social. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+
+Output Format Example:
+2076. dive.
+1527. swim.
+Strictly follow the output format above. Do not output analysis. 

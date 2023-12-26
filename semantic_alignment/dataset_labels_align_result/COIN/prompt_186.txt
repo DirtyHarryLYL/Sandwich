@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "loosen the outer cover of a switch or socket".
+There are 50 candidate verbs: 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1140. choose. The definition is: select as an alternative over another. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+
+Output Format Example:
+1192. plug.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

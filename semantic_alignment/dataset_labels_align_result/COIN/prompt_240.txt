@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pour bean paste into plate".
+There are 50 candidate verbs: 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1191. plate. The definition is: coat with a layer of metal. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+
+Output Format Example:
+891. breakfast.
+1191. plate.
+Strictly follow the output format above. Do not output analysis. 

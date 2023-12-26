@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pour some soy beans".
+There are 50 candidate verbs: 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+
+Output Format Example:
+972. wail.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

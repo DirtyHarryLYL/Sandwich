@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Banana Ice Cream//mix ingredients".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+
+Output Format Example:
+488. milk.
+1993. cream.
+Strictly follow the output format above. Do not output analysis. 

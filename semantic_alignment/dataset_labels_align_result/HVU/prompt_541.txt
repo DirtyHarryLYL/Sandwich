@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "waiting_in_line".
+There are 50 candidate verbs: 
+570. line. The definition is: be in line with; form a line along. The lexname is: stative. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1808. underline. The definition is: draw a line or lines underneath to call attention to. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+973. whine. The definition is: move with a whining sound. The lexname is: motion. 
+1761. whine. The definition is: move with a whining sound. The lexname is: motion. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+
+Output Format Example:
+570. line.
+1469. importune.
+Strictly follow the output format above. Do not output analysis. 

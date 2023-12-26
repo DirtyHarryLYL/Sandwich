@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_laser_tag".
+There are 50 candidate verbs: 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+2036. rave. The definition is: praise enthusiastically. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+1416. skirmish. The definition is: engage in a skirmish. The lexname is: competition. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1790. videotape. The definition is: record on videotape. The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1718. quest. The definition is: search the trail of (game). The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+115. relay. The definition is: pass along. The lexname is: communication. 
+87. relay. The definition is: pass along. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1299. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+1803. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+
+Output Format Example:
+474. disarm.
+2036. rave.
+Strictly follow the output format above. Do not output analysis. 

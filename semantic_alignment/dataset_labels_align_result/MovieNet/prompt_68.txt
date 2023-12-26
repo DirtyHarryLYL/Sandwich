@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "see a doctor".
+There are 50 candidate verbs: 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1074. diagnose. The definition is: subject to a medical analysis. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+2346. doctor.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

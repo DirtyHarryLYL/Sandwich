@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut potato into strips".
+There are 50 candidate verbs: 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1669. starch. The definition is: stiffen with starch. The lexname is: change. 
+1292. starch. The definition is: stiffen with starch. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+
+Output Format Example:
+143. french-fry.
+150. pan-fry.
+Strictly follow the output format above. Do not output analysis. 

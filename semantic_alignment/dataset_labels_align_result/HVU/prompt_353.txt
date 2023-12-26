@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_monopoly".
+There are 50 candidate verbs: 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2563. pay. The definition is: give money, usually in exchange for goods or services. The lexname is: possession. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1413. quarrel. The definition is: have a disagreement over something. The lexname is: communication. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+
+Output Format Example:
+1824. work.
+2005. network.
+Strictly follow the output format above. Do not output analysis. 

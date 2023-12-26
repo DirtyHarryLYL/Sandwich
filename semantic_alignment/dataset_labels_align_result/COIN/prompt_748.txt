@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "show the vanished glass".
+There are 50 candidate verbs: 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1248. glass.
+1627. witness.
+Strictly follow the output format above. Do not output analysis. 

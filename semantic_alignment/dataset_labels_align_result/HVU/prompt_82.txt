@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "geocaching".
+There are 50 candidate verbs: 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2688. memorize. The definition is: commit to memory; learn by heart. The lexname is: cognition. 
+897. picnic. The definition is: eat alfresco, in the open air. The lexname is: consumption. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2296. recognize. The definition is: be fully aware or cognizant of. The lexname is: cognition. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+
+Output Format Example:
+805. hike.
+2554. detect.
+Strictly follow the output format above. Do not output analysis. 

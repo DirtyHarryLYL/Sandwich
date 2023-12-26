@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_picks_up_person,".
+There are 50 candidate verbs: 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1146. pick. The definition is: look for and gather. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+738. preoccupy. The definition is: engage or engross the interest or attention of beforehand or occupy urgently or obsessively. The lexname is: emotion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2381. sell. The definition is: exchange or deliver for money or its equivalent. The lexname is: possession. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1148. procure. The definition is: get by special effort. The lexname is: possession. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+
+Output Format Example:
+2456. put.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

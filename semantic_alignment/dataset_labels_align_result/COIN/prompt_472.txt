@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dribble in the field".
+There are 50 candidate verbs: 
+1381. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+2255. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+495. rustle. The definition is: take illegally. The lexname is: possession. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+603. tremble. The definition is: move or jerk quickly and involuntarily up and down or sideways. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+903. nibble. The definition is: bite gently. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+752. startle. The definition is: to stimulate to action. The lexname is: emotion. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+820. skedaddle. The definition is: run away, as if in a panic. The lexname is: motion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+1381. dribble.
+2255. dribble.
+Strictly follow the output format above. Do not output analysis. 

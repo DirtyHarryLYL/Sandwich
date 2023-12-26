@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "align leg screw with table thread".
+There are 50 candidate verbs: 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+341. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1512. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+38. screw.
+2457. set.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "basketball screen".
+There are 50 candidate verbs: 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1601. monitor. The definition is: keep tabs on; keep an eye on; keep under surveillance. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1672. defend. The definition is: be the defense counsel for someone in a trial. The lexname is: social. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1346. kennel. The definition is: put up in a kennel. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+1923. screen.
+1265. panel.
+Strictly follow the output format above. Do not output analysis. 

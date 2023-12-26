@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding a sandwich".
+There are 50 candidate verbs: 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1792. address. The definition is: put an address on (an envelope). The lexname is: communication. 
+1405. argue. The definition is: have an argument about something. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1620. note. The definition is: make a written note of. The lexname is: communication. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+
+Output Format Example:
+2627. hold.
+1221. bread.
+Strictly follow the output format above. Do not output analysis. 

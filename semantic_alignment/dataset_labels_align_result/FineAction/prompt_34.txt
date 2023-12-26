@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ride scooter".
+There are 50 candidate verbs: 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+850. escort. The definition is: accompany as an escort. The lexname is: motion. 
+2348. escort. The definition is: accompany as an escort. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+843. zoom. The definition is: move along very quickly. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2191. skitter. The definition is: glide easily along a surface. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+
+Output Format Example:
+870. ride.
+2222. motorbike.
+Strictly follow the output format above. Do not output analysis. 

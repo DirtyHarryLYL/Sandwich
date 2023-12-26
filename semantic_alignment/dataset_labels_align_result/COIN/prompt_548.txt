@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clean the fountain pen with napkin".
+There are 50 candidate verbs: 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1158. blot. The definition is: dry (ink) with blotting paper. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1620. note. The definition is: make a written note of. The lexname is: communication. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+2683. cram. The definition is: prepare (students) hastily for an impending exam. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2418. spatter. The definition is: spot, splash, or soil. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+
+Output Format Example:
+1257. ink.
+2577. ink.
+Strictly follow the output format above. Do not output analysis. 

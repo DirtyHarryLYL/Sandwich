@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Mocha Nutella Gelato//add vanilla".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+959. squelch. The definition is: make a sucking sound. The lexname is: perception. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+646. wallow. The definition is: delight greatly in. The lexname is: consumption. 
+258. mellow. The definition is: make or grow (more) mellow. The lexname is: change. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1056. morph. The definition is: change shape as via computer animation. The lexname is: change. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+
+Output Format Example:
+1993. cream.
+1223. bronze.
+Strictly follow the output format above. Do not output analysis. 

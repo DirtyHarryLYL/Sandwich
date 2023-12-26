@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "football diving".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+57. dispatch. The definition is: send away towards a designated goal. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+
+Output Format Example:
+2076. dive.
+2063. punt.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "crossing_river".
+There are 50 candidate verbs: 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1976. crisscross. The definition is: cross in a pattern, often random. The lexname is: motion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2294. follow. The definition is: grasp the meaning. The lexname is: cognition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+2232. navigate. The definition is: direct carefully and safely. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2390. channel. The definition is: direct the flow of. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+
+Output Format Example:
+561. bridge.
+2206. coast.
+Strictly follow the output format above. Do not output analysis. 

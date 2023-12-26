@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "marriage_proposal".
+There are 50 candidate verbs: 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+110. promise. The definition is: make a promise or commitment. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1424. divorce. The definition is: get a divorce; formally terminate a marriage. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1421. court. The definition is: engage in social activities leading to marriage. The lexname is: social. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1399. compromise. The definition is: settle by concession. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+
+Output Format Example:
+1426. marry.
+110. promise.
+Strictly follow the output format above. Do not output analysis. 

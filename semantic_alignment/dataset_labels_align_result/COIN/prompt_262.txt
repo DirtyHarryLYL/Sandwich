@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "use a hair dryer to blow hot wall".
+There are 50 candidate verbs: 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+196. cool. The definition is: loose heat. The lexname is: change. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+
+Output Format Example:
+1534. blow.
+1496. blow.
+Strictly follow the output format above. Do not output analysis. 

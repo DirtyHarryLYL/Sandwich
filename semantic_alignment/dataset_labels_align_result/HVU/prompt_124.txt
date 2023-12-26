@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "weaving_basket".
+There are 50 candidate verbs: 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+1046. weave. The definition is: create a piece of cloth by interlacing strands of fabric, such as wool or cotton. The lexname is: creation. 
+1041. knit. The definition is: make (textiles) by knitting. The lexname is: creation. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1034. crochet. The definition is: create by looping or crocheting. The lexname is: creation. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2284. hamper. The definition is: prevent the progress or free movement of. The lexname is: change. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+
+Output Format Example:
+556. weave.
+1046. weave.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "brushing".
+There are 50 candidate verbs: 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2428. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+2121. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+245. hush. The definition is: cause to be quiet or not talk. The lexname is: change. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+900. chomp. The definition is: chew noisily. The lexname is: consumption. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2629. jab. The definition is: poke or thrust abruptly. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+
+Output Format Example:
+2407. brush.
+873. brush.
+Strictly follow the output format above. Do not output analysis. 

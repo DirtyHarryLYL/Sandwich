@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_climbs_up_ladder,".
+There are 50 candidate verbs: 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+199. de-escalate. The definition is: reduce the level or intensity or size or scope of. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+261. narrow. The definition is: make or become more narrow or restricted. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+
+Output Format Example:
+795. climb.
+2074. climb.
+Strictly follow the output format above. Do not output analysis. 

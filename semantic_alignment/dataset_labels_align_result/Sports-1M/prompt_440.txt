@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wushu (sport)".
+There are 50 candidate verbs: 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+
+Output Format Example:
+974. whish.
+2239. exercise.
+Strictly follow the output format above. Do not output analysis. 

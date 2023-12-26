@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build Simple Floating Shelves//sand shelve".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+772. float. The definition is: move lightly, as if suspended. The lexname is: motion. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2184. float. The definition is: be afloat either on or below a liquid surface and not sink to the bottom. The lexname is: motion. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1601. monitor. The definition is: keep tabs on; keep an eye on; keep under surveillance. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1924. seclude. The definition is: keep away from others. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+
+Output Format Example:
+1351. shelve.
+857. boat.
+Strictly follow the output format above. Do not output analysis. 

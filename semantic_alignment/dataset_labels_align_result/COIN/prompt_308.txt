@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install fan bracket".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+
+Output Format Example:
+2452. install.
+1821. tool.
+Strictly follow the output format above. Do not output analysis. 

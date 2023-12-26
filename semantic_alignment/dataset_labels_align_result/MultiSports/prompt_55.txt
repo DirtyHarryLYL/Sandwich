@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "basketball offensive rebound".
+There are 50 candidate verbs: 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1381. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+2255. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1153. overload. The definition is: become overloaded. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1672. defend. The definition is: be the defense counsel for someone in a trial. The lexname is: social. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+59. pass_on. The definition is: give to or transfer possession of. The lexname is: possession. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+
+Output Format Example:
+2062. pass.
+128. drive.
+Strictly follow the output format above. Do not output analysis. 

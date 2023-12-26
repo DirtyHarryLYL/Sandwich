@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mow lawn".
+There are 50 candidate verbs: 
+2511. mow. The definition is: cut with a blade or mower. The lexname is: contact. 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+1305. turf. The definition is: cover (the ground) with a surface layer of grass or grass roots. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2417. sow. The definition is: place (seeds) in or on the ground for future growth. The lexname is: contact. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+71. tool. The definition is: drive. The lexname is: motion. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+815. scram. The definition is: leave immediately; used usually in the imperative form. The lexname is: motion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+
+Output Format Example:
+2511. mow.
+1249. grass.
+Strictly follow the output format above. Do not output analysis. 

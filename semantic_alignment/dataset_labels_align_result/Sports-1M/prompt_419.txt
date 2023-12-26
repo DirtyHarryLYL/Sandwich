@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "savate".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1395. settle. The definition is: settle conclusively; come to terms. The lexname is: communication. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+752. startle. The definition is: to stimulate to action. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2213. vacate. The definition is: leave behind empty; move out of. The lexname is: motion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1100. qualify. The definition is: prove capable or fit; meet requirements. The lexname is: stative. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+398. separate. The definition is: divide into components or constituents. The lexname is: contact. 
+651. agitate. The definition is: cause to be agitated, excited, or roused. The lexname is: emotion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2478. conclude. The definition is: come to a close. The lexname is: stative. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+
+Output Format Example:
+2615. satirize.
+2633. constitute.
+Strictly follow the output format above. Do not output analysis. 

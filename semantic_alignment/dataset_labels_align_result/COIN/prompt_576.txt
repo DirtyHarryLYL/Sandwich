@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "screw off the screws and sheetmetals and baffles on the both sides of the CD drive".
+There are 50 candidate verbs: 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1790. videotape. The definition is: record on videotape. The lexname is: communication. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+71. tool. The definition is: drive. The lexname is: motion. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+
+Output Format Example:
+2455. reinstall.
+1500. hack.
+Strictly follow the output format above. Do not output analysis. 

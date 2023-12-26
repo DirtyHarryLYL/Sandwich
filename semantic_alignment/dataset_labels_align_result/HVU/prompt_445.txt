@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "making_a_cake".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1104. make. The definition is: engage in. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

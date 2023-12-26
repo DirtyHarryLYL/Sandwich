@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tuticorin Macaroons//preheat oven".
+There are 50 candidate verbs: 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+2035. preach. The definition is: speak, plead, or argue in favor of. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1744. peep. The definition is: make high-pitched sounds. The lexname is: communication. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2047. tell. The definition is: narrate or give a detailed account of. The lexname is: communication. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+
+Output Format Example:
+1027. bake.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

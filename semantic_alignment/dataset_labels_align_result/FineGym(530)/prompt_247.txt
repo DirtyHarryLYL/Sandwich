@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pike jump in side position".
+There are 50 candidate verbs: 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+587. flap. The definition is: move noisily. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1147. pluck. The definition is: pull or pull out sharply. The lexname is: contact. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2211. flee. The definition is: run away quickly. The lexname is: motion. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+2059. lob. The definition is: propel in a high arc. The lexname is: contact. 
+1900. rise. The definition is: move upward. The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+
+Output Format Example:
+1839. jump.
+2076. dive.
+Strictly follow the output format above. Do not output analysis. 

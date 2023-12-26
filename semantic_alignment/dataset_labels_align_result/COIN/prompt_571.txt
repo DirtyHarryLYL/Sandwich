@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "turn off the balde screw".
+There are 50 candidate verbs: 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+325. widen. The definition is: make wider. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+497. take. The definition is: take by force. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2282. exclude. The definition is: prevent from entering; shut out. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+263. open. The definition is: become open. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+496. seize. The definition is: take or capture by force. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+38. screw.
+1772. turn.
+Strictly follow the output format above. Do not output analysis. 

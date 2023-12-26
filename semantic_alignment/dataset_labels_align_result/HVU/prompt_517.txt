@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "steer_roping".
+There are 50 candidate verbs: 
+855. steer. The definition is: direct the course; determine the direction of travelling. The lexname is: motion. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1222. bridle. The definition is: put a bridle on. The lexname is: contact. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2194. tack. The definition is: turn into the wind. The lexname is: motion. 
+2234. tack. The definition is: turn into the wind. The lexname is: motion. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+
+Output Format Example:
+855. steer.
+37. rope.
+Strictly follow the output format above. Do not output analysis. 

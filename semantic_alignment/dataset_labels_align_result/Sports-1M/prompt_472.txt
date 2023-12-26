@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "whitewater kayaking".
+There are 50 candidate verbs: 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+730. overwhelm. The definition is: overcome, as with emotions or perceptual stimuli. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+871. row. The definition is: propel with oars. The lexname is: motion. 
+69. row. The definition is: propel with oars. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+
+Output Format Example:
+2221. kayak.
+2220. canoe.
+Strictly follow the output format above. Do not output analysis. 

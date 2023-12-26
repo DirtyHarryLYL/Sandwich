@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_pushes_in_chair,".
+There are 50 candidate verbs: 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+
+Output Format Example:
+338. smash.
+732. pain.
+Strictly follow the output format above. Do not output analysis. 

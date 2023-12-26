@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "preparing_salad".
+There are 50 candidate verbs: 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2683. cram. The definition is: prepare (students) hastily for an impending exam. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+298. steady. The definition is: make steady. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+
+Output Format Example:
+891. breakfast.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

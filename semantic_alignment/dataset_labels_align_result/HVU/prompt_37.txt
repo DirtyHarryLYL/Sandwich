@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cutting_orange".
+There are 50 candidate verbs: 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+
+Output Format Example:
+2475. cut_out.
+1430. cut.
+Strictly follow the output format above. Do not output analysis. 

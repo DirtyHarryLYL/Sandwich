@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_crosses_arms,".
+There are 50 candidate verbs: 
+1976. crisscross. The definition is: cross in a pattern, often random. The lexname is: motion. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2368. obtain. The definition is: come into possession of. The lexname is: possession. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2593. bless. The definition is: confer prosperity or happiness on. The lexname is: possession. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+55. convey. The definition is: transfer to another. The lexname is: possession. 
+
+Output Format Example:
+1976. crisscross.
+1540. cross.
+Strictly follow the output format above. Do not output analysis. 

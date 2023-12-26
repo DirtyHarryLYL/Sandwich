@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_jumps_into_pool,".
+There are 50 candidate verbs: 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+2004. pool.
+1385. spew.
+Strictly follow the output format above. Do not output analysis. 

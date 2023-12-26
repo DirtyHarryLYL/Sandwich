@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "putting_on_mascara".
+There are 50 candidate verbs: 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+834. tear. The definition is: move quickly and violently. The lexname is: motion. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+
+Output Format Example:
+1618. eye.
+2099. brush.
+Strictly follow the output format above. Do not output analysis. 

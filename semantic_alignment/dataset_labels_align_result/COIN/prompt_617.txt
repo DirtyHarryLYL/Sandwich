@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "connect the wire again".
+There are 50 candidate verbs: 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+696. entice. The definition is: provoke someone to do something through (often false or exaggerated) promises or persuasion. The lexname is: communication. 
+1465. entice. The definition is: provoke someone to do something through (often false or exaggerated) promises or persuasion. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2290. direct. The definition is: command with authority. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+
+Output Format Example:
+2001. connect.
+13. connect.
+Strictly follow the output format above. Do not output analysis. 

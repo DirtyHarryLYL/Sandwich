@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throw flower".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+424. winnow. The definition is: blow away or off with a current of air. The lexname is: change. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+2072. throw.
+1534. blow.
+Strictly follow the output format above. Do not output analysis. 

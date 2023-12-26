@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Fingerboard".
+There are 50 candidate verbs: 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+
+Output Format Example:
+2225. skateboard.
+970. twang.
+Strictly follow the output format above. Do not output analysis. 

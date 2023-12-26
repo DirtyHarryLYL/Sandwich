@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_snaps_fingers,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1556. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+954. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+
+Output Format Example:
+670. confuse.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

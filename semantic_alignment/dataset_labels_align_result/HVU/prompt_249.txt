@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "american_football".
+There are 50 candidate verbs: 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+
+Output Format Example:
+170. americanize.
+503. amerce.
+Strictly follow the output format above. Do not output analysis. 

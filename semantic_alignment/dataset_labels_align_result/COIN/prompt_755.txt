@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wet and wash the hair".
+There are 50 candidate verbs: 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+
+Output Format Example:
+2113. rinse.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

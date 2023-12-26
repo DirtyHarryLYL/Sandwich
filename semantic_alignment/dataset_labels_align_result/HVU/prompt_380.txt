@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "punching_person_boxing_".
+There are 50 candidate verbs: 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2629. jab. The definition is: poke or thrust abruptly. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1413. quarrel. The definition is: have a disagreement over something. The lexname is: communication. 
+
+Output Format Example:
+1857. punch.
+2672. jab.
+Strictly follow the output format above. Do not output analysis. 

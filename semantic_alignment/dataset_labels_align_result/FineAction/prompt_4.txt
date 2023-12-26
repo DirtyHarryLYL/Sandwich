@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hit baseball".
+There are 50 candidate verbs: 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+
+Output Format Example:
+2056. hit.
+2474. close.
+Strictly follow the output format above. Do not output analysis. 

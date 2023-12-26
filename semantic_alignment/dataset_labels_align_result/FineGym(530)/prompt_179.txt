@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "double salto backward stretched with 1 twist".
+There are 50 candidate verbs: 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2217. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+1008. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2390. channel. The definition is: direct the flow of. The lexname is: motion. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+1716. troll. The definition is: angle with a hook and line drawn through the water. The lexname is: competition. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+942. plop. The definition is: drop with the sound of something falling into water. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+1471. detach. The definition is: cause to become detached or separated; take off. The lexname is: contact. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+
+Output Format Example:
+784. twist.
+2055. flip.
+Strictly follow the output format above. Do not output analysis. 

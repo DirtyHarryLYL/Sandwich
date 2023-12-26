@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Nunchucks".
+There are 50 candidate verbs: 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+565. enclose. The definition is: surround completely. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+1480. unbuckle. The definition is: undo the buckle of. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+10. cinch. The definition is: tie a cinch around. The lexname is: contact. 
+27. manacle. The definition is: confine or restrain with or as if with manacles or handcuffs. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2084. rocket. The definition is: shoot up abruptly, like a rocket. The lexname is: motion. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+
+Output Format Example:
+1857. punch.
+2058. knock.
+Strictly follow the output format above. Do not output analysis. 

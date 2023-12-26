@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "doing_laundry".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+
+Output Format Example:
+2318. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

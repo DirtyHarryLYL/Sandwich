@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Christmas Cake//pour brandy".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+1233. crown. The definition is: put an enamel cover on. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

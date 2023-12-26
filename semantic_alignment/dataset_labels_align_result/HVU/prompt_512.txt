@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sweeping_floor".
+There are 50 candidate verbs: 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2300. clear. The definition is: make a way or path by removing objects. The lexname is: change. 
+2413. scatter. The definition is: sow by scattering. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+
+Output Format Example:
+2122. sweep.
+2404. sweep.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "insert money into the vending machine".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2450. deposit. The definition is: put into a bank account. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2386. cash. The definition is: exchange for cash. The lexname is: possession. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2381. sell. The definition is: exchange or deliver for money or its equivalent. The lexname is: possession. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+263. open. The definition is: become open. The lexname is: contact. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+
+Output Format Example:
+670. confuse.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

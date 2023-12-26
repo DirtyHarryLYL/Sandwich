@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pushing_wheelbarrow".
+There are 50 candidate verbs: 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2371. burden. The definition is: weight down with a load. The lexname is: contact. 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2101. plow. The definition is: to break and turn over earth especially with a plow. The lexname is: creation. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1933. outweigh. The definition is: be heavier than. The lexname is: competition. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1360. whirl. The definition is: cause to spin. The lexname is: motion. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+313. topple. The definition is: cause to topple or tumble by pushing. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1513. tug. The definition is: move by pulling hard. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+
+Output Format Example:
+1506. push.
+2699. push.
+Strictly follow the output format above. Do not output analysis. 

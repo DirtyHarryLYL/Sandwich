@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stacking".
+There are 50 candidate verbs: 
+2441. stack. The definition is: arrange in stacks. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+499. cost. The definition is: be priced at. The lexname is: stative. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+
+Output Format Example:
+2441. stack.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

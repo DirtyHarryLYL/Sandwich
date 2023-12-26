@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "paint on sugar".
+There are 50 candidate verbs: 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1660. distemper. The definition is: paint with distemper. The lexname is: creation. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1198. splotch. The definition is: blotch or spot. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+
+Output Format Example:
+1071. paint.
+2330. paint.
+Strictly follow the output format above. Do not output analysis. 

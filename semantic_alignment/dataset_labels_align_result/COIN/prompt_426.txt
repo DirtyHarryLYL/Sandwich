@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut into small pieces".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+
+Output Format Example:
+1430. cut.
+2510. crop.
+Strictly follow the output format above. Do not output analysis. 

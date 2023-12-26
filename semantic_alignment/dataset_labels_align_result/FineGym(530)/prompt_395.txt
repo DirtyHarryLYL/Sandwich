@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aerial walkover forward with 1 twist".
+There are 50 candidate verbs: 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2217. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+1008. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+
+Output Format Example:
+2055. flip.
+1992. tumble.
+Strictly follow the output format above. Do not output analysis. 

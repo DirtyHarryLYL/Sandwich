@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dunk basketball".
+There are 50 candidate verbs: 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2255. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+1381. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+
+Output Format Example:
+1880. slam.
+2065. slam.
+Strictly follow the output format above. Do not output analysis. 

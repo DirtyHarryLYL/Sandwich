@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Mocha Nutella Gelato//separate yolk from white".
+There are 50 candidate verbs: 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+258. mellow. The definition is: make or grow (more) mellow. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+321. volatilize. The definition is: make volatile; cause to pass off in a vapor. The lexname is: change. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+2351. mother. The definition is: care for like a mother. The lexname is: social. 
+1189. mottle. The definition is: colour with streaks or blotches of different shades. The lexname is: change. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1056. morph. The definition is: change shape as via computer animation. The lexname is: change. 
+646. wallow. The definition is: delight greatly in. The lexname is: consumption. 
+1315. yoke. The definition is: put a yoke on or join with a yoke. The lexname is: contact. 
+53. yoke. The definition is: put a yoke on or join with a yoke. The lexname is: contact. 
+
+Output Format Example:
+1017. model.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_closes_car_hood,".
+There are 50 candidate verbs: 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+263. open. The definition is: become open. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+
+Output Format Example:
+2475. cut_out.
+1162. close.
+Strictly follow the output format above. Do not output analysis. 

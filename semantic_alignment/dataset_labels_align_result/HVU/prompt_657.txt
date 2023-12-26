@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "surf_fishing".
+There are 50 candidate verbs: 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1202. suffuse. The definition is: cause to spread or flush or flood through, over, or across. The lexname is: change. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1716. troll. The definition is: angle with a hook and line drawn through the water. The lexname is: competition. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+
+Output Format Example:
+857. boat.
+1328. beach.
+Strictly follow the output format above. Do not output analysis. 

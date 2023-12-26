@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cleaning_toilet".
+There are 50 candidate verbs: 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+
+Output Format Example:
+414. flush.
+452. clean.
+Strictly follow the output format above. Do not output analysis. 

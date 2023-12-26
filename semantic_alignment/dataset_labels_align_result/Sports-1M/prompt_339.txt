@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ball hockey".
+There are 50 candidate verbs: 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+
+Output Format Example:
+2062. pass.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

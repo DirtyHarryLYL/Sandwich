@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Frappe//top with whipped cream".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1804. copy. The definition is: make a replica of. The lexname is: creation. 
+1779. copy. The definition is: make a replica of. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1214. superimpose. The definition is: place on top of. The lexname is: contact. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1956. whisk. The definition is: whip with or as if with a wire whisk. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+
+Output Format Example:
+1993. cream.
+488. milk.
+Strictly follow the output format above. Do not output analysis. 

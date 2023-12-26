@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "(swing forward) 0.5 turn and salto forward straddled".
+There are 50 candidate verbs: 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+591. oscillate. The definition is: move or swing from side to side regularly. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+2015. forward. The definition is: send or ship onward from an intermediate post or station in transit. The lexname is: motion. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+602. totter. The definition is: move without being stable, as if threatening to fall. The lexname is: motion. 
+1684. totter. The definition is: move without being stable, as if threatening to fall. The lexname is: motion. 
+837. totter. The definition is: move without being stable, as if threatening to fall. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+
+Output Format Example:
+778. swing.
+2089. swing.
+Strictly follow the output format above. Do not output analysis. 

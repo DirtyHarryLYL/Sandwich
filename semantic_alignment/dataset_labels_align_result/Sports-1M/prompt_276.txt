@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "motocross".
+There are 50 candidate verbs: 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+
+Output Format Example:
+2222. motorbike.
+2189. race.
+Strictly follow the output format above. Do not output analysis. 

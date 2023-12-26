@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Edamame Corn Salad//fold tomato".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+180. calcify. The definition is: convert into lime. The lexname is: change. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2035. preach. The definition is: speak, plead, or argue in favor of. The lexname is: communication. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+450. tail. The definition is: remove the stalk of fruits or berries. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+1230. chrome. The definition is: plate with chromium. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+
+Output Format Example:
+152. pickle.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

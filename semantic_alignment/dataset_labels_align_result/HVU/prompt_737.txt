@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "polishing_forniture".
+There are 50 candidate verbs: 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1106. antique. The definition is: shop for antiques. The lexname is: possession. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2636. patronize. The definition is: be a regular customer or client of. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+
+Output Format Example:
+1666. paint.
+1248. glass.
+Strictly follow the output format above. Do not output analysis. 

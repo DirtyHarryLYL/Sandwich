@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dyeing_hair".
+There are 50 candidate verbs: 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+166. age. The definition is: make older. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+
+Output Format Example:
+1661. dye.
+224. fade.
+Strictly follow the output format above. Do not output analysis. 

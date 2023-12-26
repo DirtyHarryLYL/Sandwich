@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "calculating".
+There are 50 candidate verbs: 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+514. estimate. The definition is: judge tentatively or form an estimate of (quantities or time). The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+400. subtract. The definition is: make a subtraction. The lexname is: cognition. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+84. explain. The definition is: define. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+520. rate. The definition is: estimate the value of. The lexname is: cognition. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+
+Output Format Example:
+1610. survey.
+514. estimate.
+Strictly follow the output format above. Do not output analysis. 

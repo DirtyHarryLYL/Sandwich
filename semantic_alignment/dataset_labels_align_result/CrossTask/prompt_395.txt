@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tuna Salad//add salt".
+There are 50 candidate verbs: 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+
+Output Format Example:
+1281. salt.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

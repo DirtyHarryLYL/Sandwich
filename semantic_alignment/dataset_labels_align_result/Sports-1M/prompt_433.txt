@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sumo".
+There are 50 candidate verbs: 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+948. rumble. The definition is: make a low noise. The lexname is: perception. 
+1758. rumble. The definition is: make a low noise. The lexname is: perception. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2528. summon. The definition is: ask to come. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+624. fume. The definition is: be mad, angry, or furious. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+768. smite. The definition is: affect suddenly with deep feeling. The lexname is: emotion. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+565. enclose. The definition is: surround completely. The lexname is: contact. 
+672. crush. The definition is: humiliate or depress completely. The lexname is: emotion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+
+Output Format Example:
+1615. behold.
+728. numb.
+Strictly follow the output format above. Do not output analysis. 

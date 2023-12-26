@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put the pin in".
+There are 50 candidate verbs: 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+263. open. The definition is: become open. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+
+Output Format Example:
+33. pin.
+2456. put.
+Strictly follow the output format above. Do not output analysis. 

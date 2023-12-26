@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "head_stand".
+There are 50 candidate verbs: 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+568. head. The definition is: be in the front of or on top of. The lexname is: stative. 
+1904. stand. The definition is: occupy a place or location, also metaphorically. The lexname is: stative. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+
+Output Format Example:
+431. head.
+1376. stand.
+Strictly follow the output format above. Do not output analysis. 

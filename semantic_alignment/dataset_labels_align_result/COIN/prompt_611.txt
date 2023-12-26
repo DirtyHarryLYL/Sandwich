@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unscrew the screws used to fix the screen".
+There are 50 candidate verbs: 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1309. wallpaper. The definition is: cover with wallpaper. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+1923. screen.
+2455. reinstall.
+Strictly follow the output format above. Do not output analysis. 

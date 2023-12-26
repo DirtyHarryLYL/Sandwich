@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "archaeological_excavation".
+There are 50 candidate verbs: 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1691. mine. The definition is: get from the earth by excavation. The lexname is: consumption. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+
+Output Format Example:
+1704. excavate.
+2328. dig.
+Strictly follow the output format above. Do not output analysis. 

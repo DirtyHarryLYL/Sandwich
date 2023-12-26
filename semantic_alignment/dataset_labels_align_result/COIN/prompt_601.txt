@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the new faucet".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1961. fasten. The definition is: become fixed or fastened. The lexname is: contact. 
+15. fasten. The definition is: cause to be firmly attached. The lexname is: contact. 
+227. fill. The definition is: become full. The lexname is: change. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1215. tack_on. The definition is: fasten with tacks. The lexname is: contact. 
+
+Output Format Example:
+2452. install.
+414. flush.
+Strictly follow the output format above. Do not output analysis. 

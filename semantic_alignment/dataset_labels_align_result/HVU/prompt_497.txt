@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "threading_needle".
+There are 50 candidate verbs: 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+372. unbend. The definition is: free from flexure. The lexname is: contact. 
+1559. twiddle. The definition is: manipulate, as in a nervous or unconscious manner. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1153. overload. The definition is: become overloaded. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2665. thud. The definition is: strike with a dull sound. The lexname is: contact. 
+961. thud. The definition is: strike with a dull sound. The lexname is: contact. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1883. thrash. The definition is: beat the seeds out of a grain. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+
+Output Format Example:
+2427. string.
+1355. string.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take down the closestool".
+There are 50 candidate verbs: 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+189. clog. The definition is: become or cause to become obstructed. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+383. depose. The definition is: force to leave (an office). The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+
+Output Format Example:
+384. dislodge.
+1162. close.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "apply detergent to leather".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+
+Output Format Example:
+452. clean.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

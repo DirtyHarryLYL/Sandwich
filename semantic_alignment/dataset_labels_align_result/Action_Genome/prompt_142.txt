@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Closing a refrigerator".
+There are 50 candidate verbs: 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+
+Output Format Example:
+190. close.
+2314. microwave.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ski touring".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+
+Output Format Example:
+2226. ski.
+2173. trek.
+Strictly follow the output format above. Do not output analysis. 

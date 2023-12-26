@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "chopping_vegetables".
+There are 50 candidate verbs: 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+
+Output Format Example:
+1878. knife.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

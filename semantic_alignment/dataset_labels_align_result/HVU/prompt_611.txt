@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bench_pressing".
+There are 50 candidate verbs: 
+1330. bench. The definition is: take out of a game; of players. The lexname is: social. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+
+Output Format Example:
+1330. bench.
+303. strengthen.
+Strictly follow the output format above. Do not output analysis. 

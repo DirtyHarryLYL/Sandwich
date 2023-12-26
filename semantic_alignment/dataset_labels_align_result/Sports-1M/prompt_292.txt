@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "banger racing".
+There are 50 candidate verbs: 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1133. barter. The definition is: exchange goods without involving money. The lexname is: possession. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+1920. impound. The definition is: place or shut up in a pound. The lexname is: contact. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+751. stagger. The definition is: astound or overwhelm, as with shock. The lexname is: emotion. 
+1570. fart. The definition is: expel intestinal gases through the anus. The lexname is: body. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+208. derail. The definition is: cause to run off the tracks. The lexname is: motion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+
+Output Format Example:
+62. shunt.
+2189. race.
+Strictly follow the output format above. Do not output analysis. 

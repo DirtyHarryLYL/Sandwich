@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Fixing their hair".
+There are 50 candidate verbs: 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1971. couple. The definition is: link together. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+166. age. The definition is: make older. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+
+Output Format Example:
+442. scalp.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

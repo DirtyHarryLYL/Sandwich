@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dragon boat".
+There are 50 candidate verbs: 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+1452. dragoon. The definition is: compel by coercion, threats, or crude means. The lexname is: social. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+528. congregate. The definition is: come together, usually for a purpose. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+
+Output Format Example:
+857. boat.
+2023. barge.
+Strictly follow the output format above. Do not output analysis. 

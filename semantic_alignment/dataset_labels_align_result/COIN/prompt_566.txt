@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take out the old rubber sleeve from the wiper head".
+There are 50 candidate verbs: 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+378. squeegee. The definition is: wipe with a squeegee. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+56. deliver. The definition is: bring to a destination, make a delivery. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1620. note. The definition is: make a written note of. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+
+Output Format Example:
+1610. survey.
+1266. paper.
+Strictly follow the output format above. Do not output analysis. 

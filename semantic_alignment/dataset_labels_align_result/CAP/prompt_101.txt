@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_exercises_with_jumping_jacks,".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+597. shake. The definition is: move with or as if with a tremor. The lexname is: body. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+603. tremble. The definition is: move or jerk quickly and involuntarily up and down or sideways. The lexname is: motion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+
+Output Format Example:
+2239. exercise.
+1839. jump.
+Strictly follow the output format above. Do not output analysis. 

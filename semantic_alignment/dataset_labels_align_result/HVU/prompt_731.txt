@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spread_mulch".
+There are 50 candidate verbs: 
+1261. mulch. The definition is: cover with mulch. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2437. heap. The definition is: fill to overflow. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+959. squelch. The definition is: make a sucking sound. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2610. mock. The definition is: treat with contempt. The lexname is: communication. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+524. aggregate. The definition is: gather in a mass, sum, or whole. The lexname is: contact. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+2418. spatter. The definition is: spot, splash, or soil. The lexname is: contact. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+583. creep. The definition is: grow or spread, often in such a way as to cover (a surface). The lexname is: motion. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1883. thrash. The definition is: beat the seeds out of a grain. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2207. depart. The definition is: leave. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+
+Output Format Example:
+1261. mulch.
+2421. spread.
+Strictly follow the output format above. Do not output analysis. 

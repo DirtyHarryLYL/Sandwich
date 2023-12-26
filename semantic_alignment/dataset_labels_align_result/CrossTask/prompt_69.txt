@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make French Toast//pour egg".
+There are 50 candidate verbs: 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+166. age. The definition is: make older. The lexname is: change. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+
+Output Format Example:
+2619. toast.
+892. brunch.
+Strictly follow the output format above. Do not output analysis. 

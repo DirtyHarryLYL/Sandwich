@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "invert the volumetric flask".
+There are 50 candidate verbs: 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+506. invoice. The definition is: send an bill to. The lexname is: possession. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+321. volatilize. The definition is: make volatile; cause to pass off in a vapor. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1622. perceive. The definition is: to become aware of through the senses. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+
+Output Format Example:
+1035. develop.
+1332. bottle.
+Strictly follow the output format above. Do not output analysis. 

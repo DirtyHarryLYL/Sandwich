@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dip detergent with rag or apply detergent".
+There are 50 candidate verbs: 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+344. dehumidify. The definition is: make less humid. The lexname is: change. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+477. divest. The definition is: reduce or dispose of; cease to hold (an investment). The lexname is: possession. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+
+Output Format Example:
+876. wash.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

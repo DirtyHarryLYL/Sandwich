@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "insert oil gun in the car".
+There are 50 candidate verbs: 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+
+Output Format Example:
+1264. oil.
+71. tool.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clean the surface".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+
+Output Format Example:
+452. clean.
+467. eviscerate.
+Strictly follow the output format above. Do not output analysis. 

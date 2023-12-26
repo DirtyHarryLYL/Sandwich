@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pull open the stapler".
+There are 50 candidate verbs: 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+42. staple. The definition is: secure or fasten with a staple or staples. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+263. open. The definition is: become open. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+1199. staff. The definition is: provide with staff. The lexname is: competition. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+
+Output Format Example:
+2266. spew.
+1385. spew.
+Strictly follow the output format above. Do not output analysis. 

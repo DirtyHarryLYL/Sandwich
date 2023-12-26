@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Sourdough Pancakes//pour oil".
+There are 50 candidate verbs: 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+
+Output Format Example:
+1383. pour.
+2261. pour.
+Strictly follow the output format above. Do not output analysis. 

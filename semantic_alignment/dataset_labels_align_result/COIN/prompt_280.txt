@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shake and stir".
+There are 50 candidate verbs: 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+597. shake. The definition is: move with or as if with a tremor. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+298. steady. The definition is: make steady. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+
+Output Format Example:
+2403. shake.
+1553. shake.
+Strictly follow the output format above. Do not output analysis. 

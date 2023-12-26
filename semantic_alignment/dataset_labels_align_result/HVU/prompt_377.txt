@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pumping_gas".
+There are 50 candidate verbs: 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+859. bus. The definition is: ride in a bus. The lexname is: motion. 
+1920. impound. The definition is: place or shut up in a pound. The lexname is: contact. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2014. express. The definition is: send by rapid transport or special messenger service. The lexname is: communication. 
+2563. pay. The definition is: give money, usually in exchange for goods or services. The lexname is: possession. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+
+Output Format Example:
+2411. pump.
+1242. fuel.
+Strictly follow the output format above. Do not output analysis. 

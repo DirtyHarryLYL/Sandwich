@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "align side panel holes with front panel dowels".
+There are 50 candidate verbs: 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+20. hinge. The definition is: attach with a hinge. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1194. riddle. The definition is: pierce with many holes. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1308. veneer. The definition is: cover with veneer. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1966. toggle. The definition is: fasten with, or as if with, a toggle. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+
+Output Format Example:
+1265. panel.
+2457. set.
+Strictly follow the output format above. Do not output analysis. 

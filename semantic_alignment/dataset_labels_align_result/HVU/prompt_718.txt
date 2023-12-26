@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "snow_tubing".
+There are 50 candidate verbs: 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+824. slither. The definition is: to pass or move unobtrusively or smoothly. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1008. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+2217. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1305. turf. The definition is: cover (the ground) with a surface layer of grass or grass roots. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+
+Output Format Example:
+2228. toboggan.
+858. bobsled.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_flips_up_car_wipers,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+
+Output Format Example:
+670. confuse.
+1627. witness.
+Strictly follow the output format above. Do not output analysis. 

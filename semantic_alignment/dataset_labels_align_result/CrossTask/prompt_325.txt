@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change Wheel Bearings//remove brake_caliper with screwdriver".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+
+Output Format Example:
+312. tire.
+1259. lubricate.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+95. converse. The definition is: carry on a conversation. The lexname is: communication. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+
+Output Format Example:
+1284. shoe.
+2420. spray.
+Strictly follow the output format above. Do not output analysis. 

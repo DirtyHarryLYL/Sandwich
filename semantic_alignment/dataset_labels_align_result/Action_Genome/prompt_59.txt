@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Sitting in a chair".
+There are 50 candidate verbs: 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1330. bench. The definition is: take out of a game; of players. The lexname is: social. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1903. squat. The definition is: sit on one's heels. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+665. calm. The definition is: make calm or still. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1518. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1897. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+539. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+
+Output Format Example:
+1373. sit.
+2148. sit.
+Strictly follow the output format above. Do not output analysis. 

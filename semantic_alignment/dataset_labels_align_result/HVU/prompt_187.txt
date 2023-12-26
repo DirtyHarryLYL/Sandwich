@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "drumming_fingers".
+There are 50 candidate verbs: 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+655. anger. The definition is: become angry. The lexname is: emotion. 
+609. anger. The definition is: become angry. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1533. beat. The definition is: strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2645. paw. The definition is: touch clumsily. The lexname is: contact. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+
+Output Format Example:
+2669. drum.
+2647. pinch.
+Strictly follow the output format above. Do not output analysis. 

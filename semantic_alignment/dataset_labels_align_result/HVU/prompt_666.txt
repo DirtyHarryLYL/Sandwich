@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "photocopying".
+There are 50 candidate verbs: 
+1785. photocopy. The definition is: reproduce by xerography. The lexname is: creation. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+113. fax. The definition is: send something via a facsimile machine. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1608. scan. The definition is: examine hastily. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1786. photograph. The definition is: record on photographic film. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+
+Output Format Example:
+1785. photocopy.
+2579. print.
+Strictly follow the output format above. Do not output analysis. 

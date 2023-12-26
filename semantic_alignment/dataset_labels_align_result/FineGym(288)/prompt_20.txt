@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tsukahara stretched with 1.5 turn".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1471. detach. The definition is: cause to become detached or separated; take off. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+959. squelch. The definition is: make a sucking sound. The lexname is: perception. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+400. subtract. The definition is: make a subtraction. The lexname is: cognition. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+2378. surrender. The definition is: relinquish possession or control over. The lexname is: possession. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+504. bet. The definition is: stake on the outcome of an issue. The lexname is: competition. 
+2665. thud. The definition is: strike with a dull sound. The lexname is: contact. 
+961. thud. The definition is: strike with a dull sound. The lexname is: contact. 
+
+Output Format Example:
+1772. turn.
+2396. tuck.
+Strictly follow the output format above. Do not output analysis. 

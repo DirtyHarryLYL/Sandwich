@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Flank Steak//season steak".
+There are 50 candidate verbs: 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+
+Output Format Example:
+145. grill.
+2312. grill.
+Strictly follow the output format above. Do not output analysis. 

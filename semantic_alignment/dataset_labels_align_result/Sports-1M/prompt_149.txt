@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pétanque".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1250. gravel. The definition is: cover with gravel. The lexname is: contact. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+2201. promenade. The definition is: take a leisurely walk. The lexname is: motion. 
+2253. bead. The definition is: form into beads, as of water or sweat, for example. The lexname is: stative. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+897. picnic. The definition is: eat alfresco, in the open air. The lexname is: consumption. 
+1459. persuade. The definition is: cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2586. participate. The definition is: share in something. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1238. fence. The definition is: enclose with a fence. The lexname is: contact. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+
+Output Format Example:
+999. ball.
+132. stone.
+Strictly follow the output format above. Do not output analysis. 

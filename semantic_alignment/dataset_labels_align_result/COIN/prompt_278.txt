@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "add a small amount of salt to Neti Pot".
+There are 50 candidate verbs: 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+2121. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+2428. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+775. nose. The definition is: push or move with the nose. The lexname is: motion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1244. gag. The definition is: tie a gag around someone's mouth in order to silence them. The lexname is: contact. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+1575. snuff. The definition is: inhale audibly through the nose. The lexname is: body. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+
+Output Format Example:
+1310. water.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

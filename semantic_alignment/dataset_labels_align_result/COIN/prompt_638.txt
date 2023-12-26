@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "remove the old hard disk".
+There are 50 candidate verbs: 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1424. divorce. The definition is: get a divorce; formally terminate a marriage. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+
+Output Format Example:
+2455. reinstall.
+411. remove.
+Strictly follow the output format above. Do not output analysis. 

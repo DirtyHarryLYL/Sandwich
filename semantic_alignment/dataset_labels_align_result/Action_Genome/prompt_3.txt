@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Throwing clothes somewhere".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+
+Output Format Example:
+2072. throw.
+2235. wear.
+Strictly follow the output format above. Do not output analysis. 

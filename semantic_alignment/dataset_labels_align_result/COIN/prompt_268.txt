@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install new glass on window lift".
+There are 50 candidate verbs: 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1512. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+341. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1670. tint. The definition is: color lightly. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+921. clink.
+190. close.
+Strictly follow the output format above. Do not output analysis. 

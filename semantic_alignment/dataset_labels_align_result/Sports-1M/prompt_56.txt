@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "krav maga".
+There are 50 candidate verbs: 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1413. quarrel. The definition is: have a disagreement over something. The lexname is: communication. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+486. kidnap. The definition is: take away to an undisclosed location against their will and usually in order to extract a ransom. The lexname is: contact. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+
+Output Format Example:
+1407. brawl.
+2600. defame.
+Strictly follow the output format above. Do not output analysis. 

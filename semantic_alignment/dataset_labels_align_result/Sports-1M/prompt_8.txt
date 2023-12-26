@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unicycle".
+There are 50 candidate verbs: 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+788. ambulate. The definition is: walk about; not be bedridden or incapable of walking. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+1170. encircle. The definition is: form a circle around. The lexname is: contact. 
+564. encircle. The definition is: form a circle around. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1480. unbuckle. The definition is: undo the buckle of. The lexname is: contact. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+582. circulate. The definition is: cause to move in a circuit or system. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+574. rim. The definition is: run around the rim of. The lexname is: stative. 
+
+Output Format Example:
+2219. bicycle.
+1526. spin.
+Strictly follow the output format above. Do not output analysis. 

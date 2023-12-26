@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_salutes,".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+
+Output Format Example:
+2615. satirize.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "transfer and dissolve the solute".
+There are 50 candidate verbs: 
+1058. transmute. The definition is: alter the nature of (elements). The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1064. assimilate. The definition is: become similar to one's environment. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2132. absolve. The definition is: let off the hook. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+55. convey. The definition is: transfer to another. The lexname is: possession. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+177. broaden. The definition is: become broader. The lexname is: change. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+294. solidify. The definition is: become solid. The lexname is: change. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+276. redouble. The definition is: double again. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+
+Output Format Example:
+1058. transmute.
+2565. become.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wipe the scratch with cloth".
+There are 50 candidate verbs: 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2656. crack. The definition is: hit forcefully; deal a hard blow, making a cracking noise. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+
+Output Format Example:
+2125. wipe.
+1858. scratch.
+Strictly follow the output format above. Do not output analysis. 

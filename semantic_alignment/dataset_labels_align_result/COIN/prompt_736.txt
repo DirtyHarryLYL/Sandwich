@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "filtrate with a filter".
+There are 50 candidate verbs: 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+761. titillate. The definition is: excite pleasurably or erotically. The lexname is: emotion. 
+2080. fluctuate. The definition is: be unstable. The lexname is: change. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1058. transmute. The definition is: alter the nature of (elements). The lexname is: change. 
+321. volatilize. The definition is: make volatile; cause to pass off in a vapor. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+986. shimmer. The definition is: shine with a weak or fitful light. The lexname is: weather. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+270. purify. The definition is: remove impurities from, increase the concentration of, and separate through the process of distillation. The lexname is: change. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+352. nitrify. The definition is: convert into nitric acid, nitrous acid, or nitrate, especially with the action of nitrobacteria. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+
+Output Format Example:
+374. filter.
+1968. fixate.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "drill rock".
+There are 50 candidate verbs: 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+216. dull. The definition is: make dull or blunt. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+968. trill. The definition is: pronounce with a trill, of the phoneme `r'. The lexname is: communication. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+723. lull. The definition is: calm by deception. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+470. rid. The definition is: relieve from. The lexname is: possession. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+
+Output Format Example:
+595. rock.
+1682. rock.
+Strictly follow the output format above. Do not output analysis. 

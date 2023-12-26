@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Black Forest Cake//beat mixture".
+There are 50 candidate verbs: 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+725. miff. The definition is: cause to be annoyed. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+305. sweeten.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

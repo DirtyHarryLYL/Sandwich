@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "waving_hand".
+There are 50 candidate verbs: 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1563. clap. The definition is: clap one's hands together. The lexname is: body. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+2645. paw. The definition is: touch clumsily. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1853. claw. The definition is: scratch, scrape, pull, or dig with claws or nails. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+1874. cuff. The definition is: hit with the hand. The lexname is: contact. 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+110. promise. The definition is: make a promise or commitment. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+
+Output Format Example:
+2627. hold.
+2638. grasp.
+Strictly follow the output format above. Do not output analysis. 

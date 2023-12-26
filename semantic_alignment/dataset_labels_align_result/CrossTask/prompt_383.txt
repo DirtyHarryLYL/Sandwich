@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Limeade//add water".
+There are 50 candidate verbs: 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+938. lilt. The definition is: articulate in a very careful and rhythmic way. The lexname is: communication. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+717. intimidate. The definition is: make timid or fearful. The lexname is: emotion. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+1064. assimilate. The definition is: become similar to one's environment. The lexname is: change. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+325. widen. The definition is: make wider. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+180. calcify. The definition is: convert into lime. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+
+Output Format Example:
+246. hydrate.
+1184. inundate.
+Strictly follow the output format above. Do not output analysis. 

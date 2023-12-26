@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aggressive inline skating".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+608. writhe. The definition is: to move in a twisting or contorted motion, (especially when struggling). The lexname is: motion. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+821. skulk. The definition is: move stealthily. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2521. scrape. The definition is: scratch repeatedly. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+
+Output Format Example:
+2224. skate.
+2225. skateboard.
+Strictly follow the output format above. Do not output analysis. 

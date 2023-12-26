@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "embroidering".
+There are 50 candidate verbs: 
+1036. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1811. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1809. applique. The definition is: sew on as a decoration. The lexname is: creation. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1041. knit. The definition is: make (textiles) by knitting. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+1941. baste. The definition is: sew together loosely, with large stitches. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1034. crochet. The definition is: create by looping or crocheting. The lexname is: creation. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1267. patch. The definition is: mend by putting a patch on. The lexname is: change. 
+1819. stipple. The definition is: engrave by means of dots and flicks. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+
+Output Format Example:
+1036. embroider.
+1811. embroider.
+Strictly follow the output format above. Do not output analysis. 

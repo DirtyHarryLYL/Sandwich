@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "making_snowman".
+There are 50 candidate verbs: 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1313. whitewash. The definition is: cover with whitewash. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+
+Output Format Example:
+1281. salt.
+2335. make.
+Strictly follow the output format above. Do not output analysis. 

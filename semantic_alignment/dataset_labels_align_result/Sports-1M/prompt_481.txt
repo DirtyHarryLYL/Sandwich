@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wingsuit flying".
+There are 50 candidate verbs: 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+863. jet. The definition is: fly a jet plane. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2088. soar. The definition is: go or move upward. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+789. backpack. The definition is: hike with a backpack. The lexname is: motion. 
+587. flap. The definition is: move noisily. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+
+Output Format Example:
+2231. fly.
+2076. dive.
+Strictly follow the output format above. Do not output analysis. 

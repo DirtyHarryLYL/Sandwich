@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "following".
+There are 50 candidate verbs: 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+2294. follow. The definition is: grasp the meaning. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+261. narrow. The definition is: make or become more narrow or restricted. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+
+Output Format Example:
+846. follow.
+2294. follow.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "side_kick".
+There are 50 candidate verbs: 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+300. stiffen. The definition is: make stiff or stiffer. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+820. skedaddle. The definition is: run away, as if in a panic. The lexname is: motion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+821. skulk. The definition is: move stealthily. The lexname is: motion. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2655. collide. The definition is: crash together with violent impact. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+
+Output Format Example:
+1854. kick.
+2673. kick.
+Strictly follow the output format above. Do not output analysis. 

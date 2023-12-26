@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take out the slice of bread".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+
+Output Format Example:
+1430. cut.
+1859. slice.
+Strictly follow the output format above. Do not output analysis. 

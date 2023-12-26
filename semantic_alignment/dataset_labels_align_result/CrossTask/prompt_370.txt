@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change The Brake Pads in Your Car//raise car".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2540. chafe. The definition is: tear or wear off the skin or make sore by abrading. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2563. pay. The definition is: give money, usually in exchange for goods or services. The lexname is: possession. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+481. carjack. The definition is: take someone's car from him by force, usually with the intention of stealing it. The lexname is: contact. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+
+Output Format Example:
+312. tire.
+2237. change.
+Strictly follow the output format above. Do not output analysis. 

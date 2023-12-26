@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ride motorcycle".
+There are 50 candidate verbs: 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+859. bus. The definition is: ride in a bus. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+
+Output Format Example:
+2222. motorbike.
+2219. bicycle.
+Strictly follow the output format above. Do not output analysis. 

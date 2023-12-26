@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "RopeClimbing".
+There are 50 candidate verbs: 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+9. chain. The definition is: fasten or secure with chains. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+28. moor. The definition is: secure with cables or ropes. The lexname is: contact. 
+1964. moor. The definition is: secure with cables or ropes. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+493. rescue. The definition is: take forcibly from legal custody. The lexname is: possession. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+
+Output Format Example:
+37. rope.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

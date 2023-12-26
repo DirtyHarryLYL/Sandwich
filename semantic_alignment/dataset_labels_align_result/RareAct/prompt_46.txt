@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throw spoon".
+There are 50 candidate verbs: 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2525. ream. The definition is: enlarge with a reamer. The lexname is: change. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+815. scram. The definition is: leave immediately; used usually in the imperative form. The lexname is: motion. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+478. deprive. The definition is: take away. The lexname is: change. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1149. pull. The definition is: take away. The lexname is: change. 
+
+Output Format Example:
+2394. spoon.
+884. spoonfeed.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the new air nozzle".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1173. fill. The definition is: become full. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+2452. install.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "team penning".
+There are 50 candidate verbs: 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2162. teem. The definition is: be teeming, be abuzz. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2358. sponsor. The definition is: assume responsibility for or leadership of. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2345. crew. The definition is: serve as a crew member on. The lexname is: competition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+532. group. The definition is: form a group or group together. The lexname is: competition. 
+1947. group. The definition is: form a group or group together. The lexname is: competition. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1199. staff. The definition is: provide with staff. The lexname is: competition. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+
+Output Format Example:
+1602. peruse.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

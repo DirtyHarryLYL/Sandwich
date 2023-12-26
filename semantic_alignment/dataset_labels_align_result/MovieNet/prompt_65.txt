@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "climb stairs".
+There are 50 candidate verbs: 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+1905. stoop. The definition is: descend swiftly, as if on prey. The lexname is: motion. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+199. de-escalate. The definition is: reduce the level or intensity or size or scope of. The lexname is: change. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+252. level. The definition is: become level or even. The lexname is: change. 
+796. clump. The definition is: walk clumsily. The lexname is: motion. 
+830. stomp. The definition is: walk heavily. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+298. steady. The definition is: make steady. The lexname is: change. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2157. zigzag. The definition is: travel along a zigzag path. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+842. zigzag. The definition is: travel along a zigzag path. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+
+Output Format Example:
+2154. climb.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

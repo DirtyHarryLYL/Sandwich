@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_unplugs_from_electrical_socket,".
+There are 50 candidate verbs: 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+
+Output Format Example:
+1192. plug.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

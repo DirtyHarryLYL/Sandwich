@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hockey_stop".
+There are 50 candidate verbs: 
+2288. stop. The definition is: stop from happening or developing. The lexname is: social. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+380. abolish. The definition is: do away with. The lexname is: social. 
+2482. stop. The definition is: come to a halt, stop moving. The lexname is: motion. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+748. shock. The definition is: strike with horror or terror. The lexname is: emotion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1651. stop. The definition is: interrupt a trip. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2339. captain. The definition is: be the captain of a sports team. The lexname is: social. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+
+Output Format Example:
+2288. stop.
+2476. halt.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "HorseRace".
+There are 50 candidate verbs: 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+
+Output Format Example:
+1743. neigh.
+2189. race.
+Strictly follow the output format above. Do not output analysis. 

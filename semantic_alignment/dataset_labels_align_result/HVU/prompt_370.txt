@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pole_vault".
+There are 50 candidate verbs: 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+864. punt. The definition is: propel with a pole. The lexname is: contact. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+102. proclaim. The definition is: state or announce. The lexname is: communication. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2332. proclaim. The definition is: declare formally; declare someone to be something; of titles. The lexname is: communication. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2247. bolt. The definition is: swallow hastily. The lexname is: consumption. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+993. hail. The definition is: call for. The lexname is: communication. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+
+Output Format Example:
+2174. vault.
+864. punt.
+Strictly follow the output format above. Do not output analysis. 

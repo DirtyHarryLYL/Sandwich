@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "PizzaTossing".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+
+Output Format Example:
+2615. satirize.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

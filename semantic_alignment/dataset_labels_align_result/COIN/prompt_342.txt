@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "place crossbar on shelves".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2368. obtain. The definition is: come into possession of. The lexname is: possession. 
+66. import. The definition is: bring in from abroad. The lexname is: possession. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+497. take. The definition is: take by force. The lexname is: possession. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+192. coarsen. The definition is: make or become coarse or coarser. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1357. warehouse. The definition is: store in a warehouse. The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2388. get. The definition is: purchase. The lexname is: possession. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2446. jam. The definition is: crowd or pack to capacity. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+
+Output Format Example:
+1351. shelve.
+2442. stock.
+Strictly follow the output format above. Do not output analysis. 

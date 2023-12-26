@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Blueberry Pancakes//sprinkle blueberries".
+There are 50 candidate verbs: 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+271. purple. The definition is: color purple. The lexname is: change. 
+2422. sprinkle. The definition is: scatter with liquid; wet lightly. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2484. bruise. The definition is: damage (plant tissue) by abrasion or pressure. The lexname is: change. 
+983. glitter. The definition is: be shiny, as if wet. The lexname is: perception. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+789. backpack. The definition is: hike with a backpack. The lexname is: motion. 
+2543. bruise. The definition is: injure the underlying soft tissue or bone of. The lexname is: contact. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1668. stain. The definition is: color for microscopic study. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2564. tithe. The definition is: pay a tenth of one's income, especially to the church. The lexname is: possession. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+659. awe. The definition is: inspire awe in. The lexname is: emotion. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+1291. stain. The definition is: color with a liquid dye or tint. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+
+Output Format Example:
+1107. berry.
+1109. blackberry.
+Strictly follow the output format above. Do not output analysis. 

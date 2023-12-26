@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding a box".
+There are 50 candidate verbs: 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+
+Output Format Example:
+1333. box.
+2627. hold.
+Strictly follow the output format above. Do not output analysis. 

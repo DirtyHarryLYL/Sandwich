@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mopping_floor".
+There are 50 candidate verbs: 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+
+Output Format Example:
+2122. sweep.
+2106. vacuum.
+Strictly follow the output format above. Do not output analysis. 

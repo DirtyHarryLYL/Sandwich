@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rotate table".
+There are 50 candidate verbs: 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+520. rate. The definition is: estimate the value of. The lexname is: cognition. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1921. isolate. The definition is: place or set apart. The lexname is: change. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1649. reside. The definition is: make one's home in a particular place or community. The lexname is: stative. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1984. correlate. The definition is: bring into a mutual, complementary, or reciprocal relation. The lexname is: cognition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+
+Output Format Example:
+596. rotate.
+780. rotate.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "kickboxing".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+
+Output Format Example:
+2239. exercise.
+2673. kick.
+Strictly follow the output format above. Do not output analysis. 

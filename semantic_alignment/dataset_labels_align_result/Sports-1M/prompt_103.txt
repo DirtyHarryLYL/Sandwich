@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "freestyle wrestling".
+There are 50 candidate verbs: 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1148. procure. The definition is: get by special effort. The lexname is: possession. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+801. frolic. The definition is: play boisterously. The lexname is: motion. 
+
+Output Format Example:
+498. wrest.
+1415. scuffle.
+Strictly follow the output format above. Do not output analysis. 

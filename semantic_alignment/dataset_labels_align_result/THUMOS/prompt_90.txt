@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "TaiChi".
+There are 50 candidate verbs: 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1521. ache. The definition is: be the source of pain. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1835. shun. The definition is: avoid and stay away from deliberately; stay clear of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1172. enrich. The definition is: make wealthy or richer. The lexname is: possession. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2194. tack. The definition is: turn into the wind. The lexname is: motion. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2234. tack. The definition is: turn into the wind. The lexname is: motion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+
+Output Format Example:
+371. tauten.
+2046. teach.
+Strictly follow the output format above. Do not output analysis. 

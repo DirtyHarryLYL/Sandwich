@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_irons_clothes,".
+There are 50 candidate verbs: 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1613. try_on. The definition is: put on a garment in order to see whether it fits and looks nice. The lexname is: body. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2238. dress. The definition is: dress in a certain manner. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+
+Output Format Example:
+2313. iron.
+375. iron.
+Strictly follow the output format above. Do not output analysis. 

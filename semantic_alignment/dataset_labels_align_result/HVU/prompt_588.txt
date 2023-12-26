@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clam_digging".
+There are 50 candidate verbs: 
+1110. clam. The definition is: gather clams, by digging in the sand by the ocean. The lexname is: contact. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1119. oyster. The definition is: gather oysters, dig oysters. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+917. clang. The definition is: make a loud noise. The lexname is: perception. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+189. clog. The definition is: become or cause to become obstructed. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+665. calm. The definition is: make calm or still. The lexname is: emotion. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1111. crab. The definition is: fish for crab. The lexname is: competition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+444. shell. The definition is: remove from its shell or outer covering. The lexname is: change. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+1082. classify. The definition is: arrange or order by classes or categories. The lexname is: cognition. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+1110. clam.
+2328. dig.
+Strictly follow the output format above. Do not output analysis. 

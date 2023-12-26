@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "auto race".
+There are 50 candidate verbs: 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+
+Output Format Example:
+2189. race.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

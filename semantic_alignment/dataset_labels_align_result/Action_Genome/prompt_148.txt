@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Someone is dressing".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2238. dress. The definition is: dress in a certain manner. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2245. undress. The definition is: get undressed. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+478. deprive. The definition is: take away. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+
+Output Format Example:
+670. confuse.
+2235. wear.
+Strictly follow the output format above. Do not output analysis. 

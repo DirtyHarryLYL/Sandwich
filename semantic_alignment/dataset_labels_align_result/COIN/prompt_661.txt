@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clean up and soak".
+There are 50 candidate verbs: 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+
+Output Format Example:
+291. soak.
+452. clean.
+Strictly follow the output format above. Do not output analysis. 

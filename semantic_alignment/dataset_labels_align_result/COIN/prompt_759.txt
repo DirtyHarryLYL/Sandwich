@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "comb the hair with a comb".
+There are 50 candidate verbs: 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1871. conk. The definition is: hit, especially on the head. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2688. memorize. The definition is: commit to memory; learn by heart. The lexname is: cognition. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+
+Output Format Example:
+1702. comb.
+2407. brush.
+Strictly follow the output format above. Do not output analysis. 

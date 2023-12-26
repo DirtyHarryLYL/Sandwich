@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sissone (leg separation 180 degree on the diagonal to the floor, take off two feet, land on one foot)".
+There are 50 candidate verbs: 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+
+Output Format Example:
+835. tiptoe.
+1433. prolong.
+Strictly follow the output format above. Do not output analysis. 

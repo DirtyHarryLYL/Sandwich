@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "butterfly stroke".
+There are 50 candidate verbs: 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+752. startle. The definition is: to stimulate to action. The lexname is: emotion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+1055. metamorphose. The definition is: change completely the nature or appearance of. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+1527. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

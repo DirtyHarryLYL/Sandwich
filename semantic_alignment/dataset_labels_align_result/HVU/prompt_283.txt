@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "making_balloon_shapes".
+There are 50 candidate verbs: 
+856. balloon. The definition is: ride in a hot-air balloon. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+2254. bubble. The definition is: form, produce, or emit bubbles. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+361. deflate. The definition is: become deflated or flaccid, as by losing air. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1198. splotch. The definition is: blotch or spot. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+
+Output Format Example:
+856. balloon.
+999. ball.
+Strictly follow the output format above. Do not output analysis. 

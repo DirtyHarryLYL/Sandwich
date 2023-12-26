@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tuticorin Macaroons//crush cashew".
+There are 50 candidate verbs: 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2035. preach. The definition is: speak, plead, or argue in favor of. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1116. mushroom. The definition is: pick or gather mushrooms. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+1519. salaam. The definition is: greet with a salaam. The lexname is: communication. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+659. awe. The definition is: inspire awe in. The lexname is: emotion. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+192. coarsen. The definition is: make or become coarse or coarser. The lexname is: contact. 
+1405. argue. The definition is: have an argument about something. The lexname is: communication. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2082. mushroom. The definition is: grow and spread fast. The lexname is: change. 
+85. preach. The definition is: deliver a sermon. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+305. sweeten.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

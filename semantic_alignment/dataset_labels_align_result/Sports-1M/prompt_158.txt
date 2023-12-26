@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sport climbing".
+There are 50 candidate verbs: 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+2074. climb.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

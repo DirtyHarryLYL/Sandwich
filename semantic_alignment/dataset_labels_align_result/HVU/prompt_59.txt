@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "falling_off_chair".
+There are 50 candidate verbs: 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1896. flop. The definition is: fall suddenly and abruptly. The lexname is: motion. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+
+Output Format Example:
+923. crash.
+193. collapse.
+Strictly follow the output format above. Do not output analysis. 

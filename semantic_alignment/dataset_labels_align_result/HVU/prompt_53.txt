@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_cymbals".
+There are 50 candidate verbs: 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1533. beat. The definition is: strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+2669. drum.
+1252. groove.
+Strictly follow the output format above. Do not output analysis. 

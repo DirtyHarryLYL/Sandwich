@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "arrange flowers".
+There are 50 candidate verbs: 
+1205. arrange. The definition is: put into a proper or systematic order. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+524. aggregate. The definition is: gather in a mass, sum, or whole. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1082. classify. The definition is: arrange or order by classes or categories. The lexname is: cognition. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1151. reserve. The definition is: arrange for and reserve (something for someone else) in advance. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1059. accommodate. The definition is: make (one thing) compatible with (another). The lexname is: change. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2618. thank. The definition is: express gratitude or show appreciation to. The lexname is: communication. 
+1175. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+1245. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+
+Output Format Example:
+1205. arrange.
+1025. arrange.
+Strictly follow the output format above. Do not output analysis. 

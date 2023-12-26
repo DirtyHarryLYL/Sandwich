@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tighten screws".
+There are 50 candidate verbs: 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+36. rivet. The definition is: fasten with a rivet or rivets. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1966. toggle. The definition is: fasten with, or as if with, a toggle. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+20. hinge. The definition is: attach with a hinge. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+311. tighten.
+38. screw.
+Strictly follow the output format above. Do not output analysis. 

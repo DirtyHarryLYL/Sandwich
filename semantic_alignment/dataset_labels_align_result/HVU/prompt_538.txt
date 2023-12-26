@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "weaving".
+There are 50 candidate verbs: 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+1046. weave. The definition is: create a piece of cloth by interlacing strands of fabric, such as wool or cotton. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+
+Output Format Example:
+556. weave.
+1046. weave.
+Strictly follow the output format above. Do not output analysis. 

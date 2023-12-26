@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make French Toast//remove bread from pan".
+There are 50 candidate verbs: 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+
+Output Format Example:
+150. pan-fry.
+149. pan-broil.
+Strictly follow the output format above. Do not output analysis. 

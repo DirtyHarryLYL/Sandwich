@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stoop, pike vault and 0.5 turn over high bar to hang".
+There are 50 candidate verbs: 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1905. stoop. The definition is: descend swiftly, as if on prey. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+571. overhang. The definition is: be suspended over or hang over. The lexname is: stative. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+864. punt. The definition is: propel with a pole. The lexname is: contact. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2088. soar. The definition is: go or move upward. The lexname is: change. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+1199. staff. The definition is: provide with staff. The lexname is: competition. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+
+Output Format Example:
+2174. vault.
+2090. tumble.
+Strictly follow the output format above. Do not output analysis. 

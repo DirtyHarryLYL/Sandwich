@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+1161. clog. The definition is: impede with a clog or as if with a clog. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+830. stomp. The definition is: walk heavily. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+95. converse. The definition is: carry on a conversation. The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+
+Output Format Example:
+1284. shoe.
+2658. hammer.
+Strictly follow the output format above. Do not output analysis. 

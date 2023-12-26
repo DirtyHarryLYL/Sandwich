@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "measure chair".
+There are 50 candidate verbs: 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+516. meter. The definition is: measure with a meter. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2091. swell. The definition is: increase in size, magnitude, number, or intensity. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1100. qualify. The definition is: prove capable or fit; meet requirements. The lexname is: stative. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+
+Output Format Example:
+2135. measure.
+1373. sit.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Finger".
+There are 50 candidate verbs: 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2645. paw. The definition is: touch clumsily. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+
+Output Format Example:
+2647. pinch.
+2495. gouge.
+Strictly follow the output format above. Do not output analysis. 

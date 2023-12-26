@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bicycle".
+There are 50 candidate verbs: 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+
+Output Format Example:
+2219. bicycle.
+2222. motorbike.
+Strictly follow the output format above. Do not output analysis. 

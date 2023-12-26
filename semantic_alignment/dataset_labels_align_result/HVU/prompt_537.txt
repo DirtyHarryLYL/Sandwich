@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stitch".
+There are 50 candidate verbs: 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1936. react. The definition is: act against or in opposition to. The lexname is: social. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+750. spook. The definition is: frighten or scare, and often provoke into a violent action. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+731. pacify. The definition is: cause to be more favorably inclined; gain the good will of. The lexname is: emotion. 
+725. miff. The definition is: cause to be annoyed. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+
+Output Format Example:
+641. seethe.
+286. sicken.
+Strictly follow the output format above. Do not output analysis. 

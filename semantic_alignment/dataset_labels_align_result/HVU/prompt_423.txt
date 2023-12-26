@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "yawning".
+There are 50 candidate verbs: 
+1579. yawn. The definition is: utter a yawn, as from lack of oxygen or when one is tired. The lexname is: body. 
+950. scream. The definition is: make a loud, piercing sound. The lexname is: perception. 
+636. rage. The definition is: feel intense anger. The lexname is: emotion. 
+655. anger. The definition is: become angry. The lexname is: emotion. 
+609. anger. The definition is: become angry. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2049. vocalize. The definition is: utter speech sounds. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+683. dismay. The definition is: fill with apprehension or alarm; cause to be unpleasantly surprised. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+610. anguish. The definition is: suffer great pains or distress. The lexname is: emotion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+697. excite. The definition is: arouse or elicit a feeling. The lexname is: emotion. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+2111. lick. The definition is: pass the tongue over. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+904. lick. The definition is: pass the tongue over. The lexname is: contact. 
+2642. lick. The definition is: pass the tongue over. The lexname is: contact. 
+704. frighten. The definition is: cause fear in. The lexname is: emotion. 
+1440. frighten. The definition is: cause fear in. The lexname is: emotion. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+973. whine. The definition is: move with a whining sound. The lexname is: motion. 
+1761. whine. The definition is: move with a whining sound. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1443. panic. The definition is: cause sudden fear in or fill with sudden panic. The lexname is: emotion. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+693. enrage. The definition is: put into a rage; make violently angry. The lexname is: emotion. 
+902. gnaw. The definition is: bite or chew on with the teeth. The lexname is: contact. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1066. pronounce. The definition is: speak, pronounce, or utter in a certain way. The lexname is: communication. 
+
+Output Format Example:
+1579. yawn.
+950. scream.
+Strictly follow the output format above. Do not output analysis. 

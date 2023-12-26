@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Watermelon Lemonade//strain mixture into pitcher".
+There are 50 candidate verbs: 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1345. jug. The definition is: stew in an earthenware jug. The lexname is: change. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2636. patronize. The definition is: be a regular customer or client of. The lexname is: communication. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2035. preach. The definition is: speak, plead, or argue in favor of. The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1620. note. The definition is: make a written note of. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1788. transcribe. The definition is: make a phonetic transcription of. The lexname is: communication. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+151. percolate. The definition is: prepare in a percolator. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+
+Output Format Example:
+246. hydrate.
+2299. brew.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "assembling_bicycle".
+There are 50 candidate verbs: 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1026. assemble. The definition is: create by putting components or members together. The lexname is: creation. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1064. assimilate. The definition is: become similar to one's environment. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+525. assemble. The definition is: get people together. The lexname is: social. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+
+Output Format Example:
+2219. bicycle.
+1472. disassemble.
+Strictly follow the output format above. Do not output analysis. 

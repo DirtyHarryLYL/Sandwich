@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "soak sugar gourd in sugar".
+There are 50 candidate verbs: 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2505. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1890. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2663. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1007. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+18. gum. The definition is: cover, fill, fix or smear with or as if with gum. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1421. court. The definition is: engage in social activities leading to marriage. The lexname is: social. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1424. divorce. The definition is: get a divorce; formally terminate a marriage. The lexname is: social. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+750. spook. The definition is: frighten or scare, and often provoke into a violent action. The lexname is: emotion. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+2270. squirt. The definition is: cause to come out in a squirt. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+2268. sprout. The definition is: put forth and grow sprouts or shoots. The lexname is: body. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+
+Output Format Example:
+1297. sugar.
+295. sour.
+Strictly follow the output format above. Do not output analysis. 

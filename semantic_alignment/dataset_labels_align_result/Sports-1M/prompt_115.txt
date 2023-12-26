@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sled dog racing".
+There are 50 candidate verbs: 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+2356. shepherd. The definition is: tend as a shepherd, as of sheep or goats. The lexname is: social. 
+1346. kennel. The definition is: put up in a kennel. The lexname is: social. 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1454. hound. The definition is: pursue or chase relentlessly. The lexname is: motion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+854. shepherd. The definition is: watch over like a shepherd, as a teacher of her pupils. The lexname is: social. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+
+Output Format Example:
+2227. sled.
+2226. ski.
+Strictly follow the output format above. Do not output analysis. 

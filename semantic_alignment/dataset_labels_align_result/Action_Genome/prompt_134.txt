@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Lying on a bed".
+There are 50 candidate verbs: 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+1574. snore. The definition is: breathe noisily during one's sleep. The lexname is: body. 
+1422. cuddle. The definition is: hold (a person or thing) close, as for affection, comfort, or warmth. The lexname is: contact. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1367. lay. The definition is: put in a horizontal position. The lexname is: contact. 
+1902. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2150. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+1375. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+
+Output Format Example:
+1329. bed.
+2538. nap.
+Strictly follow the output format above. Do not output analysis. 

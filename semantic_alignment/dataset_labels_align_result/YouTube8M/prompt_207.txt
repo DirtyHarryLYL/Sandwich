@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tying".
+There are 50 candidate verbs: 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+
+Output Format Example:
+44. string.
+1295. string.
+Strictly follow the output format above. Do not output analysis. 

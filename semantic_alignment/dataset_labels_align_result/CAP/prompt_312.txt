@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_searches_in_cabinet,".
+There are 50 candidate verbs: 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1581. identify. The definition is: consider (oneself) as similar to somebody else. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2296. recognize. The definition is: be fully aware or cognizant of. The lexname is: cognition. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1944. collect. The definition is: gather or collect. The lexname is: possession. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+2561. abet. The definition is: assist or encourage, usually in some wrongdoing. The lexname is: social. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+
+Output Format Example:
+1638. peer.
+1713. search.
+Strictly follow the output format above. Do not output analysis. 

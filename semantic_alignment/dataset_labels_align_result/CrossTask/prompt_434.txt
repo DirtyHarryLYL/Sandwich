@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tuticorin Macaroons//add salt".
+There are 50 candidate verbs: 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2367. act. The definition is: perform an action, or work out or perform (an action). The lexname is: social. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+723. lull. The definition is: calm by deception. The lexname is: emotion. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+
+Output Format Example:
+1297. sugar.
+1281. salt.
+Strictly follow the output format above. Do not output analysis. 

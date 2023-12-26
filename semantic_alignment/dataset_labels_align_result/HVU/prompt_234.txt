@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hand_washing_clothes".
+There are 50 candidate verbs: 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+
+Output Format Example:
+2246. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

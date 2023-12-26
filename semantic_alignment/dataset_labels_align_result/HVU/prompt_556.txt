@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shucking_oysters".
+There are 50 candidate verbs: 
+1119. oyster. The definition is: gather oysters, dig oysters. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1110. clam. The definition is: gather clams, by digging in the sand by the ocean. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1116. mushroom. The definition is: pick or gather mushrooms. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+444. shell. The definition is: remove from its shell or outer covering. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2082. mushroom. The definition is: grow and spread fast. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+
+Output Format Example:
+1119. oyster.
+445. shuck.
+Strictly follow the output format above. Do not output analysis. 

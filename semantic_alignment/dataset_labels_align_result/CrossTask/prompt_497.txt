@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Battenburg Cake//add flour in bowl".
+There are 50 candidate verbs: 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+1128. sponge. The definition is: gather sponges, in the ocean. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1298. sulphur. The definition is: treat with sulphur in order to preserve. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+317. ulcerate. The definition is: affect with an ulcer. The lexname is: body. 
+
+Output Format Example:
+1027. bake.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

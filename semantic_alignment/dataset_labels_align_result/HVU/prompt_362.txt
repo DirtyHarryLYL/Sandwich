@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_rubiks_cube".
+There are 50 candidate verbs: 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+635. puzzle. The definition is: be uncertain about; think about without fully understanding or being able to decide. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+
+Output Format Example:
+2491. cube.
+328. break.
+Strictly follow the output format above. Do not output analysis. 

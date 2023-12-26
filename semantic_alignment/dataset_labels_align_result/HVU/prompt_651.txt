@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "climbing_a_rope".
+There are 50 candidate verbs: 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+9. chain. The definition is: fasten or secure with chains. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1964. moor. The definition is: secure with cables or ropes. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+28. moor. The definition is: secure with cables or ropes. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+
+Output Format Example:
+37. rope.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

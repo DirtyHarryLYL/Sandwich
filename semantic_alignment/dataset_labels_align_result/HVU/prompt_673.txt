@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rope_pushdown".
+There are 50 candidate verbs: 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+9. chain. The definition is: fasten or secure with chains. The lexname is: contact. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1900. rise. The definition is: move upward. The lexname is: motion. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1513. tug. The definition is: move by pulling hard. The lexname is: contact. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+
+Output Format Example:
+37. rope.
+76. hoist.
+Strictly follow the output format above. Do not output analysis. 

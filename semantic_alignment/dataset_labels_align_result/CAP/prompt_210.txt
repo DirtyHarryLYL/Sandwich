@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_opens_gate,".
+There are 50 candidate verbs: 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2282. exclude. The definition is: prevent from entering; shut out. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+
+Output Format Example:
+2144. open.
+1548. open.
+Strictly follow the output format above. Do not output analysis. 

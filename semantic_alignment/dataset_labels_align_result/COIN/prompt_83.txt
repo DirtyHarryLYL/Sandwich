@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fix the new string on the lower part of the guitar".
+There are 50 candidate verbs: 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+449. string.
+970. twang.
+Strictly follow the output format above. Do not output analysis. 

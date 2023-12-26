@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash apple".
+There are 50 candidate verbs: 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+325. widen. The definition is: make wider. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+
+Output Format Example:
+876. wash.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

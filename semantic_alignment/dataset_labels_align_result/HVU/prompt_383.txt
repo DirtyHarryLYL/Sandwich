@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "waking_up".
+There are 50 candidate verbs: 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+543. rise. The definition is: rise up. The lexname is: stative. 
+
+Output Format Example:
+2092. awaken.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

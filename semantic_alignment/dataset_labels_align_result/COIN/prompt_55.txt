@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "open the fuel tank cap".
+There are 50 candidate verbs: 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+263. open. The definition is: become open. The lexname is: contact. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+
+Output Format Example:
+1242. fuel.
+1264. oil.
+Strictly follow the output format above. Do not output analysis. 

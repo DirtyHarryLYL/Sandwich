@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "parkour".
+There are 50 candidate verbs: 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+735. perturb. The definition is: disturb in mind or make uneasy or cause to be worried or alarmed. The lexname is: emotion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1705. patrol. The definition is: maintain the security of by carrying out a patrol. The lexname is: social. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1622. perceive. The definition is: to become aware of through the senses. The lexname is: perception. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2304. run. The definition is: carry out. The lexname is: creation. 
+1912. run. The definition is: carry out. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+402. take_out. The definition is: remove something from a container or an enclosed space. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+1148. procure. The definition is: get by special effort. The lexname is: possession. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+
+Output Format Example:
+2074. climb.
+795. climb.
+Strictly follow the output format above. Do not output analysis. 

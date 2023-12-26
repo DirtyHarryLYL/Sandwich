@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "do massage".
+There are 50 candidate verbs: 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1104. make. The definition is: engage in. The lexname is: social. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+
+Output Format Example:
+2643. massage.
+2346. doctor.
+Strictly follow the output format above. Do not output analysis. 

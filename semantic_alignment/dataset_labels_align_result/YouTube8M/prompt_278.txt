@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Ceiling".
+There are 50 candidate verbs: 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+571. overhang. The definition is: be suspended over or hang over. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1309. wallpaper. The definition is: cover with wallpaper. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+183. centralize. The definition is: make central. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2134. free. The definition is: free from obligations or duties. The lexname is: social. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+
+Output Format Example:
+1277. roof.
+571. overhang.
+Strictly follow the output format above. Do not output analysis. 

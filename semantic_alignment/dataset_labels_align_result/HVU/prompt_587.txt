@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "casting_fishing_line".
+There are 50 candidate verbs: 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+570. line. The definition is: be in line with; form a line along. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+1354. spool. The definition is: wind onto a spool or a reel. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+15. fasten. The definition is: cause to be firmly attached. The lexname is: contact. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1808. underline. The definition is: draw a line or lines underneath to call attention to. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1716. troll. The definition is: angle with a hook and line drawn through the water. The lexname is: competition. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+
+Output Format Example:
+1295. string.
+44. string.
+Strictly follow the output format above. Do not output analysis. 

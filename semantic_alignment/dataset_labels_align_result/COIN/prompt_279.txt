@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "add water to Neti Pot".
+There are 50 candidate verbs: 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+775. nose. The definition is: push or move with the nose. The lexname is: motion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1244. gag. The definition is: tie a gag around someone's mouth in order to silence them. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+2271. steam. The definition is: emit steam. The lexname is: weather. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+
+Output Format Example:
+1310. water.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

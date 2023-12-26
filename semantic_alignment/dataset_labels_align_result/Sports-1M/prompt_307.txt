@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "short track motor racing".
+There are 50 candidate verbs: 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+748. shock. The definition is: strike with horror or terror. The lexname is: emotion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+2189. race.
+971. vroom.
+Strictly follow the output format above. Do not output analysis. 

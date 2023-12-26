@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "training_dog".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1454. hound. The definition is: pursue or chase relentlessly. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1081. adopt. The definition is: take up and practice as one's own. The lexname is: possession. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1753. yelp. The definition is: bark in a high-pitched tone. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+
+Output Format Example:
+2239. exercise.
+2046. teach.
+Strictly follow the output format above. Do not output analysis. 

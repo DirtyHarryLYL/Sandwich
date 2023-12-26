@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "microwave phone".
+There are 50 candidate verbs: 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1790. videotape. The definition is: record on videotape. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+113. fax. The definition is: send something via a facsimile machine. The lexname is: communication. 
+2558. hear. The definition is: receive a communication from someone. The lexname is: perception. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1620. note. The definition is: make a written note of. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2526. call_on. The definition is: order or request or give a command for. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2047. tell. The definition is: narrate or give a detailed account of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+122. get. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+
+Output Format Example:
+147. microwave.
+2314. microwave.
+Strictly follow the output format above. Do not output analysis. 

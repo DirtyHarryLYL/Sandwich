@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "apply the shampoo or hair conditioner".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+670. confuse.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

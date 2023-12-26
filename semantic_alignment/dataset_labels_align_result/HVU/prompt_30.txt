@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "smoking_pipe".
+There are 50 candidate verbs: 
+1575. snuff. The definition is: inhale audibly through the nose. The lexname is: body. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+2252. huff. The definition is: inhale recreational drugs. The lexname is: consumption. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1752. whistle. The definition is: make whistling sounds. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1244. gag. The definition is: tie a gag around someone's mouth in order to silence them. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+
+Output Format Example:
+1575. snuff.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

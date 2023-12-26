@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "freestyle motocross".
+There are 50 candidate verbs: 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2293. preside_over. The definition is: act as president. The lexname is: social. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1148. procure. The definition is: get by special effort. The lexname is: possession. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1458. motivate. The definition is: give an incentive for action. The lexname is: creation. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+
+Output Format Example:
+2222. motorbike.
+2189. race.
+Strictly follow the output format above. Do not output analysis. 

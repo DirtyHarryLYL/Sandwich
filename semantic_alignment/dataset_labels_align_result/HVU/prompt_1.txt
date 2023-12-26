@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_controller".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1685. twitch. The definition is: move or pull with a sudden motion. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+
+Output Format Example:
+2452. install.
+2455. reinstall.
+Strictly follow the output format above. Do not output analysis. 

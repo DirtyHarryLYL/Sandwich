@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "salto forward stretched with 0.5 twist".
+There are 50 candidate verbs: 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+1008. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+2217. twist. The definition is: form into a spiral shape. The lexname is: contact. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2191. skitter. The definition is: glide easily along a surface. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+294. solidify. The definition is: become solid. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+
+Output Format Example:
+2468. twist.
+784. twist.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1450. compel. The definition is: force somebody to do something. The lexname is: social. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+
+Output Format Example:
+2420. spray.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

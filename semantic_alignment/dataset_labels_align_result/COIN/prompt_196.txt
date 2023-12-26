@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hold electrode with a welding tong".
+There are 50 candidate verbs: 
+1967. weld. The definition is: join together by heating. The lexname is: contact. 
+51. weld. The definition is: join together by heating. The lexname is: contact. 
+41. solder. The definition is: join or fuse with solder. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+
+Output Format Example:
+1967. weld.
+51. weld.
+Strictly follow the output format above. Do not output analysis. 

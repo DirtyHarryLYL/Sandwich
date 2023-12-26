@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding a dish".
+There are 50 candidate verbs: 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+1191. plate. The definition is: coat with a layer of metal. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1874. cuff. The definition is: hit with the hand. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2350. host. The definition is: be the host of or for. The lexname is: consumption. 
+1911. host. The definition is: be the host of or for. The lexname is: consumption. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+
+Output Format Example:
+2627. hold.
+682. dishearten.
+Strictly follow the output format above. Do not output analysis. 

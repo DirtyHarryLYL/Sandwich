@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding a shoe/shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+1161. clog. The definition is: impede with a clog or as if with a clog. The lexname is: change. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+189. clog. The definition is: become or cause to become obstructed. The lexname is: contact. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+
+Output Format Example:
+1284. shoe.
+1256. heel.
+Strictly follow the output format above. Do not output analysis. 

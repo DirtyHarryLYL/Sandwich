@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "trim the plant carefully".
+There are 50 candidate verbs: 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1962. graft. The definition is: cause to grow together parts from different plants. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+
+Output Format Example:
+2454. plant.
+2438. plant.
+Strictly follow the output format above. Do not output analysis. 

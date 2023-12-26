@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change Wheel Bearings//install races".
+There are 50 candidate verbs: 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+698. exhaust. The definition is: wear out completely. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+
+Output Format Example:
+971. vroom.
+312. tire.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash the body wash away".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+
+Output Format Example:
+2318. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

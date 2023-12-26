@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_strokes_hair,".
+There are 50 candidate verbs: 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+748. shock. The definition is: strike with horror or terror. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+298. steady. The definition is: make steady. The lexname is: change. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+
+Output Format Example:
+2649. stroke.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

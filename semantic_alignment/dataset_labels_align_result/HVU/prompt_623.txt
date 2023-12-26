@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "adjusting_glasses".
+There are 50 candidate verbs: 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+1604. regard. The definition is: look at attentively. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1219. blindfold. The definition is: cover the eyes of (someone) to prevent him from seeing. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+
+Output Format Example:
+1632. goggle.
+1610. survey.
+Strictly follow the output format above. Do not output analysis. 

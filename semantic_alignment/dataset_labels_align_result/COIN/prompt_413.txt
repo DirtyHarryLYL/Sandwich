@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fixe it with a crimping pliers".
+There are 50 candidate verbs: 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+
+Output Format Example:
+1500. hack.
+2517. hack.
+Strictly follow the output format above. Do not output analysis. 

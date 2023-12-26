@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pike sole circle backward with 0.5 turn to handstand".
+There are 50 candidate verbs: 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+564. encircle. The definition is: form a circle around. The lexname is: contact. 
+1170. encircle. The definition is: form a circle around. The lexname is: contact. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1900. rise. The definition is: move upward. The lexname is: motion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2059. lob. The definition is: propel in a high arc. The lexname is: contact. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+591. oscillate. The definition is: move or swing from side to side regularly. The lexname is: motion. 
+582. circulate. The definition is: cause to move in a circuit or system. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+
+Output Format Example:
+2055. flip.
+1539. crook.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ball (rhythmic gymnastics)".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+783. twirl. The definition is: turn in a twisting or spinning motion. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+450. tail. The definition is: remove the stalk of fruits or berries. The lexname is: contact. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+
+Output Format Example:
+999. ball.
+584. dance.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_cleans_table_with_rag,".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+452. clean.
+454. cheat.
+Strictly follow the output format above. Do not output analysis. 

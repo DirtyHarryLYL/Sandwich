@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Cook Brazilian Rice//cover saucepan with lid".
+There are 50 candidate verbs: 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+
+Output Format Example:
+142. cook.
+137. braise.
+Strictly follow the output format above. Do not output analysis. 

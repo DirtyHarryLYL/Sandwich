@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clay_pottery_making".
+There are 50 candidate verbs: 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1345. jug. The definition is: stew in an earthenware jug. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+
+Output Format Example:
+1017. model.
+2326. craft.
+Strictly follow the output format above. Do not output analysis. 

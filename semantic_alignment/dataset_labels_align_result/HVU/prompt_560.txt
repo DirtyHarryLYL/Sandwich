@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fishing".
+There are 50 candidate verbs: 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+
+Output Format Example:
+1689. fish.
+1112. fish.
+Strictly follow the output format above. Do not output analysis. 

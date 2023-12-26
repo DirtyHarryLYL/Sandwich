@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "seal the volumetric flask".
+There are 50 candidate verbs: 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+321. volatilize. The definition is: make volatile; cause to pass off in a vapor. The lexname is: change. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1100. qualify. The definition is: prove capable or fit; meet requirements. The lexname is: stative. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+
+Output Format Example:
+1332. bottle.
+1035. develop.
+Strictly follow the output format above. Do not output analysis. 

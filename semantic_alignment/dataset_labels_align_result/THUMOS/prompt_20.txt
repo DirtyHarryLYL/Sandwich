@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "CleanAndJerk".
+There are 50 candidate verbs: 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2342. clerk. The definition is: work as a clerk, as in the legal business. The lexname is: social. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+
+Output Format Example:
+666. cheer.
+616. cheer.
+Strictly follow the output format above. Do not output analysis. 

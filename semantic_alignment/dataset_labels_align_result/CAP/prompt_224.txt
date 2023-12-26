@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_pets_cat,".
+There are 50 candidate verbs: 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1741. meow. The definition is: cry like a cat. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1754. yowl. The definition is: utter shrieks, as of cats. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1081. adopt. The definition is: take up and practice as one's own. The lexname is: possession. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+
+Output Format Example:
+1745. purr.
+2646. pet.
+Strictly follow the output format above. Do not output analysis. 

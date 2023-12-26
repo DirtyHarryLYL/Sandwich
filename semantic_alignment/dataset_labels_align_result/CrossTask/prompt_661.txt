@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Tri Tip//cover meat in foil".
+There are 50 candidate verbs: 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+968. trill. The definition is: pronounce with a trill, of the phoneme `r'. The lexname is: communication. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+964. ting. The definition is: make a light, metallic sound; go `ting'. The lexname is: perception. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1286. silver. The definition is: coat with a layer of silver or a silver amalgam. The lexname is: contact. 
+1247. gild. The definition is: decorate with, or as if with, gold leaf or liquid gold. The lexname is: creation. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+
+Output Format Example:
+2312. grill.
+145. grill.
+Strictly follow the output format above. Do not output analysis. 

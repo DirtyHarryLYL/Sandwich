@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Folding".
+There are 50 candidate verbs: 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+345. fortify. The definition is: enclose by or as if by a fortification. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+294. solidify. The definition is: become solid. The lexname is: change. 
+16. fetter. The definition is: restrain with fetters. The lexname is: contact. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+
+Output Format Example:
+1002. fold.
+363. fold.
+Strictly follow the output format above. Do not output analysis. 

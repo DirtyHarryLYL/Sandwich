@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "chopping meat".
+There are 50 candidate verbs: 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+
+Output Format Example:
+1588. knife.
+1878. knife.
+Strictly follow the output format above. Do not output analysis. 

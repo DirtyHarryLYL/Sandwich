@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "climbing_tree".
+There are 50 candidate verbs: 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+460. deforest. The definition is: remove the trees from. The lexname is: change. 
+426. bark. The definition is: remove the bark of a tree. The lexname is: contact. 
+1899. perch. The definition is: sit, as on a branch. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+450. tail. The definition is: remove the stalk of fruits or berries. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+
+Output Format Example:
+795. climb.
+2074. climb.
+Strictly follow the output format above. Do not output analysis. 

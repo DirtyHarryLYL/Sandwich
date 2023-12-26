@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "calisthenics".
+There are 50 candidate verbs: 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+695. enthuse. The definition is: cause to feel enthusiasm. The lexname is: emotion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1225. calk. The definition is: provide with calks. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1960. concatenate. The definition is: add by linking or joining so as to form a chain or series. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+
+Output Format Example:
+1943. collate.
+2239. exercise.
+Strictly follow the output format above. Do not output analysis. 

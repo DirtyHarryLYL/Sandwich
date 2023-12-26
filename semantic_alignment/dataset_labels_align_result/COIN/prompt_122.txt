@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clean bathtub with water".
+There are 50 candidate verbs: 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1093. baptize. The definition is: administer baptism to. The lexname is: communication. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1165. deluge. The definition is: fill quickly beyond capacity; as with a liquid. The lexname is: contact. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+
+Output Format Example:
+2236. bathe.
+288. sink.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_opens_clothes_washer,".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+
+Output Format Example:
+2318. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

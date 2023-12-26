@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "australian rules football".
+There are 50 candidate verbs: 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+
+Output Format Example:
+2474. close.
+170. americanize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash face".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1188. mask. The definition is: cover with a sauce. The lexname is: contact. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+
+Output Format Example:
+2318. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

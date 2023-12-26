@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "mosh_pit_dancing".
+There are 50 candidate verbs: 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+1761. whine. The definition is: move with a whining sound. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+973. whine. The definition is: move with a whining sound. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+803. ghost. The definition is: move like a ghost. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2698. press. The definition is: crowd closely. The lexname is: motion. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+584. dance.
+974. whish.
+Strictly follow the output format above. Do not output analysis. 

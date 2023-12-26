@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put strawberries and other fruits into the juicer".
+There are 50 candidate verbs: 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+
+Output Format Example:
+1107. berry.
+1011. concoct.
+Strictly follow the output format above. Do not output analysis. 

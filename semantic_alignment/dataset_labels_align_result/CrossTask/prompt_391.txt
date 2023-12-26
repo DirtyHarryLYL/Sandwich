@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tuna Salad//add pickle".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+1081. adopt. The definition is: take up and practice as one's own. The lexname is: possession. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+
+Output Format Example:
+152. pickle.
+895. lunch.
+Strictly follow the output format above. Do not output analysis. 

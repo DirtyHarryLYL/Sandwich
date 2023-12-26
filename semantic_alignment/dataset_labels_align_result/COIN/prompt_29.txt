@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "plug cable and wire".
+There are 50 candidate verbs: 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+372. unbend. The definition is: free from flexure. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+
+Output Format Example:
+7. cable.
+111. cable.
+Strictly follow the output format above. Do not output analysis. 

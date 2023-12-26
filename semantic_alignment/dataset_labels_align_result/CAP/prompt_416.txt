@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_turns_off_stovetop,".
+There are 50 candidate verbs: 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+
+Output Format Example:
+148. overcook.
+2475. cut_out.
+Strictly follow the output format above. Do not output analysis. 

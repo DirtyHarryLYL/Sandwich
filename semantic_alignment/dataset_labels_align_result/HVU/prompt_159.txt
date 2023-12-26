@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "climbing_ladder".
+There are 50 candidate verbs: 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+199. de-escalate. The definition is: reduce the level or intensity or size or scope of. The lexname is: change. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+261. narrow. The definition is: make or become more narrow or restricted. The lexname is: change. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+298. steady. The definition is: make steady. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+
+Output Format Example:
+795. climb.
+2074. climb.
+Strictly follow the output format above. Do not output analysis. 

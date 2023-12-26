@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "carrying_baby".
+There are 50 candidate verbs: 
+1102. carry_through. The definition is: put in effect. The lexname is: creation. 
+2304. run. The definition is: carry out. The lexname is: creation. 
+1912. run. The definition is: carry out. The lexname is: creation. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+77. lug. The definition is: carry with difficulty. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2351. mother. The definition is: care for like a mother. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+2371. burden. The definition is: weight down with a load. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+298. steady. The definition is: make steady. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+726. mortify. The definition is: hold within limits and control. The lexname is: emotion. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+60. port. The definition is: carry, bear, convey, or bring. The lexname is: contact. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+
+Output Format Example:
+1102. carry_through.
+2304. run.
+Strictly follow the output format above. Do not output analysis. 

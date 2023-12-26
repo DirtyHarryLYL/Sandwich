@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Irish Coffee//add whipped cream".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+423. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+1886. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1956. whisk. The definition is: whip with or as if with a wire whisk. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1313. whitewash. The definition is: cover with whitewash. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+
+Output Format Example:
+1993. cream.
+423. whisk.
+Strictly follow the output format above. Do not output analysis. 

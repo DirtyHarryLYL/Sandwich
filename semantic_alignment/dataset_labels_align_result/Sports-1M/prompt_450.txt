@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "windsurfing".
+There are 50 candidate verbs: 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2194. tack. The definition is: turn into the wind. The lexname is: motion. 
+2234. tack. The definition is: turn into the wind. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+
+Output Format Example:
+2233. sail.
+2205. sail.
+Strictly follow the output format above. Do not output analysis. 

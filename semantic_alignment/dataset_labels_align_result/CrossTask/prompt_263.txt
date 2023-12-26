@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Pickle Okra//lower rack into water".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1410. dicker. The definition is: negotiate the terms of an exchange. The lexname is: possession. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+865. rocket. The definition is: propel with a rocket. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2084. rocket. The definition is: shoot up abruptly, like a rocket. The lexname is: motion. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+1119. oyster. The definition is: gather oysters, dig oysters. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1524. prickle. The definition is: cause a prickling sensation. The lexname is: perception. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+
+Output Format Example:
+152. pickle.
+1310. water.
+Strictly follow the output format above. Do not output analysis. 

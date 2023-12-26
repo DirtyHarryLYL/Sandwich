@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "knead the dough".
+There are 50 candidate verbs: 
+1004. knead. The definition is: make uniform. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+
+Output Format Example:
+1004. knead.
+1239. flour.
+Strictly follow the output format above. Do not output analysis. 

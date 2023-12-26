@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Lavender Lemonade//put flowers in bowl".
+There are 50 candidate verbs: 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1245. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+1175. garland. The definition is: adorn with bands of flowers or leaves. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+271. purple. The definition is: color purple. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+725. miff. The definition is: cause to be annoyed. The lexname is: emotion. 
+708. grieve. The definition is: cause to feel sorrow. The lexname is: emotion. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+
+Output Format Example:
+1310. water.
+1245. garland.
+Strictly follow the output format above. Do not output analysis. 

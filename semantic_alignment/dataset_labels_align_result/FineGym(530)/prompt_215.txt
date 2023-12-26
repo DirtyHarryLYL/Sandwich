@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "straddle pike jump with 0.5 turn".
+There are 50 candidate verbs: 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+603. tremble. The definition is: move or jerk quickly and involuntarily up and down or sideways. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+298. steady. The definition is: make steady. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+820. skedaddle. The definition is: run away, as if in a panic. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+
+Output Format Example:
+1839. jump.
+575. straddle.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "base_jumping".
+There are 50 candidate verbs: 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+
+Output Format Example:
+2081. jump.
+1839. jump.
+Strictly follow the output format above. Do not output analysis. 

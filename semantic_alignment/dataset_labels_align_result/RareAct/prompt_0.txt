@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer laptop".
+There are 50 candidate verbs: 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+2400. hammer.
+2658. hammer.
+Strictly follow the output format above. Do not output analysis. 

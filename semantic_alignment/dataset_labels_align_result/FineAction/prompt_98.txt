@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "play badminton".
+There are 50 candidate verbs: 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2182. dart. The definition is: run or move very quickly or hastily. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2009. dart. The definition is: move with sudden speed. The lexname is: motion. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+
+Output Format Example:
+1889. run.
+2202. run.
+Strictly follow the output format above. Do not output analysis. 

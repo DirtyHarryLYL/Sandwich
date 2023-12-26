@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer flower".
+There are 50 candidate verbs: 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+2101. plow. The definition is: to break and turn over earth especially with a plow. The lexname is: creation. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+653. amaze. The definition is: affect with wonder. The lexname is: cognition. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1353. skewer. The definition is: drive a skewer through. The lexname is: contact. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+40. skewer. The definition is: drive a skewer through. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+2400. hammer.
+2670. hammer.
+Strictly follow the output format above. Do not output analysis. 

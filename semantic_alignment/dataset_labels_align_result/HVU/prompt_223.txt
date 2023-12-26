@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fly_tying".
+There are 50 candidate verbs: 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+
+Output Format Example:
+2142. fly.
+1365. fly.
+Strictly follow the output format above. Do not output analysis. 

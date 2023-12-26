@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "figure_skating".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+801. frolic. The definition is: play boisterously. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+821. skulk. The definition is: move stealthily. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+608. writhe. The definition is: to move in a twisting or contorted motion, (especially when struggling). The lexname is: motion. 
+2211. flee. The definition is: run away quickly. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+
+Output Format Example:
+2224. skate.
+584. dance.
+Strictly follow the output format above. Do not output analysis. 

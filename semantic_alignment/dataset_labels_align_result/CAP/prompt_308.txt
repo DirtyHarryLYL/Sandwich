@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_screws_lid_to_bottle,".
+There are 50 candidate verbs: 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+
+Output Format Example:
+1332. bottle.
+1491. unscrew.
+Strictly follow the output format above. Do not output analysis. 

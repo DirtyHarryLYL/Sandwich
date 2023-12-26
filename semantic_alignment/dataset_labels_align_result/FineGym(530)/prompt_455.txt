@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "(swing forward with 0.5 turn) pike vault over high bar to hang".
+There are 50 candidate verbs: 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+864. punt. The definition is: propel with a pole. The lexname is: contact. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2409. hang. The definition is: place in position as by a hinge so as to allow free movement in one direction. The lexname is: contact. 
+1675. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+2349. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+
+Output Format Example:
+2174. vault.
+76. hoist.
+Strictly follow the output format above. Do not output analysis. 

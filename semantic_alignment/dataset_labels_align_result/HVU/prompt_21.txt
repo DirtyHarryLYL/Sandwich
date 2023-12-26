@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "public_speaking".
+There are 50 candidate verbs: 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2034. lecture. The definition is: deliver a lecture or talk. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2347. emcee. The definition is: act as a master of ceremonies. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2293. preside_over. The definition is: act as president. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2636. patronize. The definition is: be a regular customer or client of. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+2035. preach. The definition is: speak, plead, or argue in favor of. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+
+Output Format Example:
+1677. speak_for.
+2046. teach.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "solder the headset cable to the Bluetooth module".
+There are 50 candidate verbs: 
+41. solder. The definition is: join or fuse with solder. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2526. call_on. The definition is: order or request or give a command for. The lexname is: communication. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2136. read. The definition is: indicate a certain reading; of gauges and instruments. The lexname is: communication. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+
+Output Format Example:
+41. solder.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

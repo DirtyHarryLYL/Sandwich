@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "docking_boat".
+There are 50 candidate verbs: 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2459. dock. The definition is: maneuver into a dock. The lexname is: contact. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+2461. moor. The definition is: come into or dock at a wharf. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+25. lock. The definition is: fasten with a lock. The lexname is: contact. 
+1216. wharf. The definition is: moor at a wharf. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2610. mock. The definition is: treat with contempt. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+60. port. The definition is: carry, bear, convey, or bring. The lexname is: contact. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2026. ferry. The definition is: transport by ferry. The lexname is: motion. 
+
+Output Format Example:
+857. boat.
+2459. dock.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Tuticorin Macaroons//add cashew to mixture".
+There are 50 candidate verbs: 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1116. mushroom. The definition is: pick or gather mushrooms. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1519. salaam. The definition is: greet with a salaam. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+
+Output Format Example:
+891. breakfast.
+1850. love.
+Strictly follow the output format above. Do not output analysis. 

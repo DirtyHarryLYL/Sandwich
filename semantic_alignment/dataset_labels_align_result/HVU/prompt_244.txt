@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wrestling".
+There are 50 candidate verbs: 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1673. protect. The definition is: shield from danger, injury, destruction, or damage. The lexname is: competition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+
+Output Format Example:
+498. wrest.
+2340. champion.
+Strictly follow the output format above. Do not output analysis. 

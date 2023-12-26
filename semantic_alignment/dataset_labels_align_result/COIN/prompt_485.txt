@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray experimentally to check".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+
+Output Format Example:
+2420. spray.
+1610. survey.
+Strictly follow the output format above. Do not output analysis. 

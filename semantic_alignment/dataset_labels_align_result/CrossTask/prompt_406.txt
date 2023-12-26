@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Buttermilk Toaster Pancakes//put pancakes in toaster".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+
+Output Format Example:
+133. bake.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

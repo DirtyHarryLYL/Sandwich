@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cleaning_windows".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+378. squeegee. The definition is: wipe with a squeegee. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+452. clean.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

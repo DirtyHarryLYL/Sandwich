@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Irish Coffee//pour alcohol".
+There are 50 candidate verbs: 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+292. sober. The definition is: cause to become sober. The lexname is: change. 
+749. sober. The definition is: cause to become sober. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+166. age. The definition is: make older. The lexname is: change. 
+
+Output Format Example:
+342. alcoholize.
+2250. drink.
+Strictly follow the output format above. Do not output analysis. 

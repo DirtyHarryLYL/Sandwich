@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "chiseling_wood".
+There are 50 candidate verbs: 
+1031. chisel. The definition is: carve with a chisel. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+
+Output Format Example:
+1031. chisel.
+2497. grind.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build Simple Floating Shelves//paint shelve".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+772. float. The definition is: move lightly, as if suspended. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+2184. float. The definition is: be afloat either on or below a liquid surface and not sink to the bottom. The lexname is: motion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1660. distemper. The definition is: paint with distemper. The lexname is: creation. 
+
+Output Format Example:
+1351. shelve.
+1802. redecorate.
+Strictly follow the output format above. Do not output analysis. 

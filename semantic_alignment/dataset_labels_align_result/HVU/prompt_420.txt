@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "zumba".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+695. enthuse. The definition is: cause to feel enthusiasm. The lexname is: emotion. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+712. humiliate. The definition is: cause to feel shame; hurt the pride of. The lexname is: emotion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+843. zoom. The definition is: move along very quickly. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+2239. exercise.
+584. dance.
+Strictly follow the output format above. Do not output analysis. 

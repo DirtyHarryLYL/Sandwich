@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "add some cleaner to clean and wet the lenses and take out the lenses".
+There are 50 candidate verbs: 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+341. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1512. tear. The definition is: to separate or be separated by force. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+834. tear. The definition is: move quickly and violently. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+
+Output Format Example:
+452. clean.
+1632. goggle.
+Strictly follow the output format above. Do not output analysis. 

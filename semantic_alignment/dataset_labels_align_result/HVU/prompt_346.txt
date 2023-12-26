@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_harp".
+There are 50 candidate verbs: 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+969. trumpet. The definition is: utter in trumpet-like sounds. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+1751. warble. The definition is: sing or play with trills, alternating with the half note above or below. The lexname is: communication. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+
+Output Format Example:
+952. sing.
+970. twang.
+Strictly follow the output format above. Do not output analysis. 

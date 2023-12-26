@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take out the toner cartridge".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+113. fax. The definition is: send something via a facsimile machine. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+61. return. The definition is: make a return. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+
+Output Format Example:
+1266. paper.
+2579. print.
+Strictly follow the output format above. Do not output analysis. 

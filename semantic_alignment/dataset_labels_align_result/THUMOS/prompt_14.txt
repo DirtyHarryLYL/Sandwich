@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "BodyWeightSquats".
+There are 50 candidate verbs: 
+1903. squat. The definition is: sit on one's heels. The lexname is: contact. 
+546. squat. The definition is: be close to the earth, or be disproportionately wide. The lexname is: stative. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1897. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1518. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+539. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1933. outweigh. The definition is: be heavier than. The lexname is: competition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+
+Output Format Example:
+1903. squat.
+546. squat.
+Strictly follow the output format above. Do not output analysis. 

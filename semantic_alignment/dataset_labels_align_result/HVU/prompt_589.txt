@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "chopping_wood".
+There are 50 candidate verbs: 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+809. lumber. The definition is: move heavily or clumsily. The lexname is: motion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+755. stump. The definition is: cause to be perplexed or confounded. The lexname is: cognition. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1031. chisel. The definition is: carve with a chisel. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+
+Output Format Example:
+1115. log.
+2515. chop.
+Strictly follow the output format above. Do not output analysis. 

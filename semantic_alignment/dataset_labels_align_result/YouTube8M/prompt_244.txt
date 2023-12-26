@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Crazyracing".
+There are 50 candidate verbs: 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1075. certify. The definition is: declare legally insane. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+200. decelerate. The definition is: reduce the speed of. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+321. volatilize. The definition is: make volatile; cause to pass off in a vapor. The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2599. criticize. The definition is: act as a critic. The lexname is: competition. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+
+Output Format Example:
+2189. race.
+923. crash.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Bicerin//pour chocolate in glass".
+There are 50 candidate verbs: 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+274. quieten. The definition is: become quiet or quieter. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+
+Output Format Example:
+1297. sugar.
+305. sweeten.
+Strictly follow the output format above. Do not output analysis. 

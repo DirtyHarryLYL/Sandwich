@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cooking_sausages_not_on_barbeque_".
+There are 50 candidate verbs: 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+
+Output Format Example:
+134. barbeque.
+2307. barbeque.
+Strictly follow the output format above. Do not output analysis. 

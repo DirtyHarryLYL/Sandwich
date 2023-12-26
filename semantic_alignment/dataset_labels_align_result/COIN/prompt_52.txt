@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "apply polishing paste on the surface".
+There are 50 candidate verbs: 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1671. varnish. The definition is: cover with varnish. The lexname is: contact. 
+1306. varnish. The definition is: cover with varnish. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+416. polish.
+1666. paint.
+Strictly follow the output format above. Do not output analysis. 

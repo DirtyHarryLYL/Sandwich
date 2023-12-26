@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "punching_bag".
+There are 50 candidate verbs: 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+941. ping. The definition is: make a short high-pitched sound. The lexname is: perception. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1159. bombard. The definition is: throw bombs at or attack with bombs. The lexname is: competition. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+
+Output Format Example:
+2672. jab.
+1879. pummel.
+Strictly follow the output format above. Do not output analysis. 

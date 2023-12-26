@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throwing_axe".
+There are 50 candidate verbs: 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1590. shoot. The definition is: kill by firing a missile. The lexname is: social. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1873. cudgel. The definition is: strike with a cudgel. The lexname is: contact. 
+130. pelt. The definition is: cast, hurl, or throw repeatedly with some missile. The lexname is: contact. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2525. ream. The definition is: enlarge with a reamer. The lexname is: change. 
+
+Output Format Example:
+1501. hew.
+2518. hew.
+Strictly follow the output format above. Do not output analysis. 

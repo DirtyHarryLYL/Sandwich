@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_polo".
+There are 50 candidate verbs: 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+801. frolic. The definition is: play boisterously. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+439. poll. The definition is: convert into a pollard. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+
+Output Format Example:
+2456. put.
+1850. love.
+Strictly follow the output format above. Do not output analysis. 

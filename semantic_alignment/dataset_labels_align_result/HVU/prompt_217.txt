@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fixing_bicycle".
+There are 50 candidate verbs: 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2481. finish. The definition is: cause to finish a relationship with somebody. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+2219. bicycle.
+2222. motorbike.
+Strictly follow the output format above. Do not output analysis. 

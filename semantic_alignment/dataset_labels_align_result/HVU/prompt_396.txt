@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "inline_skating".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+821. skulk. The definition is: move stealthily. The lexname is: motion. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+570. line. The definition is: be in line with; form a line along. The lexname is: stative. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+
+Output Format Example:
+2224. skate.
+2225. skateboard.
+Strictly follow the output format above. Do not output analysis. 

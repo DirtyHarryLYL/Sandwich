@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Sit".
+There are 50 candidate verbs: 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+300. stiffen. The definition is: make stiff or stiffer. The lexname is: change. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2617. stigmatize. The definition is: to accuse or condemn or openly or formally or brand as disgraceful. The lexname is: social. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2367. act. The definition is: perform an action, or work out or perform (an action). The lexname is: social. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+
+Output Format Example:
+2148. sit.
+1373. sit.
+Strictly follow the output format above. Do not output analysis. 

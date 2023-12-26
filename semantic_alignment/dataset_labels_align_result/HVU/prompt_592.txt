@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "changing_wheel_not_on_bike_".
+There are 50 candidate verbs: 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1061. gear. The definition is: set the level or character of. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+325. widen. The definition is: make wider. The lexname is: change. 
+1360. whirl. The definition is: cause to spin. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+
+Output Format Example:
+73. wheel.
+2219. bicycle.
+Strictly follow the output format above. Do not output analysis. 

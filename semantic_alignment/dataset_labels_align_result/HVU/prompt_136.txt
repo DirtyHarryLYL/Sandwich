@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "braiding_hair".
+There are 50 candidate verbs: 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+2253. bead. The definition is: form into beads, as of water or sweat, for example. The lexname is: stative. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2214. curl. The definition is: twist or roll into coils or ringlets. The lexname is: contact. 
+2465. curl. The definition is: twist or roll into coils or ringlets. The lexname is: contact. 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+1222. bridle. The definition is: put a bridle on. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+
+Output Format Example:
+442. scalp.
+1028. bead.
+Strictly follow the output format above. Do not output analysis. 

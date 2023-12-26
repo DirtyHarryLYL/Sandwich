@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "roof_shingle_removal".
+There are 50 candidate verbs: 
+1283. shingle. The definition is: cover with shingles. The lexname is: contact. 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1342. house. The definition is: provide housing for. The lexname is: social. 
+1380. underlay. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2463. lodge. The definition is: provide housing for. The lexname is: stative. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+1231. coal. The definition is: supply with coal. The lexname is: possession. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+1283. shingle.
+1277. roof.
+Strictly follow the output format above. Do not output analysis. 

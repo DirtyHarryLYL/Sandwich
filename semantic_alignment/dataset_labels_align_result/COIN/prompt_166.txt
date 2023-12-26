@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "line up for admission".
+There are 50 candidate verbs: 
+1947. group. The definition is: form a group or group together. The lexname is: competition. 
+570. line. The definition is: be in line with; form a line along. The lexname is: stative. 
+532. group. The definition is: form a group or group together. The lexname is: competition. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2446. jam. The definition is: crowd or pack to capacity. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2445. crowd. The definition is: fill or occupy to the point of overflowing. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+528. congregate. The definition is: come together, usually for a purpose. The lexname is: motion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1142. gather. The definition is: assemble or get together. The lexname is: contact. 
+531. gather. The definition is: assemble or get together. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1945. gather. The definition is: assemble or get together. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1931. outnumber. The definition is: be larger in number. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1153. overload. The definition is: become overloaded. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1199. staff. The definition is: provide with staff. The lexname is: competition. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+1947. group.
+570. line.
+Strictly follow the output format above. Do not output analysis. 

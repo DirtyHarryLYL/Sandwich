@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stoop, straddle vault and 0.5 turn over high bar to hang".
+There are 50 candidate verbs: 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+571. overhang. The definition is: be suspended over or hang over. The lexname is: stative. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1905. stoop. The definition is: descend swiftly, as if on prey. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+547. stoop. The definition is: sag, bend, bend over or down. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+
+Output Format Example:
+2174. vault.
+2090. tumble.
+Strictly follow the output format above. Do not output analysis. 

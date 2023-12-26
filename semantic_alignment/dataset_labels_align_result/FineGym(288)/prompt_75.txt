@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cat leap with 2 turn".
+There are 50 candidate verbs: 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+1741. meow. The definition is: cry like a cat. The lexname is: communication. 
+813. pounce. The definition is: move down on as if in an attack. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1754. yowl. The definition is: utter shrieks, as of cats. The lexname is: communication. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2666. beat. The definition is: strike (water or bushes) repeatedly to rouse animals for hunting. The lexname is: contact. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+
+Output Format Example:
+1745. purr.
+1741. meow.
+Strictly follow the output format above. Do not output analysis. 

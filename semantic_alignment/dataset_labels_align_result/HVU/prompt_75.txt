@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "home_roasting_coffee".
+There are 50 candidate verbs: 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+671. content. The definition is: make content. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+
+Output Format Example:
+2317. roast.
+155. roast.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wear a eye protection helmet".
+There are 50 candidate verbs: 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1219. blindfold. The definition is: cover the eyes of (someone) to prevent him from seeing. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1674. shade. The definition is: protect from light, heat, or view. The lexname is: contact. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+
+Output Format Example:
+1632. goggle.
+1618. eye.
+Strictly follow the output format above. Do not output analysis. 

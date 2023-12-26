@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "knead the meat".
+There are 50 candidate verbs: 
+1004. knead. The definition is: make uniform. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1518. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+539. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1897. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+
+Output Format Example:
+1004. knead.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

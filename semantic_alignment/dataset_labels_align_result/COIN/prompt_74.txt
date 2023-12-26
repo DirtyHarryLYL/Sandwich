@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the back cover and waterproof ring".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+
+Output Format Example:
+2452. install.
+1610. survey.
+Strictly follow the output format above. Do not output analysis. 

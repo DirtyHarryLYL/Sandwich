@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "breading_or_breadcrumbing".
+There are 50 candidate verbs: 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2487. crumb. The definition is: break into crumbs. The lexname is: change. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1234. crumb. The definition is: coat with bread crumbs. The lexname is: contact. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+949. rustle. The definition is: make a dry crackling sound. The lexname is: perception. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+583. creep. The definition is: grow or spread, often in such a way as to cover (a surface). The lexname is: motion. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+177. broaden. The definition is: become broader. The lexname is: change. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+
+Output Format Example:
+1221. bread.
+2487. crumb.
+Strictly follow the output format above. Do not output analysis. 

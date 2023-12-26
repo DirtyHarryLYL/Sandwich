@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sprint".
+There are 50 candidate verbs: 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+2207. depart. The definition is: leave. The lexname is: motion. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+
+Output Format Example:
+828. sprint.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

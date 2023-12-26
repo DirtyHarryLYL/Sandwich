@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_searches_under_couch,".
+There are 50 candidate verbs: 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1836. ambush. The definition is: wait in hiding to attack. The lexname is: competition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+583. creep. The definition is: grow or spread, often in such a way as to cover (a surface). The lexname is: motion. 
+
+Output Format Example:
+542. lounge.
+1638. peer.
+Strictly follow the output format above. Do not output analysis. 

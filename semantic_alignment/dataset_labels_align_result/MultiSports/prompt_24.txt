@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "volleyball defend".
+There are 50 candidate verbs: 
+1672. defend. The definition is: be the defense counsel for someone in a trial. The lexname is: social. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+57. dispatch. The definition is: send away towards a designated goal. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+
+Output Format Example:
+1672. defend.
+2056. hit.
+Strictly follow the output format above. Do not output analysis. 

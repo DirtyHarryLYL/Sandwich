@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash feet".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+
+Output Format Example:
+2318. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

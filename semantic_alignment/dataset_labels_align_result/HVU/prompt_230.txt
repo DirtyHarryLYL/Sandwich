@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "golf_driving".
+There are 50 candidate verbs: 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+859. bus. The definition is: ride in a bus. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2232. navigate. The definition is: direct carefully and safely. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+
+Output Format Example:
+68. drive.
+58. drive.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_puts_down_object_on_countertop,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+1621. observe. The definition is: stick to correctly or closely. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+
+Output Format Example:
+670. confuse.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

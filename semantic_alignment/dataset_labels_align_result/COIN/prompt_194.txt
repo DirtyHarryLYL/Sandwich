@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wind bandage around head".
+There are 50 candidate verbs: 
+1155. bandage. The definition is: dress by covering or binding. The lexname is: body. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1188. mask. The definition is: cover with a sauce. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+568. head. The definition is: be in the front of or on top of. The lexname is: stative. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1219. blindfold. The definition is: cover the eyes of (someone) to prevent him from seeing. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+
+Output Format Example:
+1155. bandage.
+431. head.
+Strictly follow the output format above. Do not output analysis. 

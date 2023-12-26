@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_closes_facility_door,".
+There are 50 candidate verbs: 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2282. exclude. The definition is: prevent from entering; shut out. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+383. depose. The definition is: force to leave (an office). The lexname is: social. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+
+Output Format Example:
+2058. knock.
+1503. knock.
+Strictly follow the output format above. Do not output analysis. 

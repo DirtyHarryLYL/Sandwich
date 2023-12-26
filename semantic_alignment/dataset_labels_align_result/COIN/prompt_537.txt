@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tighten the valve and screw on the valve cap".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+
+Output Format Example:
+2452. install.
+38. screw.
+Strictly follow the output format above. Do not output analysis. 

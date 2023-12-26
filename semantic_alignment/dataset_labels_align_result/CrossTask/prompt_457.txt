@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Install Lowering Springs//disconnect sway_bar".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+698. exhaust. The definition is: wear out completely. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+292. sober. The definition is: cause to become sober. The lexname is: change. 
+749. sober. The definition is: cause to become sober. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+
+Output Format Example:
+312. tire.
+1491. unscrew.
+Strictly follow the output format above. Do not output analysis. 

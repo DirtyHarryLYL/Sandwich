@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Burning".
+There are 50 candidate verbs: 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+
+Output Format Example:
+178. burn.
+1522. burn.
+Strictly follow the output format above. Do not output analysis. 

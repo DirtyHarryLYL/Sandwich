@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Kerala Fish Curry//add chili powder".
+There are 50 candidate verbs: 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+
+Output Format Example:
+1689. fish.
+1112. fish.
+Strictly follow the output format above. Do not output analysis. 

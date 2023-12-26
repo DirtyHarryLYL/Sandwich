@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "polish with polisher".
+There are 50 candidate verbs: 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1671. varnish. The definition is: cover with varnish. The lexname is: contact. 
+1306. varnish. The definition is: cover with varnish. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1172. enrich. The definition is: make wealthy or richer. The lexname is: possession. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+267. polarize. The definition is: become polarized in a conflict or contrasting situation. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+
+Output Format Example:
+416. polish.
+1666. paint.
+Strictly follow the output format above. Do not output analysis. 

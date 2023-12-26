@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push_up".
+There are 50 candidate verbs: 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+2114. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2412. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2490. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+333. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+672. crush. The definition is: humiliate or depress completely. The lexname is: emotion. 
+245. hush. The definition is: cause to be quiet or not talk. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1460. rush. The definition is: urge to an unnatural speed. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+79. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1505. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2693. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+610. anguish. The definition is: suffer great pains or distress. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2481. finish. The definition is: cause to finish a relationship with somebody. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+
+Output Format Example:
+2699. push.
+1506. push.
+Strictly follow the output format above. Do not output analysis. 

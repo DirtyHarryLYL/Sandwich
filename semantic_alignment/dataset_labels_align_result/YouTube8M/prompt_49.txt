@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Climbing".
+There are 50 candidate verbs: 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+794. clamber. The definition is: climb awkwardly, as if by scrambling. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1210. mount. The definition is: fix onto a backing, setting, or support. The lexname is: change. 
+1900. rise. The definition is: move upward. The lexname is: motion. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+199. de-escalate. The definition is: reduce the level or intensity or size or scope of. The lexname is: change. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+
+Output Format Example:
+795. climb.
+2074. climb.
+Strictly follow the output format above. Do not output analysis. 

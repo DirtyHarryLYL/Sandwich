@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "measure shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+516. meter. The definition is: measure with a meter. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+95. converse. The definition is: carry on a conversation. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2238. dress. The definition is: dress in a certain manner. The lexname is: body. 
+1161. clog. The definition is: impede with a clog or as if with a clog. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+
+Output Format Example:
+1284. shoe.
+2135. measure.
+Strictly follow the output format above. Do not output analysis. 

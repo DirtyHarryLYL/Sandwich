@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Opening a book".
+There are 50 candidate verbs: 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1988. introduce. The definition is: bring something new to an environment. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+
+Output Format Example:
+1369. open.
+1548. open.
+Strictly follow the output format above. Do not output analysis. 

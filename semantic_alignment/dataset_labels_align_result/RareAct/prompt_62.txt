@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1161. clog. The definition is: impede with a clog or as if with a clog. The lexname is: change. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+1284. shoe.
+2068. boot.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "catch the frisbee with mouse".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2211. flee. The definition is: run away quickly. The lexname is: motion. 
+801. frolic. The definition is: play boisterously. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2385. fetch. The definition is: be sold for a certain price. The lexname is: possession. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+847. pursue. The definition is: follow in or as if in pursuit. The lexname is: motion. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+2072. throw.
+80. run.
+Strictly follow the output format above. Do not output analysis. 

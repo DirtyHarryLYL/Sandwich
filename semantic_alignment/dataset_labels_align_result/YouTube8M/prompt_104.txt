@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Stretching".
+There are 50 candidate verbs: 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2140. bend. The definition is: form a curve. The lexname is: motion. 
+1363. bend. The definition is: form a curve. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1902. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+2150. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+1375. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+
+Output Format Example:
+1557. stretch.
+555. stretch.
+Strictly follow the output format above. Do not output analysis. 

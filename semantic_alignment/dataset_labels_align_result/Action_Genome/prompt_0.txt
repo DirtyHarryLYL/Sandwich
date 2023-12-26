@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding some clothes".
+There are 50 candidate verbs: 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1613. try_on. The definition is: put on a garment in order to see whether it fits and looks nice. The lexname is: body. 
+2245. undress. The definition is: get undressed. The lexname is: body. 
+2238. dress. The definition is: dress in a certain manner. The lexname is: body. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1422. cuddle. The definition is: hold (a person or thing) close, as for affection, comfort, or warmth. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+
+Output Format Example:
+2235. wear.
+403. take_off.
+Strictly follow the output format above. Do not output analysis. 

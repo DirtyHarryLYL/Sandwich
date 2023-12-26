@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "moon_walking".
+There are 50 candidate verbs: 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+788. ambulate. The definition is: walk about; not be bedridden or incapable of walking. The lexname is: motion. 
+843. zoom. The definition is: move along very quickly. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2294. follow. The definition is: grasp the meaning. The lexname is: cognition. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+803. ghost. The definition is: move like a ghost. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2201. promenade. The definition is: take a leisurely walk. The lexname is: motion. 
+
+Output Format Example:
+2204. walk.
+822. sleepwalk.
+Strictly follow the output format above. Do not output analysis. 

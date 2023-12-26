@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "motorboat racing".
+There are 50 candidate verbs: 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2461. moor. The definition is: come into or dock at a wharf. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2232. navigate. The definition is: direct carefully and safely. The lexname is: motion. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+850. escort. The definition is: accompany as an escort. The lexname is: motion. 
+2348. escort. The definition is: accompany as an escort. The lexname is: motion. 
+2184. float. The definition is: be afloat either on or below a liquid surface and not sink to the bottom. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+
+Output Format Example:
+857. boat.
+2189. race.
+Strictly follow the output format above. Do not output analysis. 

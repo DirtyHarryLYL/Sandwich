@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "powerlifting".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+1933. outweigh. The definition is: be heavier than. The lexname is: competition. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+
+Output Format Example:
+2239. exercise.
+498. wrest.
+Strictly follow the output format above. Do not output analysis. 

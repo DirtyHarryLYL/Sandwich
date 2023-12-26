@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ironing".
+There are 50 candidate verbs: 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+
+Output Format Example:
+375. iron.
+2313. iron.
+Strictly follow the output format above. Do not output analysis. 

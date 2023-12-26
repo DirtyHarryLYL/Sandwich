@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "putting_on_lipstick".
+There are 50 candidate verbs: 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1549. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+1525. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+
+Output Format Example:
+1258. lipstick.
+1850. love.
+Strictly follow the output format above. Do not output analysis. 

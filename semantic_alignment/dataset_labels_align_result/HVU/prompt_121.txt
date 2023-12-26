@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "swimming_breast_stroke".
+There are 50 candidate verbs: 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1574. snore. The definition is: breathe noisily during one's sleep. The lexname is: body. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+881. breastfeed. The definition is: give suck to. The lexname is: consumption. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2426. strew. The definition is: cover; be dispersed over. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+
+Output Format Example:
+1527. swim.
+2169. swim.
+Strictly follow the output format above. Do not output analysis. 

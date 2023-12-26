@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut oranges".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2502. slice. The definition is: cut into slices. The lexname is: contact. 
+1859. slice. The definition is: cut into slices. The lexname is: contact. 
+1477. slice. The definition is: cut into slices. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2498. nick. The definition is: cut a nick into. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+
+Output Format Example:
+1430. cut.
+2546. cut.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut towel".
+There are 50 candidate verbs: 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+
+Output Format Example:
+379. towel.
+2546. cut.
+Strictly follow the output format above. Do not output analysis. 

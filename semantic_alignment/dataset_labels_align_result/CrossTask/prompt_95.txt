@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Add Oil to Your Car//remove funnel".
+There are 50 candidate verbs: 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+71. tool. The definition is: drive. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+
+Output Format Example:
+2399. funnel.
+1264. oil.
+Strictly follow the output format above. Do not output analysis. 

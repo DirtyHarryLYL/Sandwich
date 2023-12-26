@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "insert the hard disk tray into the position of the CD drive".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1790. videotape. The definition is: record on videotape. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+
+Output Format Example:
+2452. install.
+1340. file.
+Strictly follow the output format above. Do not output analysis. 

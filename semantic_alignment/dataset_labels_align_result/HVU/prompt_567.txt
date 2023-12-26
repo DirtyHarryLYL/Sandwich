@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "extinguishing_fire".
+There are 50 candidate verbs: 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+412. extinguish. The definition is: terminate, end, or take out. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+695. enthuse. The definition is: cause to feel enthusiasm. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+2053. fire.
+412. extinguish.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "plataform_diving".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2134. free. The definition is: free from obligations or duties. The lexname is: social. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+478. deprive. The definition is: take away. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+2636. patronize. The definition is: be a regular customer or client of. The lexname is: communication. 
+
+Output Format Example:
+2076. dive.
+1584. drown.
+Strictly follow the output format above. Do not output analysis. 

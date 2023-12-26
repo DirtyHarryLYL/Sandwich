@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ice_fishing".
+There are 50 candidate verbs: 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+
+Output Format Example:
+1112. fish.
+1689. fish.
+Strictly follow the output format above. Do not output analysis. 

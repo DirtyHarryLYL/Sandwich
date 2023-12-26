@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make French Strawberry Cake//add butter".
+There are 50 candidate verbs: 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1568. blush. The definition is: turn red, as if in embarrassment or shame. The lexname is: body. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+1027. bake.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

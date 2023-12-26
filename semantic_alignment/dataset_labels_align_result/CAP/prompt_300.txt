@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_reads_magazine,".
+There are 50 candidate verbs: 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2293. preside_over. The definition is: act as president. The lexname is: social. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+996. report. The definition is: announce one's presence. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+
+Output Format Example:
+1602. peruse.
+2686. study.
+Strictly follow the output format above. Do not output analysis. 

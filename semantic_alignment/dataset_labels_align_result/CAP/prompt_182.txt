@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_lies_down_on_floor,".
+There are 50 candidate verbs: 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+478. deprive. The definition is: take away. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+
+Output Format Example:
+541. lie.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

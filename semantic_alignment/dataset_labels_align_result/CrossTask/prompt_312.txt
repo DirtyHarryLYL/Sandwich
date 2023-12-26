@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Peppermint Meringue Cookies//place egg whites into bowl".
+There are 50 candidate verbs: 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1286. silver. The definition is: coat with a layer of silver or a silver amalgam. The lexname is: contact. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+2121. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+2428. swab. The definition is: wash with a swab or a mop. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1120. pearl. The definition is: gather pearls, from oysters in the ocean. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1313. whitewash. The definition is: cover with whitewash. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2082. mushroom. The definition is: grow and spread fast. The lexname is: change. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1116. mushroom. The definition is: pick or gather mushrooms. The lexname is: contact. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+265. pale. The definition is: turn pale, as if in fear. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1956. whisk. The definition is: whip with or as if with a wire whisk. The lexname is: contact. 
+2688. memorize. The definition is: commit to memory; learn by heart. The lexname is: cognition. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+1886. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+423. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1594. assay. The definition is: analyze (chemical substances). The lexname is: cognition. 
+465. devein. The definition is: remove the dark dorsal vein of (a shrimp). The lexname is: possession. 
+
+Output Format Example:
+1185. lard.
+2179. bowl.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "counting_money".
+There are 50 candidate verbs: 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1068. count. The definition is: include as if by counting. The lexname is: cognition. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+400. subtract. The definition is: make a subtraction. The lexname is: cognition. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2386. cash. The definition is: exchange for cash. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2563. pay. The definition is: give money, usually in exchange for goods or services. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2500. quarter. The definition is: divide into quarters. The lexname is: contact. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1434. continue.
+1068. count.
+Strictly follow the output format above. Do not output analysis. 

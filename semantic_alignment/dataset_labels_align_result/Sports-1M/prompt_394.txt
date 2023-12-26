@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "indoor american football".
+There are 50 candidate verbs: 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+59. pass_on. The definition is: give to or transfer possession of. The lexname is: possession. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+
+Output Format Example:
+724. madden.
+2548. injure.
+Strictly follow the output format above. Do not output analysis. 

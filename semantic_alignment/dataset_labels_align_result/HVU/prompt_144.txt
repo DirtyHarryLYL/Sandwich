@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "building_sandcastle".
+There are 50 candidate verbs: 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+345. fortify. The definition is: enclose by or as if by a fortification. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+
+Output Format Example:
+2449. build-in.
+1328. beach.
+Strictly follow the output format above. Do not output analysis. 

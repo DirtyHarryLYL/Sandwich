@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pond hockey".
+There are 50 candidate verbs: 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+
+Output Format Example:
+2224. skate.
+2226. ski.
+Strictly follow the output format above. Do not output analysis. 

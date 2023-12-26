@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "deflate the tyre first".
+There are 50 candidate verbs: 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+361. deflate. The definition is: become deflated or flaccid, as by losing air. The lexname is: change. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+200. decelerate. The definition is: reduce the speed of. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+
+Output Format Example:
+645. tire.
+393. kill.
+Strictly follow the output format above. Do not output analysis. 

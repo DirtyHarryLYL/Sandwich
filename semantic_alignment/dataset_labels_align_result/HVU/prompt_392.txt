@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "worship".
+There are 50 candidate verbs: 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2378. surrender. The definition is: relinquish possession or control over. The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2593. bless. The definition is: confer prosperity or happiness on. The lexname is: possession. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1081. adopt. The definition is: take up and practice as one's own. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+
+Output Format Example:
+1094. consecrate.
+413. exorcise.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "drill with an electric drill".
+There are 50 candidate verbs: 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1821. tool.
+284. short-circuit.
+Strictly follow the output format above. Do not output analysis. 

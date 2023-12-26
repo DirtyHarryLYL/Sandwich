@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Someone is cooking something".
+There are 50 candidate verbs: 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+996. report. The definition is: announce one's presence. The lexname is: communication. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+1615. behold.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

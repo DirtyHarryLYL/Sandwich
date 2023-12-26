@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Sourdough Pancakes//pour batter into pan".
+There are 50 candidate verbs: 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2406. baste. The definition is: cover with liquid before cooking. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+423. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+1886. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+
+Output Format Example:
+149. pan-broil.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

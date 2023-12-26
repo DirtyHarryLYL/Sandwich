@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "LongJump".
+There are 50 candidate verbs: 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2188. lope. The definition is: run easily. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+833. stumble. The definition is: miss a step and fall or nearly fall. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+313. topple. The definition is: cause to topple or tumble by pushing. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+
+Output Format Example:
+1839. jump.
+2081. jump.
+Strictly follow the output format above. Do not output analysis. 

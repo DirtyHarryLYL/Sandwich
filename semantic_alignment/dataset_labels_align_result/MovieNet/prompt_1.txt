@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "play piano".
+There are 50 candidate verbs: 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+
+Output Format Example:
+952. sing.
+2472. play.
+Strictly follow the output format above. Do not output analysis. 

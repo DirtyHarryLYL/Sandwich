@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "smoking_hookah".
+There are 50 candidate verbs: 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2252. huff. The definition is: inhale recreational drugs. The lexname is: consumption. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2271. steam. The definition is: emit steam. The lexname is: weather. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+
+Output Format Example:
+451. weed.
+422. weed.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "massaging_back".
+There are 50 candidate verbs: 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1324. back. The definition is: cause to travel backward. The lexname is: motion. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+
+Output Format Example:
+2643. massage.
+1324. back.
+Strictly follow the output format above. Do not output analysis. 

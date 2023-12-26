@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "swimming_front_crawl".
+There are 50 candidate verbs: 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2159. crawl. The definition is: be full of. The lexname is: stative. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+797. crawl. The definition is: move slowly; in the case of people or animals with the body near the ground. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1375. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+1902. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+2150. sprawl. The definition is: sit or lie with one's limbs spread out. The lexname is: contact. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2445. crowd. The definition is: fill or occupy to the point of overflowing. The lexname is: stative. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+815. scram. The definition is: leave immediately; used usually in the imperative form. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+
+Output Format Example:
+2161. swim.
+2169. swim.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash tomato".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+762. torment. The definition is: treat cruelly. The lexname is: emotion. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+
+Output Format Example:
+2318. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

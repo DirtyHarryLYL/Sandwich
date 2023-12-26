@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cut a hole on the shell".
+There are 50 candidate verbs: 
+444. shell. The definition is: remove from its shell or outer covering. The lexname is: change. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+438. pod. The definition is: take something out of its shell or pod. The lexname is: change. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+453. hollow. The definition is: remove the interior of. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1304. top. The definition is: cut the top off. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+
+Output Format Example:
+444. shell.
+445. shuck.
+Strictly follow the output format above. Do not output analysis. 

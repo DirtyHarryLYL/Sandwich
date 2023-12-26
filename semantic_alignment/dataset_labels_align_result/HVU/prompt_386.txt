@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shoveling_snow".
+There are 50 candidate verbs: 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2101. plow. The definition is: to break and turn over earth especially with a plow. The lexname is: creation. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+
+Output Format Example:
+2393. shovel.
+2104. shovel.
+Strictly follow the output format above. Do not output analysis. 

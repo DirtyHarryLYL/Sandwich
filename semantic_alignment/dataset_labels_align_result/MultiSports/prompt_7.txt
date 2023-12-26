@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aerobic horizontal support".
+There are 50 candidate verbs: 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2059. lob. The definition is: propel in a high arc. The lexname is: contact. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+
+Output Format Example:
+364. hyperextend.
+2239. exercise.
+Strictly follow the output format above. Do not output analysis. 

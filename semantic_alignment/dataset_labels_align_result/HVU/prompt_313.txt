@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "peeling_potatoes".
+There are 50 candidate verbs: 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+1281. salt.
+732. pain.
+Strictly follow the output format above. Do not output analysis. 

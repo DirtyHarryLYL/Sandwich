@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_reads_book,".
+There are 50 candidate verbs: 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+277. rekindle. The definition is: kindle anew, as of a fire. The lexname is: weather. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+996. report. The definition is: announce one's presence. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+
+Output Format Example:
+2686. study.
+1602. peruse.
+Strictly follow the output format above. Do not output analysis. 

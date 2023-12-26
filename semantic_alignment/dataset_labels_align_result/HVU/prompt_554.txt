@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sneezing".
+There are 50 candidate verbs: 
+1573. sneeze. The definition is: exhale spasmodically, as when an irritant entered one's nose. The lexname is: body. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+1515. snooze. The definition is: sleep lightly or for a short period of time. The lexname is: body. 
+1579. yawn. The definition is: utter a yawn, as from lack of oxygen or when one is tired. The lexname is: body. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+683. dismay. The definition is: fill with apprehension or alarm; cause to be unpleasantly surprised. The lexname is: emotion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+609. anger. The definition is: become angry. The lexname is: emotion. 
+1575. snuff. The definition is: inhale audibly through the nose. The lexname is: body. 
+1438. annoy. The definition is: cause annoyance in; disturb, especially by minor irritations. The lexname is: emotion. 
+655. anger. The definition is: become angry. The lexname is: emotion. 
+656. annoy. The definition is: cause annoyance in; disturb, especially by minor irritations. The lexname is: emotion. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+1573. sneeze.
+1628. sniff.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Low Carb Coffee Cake//add flour".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+662. bore. The definition is: cause to be bored. The lexname is: emotion. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

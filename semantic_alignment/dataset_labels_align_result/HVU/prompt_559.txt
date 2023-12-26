@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "building_shed".
+There are 50 candidate verbs: 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2264. shed. The definition is: cast off hair, skin, horn, or feathers. The lexname is: body. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1342. house. The definition is: provide housing for. The lexname is: social. 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2464. stable. The definition is: shelter in a stable. The lexname is: social. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1357. warehouse. The definition is: store in a warehouse. The lexname is: possession. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1341. garage. The definition is: keep or store in a garage. The lexname is: possession. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2463. lodge. The definition is: provide housing for. The lexname is: stative. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1649. reside. The definition is: make one's home in a particular place or community. The lexname is: stative. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+
+Output Format Example:
+2449. build-in.
+2264. shed.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_marbles".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1381. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+2255. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2097. magnetize. The definition is: make magnetic. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2253. bead. The definition is: form into beads, as of water or sweat, for example. The lexname is: stative. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+1761. whine. The definition is: move with a whining sound. The lexname is: motion. 
+973. whine. The definition is: move with a whining sound. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2254. bubble. The definition is: form, produce, or emit bubbles. The lexname is: change. 
+752. startle. The definition is: to stimulate to action. The lexname is: emotion. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+948. rumble. The definition is: make a low noise. The lexname is: perception. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1758. rumble. The definition is: make a low noise. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+999. ball.
+1381. dribble.
+Strictly follow the output format above. Do not output analysis. 

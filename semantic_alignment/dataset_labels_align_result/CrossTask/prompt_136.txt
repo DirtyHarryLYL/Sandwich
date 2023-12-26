@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Black Forest Cake//add sugar".
+There are 50 candidate verbs: 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+1783. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1104. make. The definition is: engage in. The lexname is: social. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2610. mock. The definition is: treat with contempt. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+400. subtract. The definition is: make a subtraction. The lexname is: cognition. 
+
+Output Format Example:
+1297. sugar.
+305. sweeten.
+Strictly follow the output format above. Do not output analysis. 

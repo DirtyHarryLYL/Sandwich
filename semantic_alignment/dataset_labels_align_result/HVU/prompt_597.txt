@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "card_throwing".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+127. discard. The definition is: throw or cast away. The lexname is: possession. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+993. hail. The definition is: call for. The lexname is: communication. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+
+Output Format Example:
+2072. throw.
+2664. strike.
+Strictly follow the output format above. Do not output analysis. 

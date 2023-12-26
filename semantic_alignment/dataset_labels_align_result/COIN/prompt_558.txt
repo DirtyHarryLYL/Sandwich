@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray the cleaning agent on the car window".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2436. dust. The definition is: cover with a light dusting of a substance. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+378. squeegee. The definition is: wipe with a squeegee. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2422. sprinkle. The definition is: scatter with liquid; wet lightly. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+993. hail. The definition is: call for. The lexname is: communication. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+
+Output Format Example:
+2420. spray.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

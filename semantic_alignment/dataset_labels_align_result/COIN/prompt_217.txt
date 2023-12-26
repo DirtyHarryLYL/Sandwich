@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unscrew gun head".
+There are 50 candidate verbs: 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+1479. unbolt. The definition is: undo the bolt of. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+
+Output Format Example:
+1491. unscrew.
+38. screw.
+Strictly follow the output format above. Do not output analysis. 

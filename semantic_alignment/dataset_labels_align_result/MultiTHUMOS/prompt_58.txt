@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "PoleVaultPlantPole".
+There are 50 candidate verbs: 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+321. volatilize. The definition is: make volatile; cause to pass off in a vapor. The lexname is: change. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+268. proliferate. The definition is: cause to grow or increase rapidly. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1149. pull. The definition is: take away. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+439. poll. The definition is: convert into a pollard. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+802. gallivant. The definition is: wander aimlessly in search of pleasure. The lexname is: motion. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+
+Output Format Example:
+2438. plant.
+1349. pot.
+Strictly follow the output format above. Do not output analysis. 

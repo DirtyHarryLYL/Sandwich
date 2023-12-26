@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install legs of sofa".
+There are 50 candidate verbs: 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+
+Output Format Example:
+542. lounge.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

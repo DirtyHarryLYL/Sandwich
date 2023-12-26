@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "yoga".
+There are 50 candidate verbs: 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2338. pose. The definition is: pretend to be someone you are not; sometimes with fraudulent intentions. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+766. worry. The definition is: disturb the peace of mind of; afflict with mental agitation or distress. The lexname is: emotion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+
+Output Format Example:
+1557. stretch.
+2239. exercise.
+Strictly follow the output format above. Do not output analysis. 

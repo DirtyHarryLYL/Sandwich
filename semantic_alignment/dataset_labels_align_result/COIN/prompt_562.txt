@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take out the old bulb".
+There are 50 candidate verbs: 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+979. flash. The definition is: emit a brief burst of light. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+402. take_out. The definition is: remove something from a container or an enclosed space. The lexname is: contact. 
+166. age. The definition is: make older. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+985. incandesce. The definition is: become incandescent or glow with heat. The lexname is: change. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+61. return. The definition is: make a return. The lexname is: contact. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+987. shine. The definition is: emit light; be bright, as of the sun or a light. The lexname is: weather. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+427. bone. The definition is: remove the bones from. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+
+Output Format Example:
+350. light.
+2096. lighten.
+Strictly follow the output format above. Do not output analysis. 

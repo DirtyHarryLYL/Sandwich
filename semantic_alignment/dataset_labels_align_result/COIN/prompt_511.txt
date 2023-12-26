@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "set up the brackets".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+504. bet. The definition is: stake on the outcome of an issue. The lexname is: competition. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+
+Output Format Example:
+670. confuse.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

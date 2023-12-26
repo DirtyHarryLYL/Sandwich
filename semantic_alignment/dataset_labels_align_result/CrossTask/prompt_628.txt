@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Rainbow Jello//prepare jello".
+There are 50 candidate verbs: 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1291. stain. The definition is: color with a liquid dye or tint. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+295. sour. The definition is: make sour or more sour. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+258. mellow. The definition is: make or grow (more) mellow. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+
+Output Format Example:
+1659. color.
+237. gelatinize.
+Strictly follow the output format above. Do not output analysis. 

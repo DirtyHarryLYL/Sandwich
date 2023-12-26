@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Smiling in a mirror".
+There are 50 candidate verbs: 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+988. sparkle. The definition is: reflect brightly. The lexname is: weather. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+567. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+1240. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+638. rejoice. The definition is: feel happiness or joy. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+263. open. The definition is: become open. The lexname is: contact. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+
+Output Format Example:
+1610. survey.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

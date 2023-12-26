@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_opens_oven_door,".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+263. open. The definition is: become open. The lexname is: contact. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+2297. bake.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

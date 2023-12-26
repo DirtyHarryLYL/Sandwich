@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "straighten hair".
+There are 50 candidate verbs: 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+310. thin. The definition is: make thin or thinner. The lexname is: change. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+399. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2118. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+2244. strip. The definition is: remove (someone's or one's own) clothes. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+
+Output Format Example:
+2099. brush.
+873. brush.
+Strictly follow the output format above. Do not output analysis. 

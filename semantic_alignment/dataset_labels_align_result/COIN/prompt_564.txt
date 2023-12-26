@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the light shell/housing/support".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+
+Output Format Example:
+2452. install.
+2455. reinstall.
+Strictly follow the output format above. Do not output analysis. 

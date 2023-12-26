@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shearing_sheep".
+There are 50 candidate verbs: 
+2356. shepherd. The definition is: tend as a shepherd, as of sheep or goats. The lexname is: social. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+854. shepherd. The definition is: watch over like a shepherd, as a teacher of her pupils. The lexname is: social. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2264. shed. The definition is: cast off hair, skin, horn, or feathers. The lexname is: body. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1742. moo. The definition is: make a low noise, characteristic of bovines. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+2082. mushroom. The definition is: grow and spread fast. The lexname is: change. 
+855. steer. The definition is: direct the course; determine the direction of travelling. The lexname is: motion. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+2426. strew. The definition is: cover; be dispersed over. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+2155. converge. The definition is: be adjacent or come together. The lexname is: stative. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+1783. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+
+Output Format Example:
+2356. shepherd.
+2103. shear.
+Strictly follow the output format above. Do not output analysis. 

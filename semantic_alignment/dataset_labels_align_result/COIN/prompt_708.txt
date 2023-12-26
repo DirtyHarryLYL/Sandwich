@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "inflate the tyre after replacement".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+361. deflate. The definition is: become deflated or flaccid, as by losing air. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+574. rim. The definition is: run around the rim of. The lexname is: stative. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+
+Output Format Example:
+312. tire.
+645. tire.
+Strictly follow the output format above. Do not output analysis. 

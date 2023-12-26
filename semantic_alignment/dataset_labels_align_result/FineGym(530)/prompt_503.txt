@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "(swing forward) 0.5 turn to double salto forward piked".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2015. forward. The definition is: send or ship onward from an intermediate post or station in transit. The lexname is: motion. 
+591. oscillate. The definition is: move or swing from side to side regularly. The lexname is: motion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1443. panic. The definition is: cause sudden fear in or fill with sudden panic. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+
+Output Format Example:
+1772. turn.
+1558. turn.
+Strictly follow the output format above. Do not output analysis. 

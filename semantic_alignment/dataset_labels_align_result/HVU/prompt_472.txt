@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "using_a_paint_roller".
+There are 50 candidate verbs: 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1660. distemper. The definition is: paint with distemper. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+
+Output Format Example:
+2330. paint.
+1071. paint.
+Strictly follow the output format above. Do not output analysis. 

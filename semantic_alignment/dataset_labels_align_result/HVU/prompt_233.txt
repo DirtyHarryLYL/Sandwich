@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "grooming_dog".
+There are 50 candidate verbs: 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+872. groom. The definition is: care for one's external appearance. The lexname is: body. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+1719. bark. The definition is: make barking sounds. The lexname is: communication. 
+1753. yelp. The definition is: bark in a high-pitched tone. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1454. hound. The definition is: pursue or chase relentlessly. The lexname is: motion. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+84. explain. The definition is: define. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+
+Output Format Example:
+1429. pet.
+872. groom.
+Strictly follow the output format above. Do not output analysis. 

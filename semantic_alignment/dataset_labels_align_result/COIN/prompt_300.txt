@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "connect air conditioners and windows".
+There are 50 candidate verbs: 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+
+Output Format Example:
+1978. interconnect.
+2001. connect.
+Strictly follow the output format above. Do not output analysis. 

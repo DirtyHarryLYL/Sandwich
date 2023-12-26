@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throwing_discus".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+57. dispatch. The definition is: send away towards a designated goal. The lexname is: motion. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+2072. throw.
+128. drive.
+Strictly follow the output format above. Do not output analysis. 

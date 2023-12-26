@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "place the bicycle on the bracket".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+
+Output Format Example:
+2615. satirize.
+1500. hack.
+Strictly follow the output format above. Do not output analysis. 

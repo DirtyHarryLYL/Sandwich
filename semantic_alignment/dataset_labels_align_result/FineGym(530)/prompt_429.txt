@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hip circle forward, hips touching bar".
+There are 50 candidate verbs: 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+564. encircle. The definition is: form a circle around. The lexname is: contact. 
+1170. encircle. The definition is: form a circle around. The lexname is: contact. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+
+Output Format Example:
+2056. hit.
+1926. heave.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "computing".
+There are 50 candidate verbs: 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+104. complain. The definition is: express complaints, discontent, displeasure, or unhappiness. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1997. compound. The definition is: combine so as to form a whole; mix. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+
+Output Format Example:
+2041. write.
+2046. teach.
+Strictly follow the output format above. Do not output analysis. 

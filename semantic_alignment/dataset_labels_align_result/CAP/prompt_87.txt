@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_drinks_from_beverage_can,".
+There are 50 candidate verbs: 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+
+Output Format Example:
+1335. can.
+1332. bottle.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "HighFive".
+There are 50 candidate verbs: 
+1563. clap. The definition is: clap one's hands together. The lexname is: body. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2645. paw. The definition is: touch clumsily. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2661. slap. The definition is: hit with something flat, like a paddle or the open hand. The lexname is: contact. 
+2677. slap. The definition is: hit with something flat, like a paddle or the open hand. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2650. tickle. The definition is: touch or stroke lightly. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+
+Output Format Example:
+1563. clap.
+2627. hold.
+Strictly follow the output format above. Do not output analysis. 

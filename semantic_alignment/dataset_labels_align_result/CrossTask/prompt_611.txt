@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make an Americano//grind espresso_beans".
+There are 50 candidate verbs: 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+151. percolate. The definition is: prepare in a percolator. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+
+Output Format Example:
+2497. grind.
+2299. brew.
+Strictly follow the output format above. Do not output analysis. 

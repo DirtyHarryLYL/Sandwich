@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "basketball free throw".
+There are 50 candidate verbs: 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2064. shoot. The definition is: throw or propel in a specific direction or towards a specific objective. The lexname is: contact. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2255. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+1381. dribble. The definition is: let or cause to fall in drops. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+
+Output Format Example:
+2062. pass.
+2072. throw.
+Strictly follow the output format above. Do not output analysis. 

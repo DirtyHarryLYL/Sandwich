@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "PommelHorse".
+There are 50 candidate verbs: 
+1159. bombard. The definition is: throw bombs at or attack with bombs. The lexname is: competition. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+712. humiliate. The definition is: cause to feel shame; hurt the pride of. The lexname is: emotion. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+437. pith. The definition is: remove the pith from (a plant). The lexname is: possession. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+662. bore. The definition is: cause to be bored. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1206. emplace. The definition is: put into place or position. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+205. demagnetize. The definition is: make nonmagnetic; take away the magnetic properties (of). The lexname is: change. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+497. take. The definition is: take by force. The lexname is: possession. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+943. pop. The definition is: make a sharp explosive noise. The lexname is: perception. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+717. intimidate. The definition is: make timid or fearful. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+
+Output Format Example:
+1159. bombard.
+207. depressurize.
+Strictly follow the output format above. Do not output analysis. 

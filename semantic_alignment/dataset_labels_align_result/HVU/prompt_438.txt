@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sword_fighting".
+There are 50 candidate verbs: 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1873. cudgel. The definition is: strike with a cudgel. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1416. skirmish. The definition is: engage in a skirmish. The lexname is: competition. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1413. quarrel. The definition is: have a disagreement over something. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+1588. knife.
+1878. knife.
+Strictly follow the output format above. Do not output analysis. 

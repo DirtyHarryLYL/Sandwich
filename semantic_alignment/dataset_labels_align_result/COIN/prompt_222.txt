@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "try to press gun head, spray residual old grease".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1251. grease. The definition is: lubricate with grease. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+
+Output Format Example:
+2420. spray.
+2497. grind.
+Strictly follow the output format above. Do not output analysis. 

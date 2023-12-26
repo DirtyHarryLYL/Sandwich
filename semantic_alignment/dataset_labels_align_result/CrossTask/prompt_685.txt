@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Blueberry Pancakes//remove pancake from pan".
+There are 50 candidate verbs: 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+2484. bruise. The definition is: damage (plant tissue) by abrasion or pressure. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+
+Output Format Example:
+150. pan-fry.
+892. brunch.
+Strictly follow the output format above. Do not output analysis. 

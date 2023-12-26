@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "building_cabinet".
+There are 50 candidate verbs: 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1342. house. The definition is: provide housing for. The lexname is: social. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+527. collect. The definition is: get or bring together. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+194. collect. The definition is: get or bring together. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+
+Output Format Example:
+2449. build-in.
+1333. box.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "close up the stapler".
+There are 50 candidate verbs: 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+42. staple. The definition is: secure or fasten with a staple or staples. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+1199. staff. The definition is: provide with staff. The lexname is: competition. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+956. sputter. The definition is: utter with a spitting sound, as if in a rage. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+
+Output Format Example:
+1493. unstaple.
+42. staple.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Potato Pancakes//stir".
+There are 50 candidate verbs: 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1649. reside. The definition is: make one's home in a particular place or community. The lexname is: stative. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1705. patrol. The definition is: maintain the security of by carrying out a patrol. The lexname is: social. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1423. date. The definition is: go on a date with. The lexname is: social. 
+1292. starch. The definition is: stiffen with starch. The lexname is: change. 
+1669. starch. The definition is: stiffen with starch. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+300. stiffen. The definition is: make stiff or stiffer. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+
+Output Format Example:
+150. pan-fry.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

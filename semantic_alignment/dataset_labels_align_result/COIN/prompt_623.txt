@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "use the needle to open the SIM card slot".
+There are 50 candidate verbs: 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+42. staple. The definition is: secure or fasten with a staple or staples. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1495. unzip. The definition is: open the zipper of. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1792. address. The definition is: put an address on (an envelope). The lexname is: communication. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+
+Output Format Example:
+1490. unpin.
+33. pin.
+Strictly follow the output format above. Do not output analysis. 

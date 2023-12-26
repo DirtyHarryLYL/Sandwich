@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray fridge".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1104. make. The definition is: engage in. The lexname is: social. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+
+Output Format Example:
+2420. spray.
+131. shower.
+Strictly follow the output format above. Do not output analysis. 

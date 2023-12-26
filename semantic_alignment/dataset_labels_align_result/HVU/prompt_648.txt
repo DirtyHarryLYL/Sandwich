@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "diving_cliff".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+585. drift. The definition is: be piled up in banks or heaps by the force of wind or a current. The lexname is: change. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+628. grieve. The definition is: feel grief. The lexname is: emotion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+387. eject. The definition is: put out or expel from a place. The lexname is: contact. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+
+Output Format Example:
+2076. dive.
+2154. climb.
+Strictly follow the output format above. Do not output analysis. 

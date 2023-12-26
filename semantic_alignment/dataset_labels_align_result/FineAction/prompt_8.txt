@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "apply lipstick".
+There are 50 candidate verbs: 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2678. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+2662. smack. The definition is: deliver a hard blow to. The lexname is: contact. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1549. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+1525. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+
+Output Format Example:
+1258. lipstick.
+2641. kiss.
+Strictly follow the output format above. Do not output analysis. 

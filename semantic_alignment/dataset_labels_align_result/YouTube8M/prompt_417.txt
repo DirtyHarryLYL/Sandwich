@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Chewing".
+There are 50 candidate verbs: 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+900. chomp. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+902. gnaw. The definition is: bite or chew on with the teeth. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+
+Output Format Example:
+899. chew.
+900. chomp.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "folk_dance".
+There are 50 candidate verbs: 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+801. frolic. The definition is: play boisterously. The lexname is: motion. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+
+Output Format Example:
+584. dance.
+2319. choreograph.
+Strictly follow the output format above. Do not output analysis. 

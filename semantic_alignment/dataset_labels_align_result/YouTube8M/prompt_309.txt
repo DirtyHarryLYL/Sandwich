@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Firefighting".
+There are 50 candidate verbs: 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+412. extinguish. The definition is: terminate, end, or take out. The lexname is: change. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+247. ignite. The definition is: cause to start burning; subject to fire or great heat. The lexname is: weather. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+977. flame. The definition is: be in flames or aflame. The lexname is: weather. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+
+Output Format Example:
+2053. fire.
+2545. burn.
+Strictly follow the output format above. Do not output analysis. 

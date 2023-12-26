@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "curling_hair".
+There are 50 candidate verbs: 
+2465. curl. The definition is: twist or roll into coils or ringlets. The lexname is: contact. 
+2214. curl. The definition is: twist or roll into coils or ringlets. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+
+Output Format Example:
+2465. curl.
+2214. curl.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "catching_fish".
+There are 50 candidate verbs: 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1471. detach. The definition is: cause to become detached or separated; take off. The lexname is: contact. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+1112. fish.
+1689. fish.
+Strictly follow the output format above. Do not output analysis. 

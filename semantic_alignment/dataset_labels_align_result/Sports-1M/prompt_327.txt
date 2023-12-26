@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lacrosse".
+There are 50 candidate verbs: 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1148. procure. The definition is: get by special effort. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+724. madden. The definition is: make mad. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+
+Output Format Example:
+2474. close.
+1850. love.
+Strictly follow the output format above. Do not output analysis. 

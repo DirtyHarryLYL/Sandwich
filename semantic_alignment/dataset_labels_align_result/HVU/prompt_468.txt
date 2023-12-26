@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "scrubbing_face".
+There are 50 candidate verbs: 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2115. scour. The definition is: rub hard or scrub. The lexname is: contact. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2522. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1858. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+2551. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2116. scratch. The definition is: cut the surface of; wear away the surface of. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+
+Output Format Example:
+2117. scrub.
+2115. scour.
+Strictly follow the output format above. Do not output analysis. 

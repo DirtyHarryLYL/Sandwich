@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Mocha Nutella Gelato//pour milk into saucepan".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1263. nickel. The definition is: plate with nickel. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+453. hollow. The definition is: remove the interior of. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+2351. mother. The definition is: care for like a mother. The lexname is: social. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+1458. motivate. The definition is: give an incentive for action. The lexname is: creation. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+258. mellow. The definition is: make or grow (more) mellow. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+
+Output Format Example:
+488. milk.
+1993. cream.
+Strictly follow the output format above. Do not output analysis. 

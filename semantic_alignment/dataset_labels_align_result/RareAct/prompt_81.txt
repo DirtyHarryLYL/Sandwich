@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray phone".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1214. superimpose. The definition is: place on top of. The lexname is: contact. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+2420. spray.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

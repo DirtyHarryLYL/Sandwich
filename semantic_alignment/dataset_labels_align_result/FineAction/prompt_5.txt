@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wipe".
+There are 50 candidate verbs: 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+325. widen. The definition is: make wider. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1761. whine. The definition is: move with a whining sound. The lexname is: motion. 
+973. whine. The definition is: move with a whining sound. The lexname is: motion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+84. explain. The definition is: define. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+
+Output Format Example:
+2125. wipe.
+498. wrest.
+Strictly follow the output format above. Do not output analysis. 

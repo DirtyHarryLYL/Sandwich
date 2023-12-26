@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change Wheel Bearings//lift wheel with jack".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+205. demagnetize. The definition is: make nonmagnetic; take away the magnetic properties (of). The lexname is: change. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2382. lease. The definition is: grant use or occupation of under a term of contract. The lexname is: possession. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+1354. spool. The definition is: wind onto a spool or a reel. The lexname is: contact. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+
+Output Format Example:
+312. tire.
+2457. set.
+Strictly follow the output format above. Do not output analysis. 

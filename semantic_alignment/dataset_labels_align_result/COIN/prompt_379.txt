@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pour in after mix it".
+There are 50 candidate verbs: 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+
+Output Format Example:
+2316. pour.
+2261. pour.
+Strictly follow the output format above. Do not output analysis. 

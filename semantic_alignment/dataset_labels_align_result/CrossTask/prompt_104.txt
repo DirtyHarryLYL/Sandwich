@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change a Tire//unscrew wheel".
+There are 50 candidate verbs: 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+292. sober. The definition is: cause to become sober. The lexname is: change. 
+749. sober. The definition is: cause to become sober. The lexname is: change. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+71. tool. The definition is: drive. The lexname is: motion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+
+Output Format Example:
+1491. unscrew.
+393. kill.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "answering_questions".
+There are 50 candidate verbs: 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+
+Output Format Example:
+1610. survey.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

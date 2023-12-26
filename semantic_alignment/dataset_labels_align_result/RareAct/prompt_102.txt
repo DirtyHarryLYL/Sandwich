@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "shake flower".
+There are 50 candidate verbs: 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+597. shake. The definition is: move with or as if with a tremor. The lexname is: body. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1050. generate. The definition is: produce (energy). The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+373. file. The definition is: smooth with a file. The lexname is: contact. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+653. amaze. The definition is: affect with wonder. The lexname is: cognition. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+
+Output Format Example:
+1951. shake.
+1553. shake.
+Strictly follow the output format above. Do not output analysis. 

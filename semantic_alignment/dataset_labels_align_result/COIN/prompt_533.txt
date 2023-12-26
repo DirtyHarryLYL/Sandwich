@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "screw off the valve cap and open the valve".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+
+Output Format Example:
+2452. install.
+1492. unseal.
+Strictly follow the output format above. Do not output analysis. 

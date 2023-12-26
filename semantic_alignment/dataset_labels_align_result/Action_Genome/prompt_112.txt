@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Closing a closet/cabinet".
+There are 50 candidate verbs: 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1082. classify. The definition is: arrange or order by classes or categories. The lexname is: cognition. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1163. clutter. The definition is: fill a space in a disorderly way. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+
+Output Format Example:
+1802. redecorate.
+1022. reorganize.
+Strictly follow the output format above. Do not output analysis. 

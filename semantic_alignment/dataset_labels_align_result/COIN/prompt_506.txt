@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "do artificial breathing to the patient".
+There are 50 candidate verbs: 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2535. expectorate. The definition is: discharge (phlegm or sputum) from the lungs and out of the mouth. The lexname is: body. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1574. snore. The definition is: breathe noisily during one's sleep. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2252. huff. The definition is: inhale recreational drugs. The lexname is: consumption. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+
+Output Format Example:
+2346. doctor.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

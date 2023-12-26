@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change The Brake Pads in Your Car//screw wheel".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+292. sober. The definition is: cause to become sober. The lexname is: change. 
+749. sober. The definition is: cause to become sober. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2540. chafe. The definition is: tear or wear off the skin or make sore by abrading. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2563. pay. The definition is: give money, usually in exchange for goods or services. The lexname is: possession. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+71. tool. The definition is: drive. The lexname is: motion. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+
+Output Format Example:
+312. tire.
+38. screw.
+Strictly follow the output format above. Do not output analysis. 

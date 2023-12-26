@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_exits_pool,".
+There are 50 candidate verbs: 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+2004. pool.
+390. expel.
+Strictly follow the output format above. Do not output analysis. 

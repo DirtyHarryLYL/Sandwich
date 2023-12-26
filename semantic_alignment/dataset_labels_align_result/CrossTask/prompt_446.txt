@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Chili Con Carne//add beans".
+There are 50 candidate verbs: 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+
+Output Format Example:
+1195. sauce.
+1011. concoct.
+Strictly follow the output format above. Do not output analysis. 

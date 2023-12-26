@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_dominoes".
+There are 50 candidate verbs: 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+
+Output Format Example:
+2001. connect.
+13. connect.
+Strictly follow the output format above. Do not output analysis. 

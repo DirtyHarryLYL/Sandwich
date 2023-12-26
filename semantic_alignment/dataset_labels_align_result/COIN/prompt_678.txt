@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ski down from the hill".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+667. chill. The definition is: depress or discourage. The lexname is: emotion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2503. slit. The definition is: cut a slit into. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2075. dip. The definition is: appear to move downward. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+
+Output Format Example:
+2226. ski.
+1374. slope.
+Strictly follow the output format above. Do not output analysis. 

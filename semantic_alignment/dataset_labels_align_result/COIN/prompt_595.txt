@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "use electricity meter to check the power supply".
+There are 50 candidate verbs: 
+516. meter. The definition is: measure with a meter. The lexname is: change. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+344. dehumidify. The definition is: make less humid. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1601. monitor. The definition is: keep tabs on; keep an eye on; keep under surveillance. The lexname is: perception. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2136. read. The definition is: indicate a certain reading; of gauges and instruments. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+1786. photograph. The definition is: record on photographic film. The lexname is: communication. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+
+Output Format Example:
+516. meter.
+1585. electrocute.
+Strictly follow the output format above. Do not output analysis. 

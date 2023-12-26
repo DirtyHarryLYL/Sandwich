@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "drop golf".
+There are 50 candidate verbs: 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+942. plop. The definition is: drop with the sound of something falling into water. The lexname is: motion. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2059. lob. The definition is: propel in a high arc. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+
+Output Format Example:
+2078. drop.
+1318. drop.
+Strictly follow the output format above. Do not output analysis. 

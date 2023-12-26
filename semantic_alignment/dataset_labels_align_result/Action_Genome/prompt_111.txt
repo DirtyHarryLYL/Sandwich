@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Washing a cup/glass/bottle".
+There are 50 candidate verbs: 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1093. baptize. The definition is: administer baptism to. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+
+Output Format Example:
+876. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

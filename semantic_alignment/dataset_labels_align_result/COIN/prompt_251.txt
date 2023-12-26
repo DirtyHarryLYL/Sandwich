@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fry the dough".
+There are 50 candidate verbs: 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+1783. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+227. fill. The definition is: become full. The lexname is: change. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1173. fill. The definition is: become full. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+144. fry.
+2311. fry.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "using_circular_saw".
+There are 50 candidate verbs: 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+582. circulate. The definition is: cause to move in a circuit or system. The lexname is: motion. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1031. chisel. The definition is: carve with a chisel. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+
+Output Format Example:
+1508. saw.
+2519. saw.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Wash a dish/dishes".
+There are 50 candidate verbs: 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+
+Output Format Example:
+682. dishearten.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

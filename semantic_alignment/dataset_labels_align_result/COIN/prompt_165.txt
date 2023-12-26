@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take dish out".
+There are 50 candidate verbs: 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+478. deprive. The definition is: take away. The lexname is: change. 
+402. take_out. The definition is: remove something from a container or an enclosed space. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+497. take. The definition is: take by force. The lexname is: possession. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+
+Output Format Example:
+682. dishearten.
+209. destabilize.
+Strictly follow the output format above. Do not output analysis. 

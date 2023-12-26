@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "remove the old watch band and reconnect".
+There are 50 candidate verbs: 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+
+Output Format Example:
+2325. write.
+124. get_hold_of.
+Strictly follow the output format above. Do not output analysis. 

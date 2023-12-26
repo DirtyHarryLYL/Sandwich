@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Grill Swordfish//flip steak".
+There are 50 candidate verbs: 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+2481. finish. The definition is: cause to finish a relationship with somebody. The lexname is: change. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+2369. armor. The definition is: equip with armor. The lexname is: possession. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1795. brand. The definition is: burn with a branding iron to indicate ownership; of animals. The lexname is: social. 
+294. solidify. The definition is: become solid. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+
+Output Format Example:
+2492. fillet.
+145. grill.
+Strictly follow the output format above. Do not output analysis. 

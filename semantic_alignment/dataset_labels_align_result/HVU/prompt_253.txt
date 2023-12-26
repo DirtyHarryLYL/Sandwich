@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hurling_sport_".
+There are 50 candidate verbs: 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1212. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+2066. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+
+Output Format Example:
+2057. hurl.
+2548. injure.
+Strictly follow the output format above. Do not output analysis. 

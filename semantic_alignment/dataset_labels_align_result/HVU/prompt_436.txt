@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tai_chi".
+There are 50 candidate verbs: 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1835. shun. The definition is: avoid and stay away from deliberately; stay clear of. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2367. act. The definition is: perform an action, or work out or perform (an action). The lexname is: social. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+993. hail. The definition is: call for. The lexname is: communication. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1521. ache. The definition is: be the source of pain. The lexname is: perception. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+
+Output Format Example:
+1641. can_tell.
+2319. choreograph.
+Strictly follow the output format above. Do not output analysis. 

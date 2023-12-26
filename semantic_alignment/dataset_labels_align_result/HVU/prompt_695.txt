@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fly_casting".
+There are 50 candidate verbs: 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+799. flit. The definition is: move along rapidly and lightly; skim or dart. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2211. flee. The definition is: run away quickly. The lexname is: motion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1616. descry. The definition is: catch sight of. The lexname is: perception. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+
+Output Format Example:
+1365. fly.
+2142. fly.
+Strictly follow the output format above. Do not output analysis. 

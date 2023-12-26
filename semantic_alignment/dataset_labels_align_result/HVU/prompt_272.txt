@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "land_sailing".
+There are 50 candidate verbs: 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+723. lull. The definition is: calm by deception. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+
+Output Format Example:
+2205. sail.
+2233. sail.
+Strictly follow the output format above. Do not output analysis. 

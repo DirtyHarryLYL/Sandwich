@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unplug fridge".
+There are 50 candidate verbs: 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+372. unbend. The definition is: free from flexure. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+656. annoy. The definition is: cause annoyance in; disturb, especially by minor irritations. The lexname is: emotion. 
+1438. annoy. The definition is: cause annoyance in; disturb, especially by minor irritations. The lexname is: emotion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+
+Output Format Example:
+1485. unhinge.
+1203. tinge.
+Strictly follow the output format above. Do not output analysis. 

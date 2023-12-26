@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray cup".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2399. funnel. The definition is: move or pour through a funnel. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2423. spritz. The definition is: cover (a location) wholly or partially by squirting a liquid onto it. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+179. burst. The definition is: break open or apart suddenly and forcefully. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+
+Output Format Example:
+2420. spray.
+1339. cup.
+Strictly follow the output format above. Do not output analysis. 

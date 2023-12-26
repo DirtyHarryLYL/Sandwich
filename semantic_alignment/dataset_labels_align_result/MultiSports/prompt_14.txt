@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aerobic scissors leap".
+There are 50 candidate verbs: 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+815. scram. The definition is: leave immediately; used usually in the imperative form. The lexname is: motion. 
+383. depose. The definition is: force to leave (an office). The lexname is: social. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+396. reap. The definition is: get or derive. The lexname is: possession. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2207. depart. The definition is: leave. The lexname is: motion. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+263. open. The definition is: become open. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2212. leave. The definition is: go away from a place. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+2209. escape. The definition is: run away from confinement. The lexname is: motion. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+1430. cut.
+2565. become.
+Strictly follow the output format above. Do not output analysis. 

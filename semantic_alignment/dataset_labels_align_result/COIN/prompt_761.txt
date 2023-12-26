@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pin the hair with some hairpins".
+There are 50 candidate verbs: 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+310. thin. The definition is: make thin or thinner. The lexname is: change. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+464. delouse. The definition is: free of lice. The lexname is: change. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2598. congratulate. The definition is: express congratulations. The lexname is: communication. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+
+Output Format Example:
+442. scalp.
+33. pin.
+Strictly follow the output format above. Do not output analysis. 

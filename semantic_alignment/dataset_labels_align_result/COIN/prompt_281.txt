@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fill a nostril with saline and do the same to the other nostril".
+There are 50 candidate verbs: 
+775. nose. The definition is: push or move with the nose. The lexname is: motion. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1244. gag. The definition is: tie a gag around someone's mouth in order to silence them. The lexname is: contact. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1566. squint. The definition is: cross one's eyes as if in strabismus. The lexname is: body. 
+1640. squint. The definition is: cross one's eyes as if in strabismus. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1574. snore. The definition is: breathe noisily during one's sleep. The lexname is: body. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+2535. expectorate. The definition is: discharge (phlegm or sputum) from the lungs and out of the mouth. The lexname is: body. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1752. whistle. The definition is: make whistling sounds. The lexname is: perception. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+975. whistle. The definition is: make a whining, ringing, or whistling sound. The lexname is: communication. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+
+Output Format Example:
+775. nose.
+1628. sniff.
+Strictly follow the output format above. Do not output analysis. 

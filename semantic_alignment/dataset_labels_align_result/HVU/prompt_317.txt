@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "petting_animal_not_cat_".
+There are 50 candidate verbs: 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+16. fetter. The definition is: restrain with fetters. The lexname is: contact. 
+1741. meow. The definition is: cry like a cat. The lexname is: communication. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+762. torment. The definition is: treat cruelly. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+735. perturb. The definition is: disturb in mind or make uneasy or cause to be worried or alarmed. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+737. please. The definition is: give pleasure to or be pleasing to. The lexname is: emotion. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1745. purr.
+2646. pet.
+Strictly follow the output format above. Do not output analysis. 

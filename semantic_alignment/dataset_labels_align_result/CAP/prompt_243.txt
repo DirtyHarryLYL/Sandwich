@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_pulls_wheeled_cart,".
+There are 50 candidate verbs: 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1360. whirl. The definition is: cause to spin. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+788. ambulate. The definition is: walk about; not be bedridden or incapable of walking. The lexname is: motion. 
+
+Output Format Example:
+2025. cart.
+1627. witness.
+Strictly follow the output format above. Do not output analysis. 

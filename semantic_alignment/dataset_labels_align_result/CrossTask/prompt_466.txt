@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Install Lowering Springs//release spring_compressor".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2372. compensate. The definition is: make payment to; compensate. The lexname is: possession. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2593. bless. The definition is: confer prosperity or happiness on. The lexname is: possession. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+698. exhaust. The definition is: wear out completely. The lexname is: body. 
+
+Output Format Example:
+2452. install.
+312. tire.
+Strictly follow the output format above. Do not output analysis. 

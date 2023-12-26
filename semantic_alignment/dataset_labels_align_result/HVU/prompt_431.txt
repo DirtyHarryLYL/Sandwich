@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tie_dying".
+There are 50 candidate verbs: 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1291. stain. The definition is: color with a liquid dye or tint. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+477. divest. The definition is: reduce or dispose of; cease to hold (an investment). The lexname is: possession. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1660. distemper. The definition is: paint with distemper. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1179. infect. The definition is: contaminate with a disease or microorganism. The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+
+Output Format Example:
+1661. dye.
+2330. paint.
+Strictly follow the output format above. Do not output analysis. 

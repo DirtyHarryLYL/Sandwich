@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wrap on the tape".
+There are 50 candidate verbs: 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1790. videotape. The definition is: record on videotape. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+
+Output Format Example:
+2430. wrap.
+47. tape.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_karate_chop,".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

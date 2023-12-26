@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "obedience trial".
+There are 50 candidate verbs: 
+1672. defend. The definition is: be the defense counsel for someone in a trial. The lexname is: social. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2039. testify. The definition is: provide evidence for. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2290. direct. The definition is: command with authority. The lexname is: communication. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1086. pronounce. The definition is: pronounce judgment on. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2592. approve_of. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1081. adopt. The definition is: take up and practice as one's own. The lexname is: possession. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2293. preside_over. The definition is: act as president. The lexname is: social. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+
+Output Format Example:
+1672. defend.
+1078. treat.
+Strictly follow the output format above. Do not output analysis. 

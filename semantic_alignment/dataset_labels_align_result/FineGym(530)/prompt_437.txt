@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "clear pike circle forward with 0.5 turn to handstand".
+There are 50 candidate verbs: 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+582. circulate. The definition is: cause to move in a circuit or system. The lexname is: motion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1170. encircle. The definition is: form a circle around. The lexname is: contact. 
+564. encircle. The definition is: form a circle around. The lexname is: contact. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2300. clear. The definition is: make a way or path by removing objects. The lexname is: change. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+1680. gyrate. The definition is: to wind or move in a spiral course. The lexname is: motion. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+
+Output Format Example:
+2055. flip.
+1162. close.
+Strictly follow the output format above. Do not output analysis. 

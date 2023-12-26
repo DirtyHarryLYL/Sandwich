@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tie shoelaces".
+There are 50 candidate verbs: 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+95. converse. The definition is: carry on a conversation. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1881. sock. The definition is: hit hard. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1995. tie. The definition is: make by tying pieces together. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+
+Output Format Example:
+50. tie.
+1494. untie.
+Strictly follow the output format above. Do not output analysis. 

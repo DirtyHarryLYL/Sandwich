@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wipe the dish".
+There are 50 candidate verbs: 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+
+Output Format Example:
+682. dishearten.
+2125. wipe.
+Strictly follow the output format above. Do not output analysis. 

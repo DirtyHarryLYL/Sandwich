@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tying_shoe_laces".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+
+Output Format Example:
+1284. shoe.
+449. string.
+Strictly follow the output format above. Do not output analysis. 

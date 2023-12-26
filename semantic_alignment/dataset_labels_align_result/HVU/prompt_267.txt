@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "craft".
+There are 50 candidate verbs: 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+
+Output Format Example:
+2326. craft.
+1013. create.
+Strictly follow the output format above. Do not output analysis. 

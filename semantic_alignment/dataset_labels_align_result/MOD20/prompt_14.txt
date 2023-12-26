@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "running".
+There are 50 candidate verbs: 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1912. run. The definition is: carry out. The lexname is: creation. 
+2304. run. The definition is: carry out. The lexname is: creation. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+2211. flee. The definition is: run away quickly. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+2188. lope. The definition is: run easily. The lexname is: motion. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+2209. escape. The definition is: run away from confinement. The lexname is: motion. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+
+Output Format Example:
+2202. run.
+80. run.
+Strictly follow the output format above. Do not output analysis. 

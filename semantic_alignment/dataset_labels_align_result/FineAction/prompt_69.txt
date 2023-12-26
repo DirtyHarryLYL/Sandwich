@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "squat snatch".
+There are 50 candidate verbs: 
+1903. squat. The definition is: sit on one's heels. The lexname is: contact. 
+546. squat. The definition is: be close to the earth, or be disproportionately wide. The lexname is: stative. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1895. crouch. The definition is: bend one's back forward from the waist on down. The lexname is: motion. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1471. detach. The definition is: cause to become detached or separated; take off. The lexname is: contact. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+826. slouch. The definition is: walk slovenly. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1007. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2505. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2663. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+1890. squash. The definition is: to compress with violence, out of natural shape or condition. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+
+Output Format Example:
+1903. squat.
+546. squat.
+Strictly follow the output format above. Do not output analysis. 

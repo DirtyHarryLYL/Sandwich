@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "flint_knapping".
+There are 50 candidate verbs: 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+180. calcify. The definition is: convert into lime. The lexname is: change. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+
+Output Format Example:
+132. stone.
+1469. importune.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "paint eye shadow".
+There are 50 candidate verbs: 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+983. glitter. The definition is: be shiny, as if wet. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1630. gaze. The definition is: look at with fixed eyes. The lexname is: perception. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+
+Output Format Example:
+2330. paint.
+1071. paint.
+Strictly follow the output format above. Do not output analysis. 

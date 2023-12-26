@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "inject the ink to the cartridge".
+There are 50 candidate verbs: 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1075. certify. The definition is: declare legally insane. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+671. content. The definition is: make content. The lexname is: emotion. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+
+Output Format Example:
+1257. ink.
+2266. spew.
+Strictly follow the output format above. Do not output analysis. 

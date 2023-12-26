@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build a Bookshelf//attach board".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+1645. board. The definition is: lodge and take meals (at). The lexname is: consumption. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1026. assemble. The definition is: create by putting components or members together. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1220. board. The definition is: get on board of (trains, buses, ships, aircraft, etc.). The lexname is: motion. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+525. assemble. The definition is: get people together. The lexname is: social. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2561. abet. The definition is: assist or encourage, usually in some wrongdoing. The lexname is: social. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+380. abolish. The definition is: do away with. The lexname is: social. 
+2471. meet. The definition is: collect in one place. The lexname is: social. 
+
+Output Format Example:
+1351. shelve.
+2449. build-in.
+Strictly follow the output format above. Do not output analysis. 

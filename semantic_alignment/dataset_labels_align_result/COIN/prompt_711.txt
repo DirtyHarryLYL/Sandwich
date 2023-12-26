@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "add hot water to the sink hole".
+There are 50 candidate verbs: 
+288. sink. The definition is: go under,. The lexname is: motion. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+
+Output Format Example:
+288. sink.
+2260. leak.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_sticks_out_tongue,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1445. shock. The definition is: surprise greatly; knock someone's socks off. The lexname is: emotion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+2642. lick. The definition is: pass the tongue over. The lexname is: contact. 
+2111. lick. The definition is: pass the tongue over. The lexname is: contact. 
+904. lick. The definition is: pass the tongue over. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+748. shock. The definition is: strike with horror or terror. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2162. teem. The definition is: be teeming, be abuzz. The lexname is: stative. 
+
+Output Format Example:
+670. confuse.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

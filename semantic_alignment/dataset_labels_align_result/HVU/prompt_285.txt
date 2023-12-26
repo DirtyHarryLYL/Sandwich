@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "making_cheese".
+There are 50 candidate verbs: 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+1783. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+
+Output Format Example:
+1224. butter.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

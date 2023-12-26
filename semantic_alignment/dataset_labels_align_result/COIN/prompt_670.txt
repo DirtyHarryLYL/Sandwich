@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "twine round the thread".
+There are 50 candidate verbs: 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+1958. bind. The definition is: provide with a binding. The lexname is: contact. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+577. surround. The definition is: extend on all sides of simultaneously; encircle. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1354. spool. The definition is: wind onto a spool or a reel. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+556. weave. The definition is: to move or cause to move in a sinuous, spiral, or circular course. The lexname is: motion. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+1808. underline. The definition is: draw a line or lines underneath to call attention to. The lexname is: communication. 
+1041. knit. The definition is: make (textiles) by knitting. The lexname is: creation. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+
+Output Format Example:
+1355. string.
+2427. string.
+Strictly follow the output format above. Do not output analysis. 

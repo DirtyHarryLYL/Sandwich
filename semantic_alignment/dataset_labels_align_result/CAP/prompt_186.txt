@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_loads_clotheswasher,".
+There are 50 candidate verbs: 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+
+Output Format Example:
+1868. clobber.
+414. flush.
+Strictly follow the output format above. Do not output analysis. 

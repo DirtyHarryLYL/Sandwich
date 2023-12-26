@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash window".
+There are 50 candidate verbs: 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+263. open. The definition is: become open. The lexname is: contact. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+
+Output Format Example:
+876. wash.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

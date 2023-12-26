@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Can Tomato Sauce//place jar inside canner".
+There are 50 candidate verbs: 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2446. jam. The definition is: crowd or pack to capacity. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+227. fill. The definition is: become full. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+1331. bin. The definition is: store in bins. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1345. jug. The definition is: stew in an earthenware jug. The lexname is: change. 
+402. take_out. The definition is: remove something from a container or an enclosed space. The lexname is: contact. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+183. centralize. The definition is: make central. The lexname is: change. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+
+Output Format Example:
+1344. jar.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

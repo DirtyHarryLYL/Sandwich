@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "specializing".
+There are 50 candidate verbs: 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2358. sponsor. The definition is: assume responsibility for or leadership of. The lexname is: possession. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1928. better. The definition is: surpass in excellence. The lexname is: competition. 
+84. explain. The definition is: define. The lexname is: communication. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+
+Output Format Example:
+1615. behold.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

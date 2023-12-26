@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_stirs_mug,".
+There are 50 candidate verbs: 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+
+Output Format Example:
+1339. cup.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

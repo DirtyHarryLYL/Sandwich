@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Can Tomato Sauce//stir ingredients".
+There are 50 candidate verbs: 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+
+Output Format Example:
+1195. sauce.
+1317. sauce.
+Strictly follow the output format above. Do not output analysis. 

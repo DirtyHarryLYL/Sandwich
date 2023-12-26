@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_grabs_person_by_forearm,".
+There are 50 candidate verbs: 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+1874. cuff. The definition is: hit with the hand. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+407. withdraw. The definition is: remove (a commodity) from (a supply source). The lexname is: possession. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+16. fetter. The definition is: restrain with fetters. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1459. persuade. The definition is: cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+
+Output Format Example:
+2625. grasp.
+2638. grasp.
+Strictly follow the output format above. Do not output analysis. 

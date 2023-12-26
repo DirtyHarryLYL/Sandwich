@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_gong".
+There are 50 candidate verbs: 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+941. ping. The definition is: make a short high-pitched sound. The lexname is: perception. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1526. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+781. spin. The definition is: revolve quickly and repeatedly around one's own axis. The lexname is: motion. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+964. ting. The definition is: make a light, metallic sound; go `ting'. The lexname is: perception. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+966. toll. The definition is: ring slowly. The lexname is: perception. 
+
+Output Format Example:
+927. ding.
+125. ping.
+Strictly follow the output format above. Do not output analysis. 

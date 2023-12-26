@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "barbequing".
+There are 50 candidate verbs: 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+976. burn. The definition is: shine intensely, as if with heat. The lexname is: weather. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+897. picnic. The definition is: eat alfresco, in the open air. The lexname is: consumption. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+
+Output Format Example:
+134. barbeque.
+2307. barbeque.
+Strictly follow the output format above. Do not output analysis. 

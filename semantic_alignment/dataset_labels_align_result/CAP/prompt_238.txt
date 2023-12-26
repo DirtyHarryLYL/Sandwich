@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_pours_coffee_into_mug,".
+There are 50 candidate verbs: 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+1339. cup.
+488. milk.
+Strictly follow the output format above. Do not output analysis. 

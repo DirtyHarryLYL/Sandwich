@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wash keyboard".
+There are 50 candidate verbs: 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+
+Output Format Example:
+2584. type.
+1789. type.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Bicerin//pour cream".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+325. widen. The definition is: make wider. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+671. content. The definition is: make content. The lexname is: emotion. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1779. copy. The definition is: make a replica of. The lexname is: creation. 
+1804. copy. The definition is: make a replica of. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+274. quieten. The definition is: become quiet or quieter. The lexname is: perception. 
+293. soften. The definition is: become soft or softer. The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+273. quicken. The definition is: give life or energy to. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1827. generate. The definition is: bring into existence. The lexname is: creation. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+
+Output Format Example:
+1993. cream.
+2335. make.
+Strictly follow the output format above. Do not output analysis. 

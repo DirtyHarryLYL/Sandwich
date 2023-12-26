@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Kimchi Fried Rice//add rice".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2588. incite. The definition is: provoke or stir up. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+811. mince. The definition is: walk daintily. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+
+Output Format Example:
+162. stir-fry.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

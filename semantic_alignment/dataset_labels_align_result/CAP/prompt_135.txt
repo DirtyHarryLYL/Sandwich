@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_gestures_number_one,".
+There are 50 candidate verbs: 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+110. promise. The definition is: make a promise or commitment. The lexname is: communication. 
+1931. outnumber. The definition is: be larger in number. The lexname is: stative. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1994. add. The definition is: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of. The lexname is: change. 
+
+Output Format Example:
+2495. gouge.
+124. get_hold_of.
+Strictly follow the output format above. Do not output analysis. 

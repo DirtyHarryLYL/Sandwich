@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ink the marked area".
+There are 50 candidate verbs: 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+367. shrink. The definition is: become smaller or draw together. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1818. stamp. The definition is: affix a stamp to. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+
+Output Format Example:
+1257. ink.
+2577. ink.
+Strictly follow the output format above. Do not output analysis. 

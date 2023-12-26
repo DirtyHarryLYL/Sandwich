@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Fish Stew//add garlic".
+There are 50 candidate verbs: 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+642. stew. The definition is: bear a grudge; harbor ill feelings. The lexname is: emotion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+
+Output Format Example:
+1112. fish.
+1689. fish.
+Strictly follow the output format above. Do not output analysis. 

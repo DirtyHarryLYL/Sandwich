@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put dish in dishwasher".
+There are 50 candidate verbs: 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+477. divest. The definition is: reduce or dispose of; cease to hold (an investment). The lexname is: possession. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+127. discard. The definition is: throw or cast away. The lexname is: possession. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1191. plate. The definition is: coat with a layer of metal. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+
+Output Format Example:
+682. dishearten.
+147. microwave.
+Strictly follow the output format above. Do not output analysis. 

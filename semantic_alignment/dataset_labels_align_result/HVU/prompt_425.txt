@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sanding_floor".
+There are 50 candidate verbs: 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+2436. dust. The definition is: cover with a light dusting of a substance. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+376. sandpaper. The definition is: rub with sandpaper. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1380. underlay. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+809. lumber. The definition is: move heavily or clumsily. The lexname is: motion. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+344. dehumidify. The definition is: make less humid. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+
+Output Format Example:
+14. epoxy.
+2109. dust.
+Strictly follow the output format above. Do not output analysis. 

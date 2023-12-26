@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "BlowDryHair".
+There are 50 candidate verbs: 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+1496. blow. The definition is: cause to move by means of an air current. The lexname is: motion. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+424. winnow. The definition is: blow away or off with a current of air. The lexname is: change. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+1562. blink. The definition is: briefly shut the eyes. The lexname is: body. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+800. flounce. The definition is: walk emphatically. The lexname is: motion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+
+Output Format Example:
+1534. blow.
+1029. blow.
+Strictly follow the output format above. Do not output analysis. 

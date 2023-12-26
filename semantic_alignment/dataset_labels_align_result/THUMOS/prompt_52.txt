@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "MilitaryParade".
+There are 50 candidate verbs: 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+839. troop. The definition is: move or march as if in a crowd. The lexname is: motion. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+717. intimidate. The definition is: make timid or fearful. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2293. preside_over. The definition is: act as president. The lexname is: social. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+528. congregate. The definition is: come together, usually for a purpose. The lexname is: motion. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+712. humiliate. The definition is: cause to feel shame; hurt the pride of. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+268. proliferate. The definition is: cause to grow or increase rapidly. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2636. patronize. The definition is: be a regular customer or client of. The lexname is: communication. 
+
+Output Format Example:
+2200. parade.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

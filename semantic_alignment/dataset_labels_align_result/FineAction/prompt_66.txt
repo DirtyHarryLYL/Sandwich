@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "backstroke".
+There are 50 candidate verbs: 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+409. discharge. The definition is: pour forth or release. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+
+Output Format Example:
+1527. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Pancakes//take pancake from pan".
+There are 50 candidate verbs: 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+497. take. The definition is: take by force. The lexname is: possession. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1450. compel. The definition is: force somebody to do something. The lexname is: social. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+
+Output Format Example:
+150. pan-fry.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

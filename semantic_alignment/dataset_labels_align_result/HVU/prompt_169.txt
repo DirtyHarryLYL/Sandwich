@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cooking_on_campfire".
+There are 50 candidate verbs: 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+897. picnic. The definition is: eat alfresco, in the open air. The lexname is: consumption. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+277. rekindle. The definition is: kindle anew, as of a fire. The lexname is: weather. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+
+Output Format Example:
+2301. cook.
+148. overcook.
+Strictly follow the output format above. Do not output analysis. 

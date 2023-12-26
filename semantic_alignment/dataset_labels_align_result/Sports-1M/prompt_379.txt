@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "test cricket".
+There are 50 candidate verbs: 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+
+Output Format Example:
+1612. test.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

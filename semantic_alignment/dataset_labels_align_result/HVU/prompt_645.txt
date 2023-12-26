@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "eating_ice_cream".
+There are 50 candidate verbs: 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+900. chomp. The definition is: chew noisily. The lexname is: consumption. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+
+Output Format Example:
+891. breakfast.
+305. sweeten.
+Strictly follow the output format above. Do not output analysis. 

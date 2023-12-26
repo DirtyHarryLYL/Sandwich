@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_waters_houseplant,".
+There are 50 candidate verbs: 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1394. plot. The definition is: plan secretly, usually something illegal. The lexname is: cognition. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2380. rent. The definition is: let for money. The lexname is: social. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+
+Output Format Example:
+2454. plant.
+2438. plant.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install stand of the seat".
+There are 50 candidate verbs: 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1373. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2148. sit. The definition is: be around, often idly or without specific purpose. The lexname is: stative. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+298. steady. The definition is: make steady. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1061. gear. The definition is: set the level or character of. The lexname is: change. 
+
+Output Format Example:
+2452. install.
+1472. disassemble.
+Strictly follow the output format above. Do not output analysis. 

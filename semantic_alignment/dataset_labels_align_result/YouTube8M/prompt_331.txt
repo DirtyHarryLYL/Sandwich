@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Wedding".
+There are 50 candidate verbs: 
+872. groom. The definition is: care for one's external appearance. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1421. court. The definition is: engage in social activities leading to marriage. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1424. divorce. The definition is: get a divorce; formally terminate a marriage. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+
+Output Format Example:
+872. groom.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "spray table".
+There are 50 candidate verbs: 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+956. sputter. The definition is: utter with a spitting sound, as if in a rage. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2269. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2429. spurt. The definition is: gush forth in a sudden stream or jet. The lexname is: motion. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+
+Output Format Example:
+2420. spray.
+1035. develop.
+Strictly follow the output format above. Do not output analysis. 

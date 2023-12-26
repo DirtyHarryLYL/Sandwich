@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_extinguishes_candle,".
+There are 50 candidate verbs: 
+412. extinguish. The definition is: terminate, end, or take out. The lexname is: change. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+
+Output Format Example:
+412. extinguish.
+1390. commiserate.
+Strictly follow the output format above. Do not output analysis. 

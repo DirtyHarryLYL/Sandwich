@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "adjust the balance to the horizontal position".
+There are 50 candidate verbs: 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1367. lay. The definition is: put in a horizontal position. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+
+Output Format Example:
+2139. balance.
+172. balance.
+Strictly follow the output format above. Do not output analysis. 

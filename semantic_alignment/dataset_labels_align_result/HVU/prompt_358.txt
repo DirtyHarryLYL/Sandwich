@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_ping_pong".
+There are 50 candidate verbs: 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+941. ping. The definition is: make a short high-pitched sound. The lexname is: perception. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+792. carom. The definition is: make a carom. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+964. ting. The definition is: make a light, metallic sound; go `ting'. The lexname is: perception. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+611. approve. The definition is: judge to be right or commendable; think well of. The lexname is: cognition. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+
+Output Format Example:
+125. ping.
+2004. pool.
+Strictly follow the output format above. Do not output analysis. 

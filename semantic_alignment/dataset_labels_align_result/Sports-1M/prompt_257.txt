@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "horse racing".
+There are 50 candidate verbs: 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+1743. neigh.
+2189. race.
+Strictly follow the output format above. Do not output analysis. 

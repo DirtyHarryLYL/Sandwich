@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Diving".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+
+Output Format Example:
+2076. dive.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

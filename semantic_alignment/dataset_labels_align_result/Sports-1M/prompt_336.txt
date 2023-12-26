@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "beach handball".
+There are 50 candidate verbs: 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+206. democratize. The definition is: introduce democratic reforms; of nations. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+
+Output Format Example:
+1328. beach.
+1889. run.
+Strictly follow the output format above. Do not output analysis. 

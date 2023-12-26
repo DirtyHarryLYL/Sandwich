@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push wheelchair".
+There are 50 candidate verbs: 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+1360. whirl. The definition is: cause to spin. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1460. rush. The definition is: urge to an unnatural speed. The lexname is: change. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+860. chariot. The definition is: ride in a chariot. The lexname is: motion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+672. crush. The definition is: humiliate or depress completely. The lexname is: emotion. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2490. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+333. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+
+Output Format Example:
+1506. push.
+2402. push.
+Strictly follow the output format above. Do not output analysis. 

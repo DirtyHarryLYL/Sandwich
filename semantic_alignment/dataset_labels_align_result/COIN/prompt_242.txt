@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "process (crop, fold) paper".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1785. photocopy. The definition is: reproduce by xerography. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+572. precede. The definition is: move ahead (of others) in time or space. The lexname is: motion. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+
+Output Format Example:
+1266. paper.
+2321. draft.
+Strictly follow the output format above. Do not output analysis. 

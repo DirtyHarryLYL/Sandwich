@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Potato Pancakes//put potatoes in bowl".
+There are 50 candidate verbs: 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+139. brown. The definition is: fry in a pan until it changes color. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+156. saute. The definition is: fry briefly over high heat. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+2311. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+144. fry. The definition is: cook on a hot surface using fat. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+267. polarize. The definition is: become polarized in a conflict or contrasting situation. The lexname is: change. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+478. deprive. The definition is: take away. The lexname is: change. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+
+Output Format Example:
+150. pan-fry.
+143. french-fry.
+Strictly follow the output format above. Do not output analysis. 

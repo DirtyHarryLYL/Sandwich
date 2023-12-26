@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sandboarding".
+There are 50 candidate verbs: 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+2436. dust. The definition is: cover with a light dusting of a substance. The lexname is: contact. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+306. tan. The definition is: get a tan, from wind or sun. The lexname is: body. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1424. divorce. The definition is: get a divorce; formally terminate a marriage. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+
+Output Format Example:
+1328. beach.
+2225. skateboard.
+Strictly follow the output format above. Do not output analysis. 

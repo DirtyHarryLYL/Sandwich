@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Vegan Meringue//beat vanilla into bowl".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+1313. whitewash. The definition is: cover with whitewash. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2685. relearn. The definition is: learn something again, as after having forgotten or neglected it. The lexname is: cognition. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1104. make. The definition is: engage in. The lexname is: social. 
+141. coddle. The definition is: cook in nearly boiling water. The lexname is: change. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1605. research. The definition is: inquire into. The lexname is: cognition. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+293. soften. The definition is: become soft or softer. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+
+Output Format Example:
+1993. cream.
+2179. bowl.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Lavender Lemonade//pour water".
+There are 50 candidate verbs: 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+852. lead. The definition is: take somebody somewhere. The lexname is: motion. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+265. pale. The definition is: turn pale, as if in fear. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+
+Output Format Example:
+246. hydrate.
+1310. water.
+Strictly follow the output format above. Do not output analysis. 

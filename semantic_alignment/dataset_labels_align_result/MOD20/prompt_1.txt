@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "chainsawing_trees".
+There are 50 candidate verbs: 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+460. deforest. The definition is: remove the trees from. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+476. dispossess. The definition is: deprive of the possession of real estate. The lexname is: possession. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+356. singe. The definition is: burn superficially or lightly. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+
+Output Format Example:
+2519. saw.
+1508. saw.
+Strictly follow the output format above. Do not output analysis. 

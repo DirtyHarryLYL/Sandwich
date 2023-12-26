@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "BrushingTeeth".
+There are 50 candidate verbs: 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+1851. bite. The definition is: to grip, cut off, or tear with or as if with the teeth or jaws. The lexname is: contact. 
+2542. bite. The definition is: to grip, cut off, or tear with or as if with the teeth or jaws. The lexname is: contact. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+902. gnaw. The definition is: bite or chew on with the teeth. The lexname is: contact. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1172. enrich. The definition is: make wealthy or richer. The lexname is: possession. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+1066. pronounce. The definition is: speak, pronounce, or utter in a certain way. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1244. gag. The definition is: tie a gag around someone's mouth in order to silence them. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+695. enthuse. The definition is: cause to feel enthusiasm. The lexname is: emotion. 
+2629. jab. The definition is: poke or thrust abruptly. The lexname is: contact. 
+900. chomp. The definition is: chew noisily. The lexname is: consumption. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+
+Output Format Example:
+2407. brush.
+2099. brush.
+Strictly follow the output format above. Do not output analysis. 

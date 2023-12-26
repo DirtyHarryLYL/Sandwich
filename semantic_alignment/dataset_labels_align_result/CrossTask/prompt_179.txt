@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Papaya Salad//shred papaya".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+572. precede. The definition is: move ahead (of others) in time or space. The lexname is: motion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1965. splice. The definition is: join by interweaving strands. The lexname is: contact. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1623. savor. The definition is: taste appreciatively. The lexname is: perception. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+
+Output Format Example:
+162. stir-fry.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

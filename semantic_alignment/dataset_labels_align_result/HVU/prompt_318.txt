@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_collecting_garbage".
+There are 50 candidate verbs: 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+2398. dump. The definition is: throw away as refuse. The lexname is: possession. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1944. collect. The definition is: gather or collect. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1331. bin. The definition is: store in bins. The lexname is: contact. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+2471. meet. The definition is: collect in one place. The lexname is: social. 
+194. collect. The definition is: get or bring together. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+527. collect. The definition is: get or bring together. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1581. identify. The definition is: consider (oneself) as similar to somebody else. The lexname is: cognition. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1622. perceive. The definition is: to become aware of through the senses. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+1187. litter.
+2398. dump.
+Strictly follow the output format above. Do not output analysis. 

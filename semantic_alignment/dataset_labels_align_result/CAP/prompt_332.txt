@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_sneezes_into_hand,".
+There are 50 candidate verbs: 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+
+Output Format Example:
+1418. spat.
+1385. spew.
+Strictly follow the output format above. Do not output analysis. 

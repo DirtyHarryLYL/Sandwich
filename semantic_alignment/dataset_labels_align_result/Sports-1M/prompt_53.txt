@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "brazilian jiu-jitsu".
+There are 50 candidate verbs: 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2343. coach. The definition is: teach and supervise (someone); act as a trainer or coach (to), as in sports. The lexname is: communication. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+881. breastfeed. The definition is: give suck to. The lexname is: consumption. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1409. compete. The definition is: compete for something; engage in a contest; measure oneself against others. The lexname is: competition. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+
+Output Format Example:
+2672. jab.
+2325. write.
+Strictly follow the output format above. Do not output analysis. 

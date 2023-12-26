@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "babywearing".
+There are 50 candidate verbs: 
+789. backpack. The definition is: hike with a backpack. The lexname is: motion. 
+1425. embrace. The definition is: squeeze (someone) tightly in your arms, usually with fondness. The lexname is: contact. 
+569. hug. The definition is: fit closely or tightly. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+1102. carry_through. The definition is: put in effect. The lexname is: creation. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+1212. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+2066. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+1352. shoulder. The definition is: lift onto one's shoulders. The lexname is: contact. 
+881. breastfeed. The definition is: give suck to. The lexname is: consumption. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+2351. mother. The definition is: care for like a mother. The lexname is: social. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2177. back. The definition is: travel backward. The lexname is: motion. 
+1422. cuddle. The definition is: hold (a person or thing) close, as for affection, comfort, or warmth. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1178. impregnate. The definition is: make pregnant. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1324. back. The definition is: cause to travel backward. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1720. bay. The definition is: utter in deep prolonged tones. The lexname is: communication. 
+648. worry. The definition is: be concerned with. The lexname is: emotion. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1550. purse. The definition is: gather or contract into wrinkles or folds; pucker. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+
+Output Format Example:
+789. backpack.
+1425. embrace.
+Strictly follow the output format above. Do not output analysis. 

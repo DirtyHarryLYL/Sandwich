@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Jello Shots//pour alcohol".
+There are 50 candidate verbs: 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+235. fuse. The definition is: make liquid or plastic by heating. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+749. sober. The definition is: cause to become sober. The lexname is: change. 
+
+Output Format Example:
+342. alcoholize.
+2250. drink.
+Strictly follow the output format above. Do not output analysis. 

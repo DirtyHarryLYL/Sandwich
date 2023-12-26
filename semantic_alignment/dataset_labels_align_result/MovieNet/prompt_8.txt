@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fall down".
+There are 50 candidate verbs: 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1896. flop. The definition is: fall suddenly and abruptly. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+771. drop. The definition is: to fall vertically. The lexname is: motion. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+
+Output Format Example:
+2078. drop.
+1584. drown.
+Strictly follow the output format above. Do not output analysis. 

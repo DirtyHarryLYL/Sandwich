@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding a vacuum".
+There are 50 candidate verbs: 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+549. resound. The definition is: ring or echo with sound. The lexname is: perception. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+
+Output Format Example:
+2106. vacuum.
+2120. suction.
+Strictly follow the output format above. Do not output analysis. 

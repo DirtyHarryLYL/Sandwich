@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pull the barbell to the chin".
+There are 50 candidate verbs: 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+
+Output Format Example:
+732. pain.
+303. strengthen.
+Strictly follow the output format above. Do not output analysis. 

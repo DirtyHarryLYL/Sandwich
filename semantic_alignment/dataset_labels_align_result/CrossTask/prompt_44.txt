@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Latte//pour water".
+There are 50 candidate verbs: 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+350. light. The definition is: make lighter or brighter. The lexname is: change. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1983. contrast. The definition is: to show differences when compared; be different. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+265. pale. The definition is: turn pale, as if in fear. The lexname is: body. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+
+Output Format Example:
+2316. pour.
+1310. water.
+Strictly follow the output format above. Do not output analysis. 

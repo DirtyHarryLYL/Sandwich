@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "close door".
+There are 50 candidate verbs: 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2282. exclude. The definition is: prevent from entering; shut out. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+565. enclose. The definition is: surround completely. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+383. depose. The definition is: force to leave (an office). The lexname is: social. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+
+Output Format Example:
+2058. knock.
+1503. knock.
+Strictly follow the output format above. Do not output analysis. 

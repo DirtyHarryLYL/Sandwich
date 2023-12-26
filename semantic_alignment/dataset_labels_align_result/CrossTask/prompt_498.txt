@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Battenburg Cake//beat ingredients".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+671. content. The definition is: make content. The lexname is: emotion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1744. peep. The definition is: make high-pitched sounds. The lexname is: communication. 
+1720. bay. The definition is: utter in deep prolonged tones. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+
+Output Format Example:
+133. bake.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

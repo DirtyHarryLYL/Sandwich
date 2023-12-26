@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hopscotch".
+There are 50 candidate verbs: 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2167. stroll. The definition is: walk leisurely and with no apparent aim. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2160. hop. The definition is: move quickly from one place to another. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+2199. march. The definition is: walk fast, with regular or measured steps; walk with a stride. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2232. navigate. The definition is: direct carefully and safely. The lexname is: motion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2166. stride. The definition is: cover or traverse by taking long steps. The lexname is: motion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+829. stagger. The definition is: walk with great difficulty. The lexname is: motion. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+
+Output Format Example:
+2204. walk.
+2170. traipse.
+Strictly follow the output format above. Do not output analysis. 

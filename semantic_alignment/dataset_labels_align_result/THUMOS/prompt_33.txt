@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Haircut".
+There are 50 candidate verbs: 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+307. taper. The definition is: diminish gradually. The lexname is: change. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+
+Output Format Example:
+2524. snip.
+224. fade.
+Strictly follow the output format above. Do not output analysis. 

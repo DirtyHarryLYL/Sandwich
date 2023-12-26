@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build a Desk//cut wood".
+There are 50 candidate verbs: 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1115. log. The definition is: cut lumber, as in woods and forests. The lexname is: contact. 
+809. lumber. The definition is: move heavily or clumsily. The lexname is: motion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+
+Output Format Example:
+2449. build-in.
+1021. rebuild.
+Strictly follow the output format above. Do not output analysis. 

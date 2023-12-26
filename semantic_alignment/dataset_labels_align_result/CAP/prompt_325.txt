@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_shoves_person,".
+There are 50 candidate verbs: 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2334. profess. The definition is: state insincerely. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+
+Output Format Example:
+2700. shove.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

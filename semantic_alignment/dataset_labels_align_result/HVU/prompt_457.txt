@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "trimming_or_shaving_beard".
+There are 50 candidate verbs: 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+418. shave. The definition is: make shavings of or reduce to shavings. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+872. groom. The definition is: care for one's external appearance. The lexname is: body. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2126. clear. The definition is: free (the throat) by making a rasping sound. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1131. whore. The definition is: have unlawful sex with a whore. The lexname is: contact. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1244. gag. The definition is: tie a gag around someone's mouth in order to silence them. The lexname is: contact. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1575. snuff. The definition is: inhale audibly through the nose. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+
+Output Format Example:
+875. shave.
+2242. shave.
+Strictly follow the output format above. Do not output analysis. 

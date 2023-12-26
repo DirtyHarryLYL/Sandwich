@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unscrew the screw and take out the needle".
+There are 50 candidate verbs: 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1149. pull. The definition is: take away. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2628. stab. The definition is: stab or pierce. The lexname is: contact. 
+1861. stab. The definition is: stab or pierce. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+263. open. The definition is: become open. The lexname is: contact. 
+
+Output Format Example:
+1491. unscrew.
+38. screw.
+Strictly follow the output format above. Do not output analysis. 

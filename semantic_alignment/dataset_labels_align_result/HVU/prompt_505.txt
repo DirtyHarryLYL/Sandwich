@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "talking_on_cell_phone".
+There are 50 candidate verbs: 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1391. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+1398. communicate. The definition is: be in verbal contact; interchange information or ideas. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2526. call_on. The definition is: order or request or give a command for. The lexname is: communication. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+2558. hear. The definition is: receive a communication from someone. The lexname is: perception. 
+2034. lecture. The definition is: deliver a lecture or talk. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+122. get. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+2529. ask. The definition is: make a request or demand for something to somebody. The lexname is: communication. 
+1405. argue. The definition is: have an argument about something. The lexname is: communication. 
+2047. tell. The definition is: narrate or give a detailed account of. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+
+Output Format Example:
+2038. talk.
+1725. call.
+Strictly follow the output format above. Do not output analysis. 

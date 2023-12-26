@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hunt seat".
+There are 50 candidate verbs: 
+1690. hunt. The definition is: search (an area) for prey. The lexname is: competition. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+712. humiliate. The definition is: cause to feel shame; hurt the pride of. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2666. beat. The definition is: strike (water or bushes) repeatedly to rouse animals for hunting. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1692. poach. The definition is: hunt illegally. The lexname is: competition. 
+710. haunt. The definition is: haunt like a ghost; pursue. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+398. separate. The definition is: divide into components or constituents. The lexname is: contact. 
+1210. mount. The definition is: fix onto a backing, setting, or support. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+
+Output Format Example:
+1690. hunt.
+1211. situate.
+Strictly follow the output format above. Do not output analysis. 

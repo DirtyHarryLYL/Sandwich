@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sweep floor".
+There are 50 candidate verbs: 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1863. swipe. The definition is: strike with a swiping motion. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+1554. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+818. shuffle. The definition is: walk by dragging one's feet. The lexname is: motion. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+822. sleepwalk. The definition is: walk in one's sleep. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2345. crew. The definition is: serve as a crew member on. The lexname is: competition. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+
+Output Format Example:
+2122. sweep.
+2404. sweep.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "repairing_puncture".
+There are 50 candidate verbs: 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+491. recapture. The definition is: capture again. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+574. rim. The definition is: run around the rim of. The lexname is: stative. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+
+Output Format Example:
+2455. reinstall.
+1469. importune.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Real Vanilla Bean Ice Cream//whisk yolks".
+There are 50 candidate verbs: 
+1956. whisk. The definition is: whip with or as if with a wire whisk. The lexname is: contact. 
+1886. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+423. whisk. The definition is: brush or wipe off lightly. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2525. ream. The definition is: enlarge with a reamer. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+201. decentralize. The definition is: make less central. The lexname is: change. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+
+Output Format Example:
+1956. whisk.
+1886. whisk.
+Strictly follow the output format above. Do not output analysis. 

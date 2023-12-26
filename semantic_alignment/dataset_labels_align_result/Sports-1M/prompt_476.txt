@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "powered hang glider".
+There are 50 candidate verbs: 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1212. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+2066. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+863. jet. The definition is: fly a jet plane. The lexname is: motion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+2409. hang. The definition is: place in position as by a hinge so as to allow free movement in one direction. The lexname is: contact. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+
+Output Format Example:
+1545. hang.
+2233. sail.
+Strictly follow the output format above. Do not output analysis. 

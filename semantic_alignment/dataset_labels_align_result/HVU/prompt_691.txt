@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "calf_roping".
+There are 50 candidate verbs: 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+10. cinch. The definition is: tie a cinch around. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+
+Output Format Example:
+37. rope.
+2185. gallop.
+Strictly follow the output format above. Do not output analysis. 

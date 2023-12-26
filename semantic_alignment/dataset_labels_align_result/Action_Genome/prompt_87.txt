@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Taking a picture of something".
+There are 50 candidate verbs: 
+1786. photograph. The definition is: record on photographic film. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1556. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+954. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+
+Output Format Example:
+1786. photograph.
+1610. survey.
+Strictly follow the output format above. Do not output analysis. 

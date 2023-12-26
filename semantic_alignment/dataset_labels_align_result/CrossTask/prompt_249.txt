@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Christmas Cake//pour almonds into bowl".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2675. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+2401. pound. The definition is: break down and crush by beating, as with a pestle. The lexname is: change. 
+1349. pot. The definition is: plant in a pot. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1230. chrome. The definition is: plate with chromium. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1233. crown. The definition is: put an enamel cover on. The lexname is: contact. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+524. aggregate. The definition is: gather in a mass, sum, or whole. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2422. sprinkle. The definition is: scatter with liquid; wet lightly. The lexname is: change. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

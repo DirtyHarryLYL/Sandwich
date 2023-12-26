@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put on mascara".
+There are 50 candidate verbs: 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+458. defang. The definition is: remove the fangs from. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+834. tear. The definition is: move quickly and violently. The lexname is: motion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+23. lash. The definition is: bind with a rope, chain, or cord. The lexname is: contact. 
+1186. lash. The definition is: bind with a rope, chain, or cord. The lexname is: contact. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+2549. nick. The definition is: cut slightly, with a razor. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+
+Output Format Example:
+2099. brush.
+873. brush.
+Strictly follow the output format above. Do not output analysis. 

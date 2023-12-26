@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Someone is smiling".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+638. rejoice. The definition is: feel happiness or joy. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+745. sadden. The definition is: make unhappy. The lexname is: emotion. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+640. salivate. The definition is: be envious, desirous, eager for, or extremely happy about something. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1447. terrify. The definition is: fill with terror; frighten greatly. The lexname is: emotion. 
+759. terrify. The definition is: fill with terror; frighten greatly. The lexname is: emotion. 
+683. dismay. The definition is: fill with apprehension or alarm; cause to be unpleasantly surprised. The lexname is: emotion. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+
+Output Format Example:
+670. confuse.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

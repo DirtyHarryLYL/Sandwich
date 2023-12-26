@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "aerobic explosive push up".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+928. explode. The definition is: burst outward, usually with noise. The lexname is: change. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+607. wobble. The definition is: move unsteadily. The lexname is: motion. 
+1686. wobble. The definition is: move unsteadily. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2273. sweat. The definition is: excrete perspiration through the pores in the skin. The lexname is: body. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1836. ambush. The definition is: wait in hiding to attack. The lexname is: competition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+592. pulsate. The definition is: expand and contract rhythmically; beat rhythmically. The lexname is: motion. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+
+Output Format Example:
+2239. exercise.
+2032. push.
+Strictly follow the output format above. Do not output analysis. 

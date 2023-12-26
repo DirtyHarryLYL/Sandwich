@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wrap in copper wire".
+There are 50 candidate verbs: 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+1286. silver. The definition is: coat with a layer of silver or a silver amalgam. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+984. glow. The definition is: emit a steady even light without flames. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+
+Output Format Example:
+1223. bronze.
+52. wire.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Washing a mirror".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2682. tap. The definition is: make light, repeated taps on a surface. The lexname is: perception. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+2318. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

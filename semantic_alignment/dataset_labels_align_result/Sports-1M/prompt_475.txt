@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hang gliding".
+There are 50 candidate verbs: 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+1647. camp. The definition is: live in or as if in a tent. The lexname is: stative. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+1212. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+2066. sling. The definition is: hurl as if with a sling. The lexname is: contact. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+856. balloon. The definition is: ride in a hot-air balloon. The lexname is: motion. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+571. overhang. The definition is: be suspended over or hang over. The lexname is: stative. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+
+Output Format Example:
+2233. sail.
+2205. sail.
+Strictly follow the output format above. Do not output analysis. 

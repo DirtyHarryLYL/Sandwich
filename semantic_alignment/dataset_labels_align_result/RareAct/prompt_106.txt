@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "unplug phone".
+There are 50 candidate verbs: 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1138. call. The definition is: order or request or give a command for. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+372. unbend. The definition is: free from flexure. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1456. induce. The definition is: cause to do; cause to act in a specified manner. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+104. complain. The definition is: express complaints, discontent, displeasure, or unhappiness. The lexname is: communication. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+
+Output Format Example:
+1725. call.
+1485. unhinge.
+Strictly follow the output format above. Do not output analysis. 

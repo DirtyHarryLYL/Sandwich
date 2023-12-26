@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make French Strawberry Cake//pour egg".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+353. pink. The definition is: cut in a zigzag pattern with pinking shears, in sewing. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1568. blush. The definition is: turn red, as if in embarrassment or shame. The lexname is: body. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1279. rouge. The definition is: redden by applying rouge to. The lexname is: body. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1178. impregnate. The definition is: make pregnant. The lexname is: body. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+
+Output Format Example:
+2297. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

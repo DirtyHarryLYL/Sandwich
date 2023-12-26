@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "stone_carving".
+There are 50 candidate verbs: 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1812. engrave. The definition is: carve or cut into a block used for printing or print from such a block. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+1030. cast. The definition is: form by pouring (e.g., wax or hot metal) into a cast or mold. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1818. stamp. The definition is: affix a stamp to. The lexname is: contact. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+
+Output Format Example:
+132. stone.
+2571. carve.
+Strictly follow the output format above. Do not output analysis. 

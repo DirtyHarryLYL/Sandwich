@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "rundown".
+There are 50 candidate verbs: 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2304. run. The definition is: carry out. The lexname is: creation. 
+1912. run. The definition is: carry out. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+939. murmur. The definition is: speak softly or indistinctly. The lexname is: communication. 
+204. degrade. The definition is: lower the grade of something; reduce its worth. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+466. disembowel. The definition is: remove the entrails of. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+
+Output Format Example:
+1806. jot_down.
+2547. hurt.
+Strictly follow the output format above. Do not output analysis. 

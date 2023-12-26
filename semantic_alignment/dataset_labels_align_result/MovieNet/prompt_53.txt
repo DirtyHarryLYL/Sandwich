@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "open door".
+There are 50 candidate verbs: 
+263. open. The definition is: become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2282. exclude. The definition is: prevent from entering; shut out. The lexname is: social. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+
+Output Format Example:
+263. open.
+1369. open.
+Strictly follow the output format above. Do not output analysis. 

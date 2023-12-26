@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Blended Iced Cappuccino//pour milk".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+671. content. The definition is: make content. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+
+Output Format Example:
+488. milk.
+434. milk.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_vacuums_carpet,".
+There are 50 candidate verbs: 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2213. vacate. The definition is: leave behind empty; move out of. The lexname is: motion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+
+Output Format Example:
+2106. vacuum.
+1228. carpet.
+Strictly follow the output format above. Do not output analysis. 

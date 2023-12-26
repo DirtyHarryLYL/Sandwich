@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pushing_car".
+There are 50 candidate verbs: 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1460. rush. The definition is: urge to an unnatural speed. The lexname is: change. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+847. pursue. The definition is: follow in or as if in pursuit. The lexname is: motion. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+481. carjack. The definition is: take someone's car from him by force, usually with the intention of stealing it. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+672. crush. The definition is: humiliate or depress completely. The lexname is: emotion. 
+1872. cosh. The definition is: hit with a cosh, usually on the head. The lexname is: contact. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+
+Output Format Example:
+2032. push.
+2699. push.
+Strictly follow the output format above. Do not output analysis. 

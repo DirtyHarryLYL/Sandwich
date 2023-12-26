@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "carving_pumpkin".
+There are 50 candidate verbs: 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1470. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+2571. carve. The definition is: engrave or cut by chipping away at a surface. The lexname is: contact. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+750. spook. The definition is: frighten or scare, and often provoke into a violent action. The lexname is: emotion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2248. gobble. The definition is: eat hastily without proper chewing. The lexname is: consumption. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+759. terrify. The definition is: fill with terror; frighten greatly. The lexname is: emotion. 
+1447. terrify. The definition is: fill with terror; frighten greatly. The lexname is: emotion. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+704. frighten. The definition is: cause fear in. The lexname is: emotion. 
+1440. frighten. The definition is: cause fear in. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+433. husk. The definition is: remove the husks from. The lexname is: change. 
+1812. engrave. The definition is: carve or cut into a block used for printing or print from such a block. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+911. boom. The definition is: make a deep hollow sound. The lexname is: perception. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+
+Output Format Example:
+2508. carve.
+1470. carve.
+Strictly follow the output format above. Do not output analysis. 

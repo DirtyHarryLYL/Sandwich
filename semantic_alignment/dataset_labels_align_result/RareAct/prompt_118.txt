@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer".
+There are 50 candidate verbs: 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2525. ream. The definition is: enlarge with a reamer. The lexname is: change. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+993. hail. The definition is: call for. The lexname is: communication. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+2670. hammer.
+2400. hammer.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "welding".
+There are 50 candidate verbs: 
+51. weld. The definition is: join together by heating. The lexname is: contact. 
+1967. weld. The definition is: join together by heating. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+41. solder. The definition is: join or fuse with solder. The lexname is: contact. 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+
+Output Format Example:
+51. weld.
+1967. weld.
+Strictly follow the output format above. Do not output analysis. 

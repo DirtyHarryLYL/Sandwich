@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Working at a table".
+There are 50 candidate verbs: 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+1199. staff. The definition is: provide with staff. The lexname is: competition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+
+Output Format Example:
+1824. work.
+1656. work.
+Strictly follow the output format above. Do not output analysis. 

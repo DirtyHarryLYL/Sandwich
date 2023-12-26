@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Fixing a vacuum".
+There are 50 candidate verbs: 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+344. dehumidify. The definition is: make less humid. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+410. evict. The definition is: expel from one's property or force to move out by a legal process. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+
+Output Format Example:
+2106. vacuum.
+907. suck.
+Strictly follow the output format above. Do not output analysis. 

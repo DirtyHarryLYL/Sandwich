@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_closes_dishwasher,".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+683. dismay. The definition is: fill with apprehension or alarm; cause to be unpleasantly surprised. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+733. peeve. The definition is: cause to be annoyed, irritated, or resentful. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+
+Output Format Example:
+670. confuse.
+684. displease.
+Strictly follow the output format above. Do not output analysis. 

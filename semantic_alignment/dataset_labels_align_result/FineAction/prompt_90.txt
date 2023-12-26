@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "play the drums".
+There are 50 candidate verbs: 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+
+Output Format Example:
+2669. drum.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

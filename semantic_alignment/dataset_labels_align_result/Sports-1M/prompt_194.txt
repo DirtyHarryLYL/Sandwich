@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pilates".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+575. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+2152. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1377. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1906. straddle. The definition is: sit or stand astride of. The lexname is: stative. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+592. pulsate. The definition is: expand and contract rhythmically; beat rhythmically. The lexname is: motion. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+2042. pontificate. The definition is: talk in a dogmatic and pompous manner. The lexname is: communication. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1458. motivate. The definition is: give an incentive for action. The lexname is: creation. 
+
+Output Format Example:
+2239. exercise.
+1523. palpitate.
+Strictly follow the output format above. Do not output analysis. 

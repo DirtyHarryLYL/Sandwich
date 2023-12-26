@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Swing".
+There are 50 candidate verbs: 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+2467. swing. The definition is: change direction with a swinging motion; turn. The lexname is: motion. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+591. oscillate. The definition is: move or swing from side to side regularly. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1364. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2141. dangle. The definition is: cause to dangle or hang freely. The lexname is: contact. 
+2660. slam. The definition is: strike violently. The lexname is: contact. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+
+Output Format Example:
+2089. swing.
+2467. swing.
+Strictly follow the output format above. Do not output analysis. 

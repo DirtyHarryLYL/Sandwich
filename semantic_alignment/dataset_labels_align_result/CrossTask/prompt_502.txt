@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Battenburg Cake//add jam".
+There are 50 candidate verbs: 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1914. be. The definition is: be identical to; be someone or something. The lexname is: stative. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+
+Output Format Example:
+133. bake.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

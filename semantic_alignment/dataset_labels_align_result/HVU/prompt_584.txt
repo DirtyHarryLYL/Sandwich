@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cleaning_shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+187. clean. The definition is: remove shells or husks from. The lexname is: change. 
+95. converse. The definition is: carry on a conversation. The lexname is: communication. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1161. clog. The definition is: impede with a clog or as if with a clog. The lexname is: change. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+
+Output Format Example:
+1284. shoe.
+452. clean.
+Strictly follow the output format above. Do not output analysis. 

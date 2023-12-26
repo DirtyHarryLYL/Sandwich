@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Kimchi Fried Rice//pour sesame oil".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+201. decentralize. The definition is: make less central. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1744. peep. The definition is: make high-pitched sounds. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+
+Output Format Example:
+162. stir-fry.
+1195. sauce.
+Strictly follow the output format above. Do not output analysis. 

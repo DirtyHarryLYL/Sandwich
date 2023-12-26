@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ApplyLipstick".
+There are 50 candidate verbs: 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+165. acidify. The definition is: turn acidic. The lexname is: change. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+684. displease. The definition is: give displeasure to. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+1549. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+1525. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+685. dissatisfy. The definition is: fail to satisfy. The lexname is: emotion. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+84. explain. The definition is: define. The lexname is: communication. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+
+Output Format Example:
+1258. lipstick.
+1555. smack.
+Strictly follow the output format above. Do not output analysis. 

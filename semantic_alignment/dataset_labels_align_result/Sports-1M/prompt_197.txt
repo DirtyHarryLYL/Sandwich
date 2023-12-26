@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "olympic weightlifting".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1933. outweigh. The definition is: be heavier than. The lexname is: competition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1927. overcome. The definition is: get on top of; deal with successfully. The lexname is: competition. 
+2688. memorize. The definition is: commit to memory; learn by heart. The lexname is: cognition. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2296. recognize. The definition is: be fully aware or cognizant of. The lexname is: cognition. 
+
+Output Format Example:
+2239. exercise.
+303. strengthen.
+Strictly follow the output format above. Do not output analysis. 

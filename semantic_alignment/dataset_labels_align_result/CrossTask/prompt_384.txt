@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Limeade//cut limes".
+There are 50 candidate verbs: 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+180. calcify. The definition is: convert into lime. The lexname is: change. 
+938. lilt. The definition is: articulate in a very careful and rhythmic way. The lexname is: communication. 
+654. amuse. The definition is: make (somebody) laugh. The lexname is: communication. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+717. intimidate. The definition is: make timid or fearful. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+624. fume. The definition is: be mad, angry, or furious. The lexname is: emotion. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+2007. unite. The definition is: join or combine. The lexname is: change. 
+1981. unite. The definition is: join or combine. The lexname is: change. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+768. smite. The definition is: affect suddenly with deep feeling. The lexname is: emotion. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+
+Output Format Example:
+1968. fixate.
+1104. make.
+Strictly follow the output format above. Do not output analysis. 

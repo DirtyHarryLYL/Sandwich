@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "calligraphy".
+There are 50 candidate verbs: 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+2583. stencil. The definition is: mark or print with a stencil. The lexname is: creation. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1793. autograph. The definition is: mark with one's signature. The lexname is: communication. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1801. letter. The definition is: mark letters on or mark with letters. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2684. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+2690. read. The definition is: interpret something that is written or printed. The lexname is: cognition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1812. engrave. The definition is: carve or cut into a block used for printing or print from such a block. The lexname is: creation. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+
+Output Format Example:
+2581. scribble.
+1257. ink.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Install Lowering Springs//reinstall shock_absorber".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+292. sober. The definition is: cause to become sober. The lexname is: change. 
+749. sober. The definition is: cause to become sober. The lexname is: change. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+751. stagger. The definition is: astound or overwhelm, as with shock. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+312. tire.
+971. vroom.
+Strictly follow the output format above. Do not output analysis. 

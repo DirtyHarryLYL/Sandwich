@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "making_horseshoes".
+There are 50 candidate verbs: 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1783. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+966. toll. The definition is: ring slowly. The lexname is: perception. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+9. chain. The definition is: fasten or secure with chains. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+
+Output Format Example:
+2335. make.
+1359. loop.
+Strictly follow the output format above. Do not output analysis. 

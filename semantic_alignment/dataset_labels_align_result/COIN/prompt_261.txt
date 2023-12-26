@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "apply cleaning agent".
+There are 50 candidate verbs: 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+
+Output Format Example:
+2318. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

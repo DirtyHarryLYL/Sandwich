@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Latte//steam milk".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+2271. steam. The definition is: emit steam. The lexname is: weather. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1006. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1951. shake. The definition is: move or cause to move back and forth. The lexname is: motion. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+259. moisten. The definition is: make moist. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+256. macerate. The definition is: soften, usually by steeping in liquid, and cause to disintegrate as a result. The lexname is: change. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+
+Output Format Example:
+488. milk.
+1993. cream.
+Strictly follow the output format above. Do not output analysis. 

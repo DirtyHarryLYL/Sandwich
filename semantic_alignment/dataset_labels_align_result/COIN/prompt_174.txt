@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "attach tape to the edge of the paddle".
+There are 50 candidate verbs: 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+12. clip. The definition is: attach with a clip. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+1299. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+1803. tag. The definition is: attach a tag or label to. The lexname is: contact. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+2110. erase. The definition is: remove by or as if by rubbing or erasing. The lexname is: contact. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1493. unstaple. The definition is: take the staples off. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+
+Output Format Example:
+70. paddle.
+869. paddle.
+Strictly follow the output format above. Do not output analysis. 

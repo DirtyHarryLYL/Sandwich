@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Trading".
+There are 50 candidate verbs: 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2381. sell. The definition is: exchange or deliver for money or its equivalent. The lexname is: possession. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1133. barter. The definition is: exchange goods without involving money. The lexname is: possession. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2077. depreciate. The definition is: lose in value. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+1136. trade.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

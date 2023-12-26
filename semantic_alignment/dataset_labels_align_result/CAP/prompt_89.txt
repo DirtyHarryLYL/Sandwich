@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_drinks_from_cup,".
+There are 50 candidate verbs: 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+905. sip. The definition is: drink in sips. The lexname is: consumption. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+878. guzzle. The definition is: drink greedily or as if with great thirst. The lexname is: consumption. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+2471. meet. The definition is: collect in one place. The lexname is: social. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+1339. cup.
+905. sip.
+Strictly follow the output format above. Do not output analysis. 

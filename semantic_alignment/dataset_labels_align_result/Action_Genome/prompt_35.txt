@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Taking a towel/s from somewhere".
+There are 50 candidate verbs: 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+
+Output Format Example:
+379. towel.
+2243. shower.
+Strictly follow the output format above. Do not output analysis. 

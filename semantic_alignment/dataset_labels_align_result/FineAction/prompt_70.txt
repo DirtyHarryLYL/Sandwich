@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "dry hair".
+There are 50 candidate verbs: 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+614. cry. The definition is: shed tears because of sadness, rage, or pain. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+224. fade. The definition is: lose freshness, vigor, or vitality. The lexname is: change. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+
+Output Format Example:
+2093. dry.
+442. scalp.
+Strictly follow the output format above. Do not output analysis. 

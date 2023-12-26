@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "needle_felting".
+There are 50 candidate verbs: 
+1041. knit. The definition is: make (textiles) by knitting. The lexname is: creation. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1811. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1036. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1034. crochet. The definition is: create by looping or crocheting. The lexname is: creation. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+1809. applique. The definition is: sew on as a decoration. The lexname is: creation. 
+1046. weave. The definition is: create a piece of cloth by interlacing strands of fabric, such as wool or cotton. The lexname is: creation. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1395. settle. The definition is: settle conclusively; come to terms. The lexname is: communication. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+1463. wheedle. The definition is: influence or urge by gentle urging, caressing, or flattering. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+0. affix. The definition is: attach or become attached to a stem word. The lexname is: contact. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+300. stiffen. The definition is: make stiff or stiffer. The lexname is: change. 
+752. startle. The definition is: to stimulate to action. The lexname is: emotion. 
+1941. baste. The definition is: sew together loosely, with large stitches. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+623. fret. The definition is: be agitated or irritated. The lexname is: emotion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1649. reside. The definition is: make one's home in a particular place or community. The lexname is: stative. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+
+Output Format Example:
+1041. knit.
+2414. sew.
+Strictly follow the output format above. Do not output analysis. 

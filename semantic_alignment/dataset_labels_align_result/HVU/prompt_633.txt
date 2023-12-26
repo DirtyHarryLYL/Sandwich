@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "battle_rope_training".
+There are 50 candidate verbs: 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+50. tie. The definition is: fasten or secure with a rope, string, or cord. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+1482. unchain. The definition is: remove the chains from. The lexname is: contact. 
+1887. horsewhip. The definition is: whip with a whip intended for horses. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+9. chain. The definition is: fasten or secure with chains. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+1186. lash. The definition is: bind with a rope, chain, or cord. The lexname is: contact. 
+23. lash. The definition is: bind with a rope, chain, or cord. The lexname is: contact. 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+1489. unleash. The definition is: release from a leash. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1254. harness. The definition is: put a harness. The lexname is: contact. 
+19. harness. The definition is: put a harness. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1864. belt. The definition is: deliver a blow to. The lexname is: contact. 
+1756. rattle. The definition is: shake and cause to make a rattling noise. The lexname is: motion. 
+944. rattle. The definition is: shake and cause to make a rattling noise. The lexname is: motion. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+3. belt. The definition is: fasten with a belt. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2100. hose. The definition is: water with a hose. The lexname is: change. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+
+Output Format Example:
+37. rope.
+1885. whip.
+Strictly follow the output format above. Do not output analysis. 

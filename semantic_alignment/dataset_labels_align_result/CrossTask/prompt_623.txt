@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Fish Stew//stir_in tomato_paste".
+There are 50 candidate verbs: 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+161. stew. The definition is: cook slowly and for a long time in liquid. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+349. iodize. The definition is: treat with iodine so as to prevent infection. The lexname is: body. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+642. stew. The definition is: bear a grudge; harbor ill feelings. The lexname is: emotion. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+
+Output Format Example:
+1195. sauce.
+161. stew.
+Strictly follow the output format above. Do not output analysis. 

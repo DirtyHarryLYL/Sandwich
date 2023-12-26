@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "paddle boat".
+There are 50 candidate verbs: 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+2026. ferry. The definition is: transport by ferry. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2232. navigate. The definition is: direct carefully and safely. The lexname is: motion. 
+2184. float. The definition is: be afloat either on or below a liquid surface and not sink to the bottom. The lexname is: motion. 
+2459. dock. The definition is: maneuver into a dock. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+862. ferry. The definition is: travel by ferry. The lexname is: motion. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+2213. vacate. The definition is: leave behind empty; move out of. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+
+Output Format Example:
+857. boat.
+2023. barge.
+Strictly follow the output format above. Do not output analysis. 

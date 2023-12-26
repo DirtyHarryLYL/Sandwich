@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pour the noodles into the water and stir".
+There are 50 candidate verbs: 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+1383. pour. The definition is: flow in a spurt. The lexname is: motion. 
+2261. pour. The definition is: flow in a spurt. The lexname is: motion. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2316. pour. The definition is: cause to run. The lexname is: motion. 
+2265. slop. The definition is: ladle clumsily. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+
+Output Format Example:
+598. stir.
+1955. stir.
+Strictly follow the output format above. Do not output analysis. 

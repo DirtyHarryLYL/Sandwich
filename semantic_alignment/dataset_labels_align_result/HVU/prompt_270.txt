@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "laying_stone".
+There are 50 candidate verbs: 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1367. lay. The definition is: put in a horizontal position. The lexname is: contact. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1014. lay. The definition is: prepare or position for action or operation. The lexname is: creation. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1720. bay. The definition is: utter in deep prolonged tones. The lexname is: communication. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+
+Output Format Example:
+132. stone.
+1433. prolong.
+Strictly follow the output format above. Do not output analysis. 

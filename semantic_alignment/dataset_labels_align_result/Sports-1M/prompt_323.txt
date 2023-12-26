@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "basque pelota".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2179. bowl. The definition is: roll (a ball). The lexname is: motion. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1533. beat. The definition is: strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+495. rustle. The definition is: take illegally. The lexname is: possession. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+116. satellite. The definition is: broadcast or disseminate via satellite. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1421. court. The definition is: engage in social activities leading to marriage. The lexname is: social. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+2339. captain. The definition is: be the captain of a sports team. The lexname is: social. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+380. abolish. The definition is: do away with. The lexname is: social. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+
+Output Format Example:
+999. ball.
+2062. pass.
+Strictly follow the output format above. Do not output analysis. 

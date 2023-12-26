@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Black Forest Cake//spread cream over cake".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1665. lacquer. The definition is: coat with lacquer. The lexname is: creation. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1233. crown. The definition is: put an enamel cover on. The lexname is: contact. 
+2352. nurse. The definition is: serve as a nurse; care for sick or handicapped people. The lexname is: social. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1820. tattoo. The definition is: stain (skin) with indelible color. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+
+Output Format Example:
+1993. cream.
+1109. blackberry.
+Strictly follow the output format above. Do not output analysis. 

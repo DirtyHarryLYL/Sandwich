@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "CloseUpTalkToCamera".
+There are 50 candidate verbs: 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+954. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+1556. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+
+Output Format Example:
+1162. close.
+1446. tease.
+Strictly follow the output format above. Do not output analysis. 

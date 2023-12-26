@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "skiing".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+
+Output Format Example:
+2226. ski.
+1275. powder.
+Strictly follow the output format above. Do not output analysis. 

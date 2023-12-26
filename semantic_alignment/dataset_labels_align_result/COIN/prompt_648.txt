@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "screw on the screws".
+There are 50 candidate verbs: 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1149. pull. The definition is: take away. The lexname is: change. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+815. scram. The definition is: leave immediately; used usually in the imperative form. The lexname is: motion. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+
+Output Format Example:
+38. screw.
+1491. unscrew.
+Strictly follow the output format above. Do not output analysis. 

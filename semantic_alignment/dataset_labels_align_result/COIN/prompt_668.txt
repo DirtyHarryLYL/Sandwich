@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "put the hamster into the hamster cage".
+There are 50 candidate verbs: 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1334. cage. The definition is: confine in a cage. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1922. quarantine. The definition is: place into enforced isolation, as for medical reasons. The lexname is: change. 
+1748. squeal. The definition is: utter a high-pitched cry, characteristic of pigs. The lexname is: communication. 
+958. squeal. The definition is: utter a high-pitched cry, characteristic of pigs. The lexname is: communication. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1122. rabbit. The definition is: hunt rabbits. The lexname is: competition. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1729. cluck. The definition is: make a clucking sounds, characteristic of hens. The lexname is: communication. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1754. yowl. The definition is: utter shrieks, as of cats. The lexname is: communication. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1346. kennel. The definition is: put up in a kennel. The lexname is: social. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1055. metamorphose. The definition is: change completely the nature or appearance of. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+712. humiliate. The definition is: cause to feel shame; hurt the pride of. The lexname is: emotion. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1058. transmute. The definition is: alter the nature of (elements). The lexname is: change. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+
+Output Format Example:
+1343. imprison.
+1334. cage.
+Strictly follow the output format above. Do not output analysis. 

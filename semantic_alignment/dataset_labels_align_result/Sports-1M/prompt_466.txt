@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "snorkeling".
+There are 50 candidate verbs: 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+1632. goggle. The definition is: look with amazement; look stupidly. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1574. snore. The definition is: breathe noisily during one's sleep. The lexname is: body. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1622. perceive. The definition is: to become aware of through the senses. The lexname is: perception. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+
+Output Format Example:
+2169. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

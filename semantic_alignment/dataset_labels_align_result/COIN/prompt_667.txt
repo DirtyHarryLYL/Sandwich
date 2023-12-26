@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "set different kinds of hamster toys".
+There are 50 candidate verbs: 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+1133. barter. The definition is: exchange goods without involving money. The lexname is: possession. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1727. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+913. chatter. The definition is: make noise as if chattering away. The lexname is: communication. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+
+Output Format Example:
+1236. drug.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

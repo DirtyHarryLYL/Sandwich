@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Plumbing".
+There are 50 candidate verbs: 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+1706. plumb. The definition is: examine thoroughly and in great depth. The lexname is: cognition. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1823. labor. The definition is: work hard. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+
+Output Format Example:
+414. flush.
+215. drain.
+Strictly follow the output format above. Do not output analysis. 

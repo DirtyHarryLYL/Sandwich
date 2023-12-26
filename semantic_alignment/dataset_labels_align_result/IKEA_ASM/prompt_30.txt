@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pick up pin".
+There are 50 candidate verbs: 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1146. pick. The definition is: look for and gather. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1147. pluck. The definition is: pull or pull out sharply. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1206. emplace. The definition is: put into place or position. The lexname is: contact. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2384. earn. The definition is: acquire or deserve by one's efforts or actions. The lexname is: possession. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+
+Output Format Example:
+33. pin.
+2456. put.
+Strictly follow the output format above. Do not output analysis. 

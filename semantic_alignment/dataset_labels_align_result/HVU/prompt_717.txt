@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "riding_bumper_cars".
+There are 50 candidate verbs: 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1920. impound. The definition is: place or shut up in a pound. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1280. saddle. The definition is: put a saddle on. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+
+Output Format Example:
+870. ride.
+858. bobsled.
+Strictly follow the output format above. Do not output analysis. 

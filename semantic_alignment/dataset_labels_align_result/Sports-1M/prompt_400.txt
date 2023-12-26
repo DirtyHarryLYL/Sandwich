@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "footvolley".
+There are 50 candidate verbs: 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+345. fortify. The definition is: enclose by or as if by a fortification. The lexname is: contact. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+55. convey. The definition is: transfer to another. The lexname is: possession. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2060. loft. The definition is: kick or strike high in the air. The lexname is: contact. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+57. dispatch. The definition is: send away towards a designated goal. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+
+Output Format Example:
+1328. beach.
+1854. kick.
+Strictly follow the output format above. Do not output analysis. 

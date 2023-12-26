@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "massaging_feet".
+There are 50 candidate verbs: 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+1897. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1518. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+539. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2645. paw. The definition is: touch clumsily. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1564. nod. The definition is: let the head fall forward through drowsiness. The lexname is: body. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+
+Output Format Example:
+2643. massage.
+741. relax.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "feeding_birds".
+There are 50 candidate verbs: 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+530. flock. The definition is: move as a crowd or in a group. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1750. tweet. The definition is: make a weak, chirping sound. The lexname is: perception. 
+2112. pluck. The definition is: strip of feathers. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1747. squawk. The definition is: utter a harsh abrupt scream. The lexname is: communication. 
+957. squawk. The definition is: utter a harsh abrupt scream. The lexname is: communication. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1728. chitter. The definition is: make high-pitched sounds, as of birds. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+915. chitter. The definition is: make high-pitched sounds, as of birds. The lexname is: communication. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+435. pinion. The definition is: cut the wings off (of birds). The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+884. spoonfeed. The definition is: feed with a spoon. The lexname is: consumption. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1856. peck. The definition is: hit lightly with a picking motion. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+
+Output Format Example:
+886. feed.
+882. feed.
+Strictly follow the output format above. Do not output analysis. 

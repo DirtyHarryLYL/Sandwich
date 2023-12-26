@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "draw pictures on the materials".
+There are 50 candidate verbs: 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2575. doodle. The definition is: make a doodle; draw aimlessly. The lexname is: creation. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+
+Output Format Example:
+2329. draw.
+2576. draw.
+Strictly follow the output format above. Do not output analysis. 

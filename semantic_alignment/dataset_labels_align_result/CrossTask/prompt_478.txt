@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Remove Lug Nuts and Tires//pull wheel".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+56. deliver. The definition is: bring to a destination, make a delivery. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2693. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+79. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1505. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+
+Output Format Example:
+312. tire.
+393. kill.
+Strictly follow the output format above. Do not output analysis. 

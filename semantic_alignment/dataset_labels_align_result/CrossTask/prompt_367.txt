@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Real Vanilla Bean Ice Cream//combine ingredients".
+There are 50 candidate verbs: 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1032. churn. The definition is: stir (cream) vigorously in order to make butter. The lexname is: contact. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2525. ream. The definition is: enlarge with a reamer. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+348. ice. The definition is: put ice on or put on ice. The lexname is: change. 
+324. whiten. The definition is: turn white. The lexname is: change. 
+218. emulsify. The definition is: form into or become an emulsion. The lexname is: change. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+1848. crave. The definition is: have a craving, appetite, or great desire for. The lexname is: consumption. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+2589. inspire. The definition is: supply the inspiration for. The lexname is: creation. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+
+Output Format Example:
+1993. cream.
+488. milk.
+Strictly follow the output format above. Do not output analysis. 

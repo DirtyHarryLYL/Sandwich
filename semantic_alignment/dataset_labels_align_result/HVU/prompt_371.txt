@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "polishing_metal".
+There are 50 candidate verbs: 
+2313. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+375. iron. The definition is: press and smooth with a heated iron. The lexname is: contact. 
+416. polish. The definition is: make (a surface) shine. The lexname is: contact. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+964. ting. The definition is: make a light, metallic sound; go `ting'. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+391. extract. The definition is: separate (a metal) from an ore. The lexname is: contact. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+986. shimmer. The definition is: shine with a weak or fitful light. The lexname is: weather. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1276. putty. The definition is: apply putty in order to fix or fill. The lexname is: contact. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+419. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+290. smooth. The definition is: make smooth or smoother, as if by rubbing. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+
+Output Format Example:
+2313. iron.
+375. iron.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Blueberry Pancakes//stir mixture".
+There are 50 candidate verbs: 
+1955. stir. The definition is: mix or add by stirring. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+598. stir. The definition is: move very slightly. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1668. stain. The definition is: color for microscopic study. The lexname is: change. 
+1291. stain. The definition is: color with a liquid dye or tint. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+753. stimulate. The definition is: stir feelings in. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2105. siphon. The definition is: convey, draw off, or empty by or as if by a siphon. The lexname is: motion. 
+270. purify. The definition is: remove impurities from, increase the concentration of, and separate through the process of distillation. The lexname is: change. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2484. bruise. The definition is: damage (plant tissue) by abrasion or pressure. The lexname is: change. 
+
+Output Format Example:
+1955. stir.
+162. stir-fry.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Install Lowering Springs//separate ball_joint".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+2382. lease. The definition is: grant use or occupation of under a term of contract. The lexname is: possession. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1920. impound. The definition is: place or shut up in a pound. The lexname is: contact. 
+318. unionize. The definition is: form or join a union. The lexname is: social. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+
+Output Format Example:
+312. tire.
+999. ball.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "BoxingSpeedBag".
+There are 50 candidate verbs: 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1159. bombard. The definition is: throw bombs at or attack with bombs. The lexname is: competition. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+
+Output Format Example:
+2672. jab.
+1326. bag.
+Strictly follow the output format above. Do not output analysis. 

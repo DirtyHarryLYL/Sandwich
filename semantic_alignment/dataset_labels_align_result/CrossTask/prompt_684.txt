@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Blueberry Pancakes//flip pancake".
+There are 50 candidate verbs: 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+2484. bruise. The definition is: damage (plant tissue) by abrasion or pressure. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2285. impede. The definition is: be a hindrance or obstacle to. The lexname is: social. 
+2543. bruise. The definition is: injure the underlying soft tissue or bone of. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+789. backpack. The definition is: hike with a backpack. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2619. toast. The definition is: propose a toast to. The lexname is: consumption. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1426. marry. The definition is: take in marriage. The lexname is: social. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+478. deprive. The definition is: take away. The lexname is: change. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2577. ink. The definition is: append one's signature to. The lexname is: communication. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+
+Output Format Example:
+1107. berry.
+892. brunch.
+Strictly follow the output format above. Do not output analysis. 

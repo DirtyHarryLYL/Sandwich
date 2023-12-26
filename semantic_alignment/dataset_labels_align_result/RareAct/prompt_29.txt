@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throw shirt".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2324. silkscreen. The definition is: print by silkscreen. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+760. thrill. The definition is: feel sudden intense sensation or emotion. The lexname is: emotion. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+310. thin. The definition is: make thin or thinner. The lexname is: change. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+
+Output Format Example:
+2072. throw.
+2235. wear.
+Strictly follow the output format above. Do not output analysis. 

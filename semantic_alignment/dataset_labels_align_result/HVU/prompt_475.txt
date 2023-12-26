@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "using_a_power_drill".
+There are 50 candidate verbs: 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+1031. chisel. The definition is: carve with a chisel. The lexname is: contact. 
+1695. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2483. bore. The definition is: make a hole, especially with a pointed power or hand tool. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+
+Output Format Example:
+1821. tool.
+2518. hew.
+Strictly follow the output format above. Do not output analysis. 

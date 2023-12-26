@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "reset the switch and screw on the screws used to fix the switch".
+There are 50 candidate verbs: 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+25. lock. The definition is: fasten with a lock. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+24. latch. The definition is: fasten with a latch. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+36. rivet. The definition is: fasten with a rivet or rivets. The lexname is: contact. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+
+Output Format Example:
+38. screw.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

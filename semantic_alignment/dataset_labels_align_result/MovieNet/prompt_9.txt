@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "comb".
+There are 50 candidate verbs: 
+1702. comb. The definition is: search thoroughly. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2688. memorize. The definition is: commit to memory; learn by heart. The lexname is: cognition. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+1450. compel. The definition is: force somebody to do something. The lexname is: social. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+
+Output Format Example:
+1702. comb.
+2099. brush.
+Strictly follow the output format above. Do not output analysis. 

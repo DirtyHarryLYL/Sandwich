@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wind the junction to fasten the connection".
+There are 50 candidate verbs: 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+784. twist. The definition is: do the twist. The lexname is: motion. 
+2194. tack. The definition is: turn into the wind. The lexname is: motion. 
+2234. tack. The definition is: turn into the wind. The lexname is: motion. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2468. twist. The definition is: form into twists. The lexname is: change. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+15. fasten. The definition is: cause to be firmly attached. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1494. untie. The definition is: undo the ties of. The lexname is: contact. 
+785. whirl. The definition is: fly around. The lexname is: motion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1624. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1698. scent. The definition is: catch the scent of; get wind of. The lexname is: perception. 
+1486. unhitch. The definition is: unfasten or release from or as if from a hitch. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1831. restrict. The definition is: place limits on (extent or access). The lexname is: change. 
+
+Output Format Example:
+2218. wind.
+786. wind.
+Strictly follow the output format above. Do not output analysis. 

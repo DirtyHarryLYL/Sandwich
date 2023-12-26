@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "crossfit".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2490. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+333. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1837. assail. The definition is: attack someone physically or emotionally. The lexname is: competition. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+
+Output Format Example:
+2239. exercise.
+498. wrest.
+Strictly follow the output format above. Do not output analysis. 

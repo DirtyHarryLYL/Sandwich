@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Fixing a doorknob".
+There are 50 candidate verbs: 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+25. lock. The definition is: fasten with a lock. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1479. unbolt. The definition is: undo the bolt of. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+4. bolt. The definition is: secure or lock with a bolt. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1293. stopper. The definition is: close or secure with or as if with a stopper. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+24. latch. The definition is: fasten with a latch. The lexname is: contact. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+963. tick. The definition is: make a sound like a clock or a timer. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+549. resound. The definition is: ring or echo with sound. The lexname is: perception. 
+
+Output Format Example:
+1503. knock.
+2058. knock.
+Strictly follow the output format above. Do not output analysis. 

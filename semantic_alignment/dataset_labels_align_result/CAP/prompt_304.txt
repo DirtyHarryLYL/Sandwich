@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_rubs_foot,".
+There are 50 candidate verbs: 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2648. rub. The definition is: scrape or rub as if to relieve itching. The lexname is: perception. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2114. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2412. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2650. tickle. The definition is: touch or stroke lightly. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1392. correspond. The definition is: exchange messages. The lexname is: communication. 
+1400. correspond. The definition is: exchange messages. The lexname is: communication. 
+
+Output Format Example:
+2555. feel.
+1284. shoe.
+Strictly follow the output format above. Do not output analysis. 

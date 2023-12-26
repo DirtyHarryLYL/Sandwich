@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "base jumping".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2198. jump. The definition is: cause to jump or leap. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+2008. bounce. The definition is: leap suddenly. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1734. drone. The definition is: make a monotonous low dull sound. The lexname is: perception. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+253. levitate. The definition is: be suspended in the air, as if in defiance of gravity. The lexname is: motion. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+2088. soar. The definition is: go or move upward. The lexname is: change. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+2036. rave. The definition is: praise enthusiastically. The lexname is: communication. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+543. rise. The definition is: rise up. The lexname is: stative. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+589. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+538. hover. The definition is: hang in the air; fly or be suspended above. The lexname is: motion. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+
+Output Format Example:
+2076. dive.
+1839. jump.
+Strictly follow the output format above. Do not output analysis. 

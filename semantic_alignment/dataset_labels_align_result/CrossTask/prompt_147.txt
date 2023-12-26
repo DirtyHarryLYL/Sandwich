@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make a Black Forest Cake//add cherry on cake".
+There are 50 candidate verbs: 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+198. darken. The definition is: make dark or darker. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+166. age. The definition is: make older. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+480. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+2274. bleed. The definition is: drain of liquid or steam. The lexname is: change. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1241. frost. The definition is: decorate with frosting. The lexname is: contact. 
+233. frost. The definition is: decorate with frosting. The lexname is: contact. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+1521. ache. The definition is: be the source of pain. The lexname is: perception. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1233. crown. The definition is: put an enamel cover on. The lexname is: contact. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1804. copy. The definition is: make a replica of. The lexname is: creation. 
+1779. copy. The definition is: make a replica of. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+275. redden. The definition is: turn red or redder. The lexname is: change. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+2610. mock. The definition is: treat with contempt. The lexname is: communication. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+
+Output Format Example:
+1107. berry.
+1109. blackberry.
+Strictly follow the output format above. Do not output analysis. 

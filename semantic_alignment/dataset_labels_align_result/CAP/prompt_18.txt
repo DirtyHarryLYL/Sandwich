@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_bumps_into_person,".
+There are 50 candidate verbs: 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+728. numb. The definition is: make numb or insensitive. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2469. argue. The definition is: present reasons and arguments. The lexname is: communication. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+90. sum_up. The definition is: give a summary (of). The lexname is: communication. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1397. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1390. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1582. commiserate. The definition is: to feel or express sympathy or compassion. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2558. hear. The definition is: receive a communication from someone. The lexname is: perception. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1414. quibble. The definition is: argue over petty things. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+
+Output Format Example:
+2667. bump.
+2653. bump.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Closing a window".
+There are 50 candidate verbs: 
+190. close. The definition is: cause a window or an application to disappear on a computer desktop. The lexname is: perception. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+921. clink. The definition is: make a high sound typical of glass. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+320. vitrify. The definition is: undergo vitrification; become glassy or glass-like. The lexname is: change. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+188. clear. The definition is: make clear, bright, light, or translucent. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+190. close.
+1619. glimpse.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tsukahara tucked".
+There are 50 candidate verbs: 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+690. embarrass. The definition is: cause to be embarrassed; cause to feel self-conscious. The lexname is: emotion. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+1836. ambush. The definition is: wait in hiding to attack. The lexname is: competition. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+1182. interleave. The definition is: intersperse alternately, as of protective covers for book illustrations. The lexname is: change. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+1549. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+1525. pucker. The definition is: to gather something into small wrinkles or folds. The lexname is: contact. 
+1147. pluck. The definition is: pull or pull out sharply. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1380. underlay. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+
+Output Format Example:
+2396. tuck.
+558. blanket.
+Strictly follow the output format above. Do not output analysis. 

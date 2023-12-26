@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "exit from the area and salute".
+There are 50 candidate verbs: 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+2210. exit. The definition is: move out of or depart from. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1520. salute. The definition is: recognize with a gesture prescribed by a military regulation; assume a prescribed position. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+263. open. The definition is: become open. The lexname is: contact. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2290. direct. The definition is: command with authority. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+61. return. The definition is: make a return. The lexname is: contact. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+
+Output Format Example:
+2614. salute.
+2210. exit.
+Strictly follow the output format above. Do not output analysis. 

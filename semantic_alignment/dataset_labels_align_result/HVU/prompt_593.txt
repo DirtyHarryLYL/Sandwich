@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "changing_gear_in_car".
+There are 50 candidate verbs: 
+1061. gear. The definition is: set the level or character of. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+71. tool. The definition is: drive. The lexname is: motion. 
+2437. heap. The definition is: fill to overflow. The lexname is: change. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+184. change. The definition is: become different in some particular way, without permanently losing one's or its former characteristics or essence. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2073. appreciate. The definition is: gain in value. The lexname is: change. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+
+Output Format Example:
+1061. gear.
+2443. stuff.
+Strictly follow the output format above. Do not output analysis. 

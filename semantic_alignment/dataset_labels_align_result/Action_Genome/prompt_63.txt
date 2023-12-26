@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Taking food from somewhere".
+There are 50 candidate verbs: 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+1693. scrounge. The definition is: collect or look around for (food). The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+56. deliver. The definition is: bring to a destination, make a delivery. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+478. deprive. The definition is: take away. The lexname is: change. 
+846. follow. The definition is: to travel behind, go after, come after. The lexname is: motion. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+893. dine. The definition is: have supper; eat dinner. The lexname is: consumption. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+
+Output Format Example:
+891. breakfast.
+886. feed.
+Strictly follow the output format above. Do not output analysis. 

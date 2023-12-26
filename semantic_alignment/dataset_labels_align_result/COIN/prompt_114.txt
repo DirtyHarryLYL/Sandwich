@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "scrub the toilet interior".
+There are 50 candidate verbs: 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2115. scour. The definition is: rub hard or scrub. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1711. scour. The definition is: examine minutely. The lexname is: contact. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+
+Output Format Example:
+414. flush.
+2117. scrub.
+Strictly follow the output format above. Do not output analysis. 

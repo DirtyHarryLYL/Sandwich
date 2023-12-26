@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "golf_chipping".
+There are 50 candidate verbs: 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1483. unclip. The definition is: remove the clip from. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+329. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2514. chip. The definition is: break a small piece off from. The lexname is: contact. 
+2485. chip. The definition is: break a small piece off from. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+71. tool. The definition is: drive. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+
+Output Format Example:
+2515. chop.
+1852. chop.
+Strictly follow the output format above. Do not output analysis. 

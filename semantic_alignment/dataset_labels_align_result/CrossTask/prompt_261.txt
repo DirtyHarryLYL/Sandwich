@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Pickle Okra//pack okra into jar".
+There are 50 candidate verbs: 
+152. pickle. The definition is: preserve in a pickling liquid. The lexname is: change. 
+1344. jar. The definition is: place in a cylindrical vessel. The lexname is: contact. 
+720. jar. The definition is: affect in a disagreeable way. The lexname is: emotion. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1332. bottle. The definition is: put into bottles. The lexname is: contact. 
+1335. can. The definition is: preserve in a can or tin. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+135. blanch. The definition is: cook (vegetables) briefly. The lexname is: change. 
+263. open. The definition is: become open. The lexname is: contact. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+1339. cup. The definition is: put into a cup. The lexname is: change. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1185. lard. The definition is: prepare or cook with lard. The lexname is: creation. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+1125. shrimp. The definition is: fish for shrimp. The lexname is: competition. 
+2630. poke. The definition is: make a hole by poking. The lexname is: contact. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+865. rocket. The definition is: propel with a rocket. The lexname is: contact. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+902. gnaw. The definition is: bite or chew on with the teeth. The lexname is: contact. 
+401. take_away. The definition is: take from a person or place. The lexname is: possession. 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+1248. glass. The definition is: furnish with glass. The lexname is: possession. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+1677. speak_for. The definition is: be a spokesperson for. The lexname is: social. 
+
+Output Format Example:
+152. pickle.
+1344. jar.
+Strictly follow the output format above. Do not output analysis. 

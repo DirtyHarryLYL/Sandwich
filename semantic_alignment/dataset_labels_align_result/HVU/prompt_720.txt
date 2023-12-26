@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "drum_corps".
+There are 50 candidate verbs: 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+839. troop. The definition is: move or march as if in a crowd. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1675. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2349. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1940. band. The definition is: bind or tie together, as with a band. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+474. disarm. The definition is: take away the weapons from; render harmless. The lexname is: competition. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+
+Output Format Example:
+2669. drum.
+2319. choreograph.
+Strictly follow the output format above. Do not output analysis. 

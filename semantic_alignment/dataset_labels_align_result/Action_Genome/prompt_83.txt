@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Reaching for and grabbing a picture".
+There are 50 candidate verbs: 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+1376. stand. The definition is: put into an upright position. The lexname is: contact. 
+2151. stand. The definition is: put into an upright position. The lexname is: contact. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1563. clap. The definition is: clap one's hands together. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+126. reach.
+2625. grasp.
+Strictly follow the output format above. Do not output analysis. 

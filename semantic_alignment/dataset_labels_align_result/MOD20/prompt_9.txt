@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "jetskiing".
+There are 50 candidate verbs: 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+863. jet. The definition is: fly a jet plane. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+868. yacht. The definition is: travel in a yacht. The lexname is: motion. 
+2223. raft. The definition is: travel by raft in water. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2208. disembark. The definition is: go ashore. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2344. cox. The definition is: act as the coxswain, in a boat race. The lexname is: social. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1129. whale. The definition is: hunt for whales. The lexname is: competition. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+770. drift. The definition is: cause to be carried by a current. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+588. float. The definition is: set afloat. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2023. barge. The definition is: transport by barge on a body of water. The lexname is: motion. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+
+Output Format Example:
+2221. kayak.
+857. boat.
+Strictly follow the output format above. Do not output analysis. 

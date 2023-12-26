@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "driving_tractor".
+There are 50 candidate verbs: 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2029. truck. The definition is: convey (goods etc.) by truck. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+859. bus. The definition is: ride in a bus. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+2024. bus. The definition is: send or move around by bus. The lexname is: motion. 
+867. taxi. The definition is: ride in a taxicab. The lexname is: motion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+2025. cart. The definition is: transport something in a cart. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2219. bicycle. The definition is: ride a bicycle. The lexname is: motion. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+855. steer. The definition is: direct the course; determine the direction of travelling. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+844. take. The definition is: travel or go by means of a certain kind of transportation, or a certain route. The lexname is: motion. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+73. wheel. The definition is: wheel somebody or something. The lexname is: motion. 
+208. derail. The definition is: cause to run off the tracks. The lexname is: motion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2101. plow. The definition is: to break and turn over earth especially with a plow. The lexname is: creation. 
+81. tow. The definition is: drag behind. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+
+Output Format Example:
+68. drive.
+58. drive.
+Strictly follow the output format above. Do not output analysis. 

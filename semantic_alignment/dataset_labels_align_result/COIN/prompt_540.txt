@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "roll the quilt cover and the quilt together".
+There are 50 candidate verbs: 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+558. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1218. blanket. The definition is: form a blanket-like cover (over). The lexname is: stative. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+1302. tile. The definition is: cover with tiles. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+947. roll. The definition is: emit, produce, or utter with a deep prolonged reverberating sound. The lexname is: perception. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1809. applique. The definition is: sew on as a decoration. The lexname is: creation. 
+2303. roll. The definition is: shape by rolling. The lexname is: change. 
+1949. roll. The definition is: shape by rolling. The lexname is: change. 
+1043. roll. The definition is: shape by rolling. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1309. wallpaper. The definition is: cover with wallpaper. The lexname is: contact. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1289. sod. The definition is: cover with sod. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1380. underlay. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+
+Output Format Example:
+1266. paper.
+2430. wrap.
+Strictly follow the output format above. Do not output analysis. 

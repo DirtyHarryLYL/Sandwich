@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Snowboarding".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2173. trek. The definition is: journey on foot, especially in the mountains. The lexname is: motion. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1220. board. The definition is: get on board of (trains, buses, ships, aircraft, etc.). The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+
+Output Format Example:
+2226. ski.
+2501. shred.
+Strictly follow the output format above. Do not output analysis. 

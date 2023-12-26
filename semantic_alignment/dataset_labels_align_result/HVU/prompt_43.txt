@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "folding_napkins".
+There are 50 candidate verbs: 
+1002. fold. The definition is: become folded or folded up. The lexname is: change. 
+363. fold. The definition is: become folded or folded up. The lexname is: change. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1543. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1038. fold. The definition is: bend or lay so that one part covers the other. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1950. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+2414. sew. The definition is: fasten by sewing; do needlework. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+370. slacken. The definition is: make slack as by lessening tension or firmness. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+2431. drape. The definition is: cover or dress loosely with cloth. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1043. roll. The definition is: shape by rolling. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2303. roll. The definition is: shape by rolling. The lexname is: change. 
+1949. roll. The definition is: shape by rolling. The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1044. sew. The definition is: create (clothes) with cloth. The lexname is: creation. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+587. flap. The definition is: move noisily. The lexname is: motion. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+
+Output Format Example:
+1002. fold.
+363. fold.
+Strictly follow the output format above. Do not output analysis. 

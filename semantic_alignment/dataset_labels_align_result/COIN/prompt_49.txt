@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "take a little bit noodles and taste it".
+There are 50 candidate verbs: 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1697. listen. The definition is: listen and pay attention. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1634. listen. The definition is: listen and pay attention. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+
+Output Format Example:
+1775. taste.
+891. breakfast.
+Strictly follow the output format above. Do not output analysis. 

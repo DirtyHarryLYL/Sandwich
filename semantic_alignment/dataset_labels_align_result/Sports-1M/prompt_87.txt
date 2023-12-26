@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "swimming (sport)".
+There are 50 candidate verbs: 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+
+Output Format Example:
+2169. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

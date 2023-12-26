@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fasten the strap".
+There are 50 candidate verbs: 
+43. strap. The definition is: tie with a strap. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1961. fasten. The definition is: become fixed or fastened. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+15. fasten. The definition is: cause to be firmly attached. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+298. steady. The definition is: make steady. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1350. sheathe. The definition is: enclose with a sheath. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2017. pass. The definition is: place into the hands or custody of. The lexname is: possession. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+756. stun. The definition is: overcome as with astonishment or disbelief. The lexname is: perception. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+16. fetter. The definition is: restrain with fetters. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+3. belt. The definition is: fasten with a belt. The lexname is: contact. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+2570. stay. The definition is: stay the same; remain in a certain state. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+
+Output Format Example:
+43. strap.
+2553. strain.
+Strictly follow the output format above. Do not output analysis. 

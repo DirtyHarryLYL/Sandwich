@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "opening_refrigerator".
+There are 50 candidate verbs: 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+263. open. The definition is: become open. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+147. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2579. print. The definition is: reproduce by printing. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1988. introduce. The definition is: bring something new to an environment. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+
+Output Format Example:
+2144. open.
+1369. open.
+Strictly follow the output format above. Do not output analysis. 

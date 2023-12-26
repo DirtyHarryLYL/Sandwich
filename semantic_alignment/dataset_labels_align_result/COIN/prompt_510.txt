@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "lay the cushion evenly".
+There are 50 candidate verbs: 
+1367. lay. The definition is: put in a horizontal position. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+2396. tuck. The definition is: fit snugly into. The lexname is: contact. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1014. lay. The definition is: prepare or position for action or operation. The lexname is: creation. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+563. cover. The definition is: form a cover over. The lexname is: contact. 
+2448. bury. The definition is: embed deeply. The lexname is: contact. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1685. twitch. The definition is: move or pull with a sudden motion. The lexname is: contact. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+228. flatten. The definition is: become flat or flatter. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+61. return. The definition is: make a return. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1822. own. The definition is: have ownership or possession of. The lexname is: possession. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+542. lounge. The definition is: sit or recline comfortably. The lexname is: contact. 
+671. content. The definition is: make content. The lexname is: emotion. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1959. bundle. The definition is: make into a bundle. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+
+Output Format Example:
+1367. lay.
+1329. bed.
+Strictly follow the output format above. Do not output analysis. 

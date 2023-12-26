@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "FieldHockeyPenalty".
+There are 50 candidate verbs: 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+57. dispatch. The definition is: send away towards a designated goal. The lexname is: motion. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+55. convey. The definition is: transfer to another. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+59. pass_on. The definition is: give to or transfer possession of. The lexname is: possession. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+88. verify. The definition is: confirm the truth of. The lexname is: cognition. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+495. rustle. The definition is: take illegally. The lexname is: possession. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+345. fortify. The definition is: enclose by or as if by a fortification. The lexname is: contact. 
+1672. defend. The definition is: be the defense counsel for someone in a trial. The lexname is: social. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+
+Output Format Example:
+2062. pass.
+2671. hit.
+Strictly follow the output format above. Do not output analysis. 

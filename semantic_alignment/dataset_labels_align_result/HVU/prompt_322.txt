@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "picking_fruit".
+There are 50 candidate verbs: 
+280. ripen. The definition is: grow ripe. The lexname is: change. 
+234. fructify. The definition is: bear fruit. The lexname is: body. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1146. pick. The definition is: look for and gather. The lexname is: contact. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1016. mass-produce. The definition is: produce on a large scale. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+920. click. The definition is: produce a click. The lexname is: communication. 
+1856. peck. The definition is: hit lightly with a picking motion. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+2454. plant. The definition is: put firmly in the mind. The lexname is: cognition. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2438. plant. The definition is: put or set (seeds, seedlings, or plants) into the ground. The lexname is: contact. 
+1713. search. The definition is: subject to a search. The lexname is: contact. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+440. pulp. The definition is: remove the pulp from, as from a fruit. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+125. ping. The definition is: contact, usually in order to remind of something. The lexname is: communication. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+941. ping. The definition is: make a short high-pitched sound. The lexname is: perception. 
+445. shuck. The definition is: remove the shucks from. The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2112. pluck. The definition is: strip of feathers. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+
+Output Format Example:
+280. ripen.
+234. fructify.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "reset and screw on the screws".
+There are 50 candidate verbs: 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+36. rivet. The definition is: fasten with a rivet or rivets. The lexname is: contact. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+311. tighten. The definition is: become tight or tighter. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+411. remove. The definition is: remove from a position or an office. The lexname is: social. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+
+Output Format Example:
+38. screw.
+1491. unscrew.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "milking_cow".
+There are 50 candidate verbs: 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1742. moo. The definition is: make a low noise, characteristic of bovines. The lexname is: communication. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1225. calk. The definition is: provide with calks. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+890. swill. The definition is: drink large quantities of (liquid, especially alcoholic drink). The lexname is: consumption. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+2620. vilify. The definition is: spread negative information about. The lexname is: communication. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2250. drink. The definition is: consume alcohol. The lexname is: consumption. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1999. mix. The definition is: add as an additional element or part. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+
+Output Format Example:
+488. milk.
+1742. moo.
+Strictly follow the output format above. Do not output analysis. 

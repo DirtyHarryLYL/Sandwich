@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "blend shoes".
+There are 50 candidate verbs: 
+1284. shoe. The definition is: furnish with shoes. The lexname is: body. 
+1996. blend. The definition is: combine into one. The lexname is: contact. 
+2298. blend. The definition is: combine into one. The lexname is: contact. 
+1256. heel. The definition is: put a new heel on. The lexname is: change. 
+2068. boot. The definition is: kick; give a boot to. The lexname is: contact. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+835. tiptoe. The definition is: walk on one's toes. The lexname is: motion. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+1681. kick. The definition is: thrash about or strike out with the feet. The lexname is: motion. 
+1161. clog. The definition is: impede with a clog or as if with a clog. The lexname is: change. 
+1290. sole. The definition is: put a new sole on. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+910. blast. The definition is: make a strident sound. The lexname is: perception. 
+343. blast. The definition is: make a strident sound. The lexname is: perception. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2235. wear. The definition is: put clothing on one's body. The lexname is: body. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+189. clog. The definition is: become or cause to become obstructed. The lexname is: contact. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1547. kick. The definition is: kick a leg up. The lexname is: motion. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1722. bleat. The definition is: cry plaintively. The lexname is: communication. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1562. blink. The definition is: briefly shut the eyes. The lexname is: body. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+
+Output Format Example:
+1284. shoe.
+1996. blend.
+Strictly follow the output format above. Do not output analysis. 

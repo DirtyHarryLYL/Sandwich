@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cleaning_gutters".
+There are 50 candidate verbs: 
+1277. roof. The definition is: provide a building with a roof; cover a building with a roof. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+378. squeegee. The definition is: wipe with a squeegee. The lexname is: contact. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2440. slather. The definition is: spread thickly. The lexname is: contact. 
+2310. clean. The definition is: remove unwanted substances from, such as feathers or pits. The lexname is: change. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2413. scatter. The definition is: sow by scattering. The lexname is: contact. 
+919. clatter. The definition is: make a rattling sound. The lexname is: perception. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+16. fetter. The definition is: restrain with fetters. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+174. blunt. The definition is: make less sharp. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2365. do. The definition is: get (something) done. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+
+Output Format Example:
+1277. roof.
+452. clean.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding a mirror".
+There are 50 candidate verbs: 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1240. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+567. frame. The definition is: enclose in a frame, as of a picture. The lexname is: stative. 
+1598. examine. The definition is: observe, check out, and look over carefully or inspect. The lexname is: perception. 
+2638. grasp. The definition is: hold firmly. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2625. grasp. The definition is: hold firmly. The lexname is: contact. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1614. watch. The definition is: observe or determine by looking. The lexname is: perception. 
+1599. inspect. The definition is: look over carefully. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+263. open. The definition is: become open. The lexname is: contact. 
+1635. look. The definition is: perceive with attention; direct one's gaze towards. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2495. gouge. The definition is: force with the thumb. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+
+Output Format Example:
+2627. hold.
+1610. survey.
+Strictly follow the output format above. Do not output analysis. 

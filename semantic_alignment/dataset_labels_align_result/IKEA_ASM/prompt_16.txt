@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "attach drawer back panel".
+There are 50 candidate verbs: 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1338. crate. The definition is: put into a crate; as for protection. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1499. draw. The definition is: bring, take, or pull out of a container or from under a cover. The lexname is: motion. 
+1957. attach. The definition is: become attached. The lexname is: contact. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1969. affix. The definition is: attach to. The lexname is: contact. 
+1340. file. The definition is: place in a container for keeping records. The lexname is: communication. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+20. hinge. The definition is: attach with a hinge. The lexname is: contact. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+33. pin. The definition is: attach or fasten with pins or as if with pins; .. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1020. rearrange. The definition is: put into a new order or arrangement. The lexname is: change. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+386. draw. The definition is: cause to flow. The lexname is: motion. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+30. nail. The definition is: attach something somewhere by means of nails. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+
+Output Format Example:
+1333. box.
+1265. panel.
+Strictly follow the output format above. Do not output analysis. 

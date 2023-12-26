@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_unloads_clothes_from_suitcase,".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2374. contribute. The definition is: contribute to some cause. The lexname is: possession. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2375. donate. The definition is: give to a charity or good cause. The lexname is: possession. 
+1868. clobber. The definition is: strike violently and repeatedly. The lexname is: contact. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+2278. welcome. The definition is: receive someone, as into one's house. The lexname is: contact. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+
+Output Format Example:
+2615. satirize.
+1136. trade.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "conformation show".
+There are 50 candidate verbs: 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1982. consolidate. The definition is: bring together into a single whole or system. The lexname is: change. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+529. convene. The definition is: meet formally. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2155. converge. The definition is: be adjacent or come together. The lexname is: stative. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+536. reconvene. The definition is: meet again. The lexname is: motion. 
+
+Output Format Example:
+1434. continue.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

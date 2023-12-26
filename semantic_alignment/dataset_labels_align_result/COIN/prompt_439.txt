@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "process the copper wire inside the earphone cable".
+There are 50 candidate verbs: 
+52. wire. The definition is: fasten with wire. The lexname is: contact. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+41. solder. The definition is: join or fuse with solder. The lexname is: contact. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+1295. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+44. string. The definition is: string together; tie or fasten with a string. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+2581. scribble. The definition is: write carelessly. The lexname is: creation. 
+1028. bead. The definition is: string together like beads. The lexname is: contact. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1794. bead. The definition is: string together like beads. The lexname is: contact. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2578. pencil. The definition is: write, draw, or trace with a pencil. The lexname is: creation. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1359. loop. The definition is: make a loop in. The lexname is: creation. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+1045. spin. The definition is: work natural fibers into a thread. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+1036. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1811. embroider. The definition is: decorate with needlework. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+1223. bronze. The definition is: give the color and appearance of bronze to something. The lexname is: change. 
+
+Output Format Example:
+52. wire.
+7. cable.
+Strictly follow the output format above. Do not output analysis. 

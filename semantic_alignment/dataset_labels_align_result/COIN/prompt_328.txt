@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "install the new shower head".
+There are 50 candidate verbs: 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+1204. inject. The definition is: feed intravenously. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+448. stem. The definition is: remove the stem from. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+431. head. The definition is: remove the head of. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+84. explain. The definition is: define. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+
+Output Format Example:
+2415. shower.
+131. shower.
+Strictly follow the output format above. Do not output analysis. 

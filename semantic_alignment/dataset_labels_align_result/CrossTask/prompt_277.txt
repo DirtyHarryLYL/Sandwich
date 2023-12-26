@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Masala Sauce//add cumin".
+There are 50 candidate verbs: 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+140. caramelize. The definition is: convert to caramel. The lexname is: change. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2550. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+157. scald. The definition is: burn with a hot liquid or steam. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+342. alcoholize. The definition is: treat or infuse with alcohol. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+1048. develop. The definition is: grow emotionally or mature. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+
+Output Format Example:
+1195. sauce.
+1317. sauce.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "blow the raw sugar".
+There are 50 candidate verbs: 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1029. blow. The definition is: shape by blowing. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+906. slurp. The definition is: eat noisily. The lexname is: consumption. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+
+Output Format Example:
+1297. sugar.
+305. sweeten.
+Strictly follow the output format above. Do not output analysis. 

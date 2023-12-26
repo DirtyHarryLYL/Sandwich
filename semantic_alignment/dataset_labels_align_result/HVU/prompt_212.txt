@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "underwater_diving".
+There are 50 candidate verbs: 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2010. float. The definition is: put into the water. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1617. discover. The definition is: see for the first time; make a discovery. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1124. shark. The definition is: hunt shark. The lexname is: competition. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1720. bay. The definition is: utter in deep prolonged tones. The lexname is: communication. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+
+Output Format Example:
+2076. dive.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

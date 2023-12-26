@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_makes_bed,".
+There are 50 candidate verbs: 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2603. deride. The definition is: treat or speak of with contempt. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+940. patter. The definition is: make light, rapid and repeated sounds. The lexname is: perception. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+671. content. The definition is: make content. The lexname is: emotion. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+
+Output Format Example:
+1329. bed.
+2539. sleep.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "push curling".
+There are 50 candidate verbs: 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2700. shove. The definition is: push roughly. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1872. cosh. The definition is: hit with a cosh, usually on the head. The lexname is: contact. 
+2512. punch. The definition is: make a hole into or between, as for ease of separation. The lexname is: contact. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2331. spin. The definition is: twist and turn so as to give an intended interpretation. The lexname is: communication. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1513. tug. The definition is: move by pulling hard. The lexname is: contact. 
+1507. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+1552. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+429. core. The definition is: remove the core or center from. The lexname is: contact. 
+2011. roll. The definition is: move by turning over or rotating. The lexname is: motion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1001. compress. The definition is: squeeze or press together. The lexname is: contact. 
+358. compress. The definition is: squeeze or press together. The lexname is: contact. 
+82. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+2694. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+974. whish. The definition is: move with a whishing sound. The lexname is: motion. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+26. loop. The definition is: fasten or join with a loop. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+1192. plug. The definition is: fill or close tightly with or as if with a plug. The lexname is: contact. 
+
+Output Format Example:
+2402. push.
+2699. push.
+Strictly follow the output format above. Do not output analysis. 

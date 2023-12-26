@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Holding a broom".
+There are 50 candidate verbs: 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+2393. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2104. shovel. The definition is: dig with or as if with a shovel. The lexname is: contact. 
+2168. sweep. The definition is: move with sweeping, effortless, gliding motions. The lexname is: motion. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1873. cudgel. The definition is: strike with a cudgel. The lexname is: contact. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2458. stick. The definition is: fasten with or as with pins or nails. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2392. rake. The definition is: gather with a rake. The lexname is: contact. 
+2102. rake. The definition is: gather with a rake. The lexname is: contact. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+869. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+1539. crook. The definition is: bend or cause to bend. The lexname is: motion. 
+70. paddle. The definition is: propel with a paddle. The lexname is: motion. 
+778. swing. The definition is: make a big sweeping gesture or movement. The lexname is: contact. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+2541. stub. The definition is: strike (one's toe) accidentally against an object. The lexname is: body. 
+1453. goad. The definition is: stab or urge on as if with a pointed stick. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1885. whip. The definition is: strike as if by whipping. The lexname is: contact. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+1534. blow. The definition is: free of obstruction by blowing air through. The lexname is: body. 
+1355. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2427. string. The definition is: thread on or as if on a string. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+
+Output Format Example:
+2404. sweep.
+2122. sweep.
+Strictly follow the output format above. Do not output analysis. 

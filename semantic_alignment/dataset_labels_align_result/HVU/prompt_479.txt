@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "vacuuming_floor".
+There are 50 candidate verbs: 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+1228. carpet. The definition is: cover with a carpet. The lexname is: contact. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2120. suction. The definition is: empty or clean (a body cavity) by the force of suction. The lexname is: body. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2404. sweep. The definition is: sweep with a broom or as if with a broom. The lexname is: contact. 
+2213. vacate. The definition is: leave behind empty; move out of. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+457. decontaminate. The definition is: rid of contamination. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+217. empty. The definition is: become empty or void of its content. The lexname is: change. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+680. disgruntle. The definition is: put into a bad mood or into bad humour. The lexname is: emotion. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2131. walk_out. The definition is: leave abruptly, often in protest or anger. The lexname is: motion. 
+2479. discontinue. The definition is: put an end to a state or an activity. The lexname is: stative. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+843. zoom. The definition is: move along very quickly. The lexname is: motion. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+
+Output Format Example:
+2106. vacuum.
+1228. carpet.
+Strictly follow the output format above. Do not output analysis. 

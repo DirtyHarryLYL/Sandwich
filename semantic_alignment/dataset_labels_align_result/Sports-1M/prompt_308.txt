@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sports car racing".
+There are 50 candidate verbs: 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+62. shunt. The definition is: transfer to another track, of trains. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+1150. rent. The definition is: hold under a lease or rental agreement; of goods and services. The lexname is: social. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2200. parade. The definition is: march in a procession. The lexname is: motion. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+
+Output Format Example:
+2189. race.
+971. vroom.
+Strictly follow the output format above. Do not output analysis. 

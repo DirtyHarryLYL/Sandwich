@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "assembling_computer".
+There are 50 candidate verbs: 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1042. reassemble. The definition is: assemble once again, after taking something apart. The lexname is: creation. 
+112. e-mail. The definition is: communicate electronically on the computer. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+455. debug. The definition is: locate and correct errors in a computer program code. The lexname is: change. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1026. assemble. The definition is: create by putting components or members together. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1064. assimilate. The definition is: become similar to one's environment. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1025. arrange. The definition is: adapt for performance in a different way. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+284. short-circuit. The definition is: create a short circuit in. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1059. accommodate. The definition is: make (one thing) compatible with (another). The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+101. admit. The definition is: declare to be true or admit the existence or reality or truth of. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+
+Output Format Example:
+1472. disassemble.
+2325. write.
+Strictly follow the output format above. Do not output analysis. 

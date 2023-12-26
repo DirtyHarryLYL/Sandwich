@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "ski jumping".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+552. fall. The definition is: slope downward. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1700. stalk. The definition is: go through (an area) in search of prey. The lexname is: motion. 
+1227. cap. The definition is: lie at the top of. The lexname is: stative. 
+
+Output Format Example:
+2226. ski.
+1374. slope.
+Strictly follow the output format above. Do not output analysis. 

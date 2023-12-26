@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hammer fridge".
+There are 50 candidate verbs: 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+166. age. The definition is: make older. The lexname is: change. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+241. harmonize. The definition is: bring into consonance or accord. The lexname is: change. 
+2094. freeze. The definition is: change from a liquid to a solid when cold. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2314. microwave. The definition is: cook or heat in a microwave oven. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+
+Output Format Example:
+2658. hammer.
+2670. hammer.
+Strictly follow the output format above. Do not output analysis. 

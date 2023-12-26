@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wading_through_mud".
+There are 50 candidate verbs: 
+351. muddy. The definition is: make turbid. The lexname is: change. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+825. slog. The definition is: walk heavily and firmly, as when weary, or through mud. The lexname is: motion. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+229. flood. The definition is: become filled to overflowing. The lexname is: change. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+646. wallow. The definition is: delight greatly in. The lexname is: consumption. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+1184. inundate. The definition is: fill or cover completely, usually with water. The lexname is: change. 
+1165. deluge. The definition is: fill quickly beyond capacity; as with a liquid. The lexname is: contact. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1704. excavate. The definition is: recover through digging. The lexname is: perception. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+325. widen. The definition is: make wider. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2162. teem. The definition is: be teeming, be abuzz. The lexname is: stative. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+1529. twinge. The definition is: feel a sudden sharp, local pain. The lexname is: perception. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+
+Output Format Example:
+351. muddy.
+2175. wade.
+Strictly follow the output format above. Do not output analysis. 

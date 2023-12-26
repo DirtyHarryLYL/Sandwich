@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Rising:".
+There are 50 candidate verbs: 
+1900. rise. The definition is: move upward. The lexname is: motion. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+543. rise. The definition is: rise up. The lexname is: stative. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+248. intensify. The definition is: become more intense. The lexname is: change. 
+177. broaden. The definition is: become broader. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1928. better. The definition is: surpass in excellence. The lexname is: competition. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+214. double. The definition is: increase twofold. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2691. attend. The definition is: take charge of or deal with. The lexname is: social. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+61. return. The definition is: make a return. The lexname is: contact. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+
+Output Format Example:
+1900. rise.
+2085. rise.
+Strictly follow the output format above. Do not output analysis. 

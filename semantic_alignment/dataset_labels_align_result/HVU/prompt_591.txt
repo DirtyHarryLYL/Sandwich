@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "chiseling_stone".
+There are 50 candidate verbs: 
+132. stone. The definition is: kill by throwing stones at. The lexname is: contact. 
+1031. chisel. The definition is: carve with a chisel. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1814. incise. The definition is: make an incision into by carving or cutting. The lexname is: contact. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+
+Output Format Example:
+132. stone.
+1031. chisel.
+Strictly follow the output format above. Do not output analysis. 

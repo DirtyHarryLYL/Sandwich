@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_spills_on_floor,".
+There are 50 candidate verbs: 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+722. kill. The definition is: overwhelm with hilarity, pleasure, or admiration. The lexname is: emotion. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2267. spill. The definition is: pour out in drops or small quantities or as if in drops or small quantities. The lexname is: contact. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+723. lull. The definition is: calm by deception. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2476. halt. The definition is: cause to stop. The lexname is: motion. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+
+Output Format Example:
+1386. spill.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

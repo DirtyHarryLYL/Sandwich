@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_guitar".
+There are 50 candidate verbs: 
+970. twang. The definition is: sound with a twang. The lexname is: perception. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2366. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+2559. perform. The definition is: carry out or perform an action. The lexname is: creation. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1252. groove. The definition is: make a groove in, or provide with a groove. The lexname is: contact. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2222. motorbike. The definition is: ride a motorcycle. The lexname is: motion. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+634. obsess. The definition is: be preoccupied with something. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+
+Output Format Example:
+970. twang.
+952. sing.
+Strictly follow the output format above. Do not output analysis. 

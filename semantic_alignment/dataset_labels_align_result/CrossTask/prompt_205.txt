@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build a Desk//screw desk".
+There are 50 candidate verbs: 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2444. cram. The definition is: put something somewhere so that the space is completely filled. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2329. draw. The definition is: engage in drawing. The lexname is: creation. 
+2576. draw. The definition is: engage in drawing. The lexname is: creation. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2016. mail. The definition is: cause to be directed or transmitted to another place. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1910. hold. The definition is: organize or be responsible for. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+
+Output Format Example:
+2449. build-in.
+2327. design.
+Strictly follow the output format above. Do not output analysis. 

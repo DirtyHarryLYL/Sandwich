@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "feeding_goats".
+There are 50 candidate verbs: 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+882. feed. The definition is: give food to. The lexname is: consumption. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+2356. shepherd. The definition is: tend as a shepherd, as of sheep or goats. The lexname is: social. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1948. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+533. herd. The definition is: keep, move, or drive animals. The lexname is: stative. 
+530. flock. The definition is: move as a crowd or in a group. The lexname is: motion. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1742. moo. The definition is: make a low noise, characteristic of bovines. The lexname is: communication. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+880. bottlefeed. The definition is: feed (infants) with a bottle. The lexname is: consumption. 
+1737. hee-haw. The definition is: braying characteristic of donkeys. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1122. rabbit. The definition is: hunt rabbits. The lexname is: competition. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+123. get_ahold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+707. gratify. The definition is: yield (to); give satisfaction to. The lexname is: consumption. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+
+Output Format Example:
+886. feed.
+488. milk.
+Strictly follow the output format above. Do not output analysis. 

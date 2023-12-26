@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hug".
+There are 50 candidate verbs: 
+569. hug. The definition is: fit closely or tightly. The lexname is: contact. 
+1422. cuddle. The definition is: hold (a person or thing) close, as for affection, comfort, or warmth. The lexname is: contact. 
+1425. embrace. The definition is: squeeze (someone) tightly in your arms, usually with fondness. The lexname is: contact. 
+1592. strangle. The definition is: kill by squeezing the throat of so as to cut off the air. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+2641. kiss. The definition is: touch lightly or gently. The lexname is: contact. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+1352. shoulder. The definition is: lift onto one's shoulders. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+54. cling. The definition is: hold on tightly or tenaciously. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+534. huddle. The definition is: crowd or draw together. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1102. carry_through. The definition is: put in effect. The lexname is: creation. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2412. rub. The definition is: move over something with pressure. The lexname is: contact. 
+2114. rub. The definition is: move over something with pressure. The lexname is: contact. 
+1986. interrelate. The definition is: place into a mutual relationship. The lexname is: cognition. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+82. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+2694. tug. The definition is: pull or strain hard at. The lexname is: contact. 
+764. try. The definition is: give pain or trouble to. The lexname is: emotion. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+
+Output Format Example:
+569. hug.
+1422. cuddle.
+Strictly follow the output format above. Do not output analysis. 

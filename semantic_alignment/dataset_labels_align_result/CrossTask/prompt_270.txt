@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Steak Teppanyaki//add sake".
+There are 50 candidate verbs: 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+953. sizzle. The definition is: burn or sear with a sizzling sound. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+2492. fillet. The definition is: cut into filets. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+145. grill. The definition is: cook over a grill. The lexname is: change. 
+2312. grill. The definition is: cook over a grill. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1840. try. The definition is: make an effort or attempt. The lexname is: social. 
+137. braise. The definition is: cook in liquid. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1643. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1611. taste. The definition is: distinguish flavors. The lexname is: perception. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+758. tempt. The definition is: try to seduce. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+1033. cook. The definition is: transform by heating. The lexname is: change. 
+2309. broil. The definition is: cook under a broiler. The lexname is: change. 
+138. broil. The definition is: cook under a broiler. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1196. season. The definition is: lend flavor to. The lexname is: perception. 
+2299. brew. The definition is: prepare by brewing. The lexname is: creation. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+
+Output Format Example:
+162. stir-fry.
+2301. cook.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_exercises_with_pushup,".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1557. stretch. The definition is: extend one's limbs or muscles, or the entire body. The lexname is: body. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+1898. lean. The definition is: to incline or bend from a vertical position. The lexname is: motion. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+827. somersault. The definition is: do a somersault. The lexname is: motion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+797. crawl. The definition is: move slowly; in the case of people or animals with the body near the ground. The lexname is: motion. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+540. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+1368. lean. The definition is: cause to lean or incline. The lexname is: contact. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1509. slip. The definition is: move smoothly and easily. The lexname is: motion. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+997. govern. The definition is: exercise authority over; as of nations. The lexname is: social. 
+2527. push. The definition is: press, drive, or impel (someone) to action or completion of an action. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+1613. try_on. The definition is: put on a garment in order to see whether it fits and looks nice. The lexname is: body. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+364. hyperextend. The definition is: extend a joint beyond its normal range. The lexname is: body. 
+2159. crawl. The definition is: be full of. The lexname is: stative. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1897. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+1518. kneel. The definition is: rest one's weight on one's knees. The lexname is: contact. 
+
+Output Format Example:
+2239. exercise.
+1557. stretch.
+Strictly follow the output format above. Do not output analysis. 

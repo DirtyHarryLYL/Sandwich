@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_cleans_dryer_lint_trap,".
+There are 50 candidate verbs: 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+2106. vacuum. The definition is: clean with a vacuum cleaner. The lexname is: contact. 
+186. clarify. The definition is: make clear by removing impurities or solids, as by heating. The lexname is: change. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1490. unpin. The definition is: remove the pins from; unfasten the pins of. The lexname is: contact. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1607. sample. The definition is: take a sample of. The lexname is: consumption. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+
+Output Format Example:
+2246. wash.
+876. wash.
+Strictly follow the output format above. Do not output analysis. 

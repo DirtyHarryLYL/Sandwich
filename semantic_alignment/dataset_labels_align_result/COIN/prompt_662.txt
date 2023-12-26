@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "prepare and boil water".
+There are 50 candidate verbs: 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1522. burn. The definition is: feel hot or painful. The lexname is: perception. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+2317. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+155. roast. The definition is: cook with dry heat, usually in an oven. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+178. burn. The definition is: burn with heat, fire, or radiation. The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+
+Output Format Example:
+2308. boil.
+136. boil.
+Strictly follow the output format above. Do not output analysis. 

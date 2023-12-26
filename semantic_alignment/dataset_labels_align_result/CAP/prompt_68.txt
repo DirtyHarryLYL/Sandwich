@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_closes_suitcase,".
+There are 50 candidate verbs: 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+1619. glimpse. The definition is: catch a glimpse of or see briefly. The lexname is: perception. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+408. oust. The definition is: remove from a position or office. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+550. sound. The definition is: cause to sound. The lexname is: perception. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+502. take. The definition is: require (time or space). The lexname is: possession. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+
+Output Format Example:
+994. dissuade.
+2615. satirize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bujinkan".
+There are 50 candidate verbs: 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+612. beware. The definition is: be on one's guard; be cautious or wary about; be alert to. The lexname is: cognition. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1664. japan. The definition is: coat with a lacquer, as done in Japan. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1717. watch. The definition is: be vigilant, be on the lookout or be careful. The lexname is: perception. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+2687. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2689. learn. The definition is: get to know or become aware of, usually accidentally. The lexname is: cognition. 
+2325. write. The definition is: create code, write a computer program. The lexname is: creation. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1841. intend. The definition is: have in mind as a purpose. The lexname is: cognition. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2119. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+907. suck. The definition is: draw into the mouth by creating a practical vacuum in the mouth. The lexname is: consumption. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1935. surpass. The definition is: be or do something to a greater degree. The lexname is: competition. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1609. surveil. The definition is: keep under surveillance. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+560. bound. The definition is: form the boundary of; be contiguous to. The lexname is: stative. 
+1919. conceal. The definition is: hold back; keep from being perceived by others. The lexname is: perception. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+1862. swat. The definition is: hit swiftly with a violent blow. The lexname is: contact. 
+2349. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+1675. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1037. fashion. The definition is: make out of components (often in an improvising manner). The lexname is: creation. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+
+Output Format Example:
+1925. suppress.
+2092. awaken.
+Strictly follow the output format above. Do not output analysis. 

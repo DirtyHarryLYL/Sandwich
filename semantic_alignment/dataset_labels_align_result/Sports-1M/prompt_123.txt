@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "eight-ball".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1448. bait. The definition is: lure, entice, or entrap with bait. The lexname is: social. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1866. brain. The definition is: kill by smashing someone's skull. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+1826. engender. The definition is: call forth. The lexname is: creation. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+485. extort. The definition is: obtain by coercion or intimidation. The lexname is: possession. 
+2544. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+993. hail. The definition is: call for. The lexname is: communication. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2557. see. The definition is: observe as if with an eye. The lexname is: perception. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+601. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+1528. throb. The definition is: pulsate or pound with abnormal force. The lexname is: perception. 
+2561. abet. The definition is: assist or encourage, usually in some wrongdoing. The lexname is: social. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+
+Output Format Example:
+999. ball.
+1615. behold.
+Strictly follow the output format above. Do not output analysis. 

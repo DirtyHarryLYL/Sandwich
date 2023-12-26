@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bodyboarding".
+There are 50 candidate verbs: 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+593. quiver. The definition is: shake with fast, tremulous movements. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2221. kayak. The definition is: travel in a small canoe. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+1178. impregnate. The definition is: make pregnant. The lexname is: body. 
+1645. board. The definition is: lodge and take meals (at). The lexname is: consumption. 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+306. tan. The definition is: get a tan, from wind or sun. The lexname is: body. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+2220. canoe. The definition is: travel by canoe. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+1129. whale. The definition is: hunt for whales. The lexname is: competition. 
+
+Output Format Example:
+2225. skateboard.
+1328. beach.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "chopping_meat".
+There are 50 candidate verbs: 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+1953. beat. The definition is: stir vigorously. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+
+Output Format Example:
+1878. knife.
+1588. knife.
+Strictly follow the output format above. Do not output analysis. 

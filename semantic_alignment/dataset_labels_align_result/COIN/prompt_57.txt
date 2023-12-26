@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "operate the control panel".
+There are 50 candidate verbs: 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2290. direct. The definition is: command with authority. The lexname is: communication. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1369. open. The definition is: cause to open or to become open. The lexname is: contact. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+1548. open. The definition is: cause to open or to become open. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+183. centralize. The definition is: make central. The lexname is: change. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2560. function. The definition is: perform as expected when applied. The lexname is: contact. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+1757. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+929. groan. The definition is: indicate pain, discomfort, or displeasure. The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+1088. rule. The definition is: decide with authority. The lexname is: cognition. 
+1153. overload. The definition is: become overloaded. The lexname is: contact. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+263. open. The definition is: become open. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+
+Output Format Example:
+1103. conduct.
+1907. conduct.
+Strictly follow the output format above. Do not output analysis. 

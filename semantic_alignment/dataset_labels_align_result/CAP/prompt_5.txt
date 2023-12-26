@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_applies_lip_makeup,".
+There are 50 candidate verbs: 
+1258. lipstick. The definition is: apply lipstick to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1010. coin. The definition is: make up. The lexname is: creation. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1618. eye. The definition is: look at. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1637. peep. The definition is: look furtively. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2622. write_up. The definition is: bring to public notice by writing, with praise or condemnation. The lexname is: communication. 
+681. disgust. The definition is: cause aversion in; offend the moral sense of. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+278. reopen. The definition is: open again or anew. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+
+Output Format Example:
+1258. lipstick.
+670. confuse.
+Strictly follow the output format above. Do not output analysis. 

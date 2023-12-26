@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_dries_hair_with_hairdryer,".
+There are 50 candidate verbs: 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2407. brush. The definition is: cover by brushing. The lexname is: contact. 
+442. scalp. The definition is: remove the scalp of. The lexname is: change. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+873. brush. The definition is: clean with a brush. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+168. air. The definition is: expose to warm or heated air, so as to dry. The lexname is: change. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1585. electrocute. The definition is: kill by electrocution, as in the electric chair. The lexname is: social. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1787. record. The definition is: register electronically. The lexname is: communication. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+618. despair. The definition is: abandon hope; give up hope; lose heart. The lexname is: emotion. 
+1909. head. The definition is: be in charge of. The lexname is: social. 
+1780. document. The definition is: record in detail. The lexname is: communication. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+114. radio. The definition is: transmit messages via radio waves. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+
+Output Format Example:
+2099. brush.
+2103. shear.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "using_the_pommel_horse".
+There are 50 candidate verbs: 
+1879. pummel. The definition is: strike, usually with the fist. The lexname is: contact. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1149. pull. The definition is: take away. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+313. topple. The definition is: cause to topple or tumble by pushing. The lexname is: motion. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+927. ding. The definition is: go `ding dong', like a bell. The lexname is: perception. 
+935. hum. The definition is: make a low continuous sound. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+603. tremble. The definition is: move or jerk quickly and involuntarily up and down or sideways. The lexname is: motion. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+2322. improvise. The definition is: perform without preparation. The lexname is: creation. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2653. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+2667. bump. The definition is: knock against with force or violence. The lexname is: contact. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+
+Output Format Example:
+1879. pummel.
+1992. tumble.
+Strictly follow the output format above. Do not output analysis. 

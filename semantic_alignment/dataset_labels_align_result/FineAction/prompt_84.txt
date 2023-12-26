@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "throw discus".
+There are 50 candidate verbs: 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+478. deprive. The definition is: take away. The lexname is: change. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+2305. toss. The definition is: agitate. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+309. thicken. The definition is: make viscous or dense. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+2554. detect. The definition is: discover or determine the existence, presence, or fact of. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2040. theorize. The definition is: form or construct theories. The lexname is: cognition. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+861. coach. The definition is: drive a coach. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2079. explode. The definition is: increase rapidly and in an uncontrolled manner. The lexname is: change. 
+554. round. The definition is: wind around; move along a circular course. The lexname is: motion. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+
+Output Format Example:
+2072. throw.
+128. drive.
+Strictly follow the output format above. Do not output analysis. 

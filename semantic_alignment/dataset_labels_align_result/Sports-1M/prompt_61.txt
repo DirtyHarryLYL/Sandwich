@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hapkido".
+There are 50 candidate verbs: 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2355. referee. The definition is: be a referee or umpire in a sports competition. The lexname is: competition. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+630. marvel. The definition is: express astonishment or surprise about something. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1673. protect. The definition is: shield from danger, injury, destruction, or damage. The lexname is: competition. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1675. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+2349. guard. The definition is: watch over or shield from danger or harm; protect. The lexname is: competition. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+1626. spy. The definition is: watch, observe, or inquire secretly. The lexname is: communication. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+
+Output Format Example:
+2319. choreograph.
+2346. doctor.
+Strictly follow the output format above. Do not output analysis. 

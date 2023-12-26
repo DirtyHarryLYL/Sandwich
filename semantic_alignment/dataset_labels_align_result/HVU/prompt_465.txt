@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "sausage_making".
+There are 50 candidate verbs: 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1317. sauce. The definition is: dress (food) with a relish. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1018. produce. The definition is: create or manufacture a man-made product. The lexname is: creation. 
+159. simmer. The definition is: boil slowly at low temperature. The lexname is: change. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1783. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+1805. forge. The definition is: make a copy of with the intent to deceive. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1039. forge. The definition is: create by hammering. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+282. sear. The definition is: make very hot and dry. The lexname is: change. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+134. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2307. barbeque. The definition is: cook outdoors on a barbecue grill. The lexname is: change. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+
+Output Format Example:
+1195. sauce.
+2297. bake.
+Strictly follow the output format above. Do not output analysis. 

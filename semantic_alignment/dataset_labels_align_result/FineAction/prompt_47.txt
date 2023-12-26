@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "smoking".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1591. smother. The definition is: deprive of oxygen and prevent from breathing. The lexname is: contact. 
+2534. exhale. The definition is: expel air. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+89. communicate. The definition is: transmit thoughts or feelings. The lexname is: communication. 
+93. chatter. The definition is: speak (about unimportant matters) rapidly and incessantly. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1575. snuff. The definition is: inhale audibly through the nose. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+451. weed. The definition is: clear of weeds. The lexname is: change. 
+422. weed. The definition is: clear of weeds. The lexname is: change. 
+92. talk. The definition is: express in speech. The lexname is: communication. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+2537. inhale. The definition is: draw in (air). The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2252. huff. The definition is: inhale recreational drugs. The lexname is: consumption. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+2053. fire. The definition is: cause to go off. The lexname is: competition. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2545. burn. The definition is: destroy by fire. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+94. confer. The definition is: have a conference in order to talk something over. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+96. joke. The definition is: tell a joke; speak humorously. The lexname is: communication. 
+182. carbonize. The definition is: turn into carbon, as by burning. The lexname is: change. 
+1699. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+1642. smell. The definition is: inhale the odor of; perceive by the olfactory sense. The lexname is: perception. 
+
+Output Format Example:
+2615. satirize.
+1434. continue.
+Strictly follow the output format above. Do not output analysis. 

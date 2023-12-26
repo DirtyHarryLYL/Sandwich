@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Install Lowering Springs//place jack".
+There are 50 candidate verbs: 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2215. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+2466. coil. The definition is: wind around something in coils or loops. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+936. jingle. The definition is: make a sound typical of metallic objects. The lexname is: perception. 
+1975. alternate. The definition is: do something in turns. The lexname is: change. 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+68. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+58. drive. The definition is: cause someone or something to move by driving. The lexname is: motion. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2442. stock. The definition is: provide or furnish with a stock of something. The lexname is: possession. 
+698. exhaust. The definition is: wear out completely. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1343. imprison. The definition is: lock up or confine, in or as in a jail. The lexname is: social. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1980. intertwine. The definition is: spin,wind, or twist together. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+71. tool. The definition is: drive. The lexname is: motion. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+510. spare. The definition is: save or relieve from an experience or action. The lexname is: social. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+
+Output Format Example:
+312. tire.
+2452. install.
+Strictly follow the output format above. Do not output analysis. 

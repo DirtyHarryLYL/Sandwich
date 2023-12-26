@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "soak and wash the rice".
+There are 50 candidate verbs: 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2093. dry. The definition is: become dry or drier. The lexname is: change. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+154. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2315. poach. The definition is: cook in a simmering liquid. The lexname is: change. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1085. dub. The definition is: give a nickname to. The lexname is: communication. 
+993. hail. The definition is: call for. The lexname is: communication. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+
+Output Format Example:
+291. soak.
+2113. rinse.
+Strictly follow the output format above. Do not output analysis. 

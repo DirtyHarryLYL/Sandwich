@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "place gasket at injury".
+There are 50 candidate verbs: 
+1246. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+1586. gas. The definition is: attack with gas; subject to gas fumes. The lexname is: competition. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+146. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+519. price. The definition is: ascertain or learn the price of. The lexname is: cognition. 
+1012. construct. The definition is: draw with suitable instruments and under specified conditions. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+32. peg. The definition is: fasten or secure with a wooden pin. The lexname is: contact. 
+2451. insert. The definition is: put or introduce into something. The lexname is: contact. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+2144. open. The definition is: cause to open or to become open. The lexname is: contact. 
+
+Output Format Example:
+1246. gas.
+1586. gas.
+Strictly follow the output format above. Do not output analysis. 

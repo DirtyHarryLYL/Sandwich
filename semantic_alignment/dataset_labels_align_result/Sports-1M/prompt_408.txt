@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "fives".
+There are 50 candidate verbs: 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2391. fit. The definition is: conform to some shape or size. The lexname is: stative. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+213. divide. The definition is: separate into parts or portions. The lexname is: social. 
+252. level. The definition is: become level or even. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2379. give. The definition is: deliver in exchange or recompense. The lexname is: possession. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2137. total. The definition is: add up in number or quantity. The lexname is: stative. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1914. be. The definition is: be identical to; be someone or something. The lexname is: stative. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+272. quadruple. The definition is: increase fourfold. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+346. grade. The definition is: level to the right gradient. The lexname is: contact. 
+2569. remain. The definition is: be left; of persons, questions, problems, results, evidence, etc.. The lexname is: stative. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+507. mulct. The definition is: impose a fine on. The lexname is: possession. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+1504. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+395. pry. The definition is: to move or force, especially in an effort to get something open; :. The lexname is: contact. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1180. infest. The definition is: live on or in a host, as of parasites. The lexname is: stative. 
+573. predate. The definition is: be earlier in time; go back further. The lexname is: stative. 
+400. subtract. The definition is: make a subtraction. The lexname is: cognition. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+478. deprive. The definition is: take away. The lexname is: change. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2162. teem. The definition is: be teeming, be abuzz. The lexname is: stative. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+2283. forbid. The definition is: command against. The lexname is: communication. 
+35. reeve. The definition is: fasten by passing through a hole or around something. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2155. converge. The definition is: be adjacent or come together. The lexname is: stative. 
+
+Output Format Example:
+2633. constitute.
+2391. fit.
+Strictly follow the output format above. Do not output analysis. 

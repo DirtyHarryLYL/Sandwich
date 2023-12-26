@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pike jump from cross position with 1 turn".
+There are 50 candidate verbs: 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+1558. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+782. turn. The definition is: cause to move along an axis or into a new direction. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1678. buck. The definition is: jump vertically, with legs stiff and back arched. The lexname is: motion. 
+83. yank. The definition is: pull, or move with a sudden movement. The lexname is: contact. 
+2695. yank. The definition is: pull, or move with a sudden movement. The lexname is: contact. 
+1514. yank. The definition is: pull, or move with a sudden movement. The lexname is: contact. 
+1322. lower. The definition is: move something or somebody to a lower position. The lexname is: motion. 
+1536. close. The definition is: move so that an opening or passage is obstructed; make shut. The lexname is: contact. 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+315. trip. The definition is: put in motion or move to act. The lexname is: creation. 
+2654. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+2668. butt. The definition is: to strike, thrust or shove against. The lexname is: contact. 
+1147. pluck. The definition is: pull or pull out sharply. The lexname is: contact. 
+780. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+596. rotate. The definition is: cause to turn on an axis or center. The lexname is: motion. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+774. move. The definition is: move so as to change position, perform a nontranslational motion. The lexname is: motion. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2680. strike. The definition is: pierce with force. The lexname is: contact. 
+791. caper. The definition is: jump about playfully. The lexname is: motion. 
+931. hiss. The definition is: move with a whooshing sound. The lexname is: motion. 
+1505. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+79. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+2693. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+2203. rush. The definition is: move fast. The lexname is: motion. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+807. limp. The definition is: proceed slowly or with difficulty. The lexname is: motion. 
+1891. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+1884. thump. The definition is: hit hard with the hand, fist, or some heavy instrument. The lexname is: contact. 
+
+Output Format Example:
+1772. turn.
+1558. turn.
+Strictly follow the output format above. Do not output analysis. 

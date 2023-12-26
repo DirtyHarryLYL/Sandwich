@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "indoor field hockey".
+There are 50 candidate verbs: 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+2548. injure. The definition is: cause injuries or bodily harm to. The lexname is: body. 
+2062. pass. The definition is: throw (a ball) to another player. The lexname is: possession. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+1870. club. The definition is: strike with a club or a bludgeon. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+1342. house. The definition is: provide housing for. The lexname is: social. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+1442. hustle. The definition is: pressure or urge someone into an action. The lexname is: communication. 
+1888. hit. The definition is: hit against; come into sudden contact with. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2051. bunt. The definition is: hit a ball in such a way so as to make it go a short distance. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+2122. sweep. The definition is: clean by sweeping. The lexname is: contact. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1502. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2070. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+2031. kick. The definition is: drive or propel with the foot. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+
+Output Format Example:
+2056. hit.
+2548. injure.
+Strictly follow the output format above. Do not output analysis. 

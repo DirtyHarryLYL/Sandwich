@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "freestyle skiing".
+There are 50 candidate verbs: 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+2224. skate. The definition is: move along on skates. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1275. powder. The definition is: apply powder to. The lexname is: body. 
+2229. cruise. The definition is: sail or travel about for pleasure, relaxation, or sightseeing. The lexname is: motion. 
+2293. preside_over. The definition is: act as president. The lexname is: social. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1023. style. The definition is: make consistent with a certain fashion or style. The lexname is: creation. 
+1987. rhyme. The definition is: be similar in sound, especially with respect to the last syllable. The lexname is: stative. 
+773. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+2186. glide. The definition is: cause to move or pass silently, smoothly, or imperceptibly. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+599. swag. The definition is: sway heavily or unsteadily. The lexname is: motion. 
+2195. trip. The definition is: cause to stumble. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+841. yaw. The definition is: swerve off course momentarily. The lexname is: motion. 
+2134. free. The definition is: free from obligations or duties. The lexname is: social. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+
+Output Format Example:
+2226. ski.
+2076. dive.
+Strictly follow the output format above. Do not output analysis. 

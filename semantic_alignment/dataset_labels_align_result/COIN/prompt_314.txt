@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "wipe adhesive and bedding layer".
+There are 50 candidate verbs: 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+17. glue. The definition is: join or attach with or as if with glue. The lexname is: contact. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+2389. secure. The definition is: assure payment of. The lexname is: possession. 
+1380. underlay. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+
+Output Format Example:
+34. plaster.
+2125. wipe.
+Strictly follow the output format above. Do not output analysis. 

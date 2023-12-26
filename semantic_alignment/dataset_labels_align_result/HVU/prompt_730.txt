@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "hand_car_wash".
+There are 50 candidate verbs: 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+763. touch. The definition is: affect emotionally. The lexname is: emotion. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1077. hail. The definition is: greet enthusiastically or joyfully. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+993. hail. The definition is: call for. The lexname is: communication. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1139. catch. The definition is: take hold of so as to seize or restrain or stop the motion of. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1166. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+211. dirty. The definition is: make soiled, filthy, or dirty. The lexname is: contact. 
+1845. handle. The definition is: touch, lift, or hold with the hands. The lexname is: contact. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1135. exchange. The definition is: hand over one and receive another, approximately equivalent. The lexname is: social. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2637. caress. The definition is: touch or stroke lightly in a loving or endearing manner. The lexname is: contact. 
+75. haul. The definition is: transport in a vehicle. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2624. grab. The definition is: take or grasp suddenly. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+
+Output Format Example:
+2113. rinse.
+2318. wash.
+Strictly follow the output format above. Do not output analysis. 

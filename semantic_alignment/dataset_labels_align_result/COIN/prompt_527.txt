@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "weigh up the solute".
+There are 50 candidate verbs: 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+523. accumulate. The definition is: collect or gather. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2096. lighten. The definition is: reduce the weight on; make lighter. The lexname is: contact. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+244. heighten. The definition is: make more extreme; raise in quantity, degree, or intensity. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+294. solidify. The definition is: become solid. The lexname is: change. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+297. stabilize. The definition is: become stable or more stable. The lexname is: change. 
+1933. outweigh. The definition is: be heavier than. The lexname is: competition. 
+1843. hold. The definition is: contain or hold; have within. The lexname is: stative. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+641. seethe. The definition is: be in an agitated emotional state. The lexname is: emotion. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+1968. fixate. The definition is: become fixed (on). The lexname is: change. 
+314. toughen. The definition is: make tough or tougher. The lexname is: change. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1100. qualify. The definition is: prove capable or fit; meet requirements. The lexname is: stative. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1060. adjust. The definition is: adapt or conform oneself to new or different conditions. The lexname is: change. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+576. surmount. The definition is: be on top of. The lexname is: stative. 
+
+Output Format Example:
+2138. weigh.
+2565. become.
+Strictly follow the output format above. Do not output analysis. 

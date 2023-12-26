@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_wipes_mouth_with_napkin,".
+There are 50 candidate verbs: 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+1639. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+1628. sniff. The definition is: perceive by inhaling through the nose. The lexname is: perception. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+926. cry. The definition is: utter a characteristic sound. The lexname is: communication. 
+951. shriek. The definition is: utter a shrill cry. The lexname is: communication. 
+1773. smell. The definition is: smell bad. The lexname is: perception. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1774. sound. The definition is: appear in a certain way. The lexname is: perception. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+109. whine. The definition is: complain whiningly. The lexname is: communication. 
+2580. record. The definition is: make a record of; set down in permanent form. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+1555. smack. The definition is: press (the lips) together and open (the lips) noisily, as in eating. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1281. salt. The definition is: add salt to. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+2597. condemn. The definition is: express strong disapproval of. The lexname is: communication. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+84. explain. The definition is: define. The lexname is: communication. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+
+Output Format Example:
+2125. wipe.
+1418. spat.
+Strictly follow the output format above. Do not output analysis. 

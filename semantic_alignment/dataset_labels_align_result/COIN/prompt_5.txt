@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "tear off the front of the sticker".
+There are 50 candidate verbs: 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+715. infuriate. The definition is: make furious. The lexname is: emotion. 
+1492. unseal. The definition is: break the seal of. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+47. tape. The definition is: fasten or attach with tape. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1473. pare. The definition is: remove the edges from and cut down to the desired size. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2128. empty. The definition is: remove. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+677. disappoint. The definition is: fail to meet the hopes or expectations of. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2455. reinstall. The definition is: install again. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+
+Output Format Example:
+670. confuse.
+1266. paper.
+Strictly follow the output format above. Do not output analysis. 

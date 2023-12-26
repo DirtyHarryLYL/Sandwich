@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_eats_with_hands,".
+There are 50 candidate verbs: 
+2251. eat. The definition is: eat a meal; take a meal. The lexname is: consumption. 
+894. feast. The definition is: partake in a feast or banquet. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+889. devour. The definition is: eat greedily. The lexname is: consumption. 
+2627. hold. The definition is: have or hold in one's hands or grip. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+899. chew. The definition is: chew (food); to bite and grind with the teeth. The lexname is: consumption. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+883. force-feed. The definition is: feed someone who will not or cannot eat. The lexname is: consumption. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2647. pinch. The definition is: squeeze tightly between the fingers. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+886. feed. The definition is: take in food; used of animals only. The lexname is: consumption. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1775. taste. The definition is: have flavor; taste of something. The lexname is: perception. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+2555. feel. The definition is: examine by touch. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+1436. prompt. The definition is: serve as the inciting cause of. The lexname is: communication. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+1078. treat. The definition is: regard or consider in a specific way. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+902. gnaw. The definition is: bite or chew on with the teeth. The lexname is: contact. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+901. crunch. The definition is: chew noisily. The lexname is: consumption. 
+925. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2489. crunch. The definition is: chew noisily. The lexname is: consumption. 
+2038. talk. The definition is: exchange thoughts; talk with. The lexname is: communication. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+
+Output Format Example:
+2251. eat.
+894. feast.
+Strictly follow the output format above. Do not output analysis. 

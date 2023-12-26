@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_hugs_dog,".
+There are 50 candidate verbs: 
+569. hug. The definition is: fit closely or tightly. The lexname is: contact. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1422. cuddle. The definition is: hold (a person or thing) close, as for affection, comfort, or warmth. The lexname is: contact. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+2616. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+747. shame. The definition is: cause to be ashamed. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+671. content. The definition is: make content. The lexname is: emotion. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2061. nudge. The definition is: to push against gently. The lexname is: contact. 
+2644. nudge. The definition is: to push against gently. The lexname is: contact. 
+2697. nudge. The definition is: to push against gently. The lexname is: contact. 
+78. nudge. The definition is: to push against gently. The lexname is: contact. 
+124. get_hold_of. The definition is: communicate with a place or person; establish communication with, as if by telephone. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1203. tinge. The definition is: affect as in thought or feeling. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+633. mourn. The definition is: feel sadness. The lexname is: emotion. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+84. explain. The definition is: define. The lexname is: communication. 
+678. disarm. The definition is: make less hostile; win over. The lexname is: emotion. 
+2447. pack. The definition is: compress into a wad. The lexname is: contact. 
+2651. touch. The definition is: make physical contact with, come in contact with. The lexname is: contact. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1745. purr. The definition is: indicate pleasure by purring; characteristic of cats. The lexname is: communication. 
+433. husk. The definition is: remove the husks from. The lexname is: change. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+668. comfort. The definition is: give moral or emotional strength to. The lexname is: emotion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2562. help. The definition is: give help or assistance; be of service. The lexname is: social. 
+
+Output Format Example:
+569. hug.
+2646. pet.
+Strictly follow the output format above. Do not output analysis. 

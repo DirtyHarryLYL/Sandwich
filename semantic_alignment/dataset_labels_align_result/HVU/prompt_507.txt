@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "swimming_butterfly_stroke".
+There are 50 candidate verbs: 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2142. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1365. fly. The definition is: display in the air or cause to float. The lexname is: perception. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2197. fly. The definition is: cause to fly or float. The lexname is: motion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+1689. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1112. fish. The definition is: catch or try to catch fish or shellfish. The lexname is: competition. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+2027. fly. The definition is: transport by aeroplane. The lexname is: contact. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2634. form. The definition is: to compose or represent:. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1055. metamorphose. The definition is: change completely the nature or appearance of. The lexname is: change. 
+2258. exrete. The definition is: eliminate from the body. The lexname is: body. 
+687. disturb. The definition is: move deeply. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+752. startle. The definition is: to stimulate to action. The lexname is: emotion. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+254. liquefy. The definition is: become liquid or fluid when heated. The lexname is: change. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1024. synthesize. The definition is: combine so as to form a more complex, product. The lexname is: cognition. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2231. fly. The definition is: travel over (an area of land or sea) in an aircraft. The lexname is: motion. 
+1207. immerse. The definition is: thrust or throw into. The lexname is: contact. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+1574. snore. The definition is: breathe noisily during one's sleep. The lexname is: body. 
+
+Output Format Example:
+2169. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

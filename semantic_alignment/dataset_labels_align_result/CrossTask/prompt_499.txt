@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Battenburg Cake//add coloring".
+There are 50 candidate verbs: 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1659. color. The definition is: decorate with colors. The lexname is: creation. 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+1128. sponge. The definition is: gather sponges, in the ocean. The lexname is: contact. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+176. brighten. The definition is: make lighter or brighter. The lexname is: change. 
+1808. underline. The definition is: draw a line or lines underneath to call attention to. The lexname is: communication. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+2574. crayon. The definition is: write, draw, or trace with a crayon. The lexname is: creation. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+377. sponge. The definition is: erase with a sponge; as of words on a blackboard. The lexname is: contact. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1404. square. The definition is: cause to match, as of ideas or acts. The lexname is: stative. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+613. care. The definition is: feel concern or interest. The lexname is: emotion. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+2491. cube. The definition is: cut into cubes. The lexname is: contact. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+317. ulcerate. The definition is: affect with an ulcer. The lexname is: body. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2373. administer. The definition is: give or apply (medications). The lexname is: body. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2321. draft. The definition is: draw up an outline or sketch for something. The lexname is: creation. 
+185. char. The definition is: burn slightly and superficially so as to affect color. The lexname is: change. 
+1914. be. The definition is: be identical to; be someone or something. The lexname is: stative. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+237. gelatinize. The definition is: convert into gelatinous form or jelly. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+
+Output Format Example:
+2297. bake.
+133. bake.
+Strictly follow the output format above. Do not output analysis. 

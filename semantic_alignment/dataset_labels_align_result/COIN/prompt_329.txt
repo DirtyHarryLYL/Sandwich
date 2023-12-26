@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "close the sluice and empty and disconnect the water pipe".
+There are 50 candidate verbs: 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+475. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+2127. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+215. drain. The definition is: empty of liquid; drain the liquid from. The lexname is: change. 
+1687. dig. The definition is: turn up, loosen, or remove earth. The lexname is: contact. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+2001. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+1978. interconnect. The definition is: cause to be interconnected or interwoven. The lexname is: contact. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+384. dislodge. The definition is: remove or force from a position of dwelling previously occupied. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+853. misdirect. The definition is: put a wrong address on. The lexname is: communication. 
+2272. stream. The definition is: exude profusely. The lexname is: body. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+2281. deter. The definition is: try to prevent; show opposition to. The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+369. slack. The definition is: cause to heat and crumble by treatment with water. The lexname is: change. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1386. spill. The definition is: cause or allow (a solid substance) to flow or run out or over. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2390. channel. The definition is: direct the flow of. The lexname is: motion. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+994. dissuade. The definition is: turn away from by persuasion. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+385. disengage. The definition is: release from something that holds fast, connects, or entangles. The lexname is: contact. 
+1164. dam. The definition is: obstruct with, or as if with, a dam. The lexname is: contact. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1319. drive. The definition is: excavate horizontally. The lexname is: contact. 
+1446. tease. The definition is: harass with persistent criticism or carping. The lexname is: communication. 
+2002. join. The definition is: make contact or come together. The lexname is: contact. 
+1503. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2058. knock. The definition is: deliver a sharp blow or push :. The lexname is: contact. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+
+Output Format Example:
+2260. leak.
+1162. close.
+Strictly follow the output format above. Do not output analysis. 

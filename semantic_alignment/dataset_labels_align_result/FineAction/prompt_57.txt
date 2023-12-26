@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pull ups".
+There are 50 candidate verbs: 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+1149. pull. The definition is: take away. The lexname is: change. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+79. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1505. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+2693. pull. The definition is: apply force so as to cause motion towards the source of the motion. The lexname is: contact. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+2074. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+795. climb. The definition is: move with difficulty, by grasping. The lexname is: motion. 
+1551. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1323. raise. The definition is: raise from a lower to a higher position. The lexname is: motion. 
+1320. hoist. The definition is: raise. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1829. raise. The definition is: activate or stir up. The lexname is: communication. 
+1321. lift. The definition is: take hold of something and move it to a different location. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+126. reach. The definition is: be in or establish communication with. The lexname is: communication. 
+354. raise. The definition is: invigorate or heighten. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2154. climb. The definition is: slope upward. The lexname is: motion. 
+1487. unhook. The definition is: take off a hook. The lexname is: contact. 
+2081. jump. The definition is: increase suddenly and significantly. The lexname is: change. 
+1378. suspend. The definition is: hang freely. The lexname is: contact. 
+545. suspend. The definition is: hang freely. The lexname is: contact. 
+1923. screen. The definition is: prevent from entering. The lexname is: contact. 
+2178. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+769. bounce. The definition is: move up and down repeatedly. The lexname is: motion. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2591. applaud. The definition is: express approval of. The lexname is: communication. 
+2163. hop. The definition is: make a jump forward or upward. The lexname is: motion. 
+2411. pump. The definition is: flow intermittently. The lexname is: motion. 
+260. multiply. The definition is: combine or increase by multiplication. The lexname is: change. 
+1565. shrug. The definition is: raise one's shoulders to indicate indifference or resignation. The lexname is: body. 
+2640. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2626. grip. The definition is: hold fast or firmly. The lexname is: contact. 
+2614. salute. The definition is: express commendation of. The lexname is: communication. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2143. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+1366. hang. The definition is: suspend (meat) in order to get a gamey taste. The lexname is: change. 
+2280. bar. The definition is: prevent from entering; keep out. The lexname is: communication. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+2409. hang. The definition is: place in position as by a hinge so as to allow free movement in one direction. The lexname is: contact. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+1900. rise. The definition is: move upward. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2085. rise. The definition is: increase in volume. The lexname is: motion. 
+1076. praise. The definition is: express approval of. The lexname is: communication. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+
+Output Format Example:
+1545. hang.
+1149. pull.
+Strictly follow the output format above. Do not output analysis. 

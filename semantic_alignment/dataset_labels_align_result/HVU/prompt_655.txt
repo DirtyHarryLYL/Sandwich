@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "capsizing".
+There are 50 candidate verbs: 
+181. capsize. The definition is: overturn accidentally. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+2019. slip. The definition is: pass on stealthily. The lexname is: possession. 
+652. agonize. The definition is: suffer agony or anguish. The lexname is: emotion. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+1451. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+482. commandeer. The definition is: take arbitrarily or by force. The lexname is: contact. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+1561. wring. The definition is: twist and compress, as if in pain or anguish. The lexname is: contact. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+2037. rhapsodize. The definition is: say (something) with great enthusiasm. The lexname is: communication. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+496. seize. The definition is: take or capture by force. The lexname is: contact. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+420. skim. The definition is: remove from the surface. The lexname is: contact. 
+1842. contain. The definition is: be capable of holding or containing. The lexname is: stative. 
+1385. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+2266. spew. The definition is: eject or send out in large quantities, also metaphorical. The lexname is: body. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+924. crepitate. The definition is: make a crackling sound. The lexname is: perception. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1227. cap. The definition is: lie at the top of. The lexname is: stative. 
+197. crystallize. The definition is: assume crystalline form; become crystallized. The lexname is: change. 
+562. cap. The definition is: lie at the top of. The lexname is: stative. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+1606. review. The definition is: appraise critically. The lexname is: communication. 
+
+Output Format Example:
+181. capsize.
+209. destabilize.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pole vault".
+There are 50 candidate verbs: 
+864. punt. The definition is: propel with a pole. The lexname is: contact. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+37. rope. The definition is: fasten with a rope. The lexname is: contact. 
+2174. vault. The definition is: bound vigorously. The lexname is: motion. 
+2063. punt. The definition is: kick the ball. The lexname is: contact. 
+2171. tramp. The definition is: cross on foot. The lexname is: motion. 
+1379. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2153. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+2216. swing. The definition is: move in a curve or arc, usually with the intent of hitting. The lexname is: motion. 
+1583. crucify. The definition is: kill by nailing onto a cross. The lexname is: social. 
+1710. rifle. The definition is: go through in search of something; search through someone's belongings in an unauthorized way. The lexname is: contact. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+2600. defame. The definition is: charge falsely or with malicious intent; attack the good name and reputation of someone. The lexname is: communication. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+7. cable. The definition is: fasten with a cable. The lexname is: contact. 
+2671. hit. The definition is: hit the intended target or goal. The lexname is: competition. 
+2089. swing. The definition is: alternate dramatically between high and low values. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+2135. measure. The definition is: have certain dimensions. The lexname is: stative. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+101. admit. The definition is: declare to be true or admit the existence or reality or truth of. The lexname is: communication. 
+111. cable. The definition is: send cables, wires, or telegrams. The lexname is: communication. 
+2425. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+2631. stick. The definition is: pierce or penetrate or puncture with something pointed. The lexname is: contact. 
+76. hoist. The definition is: move from one place to another by lifting. The lexname is: contact. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+1540. cross. The definition is: fold so as to resemble a cross. The lexname is: motion. 
+2065. slam. The definition is: throw violently. The lexname is: contact. 
+1880. slam. The definition is: throw violently. The lexname is: contact. 
+1545. hang. The definition is: let drop or droop. The lexname is: motion. 
+252. level. The definition is: become level or even. The lexname is: change. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+561. bridge. The definition is: connect or reduce the distance between. The lexname is: stative. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+98. rap. The definition is: talk volubly. The lexname is: communication. 
+1587. hang. The definition is: kill by hanging. The lexname is: social. 
+
+Output Format Example:
+864. punt.
+2233. sail.
+Strictly follow the output format above. Do not output analysis. 

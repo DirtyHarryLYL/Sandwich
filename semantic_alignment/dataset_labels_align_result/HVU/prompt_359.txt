@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "equitation".
+There are 50 candidate verbs: 
+2180. canter. The definition is: ride at a cantering pace. The lexname is: motion. 
+1743. neigh. The definition is: make a characteristic sound, of a horse. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+620. enthuse. The definition is: utter with enthusiasm. The lexname is: communication. 
+2605. eulogize. The definition is: praise formally and eloquently. The lexname is: communication. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2196. trot. The definition is: cause to trot. The lexname is: motion. 
+2139. balance. The definition is: be in equilibrium. The lexname is: stative. 
+1362. balance. The definition is: be in equilibrium. The lexname is: stative. 
+172. balance. The definition is: be in equilibrium. The lexname is: stative. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+699. exhilarate. The definition is: fill with sublime emotion. The lexname is: emotion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+695. enthuse. The definition is: cause to feel enthusiasm. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2277. receive. The definition is: express willingness to have in one's home or environs. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+727. move. The definition is: arouse sympathy or compassion in. The lexname is: emotion. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1097. style. The definition is: designate by an identifying term. The lexname is: communication. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+692. enlighten. The definition is: give spiritual insight to; in religion. The lexname is: communication. 
+1171. endow. The definition is: give qualities or abilities to. The lexname is: social. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+2470. consult. The definition is: get or ask advice from. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+
+Output Format Example:
+2180. canter.
+1743. neigh.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Blueberry Pancakes//mix flour".
+There are 50 candidate verbs: 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1107. berry. The definition is: pick or gather berries. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+1257. ink. The definition is: fill with ink. The lexname is: change. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+1666. paint. The definition is: apply paint to; coat with paint. The lexname is: contact. 
+1071. paint. The definition is: make a painting of. The lexname is: creation. 
+2330. paint. The definition is: make a painting of. The lexname is: creation. 
+150. pan-fry. The definition is: fry in a pan. The lexname is: change. 
+148. overcook. The definition is: cook too long. The lexname is: change. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+2552. skin. The definition is: bruise, cut, or injure the skin or the surface of. The lexname is: contact. 
+1288. slime. The definition is: cover or stain with slime. The lexname is: contact. 
+14. epoxy. The definition is: glue with epoxy. The lexname is: contact. 
+789. backpack. The definition is: hike with a backpack. The lexname is: motion. 
+1291. stain. The definition is: color with a liquid dye or tint. The lexname is: change. 
+2484. bruise. The definition is: damage (plant tissue) by abrasion or pressure. The lexname is: change. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+170. americanize. The definition is: become American in character. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+2543. bruise. The definition is: injure the underlying soft tissue or bone of. The lexname is: contact. 
+1011. concoct. The definition is: prepare or cook by mixing ingredients. The lexname is: creation. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+1109. blackberry. The definition is: pick or gather blackberries. The lexname is: contact. 
+162. stir-fry. The definition is: fry very quickly over high heat. The lexname is: change. 
+2607. forgive. The definition is: stop blaming or grant forgiveness. The lexname is: communication. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+434. milk. The definition is: take milk from female mammals. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+1661. dye. The definition is: color with dye. The lexname is: change. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+271. purple. The definition is: color purple. The lexname is: change. 
+468. disabuse. The definition is: free somebody (from an erroneous belief). The lexname is: communication. 
+149. pan-broil. The definition is: broil in a pan. The lexname is: change. 
+895. lunch. The definition is: take the midday meal. The lexname is: consumption. 
+1104. make. The definition is: engage in. The lexname is: social. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+1682. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+595. rock. The definition is: move back and forth or sideways. The lexname is: motion. 
+160. steam. The definition is: cook something by letting steam pass over it. The lexname is: change. 
+
+Output Format Example:
+1239. flour.
+1027. bake.
+Strictly follow the output format above. Do not output analysis. 

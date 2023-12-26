@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "person_washes_dish,".
+There are 50 candidate verbs: 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+682. dishearten. The definition is: take away the enthusiasm of. The lexname is: emotion. 
+2123. wash. The definition is: remove by the application of water or other liquid and soap or some other cleaning agent. The lexname is: change. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+740. refresh. The definition is: make (to feel) fresh. The lexname is: change. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1272. poison. The definition is: add poison to. The lexname is: change. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+232. freshen. The definition is: become or make oneself fresh again. The lexname is: body. 
+2117. scrub. The definition is: clean with hard rubbing. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+142. cook. The definition is: transform and make suitable for consumption by heating. The lexname is: change. 
+2364. witness. The definition is: be a witness to. The lexname is: perception. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+1468. request. The definition is: ask (a person) to do something. The lexname is: communication. 
+1384. slosh. The definition is: spill or splash copiously or clumsily. The lexname is: contact. 
+415. leach. The definition is: remove substances from by a percolating liquid. The lexname is: change. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+136. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1035. develop. The definition is: make visible by means of chemical solutions. The lexname is: perception. 
+1589. poison. The definition is: kill with poison. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+1069. envision. The definition is: picture to oneself; imagine possible. The lexname is: creation. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+2456. put. The definition is: put into a certain place or abstract location. The lexname is: contact. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1641. can_tell. The definition is: discern or comprehend. The lexname is: cognition. 
+686. distress. The definition is: cause mental pain to. The lexname is: emotion. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2301. cook. The definition is: prepare for eating by applying heat. The lexname is: creation. 
+
+Output Format Example:
+876. wash.
+2246. wash.
+Strictly follow the output format above. Do not output analysis. 

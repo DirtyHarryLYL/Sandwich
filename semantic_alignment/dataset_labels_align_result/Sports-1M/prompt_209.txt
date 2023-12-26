@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cross country running".
+There are 50 candidate verbs: 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+814. romp. The definition is: run easily and fairly fast. The lexname is: motion. 
+1912. run. The definition is: carry out. The lexname is: creation. 
+2304. run. The definition is: carry out. The lexname is: creation. 
+2156. run. The definition is: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point. The lexname is: stative. 
+805. hike. The definition is: walk a long way, as for pleasure or physical exercise. The lexname is: motion. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1657. go_on. The definition is: start running, functioning, or operating. The lexname is: contact. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+812. pace. The definition is: go at a pace. The lexname is: motion. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+616. cheer. The definition is: become cheerful. The lexname is: communication. 
+666. cheer. The definition is: become cheerful. The lexname is: communication. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+825. slog. The definition is: walk heavily and firmly, as when weary, or through mud. The lexname is: motion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2185. gallop. The definition is: cause to move at full gallop. The lexname is: motion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2340. champion. The definition is: protect or fight for as a champion. The lexname is: competition. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1718. quest. The definition is: search the trail of (game). The lexname is: motion. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+2474. close. The definition is: finish a game in baseball by protecting a lead. The lexname is: change. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+
+Output Format Example:
+2202. run.
+828. sprint.
+Strictly follow the output format above. Do not output analysis. 

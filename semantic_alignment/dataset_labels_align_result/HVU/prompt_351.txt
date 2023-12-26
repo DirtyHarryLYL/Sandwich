@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_maracas".
+There are 50 candidate verbs: 
+999. ball. The definition is: form into a ball by winding or rolling. The lexname is: contact. 
+2664. strike. The definition is: deliver a sharp blow, as with the hand, fist, or weapon. The lexname is: contact. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+2472. play. The definition is: be at play; be engaged in playful activity; amuse oneself in a way characteristic of children. The lexname is: social. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+2394. spoon. The definition is: scoop up or take up with a spoon. The lexname is: contact. 
+2400. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2658. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2670. hammer. The definition is: beat with or as if with a hammer. The lexname is: contact. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+283. sharpen. The definition is: give a point to. The lexname is: change. 
+1844. wield. The definition is: handle effectively. The lexname is: contact. 
+1195. sauce. The definition is: add zest or flavor to, make more interesting. The lexname is: change. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+2050. bat. The definition is: strike with, or as if with a baseball bat. The lexname is: contact. 
+2652. brush. The definition is: touch lightly and briefly. The lexname is: contact. 
+1892. whack. The definition is: hit hard. The lexname is: contact. 
+2676. rap. The definition is: strike sharply. The lexname is: contact. 
+2659. rap. The definition is: strike sharply. The lexname is: contact. 
+2291. manage. The definition is: be in charge of, act on, or dispose of. The lexname is: social. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2056. hit. The definition is: cause to move by striking. The lexname is: contact. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+1854. kick. The definition is: strike with the foot. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+944. rattle. The definition is: shake and cause to make a rattling noise. The lexname is: motion. 
+1756. rattle. The definition is: shake and cause to make a rattling noise. The lexname is: motion. 
+2673. kick. The definition is: strike with the foot. The lexname is: contact. 
+1556. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+954. snap. The definition is: cause to make a snapping sound. The lexname is: contact. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+1104. make. The definition is: engage in. The lexname is: social. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2057. hurl. The definition is: throw forcefully. The lexname is: contact. 
+449. string. The definition is: remove the stringy parts of. The lexname is: contact. 
+952. sing. The definition is: to make melodious sounds. The lexname is: communication. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+1974. match. The definition is: bring two objects, ideas, or people together. The lexname is: contact. 
+1907. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+1856. peck. The definition is: hit lightly with a picking motion. The lexname is: contact. 
+1103. conduct. The definition is: direct the course of; manage or control. The lexname is: social. 
+13. connect. The definition is: connect, fasten, or put together two or more pieces. The lexname is: contact. 
+
+Output Format Example:
+999. ball.
+2664. strike.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "BreastStroke".
+There are 50 candidate verbs: 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2004. pool. The definition is: combine into a common fund. The lexname is: possession. 
+517. overestimate. The definition is: make too high an estimate of. The lexname is: cognition. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+328. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1497. break. The definition is: break a piece from a whole. The lexname is: contact. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+2649. stroke. The definition is: touch lightly and repeatedly, as with brushing motions. The lexname is: contact. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+207. depressurize. The definition is: decrease the pressure of. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+1979. intersperse. The definition is: place at intervals in or among. The lexname is: contact. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+2426. strew. The definition is: cover; be dispersed over. The lexname is: contact. 
+1484. unfasten. The definition is: become undone or untied. The lexname is: contact. 
+2594. chastise. The definition is: censure severely. The lexname is: communication. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+1065. leave. The definition is: act or be so as to become in a specified state. The lexname is: stative. 
+2155. converge. The definition is: be adjacent or come together. The lexname is: stative. 
+1094. consecrate. The definition is: render holy by means of religious rites. The lexname is: communication. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+2260. leak. The definition is: enter or escape as through a hole or crack or fissure. The lexname is: change. 
+548. resonate. The definition is: sound with resonance. The lexname is: perception. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+718. intrigue. The definition is: cause to be interested or curious. The lexname is: stative. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+500. last. The definition is: persist for a specified period of time. The lexname is: stative. 
+1973. integrate. The definition is: become one; become integrated. The lexname is: change. 
+719. invigorate. The definition is: impart vigor, strength, or vitality to. The lexname is: body. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+1183. intersperse. The definition is: introduce one's writing or speech with certain expressions. The lexname is: change. 
+
+Output Format Example:
+1527. swim.
+2161. swim.
+Strictly follow the output format above. Do not output analysis. 

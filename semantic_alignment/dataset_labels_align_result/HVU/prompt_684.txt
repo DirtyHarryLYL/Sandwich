@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "cutting_the_grass".
+There are 50 candidate verbs: 
+1249. grass. The definition is: cover with grass. The lexname is: contact. 
+2511. mow. The definition is: cut with a blade or mower. The lexname is: contact. 
+2546. cut. The definition is: penetrate injuriously. The lexname is: contact. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+1498. cut. The definition is: allow incision or separation. The lexname is: contact. 
+2524. snip. The definition is: cultivate, tend, and cut back the growth of. The lexname is: contact. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2510. crop. The definition is: cut short. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+2103. shear. The definition is: cut or cut through with shears. The lexname is: contact. 
+2515. chop. The definition is: cut into pieces. The lexname is: contact. 
+1852. chop. The definition is: cut into pieces. The lexname is: contact. 
+2509. chop. The definition is: cut with a hacking tool. The lexname is: contact. 
+2519. saw. The definition is: cut with a saw. The lexname is: contact. 
+1508. saw. The definition is: cut with a saw. The lexname is: contact. 
+1588. knife. The definition is: use a knife on. The lexname is: contact. 
+1878. knife. The definition is: use a knife on. The lexname is: contact. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+2520. scarify. The definition is: break up. The lexname is: contact. 
+1305. turf. The definition is: cover (the ground) with a surface layer of grass or grass roots. The lexname is: contact. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2242. shave. The definition is: cut closely. The lexname is: contact. 
+875. shave. The definition is: cut closely. The lexname is: contact. 
+2183. drift. The definition is: drive slowly and far afield for grazing. The lexname is: contact. 
+2306. cultivate. The definition is: prepare for crops. The lexname is: creation. 
+2508. carve. The definition is: cut to pieces. The lexname is: contact. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+2516. cut. The definition is: shorten as if by severing the edges or ends of. The lexname is: change. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1040. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+1051. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2099. brush. The definition is: remove with or as if with a brush. The lexname is: change. 
+239. grow. The definition is: cultivate by growing, often involving improvements by means of agricultural techniques. The lexname is: creation. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2328. dig. The definition is: create by digging. The lexname is: contact. 
+1828. produce. The definition is: cause to happen, occur or exist. The lexname is: creation. 
+1013. create. The definition is: create by artistic means. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2462. ground. The definition is: place or put on the ground. The lexname is: contact. 
+2518. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1501. hew. The definition is: strike with an axe; cut down, strike. The lexname is: contact. 
+1162. close. The definition is: fill or stop up. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1825. create. The definition is: bring into existence. The lexname is: creation. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+
+Output Format Example:
+1249. grass.
+2511. mow.
+Strictly follow the output format above. Do not output analysis. 

@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "deadlifting".
+There are 50 candidate verbs: 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2669. drum. The definition is: make a rhythmic sound. The lexname is: perception. 
+838. tread. The definition is: tread or stomp heavily or roughly. The lexname is: motion. 
+2602. deprecate. The definition is: belittle. The lexname is: communication. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+1889. run. The definition is: travel rapidly, by any (unspecified) means. The lexname is: motion. 
+2204. walk. The definition is: make walk. The lexname is: motion. 
+2138. weigh. The definition is: determine the weight of. The lexname is: stative. 
+1457. lead. The definition is: cause to undertake a certain action. The lexname is: communication. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+828. sprint. The definition is: run very fast, usually for a short distance. The lexname is: motion. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+2164. perambulate. The definition is: walk with no particular goal. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1658. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+990. accept. The definition is: tolerate or accommodate oneself to. The lexname is: cognition. 
+1655. run. The definition is: be operating, running or functioning. The lexname is: contact. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+498. wrest. The definition is: obtain by seizing forcibly or violently, also metaphorically. The lexname is: contact. 
+1782. film. The definition is: record in film. The lexname is: creation. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+471. depopulate. The definition is: reduce in population. The lexname is: change. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+2202. run. The definition is: cover by running; run a certain distance. The lexname is: motion. 
+80. run. The definition is: cause an animal to move fast. The lexname is: motion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+676. devastate. The definition is: overwhelm or overpower. The lexname is: change. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+1765. legislate. The definition is: make laws, bills, etc. or bring into effect by legislation. The lexname is: social. 
+1760. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+199. de-escalate. The definition is: reduce the level or intensity or size or scope of. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1578. wheeze. The definition is: breathe with difficulty. The lexname is: body. 
+128. drive. The definition is: cause to move rapidly by striking or throwing with force. The lexname is: contact. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+1654. exploit. The definition is: draw from; make good use of. The lexname is: consumption. 
+
+Output Format Example:
+2239. exercise.
+1236. drug.
+Strictly follow the output format above. Do not output analysis. 

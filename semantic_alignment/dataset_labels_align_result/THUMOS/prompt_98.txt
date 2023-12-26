@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "WallPushups".
+There are 50 candidate verbs: 
+2055. flip. The definition is: turn upside down, or throw so as to reverse. The lexname is: contact. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+2190. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+776. roll. The definition is: execute a roll, in tumbling. The lexname is: body. 
+2078. drop. The definition is: go down in value. The lexname is: change. 
+1925. suppress. The definition is: put out of one's consciousness. The lexname is: cognition. 
+1839. jump. The definition is: make a sudden physical attack on. The lexname is: competition. 
+2159. crawl. The definition is: be full of. The lexname is: stative. 
+2319. choreograph. The definition is: compose a sequence of dance steps, often to music. The lexname is: creation. 
+2087. slip. The definition is: get worse. The lexname is: change. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+555. stretch. The definition is: occupy a large, elongated area. The lexname is: stative. 
+2170. traipse. The definition is: walk or tramp about. The lexname is: motion. 
+1441. harass. The definition is: exhaust by attacking repeatedly. The lexname is: competition. 
+1523. palpitate. The definition is: beat rapidly. The lexname is: motion. 
+1511. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+339. snap. The definition is: break suddenly and abruptly, as under tension. The lexname is: change. 
+1318. drop. The definition is: let fall to the ground. The lexname is: motion. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+877. gulp. The definition is: to swallow hurriedly or greedily or in one draught. The lexname is: consumption. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+413. exorcise. The definition is: expel through adjuration or prayers. The lexname is: contact. 
+333. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+2490. crush. The definition is: become injured, broken, or distorted by pressure. The lexname is: change. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+1992. tumble. The definition is: throw together in a confused mass. The lexname is: contact. 
+1193. replenish. The definition is: fill something that had previously been emptied. The lexname is: change. 
+672. crush. The definition is: humiliate or depress completely. The lexname is: emotion. 
+331. crash. The definition is: cause to crash. The lexname is: contact. 
+584. dance. The definition is: skip, leap, or move up and down or sideways. The lexname is: motion. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+313. topple. The definition is: cause to topple or tumble by pushing. The lexname is: motion. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+1836. ambush. The definition is: wait in hiding to attack. The lexname is: competition. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+2090. tumble. The definition is: fall suddenly and sharply. The lexname is: change. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+1776. keep. The definition is: keep in a certain state, position, or activity; e.g.,. The lexname is: stative. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+
+Output Format Example:
+2055. flip.
+972. wail.
+Strictly follow the output format above. Do not output analysis. 

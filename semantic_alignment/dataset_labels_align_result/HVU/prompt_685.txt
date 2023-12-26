@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "pillow_fight".
+There are 50 candidate verbs: 
+1407. brawl. The definition is: to quarrel noisily, angrily or disruptively. The lexname is: communication. 
+1239. flour. The definition is: cover with flour. The lexname is: contact. 
+379. towel. The definition is: wipe with a towel. The lexname is: contact. 
+2504. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+2679. smash. The definition is: break suddenly into pieces, as from a violent blow. The lexname is: change. 
+193. collapse. The definition is: cause to burst. The lexname is: motion. 
+923. crash. The definition is: move with, or as if with, a crashing noise. The lexname is: motion. 
+2672. jab. The definition is: strike or punch with quick and short blows. The lexname is: contact. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2445. crowd. The definition is: fill or occupy to the point of overflowing. The lexname is: stative. 
+1408. clash. The definition is: disagree violently. The lexname is: communication. 
+2657. crash. The definition is: undergo damage or destruction on impact. The lexname is: contact. 
+338. smash. The definition is: break into pieces, as by striking or knocking over. The lexname is: change. 
+1415. scuffle. The definition is: fight or struggle in a confused way at close quarters. The lexname is: contact. 
+1767. protest. The definition is: express opposition through action or words. The lexname is: social. 
+2125. wipe. The definition is: rub with a circular motion. The lexname is: contact. 
+1416. skirmish. The definition is: engage in a skirmish. The lexname is: competition. 
+2072. throw. The definition is: to put into a state or activity hastily, suddenly, or carelessly. The lexname is: motion. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+365. inflate. The definition is: fill with gas or air. The lexname is: change. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+1857. punch. The definition is: deliver a quick blow to. The lexname is: contact. 
+2698. press. The definition is: crowd closely. The lexname is: motion. 
+390. expel. The definition is: force to leave or move out. The lexname is: social. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2067. smash. The definition is: hit hard. The lexname is: contact. 
+2655. collide. The definition is: crash together with violent impact. The lexname is: contact. 
+1174. flood. The definition is: supply with an excess of. The lexname is: possession. 
+2420. spray. The definition is: cover by spraying with a liquid. The lexname is: contact. 
+1420. war. The definition is: make or wage war. The lexname is: competition. 
+1165. deluge. The definition is: fill quickly beyond capacity; as with a liquid. The lexname is: contact. 
+1326. bag. The definition is: put into a bag. The lexname is: contact. 
+2054. fling. The definition is: throw with force or recklessness. The lexname is: contact. 
+223. explode. The definition is: destroy by exploding. The lexname is: contact. 
+1685. twitch. The definition is: move or pull with a sudden motion. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+1187. litter. The definition is: make a place messy by strewing garbage around. The lexname is: contact. 
+1541. flash. The definition is: expose or show briefly. The lexname is: perception. 
+1926. heave. The definition is: throw with great effort. The lexname is: contact. 
+2030. heave. The definition is: throw with great effort. The lexname is: contact. 
+1506. push. The definition is: move with force,. The lexname is: motion. 
+2699. push. The definition is: move with force,. The lexname is: motion. 
+1313. whitewash. The definition is: cover with whitewash. The lexname is: contact. 
+908. bang. The definition is: move noisily. The lexname is: motion. 
+2032. push. The definition is: move with force,. The lexname is: motion. 
+2402. push. The definition is: move with force,. The lexname is: motion. 
+
+Output Format Example:
+1407. brawl.
+1239. flour.
+Strictly follow the output format above. Do not output analysis. 

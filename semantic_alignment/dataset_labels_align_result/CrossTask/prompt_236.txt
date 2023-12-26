@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Build a Bookshelf//sand bookshelf".
+There are 50 candidate verbs: 
+1351. shelve. The definition is: place on a shelf. The lexname is: contact. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1017. model. The definition is: form in clay, wax, etc. The lexname is: creation. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1333. box. The definition is: put into a box. The lexname is: contact. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2326. craft. The definition is: make by hand and with much skill. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+242. heal. The definition is: get healthy again. The lexname is: body. 
+1181. inlay. The definition is: decorate the surface of by inserting wood, stone, and metal. The lexname is: creation. 
+1031. chisel. The definition is: carve with a chisel. The lexname is: contact. 
+2206. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2181. coast. The definition is: move effortlessly; by force of gravity. The lexname is: motion. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+392. extrude. The definition is: form or shape by forcing through an opening. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2464. stable. The definition is: shelter in a stable. The lexname is: social. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+376. sandpaper. The definition is: rub with sandpaper. The lexname is: contact. 
+2109. dust. The definition is: remove the dust from. The lexname is: contact. 
+1802. redecorate. The definition is: redo the decoration of an apartment or house. The lexname is: creation. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+1308. veneer. The definition is: cover with veneer. The lexname is: contact. 
+1019. publish. The definition is: have (one's written work) issued for publication. The lexname is: creation. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+1022. reorganize. The definition is: organize anew, as after a setback. The lexname is: social. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+1143. hire. The definition is: engage or hire for work. The lexname is: social. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+277. rekindle. The definition is: kindle anew, as of a fire. The lexname is: weather. 
+1799. illustrate. The definition is: supply with illustrations. The lexname is: creation. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1265. panel. The definition is: decorate with panels. The lexname is: creation. 
+
+Output Format Example:
+1351. shelve.
+1328. beach.
+Strictly follow the output format above. Do not output analysis. 

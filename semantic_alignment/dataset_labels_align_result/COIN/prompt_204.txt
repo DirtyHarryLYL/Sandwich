@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "transfer pattern to board or tarpaulin".
+There are 50 candidate verbs: 
+2359. tailor. The definition is: adjust to a specific need or market. The lexname is: change. 
+63. transfer. The definition is: move from one place to another. The lexname is: possession. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+2430. wrap. The definition is: arrange or fold as a cover or protection. The lexname is: contact. 
+2021. transmit. The definition is: send from one person or place to another. The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+851. guide. The definition is: pass over, across, or through. The lexname is: contact. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+65. export. The definition is: sell or transfer abroad. The lexname is: possession. 
+1266. paper. The definition is: cover with paper. The lexname is: contact. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+302. strangulate. The definition is: become constricted. The lexname is: change. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2421. spread. The definition is: distribute over a surface in a layer. The lexname is: contact. 
+786. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2218. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+1361. wind. The definition is: arrange or or coil around. The lexname is: contact. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1136. trade. The definition is: exchange or give (something) in exchange for. The lexname is: possession. 
+2172. travel. The definition is: travel upon or across. The lexname is: motion. 
+1406. bargain. The definition is: come to terms; arrive at an agreement. The lexname is: communication. 
+1403. bargain. The definition is: come to terms; arrive at an agreement. The lexname is: communication. 
+1388. bargain. The definition is: come to terms; arrive at an agreement. The lexname is: communication. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+2233. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+2205. sail. The definition is: travel on water propelled by wind. The lexname is: motion. 
+1943. collate. The definition is: to assemble in proper sequence. The lexname is: contact. 
+1356. trap. The definition is: catch in or as if in a trap. The lexname is: contact. 
+1133. barter. The definition is: exchange goods without involving money. The lexname is: possession. 
+2460. land. The definition is: bring ashore. The lexname is: motion. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+421. unload. The definition is: take the load off (a container or vehicle). The lexname is: contact. 
+219. enlarge. The definition is: become larger or bigger. The lexname is: change. 
+1380. underlay. The definition is: provide with a base, support, lining, or backing. The lexname is: consumption. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+2014. express. The definition is: send by rapid transport or special messenger service. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+371. tauten. The definition is: make taut or tauter. The lexname is: change. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+1134. change. The definition is: exchange or replace with another, usually of the same kind or category. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+
+Output Format Example:
+2359. tailor.
+63. transfer.
+Strictly follow the output format above. Do not output analysis. 

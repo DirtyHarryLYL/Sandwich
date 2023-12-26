@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change Wheel Bearings//unscrew hub_bolts".
+There are 50 candidate verbs: 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+1479. unbolt. The definition is: undo the bolt of. The lexname is: contact. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+4. bolt. The definition is: secure or lock with a bolt. The lexname is: contact. 
+406. wrench. The definition is: twist or pull violently or suddenly, especially so as to remove (something) from that to which it is attached or from where it originates. The lexname is: contact. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+698. exhaust. The definition is: wear out completely. The lexname is: body. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+36. rivet. The definition is: fasten with a rivet or rivets. The lexname is: contact. 
+1173. fill. The definition is: become full. The lexname is: change. 
+227. fill. The definition is: become full. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+513. undercharge. The definition is: charge (someone) too little money. The lexname is: possession. 
+1488. unlock. The definition is: become unlocked. The lexname is: change. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+1472. disassemble. The definition is: take apart into its constituent pieces. The lexname is: creation. 
+2593. bless. The definition is: confer prosperity or happiness on. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+506. invoice. The definition is: send an bill to. The lexname is: possession. 
+2107. bail. The definition is: remove (water) from a vessel with a container. The lexname is: change. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+1569. burp. The definition is: expel gas from the stomach. The lexname is: body. 
+2239. exercise. The definition is: do physical exercise. The lexname is: body. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+
+Output Format Example:
+1491. unscrew.
+38. screw.
+Strictly follow the output format above. Do not output analysis. 

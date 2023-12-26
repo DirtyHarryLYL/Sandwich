@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "streetluge".
+There are 50 candidate verbs: 
+2228. toboggan. The definition is: move along on a luge or toboggan. The lexname is: motion. 
+858. bobsled. The definition is: ride a bobsled. The lexname is: motion. 
+2227. sled. The definition is: ride (on) a sled. The lexname is: motion. 
+2012. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+777. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+2192. slide. The definition is: move smoothly along a surface. The lexname is: motion. 
+866. sledge. The definition is: transport in a sleigh. The lexname is: motion. 
+299. steepen. The definition is: make steeper. The lexname is: change. 
+1374. slope. The definition is: be at an angle. The lexname is: motion. 
+2149. slope. The definition is: be at an angle. The lexname is: motion. 
+1683. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+600. teeter. The definition is: move unsteadily, with a rocking motion. The lexname is: motion. 
+2225. skateboard. The definition is: ride on a flat board with rollers attached to the bottom. The lexname is: motion. 
+2226. ski. The definition is: move along on skis. The lexname is: motion. 
+824. slither. The definition is: to pass or move unobtrusively or smoothly. The lexname is: motion. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+870. ride. The definition is: ride over, along, or through. The lexname is: motion. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+2189. race. The definition is: cause to move fast or to rush or race. The lexname is: motion. 
+1211. situate. The definition is: put (something somewhere) firmly. The lexname is: contact. 
+289. slow. The definition is: cause to proceed more slowly. The lexname is: change. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2553. strain. The definition is: use to the utmost; exert vigorously or to full capacity. The lexname is: consumption. 
+2193. sneak. The definition is: to go stealthily or furtively. The lexname is: motion. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1433. prolong. The definition is: lengthen or extend in duration or space. The lexname is: stative. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+164. accelerate. The definition is: cause to move faster. The lexname is: change. 
+2076. dive. The definition is: drop steeply. The lexname is: motion. 
+257. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+1053. mature. The definition is: develop and reach maturity; undergo maturation. The lexname is: change. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+557. wind. The definition is: extend in curves and turns. The lexname is: stative. 
+716. interest. The definition is: excite the curiosity of; engage the interest of. The lexname is: emotion. 
+251. lengthen. The definition is: become long or longer. The lexname is: change. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+643. suffer. The definition is: feel unwell or uncomfortable. The lexname is: body. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+2501. shred. The definition is: tear into shreds. The lexname is: contact. 
+798. falter. The definition is: move hesitatingly, as if about to give way. The lexname is: motion. 
+819. sidle. The definition is: move sideways. The lexname is: motion. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+2494. flatten. The definition is: make flat or flatter. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+559. border. The definition is: lie adjacent to another or share a boundary. The lexname is: contact. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+541. lie. The definition is: be lying, be prostrate; be in a horizontal position. The lexname is: contact. 
+
+Output Format Example:
+2228. toboggan.
+858. bobsled.
+Strictly follow the output format above. Do not output analysis. 

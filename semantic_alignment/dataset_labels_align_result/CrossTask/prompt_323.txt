@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Change Wheel Bearings//unscrew lugnuts".
+There are 50 candidate verbs: 
+1491. unscrew. The definition is: loosen by turning. The lexname is: contact. 
+38. screw. The definition is: tighten or fasten by means of screwing motions. The lexname is: contact. 
+312. tire. The definition is: exhaust or get tired through overuse or great strain or stress. The lexname is: body. 
+1259. lubricate. The definition is: make slippery or smooth through the application of a lubricant. The lexname is: change. 
+2457. set. The definition is: insert (a nail or screw below the surface, as into a countersink). The lexname is: contact. 
+1264. oil. The definition is: cover with oil, as if by rubbing. The lexname is: contact. 
+2124. wear. The definition is: deteriorate through use or stress. The lexname is: change. 
+971. vroom. The definition is: make a loud, roaring sound, as of a car engine, while moving. The lexname is: communication. 
+1479. unbolt. The definition is: undo the bolt of. The lexname is: contact. 
+393. kill. The definition is: tire out completely. The lexname is: change. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1485. unhinge. The definition is: remove the hinges from. The lexname is: change. 
+2237. change. The definition is: remove or replace the coverings of. The lexname is: change. 
+645. tire. The definition is: lose interest or become bored with something or somebody. The lexname is: body. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+945. ring. The definition is: make (bells) ring, often for the purposes of musical edification. The lexname is: perception. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2497. grind. The definition is: reduce to small pieces or particles by pounding or abrading. The lexname is: change. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+698. exhaust. The definition is: wear out completely. The lexname is: body. 
+303. strengthen. The definition is: gain strength. The lexname is: change. 
+360. decompress. The definition is: restore to its uncompressed form. The lexname is: contact. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1144. lease. The definition is: engage for service under a term of contract. The lexname is: possession. 
+1242. fuel. The definition is: provide with a combustible substance that provides energy. The lexname is: possession. 
+64. transport. The definition is: transport commercially. The lexname is: motion. 
+1208. implant. The definition is: become attached to and embedded in the uterus. The lexname is: contact. 
+397. ream. The definition is: remove by making a hole or by boring. The lexname is: change. 
+2230. drive. The definition is: proceed along in a vehicle. The lexname is: motion. 
+713. hurt. The definition is: cause damage or affect negatively. The lexname is: change. 
+323. weaken. The definition is: become weaker. The lexname is: change. 
+2439. seed. The definition is: inoculate with microorganisms. The lexname is: change. 
+1054. redevelop. The definition is: change the plans for the use of (land). The lexname is: change. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+675. depress. The definition is: lower someone's spirits; make downhearted. The lexname is: emotion. 
+388. excise. The definition is: remove by cutting. The lexname is: change. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2513. tread. The definition is: apply (the tread) to a tire. The lexname is: possession. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1057. transform. The definition is: change in outward structure or looks. The lexname is: change. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+255. loosen. The definition is: become loose or looser or less tight. The lexname is: change. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+2382. lease. The definition is: grant use or occupation of under a term of contract. The lexname is: possession. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+1061. gear. The definition is: set the level or character of. The lexname is: change. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+
+Output Format Example:
+1491. unscrew.
+38. screw.
+Strictly follow the output format above. Do not output analysis. 

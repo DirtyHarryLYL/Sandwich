@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "news_anchoring".
+There are 50 candidate verbs: 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+119. telecast. The definition is: broadcast via television. The lexname is: communication. 
+1. anchor. The definition is: fix firmly and stably. The lexname is: contact. 
+2595. commend. The definition is: express a good opinion of. The lexname is: communication. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+2612. reproach. The definition is: express criticism towards. The lexname is: communication. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+262. neutralize. The definition is: make ineffective by counterbalancing the effect of. The lexname is: change. 
+1816. inscribe. The definition is: write, engrave, or print as a lasting record. The lexname is: communication. 
+2604. disparage. The definition is: express a negative opinion of. The lexname is: communication. 
+650. afflict. The definition is: cause great unhappiness for; distress. The lexname is: emotion. 
+1701. advertise. The definition is: make publicity for; try to sell (a product). The lexname is: communication. 
+1797. endorse. The definition is: sign as evidence of legal transfer. The lexname is: communication. 
+2279. ban. The definition is: prohibit especially by legal means or social pressure. The lexname is: communication. 
+2005. network. The definition is: communicate with and within a group. The lexname is: communication. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+2613. ridicule. The definition is: subject to laughter or ridicule. The lexname is: communication. 
+1600. investigate. The definition is: conduct an inquiry or investigation of. The lexname is: communication. 
+1325. archive. The definition is: put into an archive. The lexname is: contact. 
+1469. importune. The definition is: beg persistently and urgently. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+1806. jot_down. The definition is: write briefly or hurriedly; write a short note of. The lexname is: communication. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1595. audit. The definition is: examine carefully for accuracy with the intent of verification. The lexname is: cognition. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+1597. consult. The definition is: seek information from. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+2071. launch. The definition is: get going; give impetus to. The lexname is: contact. 
+2606. excuse. The definition is: excuse, overlook, or make allowances for; be lenient with. The lexname is: communication. 
+1063. readjust. The definition is: adjust anew. The lexname is: change. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+1778. chronicle. The definition is: record in chronological order; make a historical record. The lexname is: communication. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+2556. notice. The definition is: notice or perceive. The lexname is: perception. 
+1612. test. The definition is: put to the test, as for its quality, or give experimental use to. The lexname is: social. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+1090. term. The definition is: name formally or designate with a term. The lexname is: communication. 
+1915. denote. The definition is: have as a meaning. The lexname is: communication. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+503. amerce. The definition is: punish by a fine imposed arbitrarily by the discretion of the court. The lexname is: social. 
+2533. urge. The definition is: force or impel in an indicated direction. The lexname is: communication. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+649. affect. The definition is: have an emotional or cognitive impact upon. The lexname is: emotion. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+657. antagonize. The definition is: act in opposition to. The lexname is: social. 
+467. eviscerate. The definition is: remove the contents of. The lexname is: change. 
+2601. denounce. The definition is: speak out against. The lexname is: communication. 
+
+Output Format Example:
+2615. satirize.
+119. telecast.
+Strictly follow the output format above. Do not output analysis. 

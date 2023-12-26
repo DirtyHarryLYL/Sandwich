@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "Make Banana Pudding//put wafers".
+There are 50 candidate verbs: 
+1224. butter. The definition is: spread butter on. The lexname is: contact. 
+34. plaster. The definition is: affix conspicuously. The lexname is: contact. 
+133. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+2297. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1027. bake. The definition is: prepare with dry heat in an oven. The lexname is: creation. 
+1993. cream. The definition is: make creamy by beating. The lexname is: contact. 
+1118. nut. The definition is: gather nuts. The lexname is: contact. 
+158. shirr. The definition is: bake (eggs) in their shells until they are set. The lexname is: change. 
+143. french-fry. The definition is: cook by immersing in fat. The lexname is: change. 
+305. sweeten. The definition is: make sweeter in taste. The lexname is: perception. 
+425. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+2397. wring. The definition is: twist, squeeze, or compress in order to extract liquid. The lexname is: contact. 
+1271. plaster. The definition is: coat with plaster. The lexname is: contact. 
+2410. plaster. The definition is: coat with plaster. The lexname is: contact. 
+322. warm. The definition is: make warm or warmer. The lexname is: change. 
+660. bewilder. The definition is: cause to be confused emotionally. The lexname is: emotion. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+663. bother. The definition is: make confused or perplexed or puzzled. The lexname is: emotion. 
+1047. whittle. The definition is: cut small bits or pare shavings from. The lexname is: contact. 
+1297. sugar. The definition is: sweeten with sugar. The lexname is: perception. 
+646. wallow. The definition is: delight greatly in. The lexname is: consumption. 
+2176. wander. The definition is: go via an indirect route or at no set pace. The lexname is: motion. 
+325. widen. The definition is: make wider. The lexname is: change. 
+1553. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+2403. shake. The definition is: bring to a specified condition by or as if by shaking. The lexname is: change. 
+374. filter. The definition is: remove by passing through a filter. The lexname is: contact. 
+605. waft. The definition is: blow gently. The lexname is: weather. 
+246. hydrate. The definition is: cause to be hydrated; add water or moisture to. The lexname is: change. 
+222. expand. The definition is: make bigger or wider in size, volume, or quantity. The lexname is: change. 
+1311. wax. The definition is: cover with wax. The lexname is: contact. 
+225. fatten. The definition is: make fat or plump. The lexname is: consumption. 
+671. content. The definition is: make content. The lexname is: emotion. 
+488. milk. The definition is: exploit as much as possible. The lexname is: consumption. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+892. brunch. The definition is: eat a meal in the late morning. The lexname is: consumption. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+631. mind. The definition is: be concerned with or about something or somebody. The lexname is: cognition. 
+522. value. The definition is: fix or determine the value of; assign a value to. The lexname is: cognition. 
+2257. emanate. The definition is: proceed or issue forth, as from a source. The lexname is: change. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+2175. wade. The definition is: walk (through relatively shallow water). The lexname is: motion. 
+734. perplex. The definition is: be a mystery or bewildering to. The lexname is: cognition. 
+1627. witness. The definition is: perceive or be contemporaneous with. The lexname is: perception. 
+1221. bread. The definition is: cover with bread crumbs. The lexname is: contact. 
+1466. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+702. flatter. The definition is: praise somewhat dishonestly. The lexname is: communication. 
+171. attenuate. The definition is: become weaker, in strength, value, or magnitude. The lexname is: change. 
+972. wail. The definition is: cry weakly or softly. The lexname is: body. 
+2092. awaken. The definition is: cause to become awake or conscious. The lexname is: body. 
+
+Output Format Example:
+1224. butter.
+34. plaster.
+Strictly follow the output format above. Do not output analysis. 

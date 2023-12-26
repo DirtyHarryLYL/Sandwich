@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "bathing_dog".
+There are 50 candidate verbs: 
+2236. bathe. The definition is: clean one's body by immersion into water. The lexname is: body. 
+2243. shower. The definition is: take a shower; wash one's body in the shower. The lexname is: body. 
+2169. swim. The definition is: travel through water. The lexname is: motion. 
+2161. swim. The definition is: travel through water. The lexname is: motion. 
+2246. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+876. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+2318. wash. The definition is: cleanse with a cleaning agent, such as soap, and water. The lexname is: contact. 
+1093. baptize. The definition is: administer baptism to. The lexname is: communication. 
+1310. water. The definition is: secrete or form water, as tears or saliva. The lexname is: body. 
+2113. rinse. The definition is: wash off soap or remaining dirt. The lexname is: contact. 
+1527. swim. The definition is: be dizzy or giddy. The lexname is: stative. 
+291. soak. The definition is: fill, soak, or imbue totally. The lexname is: change. 
+857. boat. The definition is: ride in a boat on water. The lexname is: motion. 
+1719. bark. The definition is: make barking sounds. The lexname is: communication. 
+955. splash. The definition is: make a splashing sound. The lexname is: perception. 
+288. sink. The definition is: go under,. The lexname is: motion. 
+2415. shower. The definition is: provide abundantly with. The lexname is: consumption. 
+1584. drown. The definition is: kill by submerging in water. The lexname is: change. 
+403. take_off. The definition is: remove clothes. The lexname is: body. 
+1429. pet. The definition is: stroke or caress in an erotic manner, as during lovemaking. The lexname is: contact. 
+452. clean. The definition is: remove while making clean. The lexname is: contact. 
+304. submerge. The definition is: put under water. The lexname is: contact. 
+741. relax. The definition is: cause to feel relaxed. The lexname is: body. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+131. shower. The definition is: spray or sprinkle with. The lexname is: contact. 
+2646. pet. The definition is: stroke or caress gently. The lexname is: contact. 
+1753. yelp. The definition is: bark in a high-pitched tone. The lexname is: communication. 
+2643. massage. The definition is: give a massage to. The lexname is: body. 
+1328. beach. The definition is: land on a beach. The lexname is: motion. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2419. splash. The definition is: soil or stain with a splashed liquid. The lexname is: contact. 
+2536. urinate. The definition is: pass after the manner of urine. The lexname is: body. 
+2346. doctor. The definition is: give medical treatment to. The lexname is: body. 
+2547. hurt. The definition is: give trouble or pain to. The lexname is: body. 
+1454. hound. The definition is: pursue or chase relentlessly. The lexname is: motion. 
+732. pain. The definition is: cause emotional anguish or make miserable. The lexname is: emotion. 
+2249. wolf. The definition is: eat hastily. The lexname is: consumption. 
+930. gurgle. The definition is: make sounds similar to gurgling water. The lexname is: perception. 
+414. flush. The definition is: rinse, clean, or empty with a liquid. The lexname is: change. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+639. sadden. The definition is: come to feel sad. The lexname is: emotion. 
+446. skin. The definition is: strip the skin off. The lexname is: contact. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+1179. infect. The definition is: contaminate with a disease or microorganism. The lexname is: body. 
+2327. design. The definition is: make a design of; plan out in systematic, often graphic form. The lexname is: creation. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+2582. sketch. The definition is: make a sketch of. The lexname is: creation. 
+2308. boil. The definition is: immerse or be immersed in a boiling liquid, often for cooking purposes. The lexname is: change. 
+
+Output Format Example:
+2236. bathe.
+2243. shower.
+Strictly follow the output format above. Do not output analysis. 

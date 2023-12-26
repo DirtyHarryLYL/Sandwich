@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "making_the_bed".
+There are 50 candidate verbs: 
+1329. bed. The definition is: put to bed. The lexname is: contact. 
+2539. sleep. The definition is: be asleep. The lexname is: body. 
+2335. make. The definition is: give certain properties to something. The lexname is: change. 
+2449. build-in. The definition is: make something an integral part of something else. The lexname is: change. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1615. behold. The definition is: see with attention. The lexname is: perception. 
+1236. drug. The definition is: administer a drug to. The lexname is: body. 
+2538. nap. The definition is: take a siesta. The lexname is: body. 
+1156. bestrew. The definition is: cover by strewing. The lexname is: contact. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+1610. survey. The definition is: look over carefully or inspect. The lexname is: perception. 
+1638. peer. The definition is: look searchingly. The lexname is: perception. 
+1021. rebuild. The definition is: build again. The lexname is: creation. 
+2452. install. The definition is: set up for use. The lexname is: contact. 
+2443. stuff. The definition is: fill tightly with a material. The lexname is: change. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1821. tool. The definition is: work with a tool. The lexname is: creation. 
+2565. become. The definition is: enter or assume a certain state or condition. The lexname is: change. 
+1500. hack. The definition is: cut away. The lexname is: contact. 
+298. steady. The definition is: make steady. The lexname is: change. 
+2147. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+2517. hack. The definition is: cut away. The lexname is: contact. 
+1372. rest. The definition is: put something in a resting position, as for support or steadying. The lexname is: contact. 
+209. destabilize. The definition is: make unstable. The lexname is: change. 
+1000. beat. The definition is: shape by beating. The lexname is: creation. 
+1989. admix. The definition is: mix or blend. The lexname is: change. 
+1830. reduce. The definition is: cut down on; make a reduction in. The lexname is: change. 
+1371. project. The definition is: put or send forth. The lexname is: creation. 
+2146. project. The definition is: put or send forth. The lexname is: creation. 
+1062. fit. The definition is: insert or adjust several objects or people. The lexname is: change. 
+202. deepen. The definition is: become deeper in tone. The lexname is: change. 
+2480. end. The definition is: put an end to. The lexname is: creation. 
+443. seed. The definition is: remove the seeds from. The lexname is: change. 
+2475. cut_out. The definition is: cease operating. The lexname is: change. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1772. turn. The definition is: pass to the other side of. The lexname is: motion. 
+2022. bring. The definition is: be accompanied by. The lexname is: contact. 
+252. level. The definition is: become level or even. The lexname is: change. 
+74. drag. The definition is: pull, as against a resistance. The lexname is: contact. 
+1990. consolidate. The definition is: make or form into a solid or hardened mass. The lexname is: change. 
+359. contract. The definition is: make smaller. The lexname is: contact. 
+515. fix. The definition is: set or place definitely. The lexname is: creation. 
+1145. order. The definition is: make a request for something. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+1688. feel. The definition is: find by testing or cautious exploration. The lexname is: possession. 
+2432. load. The definition is: put (something) on a structure or conveyance. The lexname is: contact. 
+1431. kill. The definition is: cause to cease operating. The lexname is: change. 
+286. sicken. The definition is: make sick or ill. The lexname is: body. 
+1430. cut. The definition is: cease, stop. The lexname is: change. 
+243. heat. The definition is: gain heat or get hot. The lexname is: change. 
+
+Output Format Example:
+1329. bed.
+2539. sleep.
+Strictly follow the output format above. Do not output analysis. 

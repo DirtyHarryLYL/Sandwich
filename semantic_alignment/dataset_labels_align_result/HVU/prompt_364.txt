@@ -1,0 +1,57 @@
+Select 10 verbs related to the activity classes "playing_scrabble".
+There are 50 candidate verbs: 
+1067. spell. The definition is: orally recite the letters of or give the spelling of. The lexname is: communication. 
+1791. write_out. The definition is: put into writing; write in complete form. The lexname is: creation. 
+2041. write. The definition is: communicate or express by writing. The lexname is: communication. 
+1418. spat. The definition is: engage in a brief and petty quarrel. The lexname is: communication. 
+2048. write. The definition is: communicate by letter. The lexname is: communication. 
+1789. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2584. type. The definition is: write by means of a keyboard with types. The lexname is: communication. 
+2615. satirize. The definition is: ridicule with satire. The lexname is: communication. 
+670. confuse. The definition is: cause to feel embarrassment. The lexname is: emotion. 
+816. scramble. The definition is: to move hurriedly. The lexname is: motion. 
+1824. work. The definition is: cause to work. The lexname is: social. 
+357. trivialize. The definition is: make trivial or insignificant. The lexname is: communication. 
+669. concern. The definition is: be on the mind of. The lexname is: stative. 
+2633. constitute. The definition is: form or compose. The lexname is: stative. 
+1656. work. The definition is: cause to operate or function. The lexname is: social. 
+91. write_in. The definition is: write to an organization. The lexname is: communication. 
+454. cheat. The definition is: deprive somebody of something by deceit. The lexname is: social. 
+1444. shame. The definition is: compel through a sense of shame. The lexname is: social. 
+1991. scramble. The definition is: bring into random order. The lexname is: contact. 
+326. worsen. The definition is: make worse. The lexname is: change. 
+1954. scramble. The definition is: bring into random order. The lexname is: contact. 
+1771. befriend. The definition is: become friends with. The lexname is: social. 
+1434. continue. The definition is: continue talking;  he continued,. The lexname is: communication. 
+2320. compose. The definition is: put together out of existing material. The lexname is: creation. 
+221. even. The definition is: make even or more even. The lexname is: change. 
+1850. love. The definition is: get pleasure from. The lexname is: emotion. 
+2044. quote. The definition is: repeat a passage from. The lexname is: communication. 
+765. upset. The definition is: cause to lose one's composure. The lexname is: emotion. 
+739. reassure. The definition is: give or restore confidence in; cause to feel sure or certain. The lexname is: communication. 
+2006. rejoin. The definition is: join again. The lexname is: social. 
+1832. avoid. The definition is: refrain from doing something. The lexname is: social. 
+995. answer. The definition is: be liable or accountable. The lexname is: stative. 
+1096. name. The definition is: charge with a function; charge to be. The lexname is: social. 
+1801. letter. The definition is: mark letters on or mark with letters. The lexname is: creation. 
+1294. stress. The definition is: put stress on; utter with an accent. The lexname is: communication. 
+1602. peruse. The definition is: examine or consider with attention and in detail. The lexname is: perception. 
+1009. author. The definition is: be the author of. The lexname is: creation. 
+2686. study. The definition is: learn by reading books. The lexname is: cognition. 
+2585. write. The definition is: mark or trace on a surface. The lexname is: creation. 
+709. harass. The definition is: annoy continually or chronically. The lexname is: emotion. 
+891. breakfast. The definition is: eat an early morning meal. The lexname is: consumption. 
+2596. compliment. The definition is: express respect or esteem for. The lexname is: communication. 
+2477. repeat. The definition is: do over. The lexname is: social. 
+1580. sympathize. The definition is: be understanding of. The lexname is: cognition. 
+382. delete. The definition is: remove or make invisible. The lexname is: contact. 
+1091. vote. The definition is: bring into existence or make available by vote. The lexname is: social. 
+635. puzzle. The definition is: be uncertain about; think about without fully understanding or being able to decide. The lexname is: emotion. 
+1725. call. The definition is: utter a characteristic note or cry. The lexname is: communication. 
+2632. compose. The definition is: form the substance of. The lexname is: stative. 
+2046. teach. The definition is: impart skills or knowledge to. The lexname is: communication. 
+
+Output Format Example:
+1067. spell.
+1791. write_out.
+Strictly follow the output format above. Do not output analysis. 

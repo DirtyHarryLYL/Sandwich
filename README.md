@@ -1,6 +1,6 @@
 # Sandwich
 ## Bidirectional Mapping between Action Physical-Semantic Space
-Maintaned by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, Cewu Lu.
+Maintained by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, and Cewu Lu.
 
 <p align='center'>
     <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/img/sandwich.png", height="400">
@@ -8,8 +8,8 @@ Maintaned by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, Cewu Lu.
 
 
 Sandwich is a project for general human activity understanding. It consists of:
-- A novel structured semantic space, **Poincare Action Semantic Space (PASS)**, to re-explain all the action classes from existing action datasets of multiple modalities.
+- A novel structured semantic space to re-explain all the action classes from existing action datasets of multiple modalities.
 - A large-scale multi-modal action database, **Pangea**, aggregating a plenty of existing action datasets.
 - A bidirectional mapping system to learn the bi-mapping between human action physical-semantic space and facilitate the action recognition and generation.
 
-Under construction. More contents are coming soon!
+Under construction. More content is coming soon!

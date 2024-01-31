@@ -9,7 +9,7 @@ You can use semantic alignment not only for collected activities but also for an
 </p>
 
 ## Query Our Collected Activities
-We provide the annotated results for batch1/2/3/4(...more coming) data.
+We provide the annotated results for batch 1/2/3/4 (...more coming) data.
 You can query our collected activities via [query_collected.ipynb](./semantic_alignment/query_collected.ipynb).
 
 ## Query New Activities

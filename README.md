@@ -1,11 +1,13 @@
 # Sandwich
 ## Bidirectional Mapping between Action Physical-Semantic Space
 Maintained by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, and Cewu Lu.
+- **Pangea** (CVPR 2024): Unified action semantic space (label system) tp aggregate all action datasets into ONE. [Pangea](https://github.com/DirtyHarryLYL/Sandwich/tree/main/semantic_alignment)
 
 <p align='center'>
     <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/img/sandwich.png", height="400">
 </p>
 
+#### **News**: (2023.2.27) Pangea will appear at CVPR 2024!
 
 Sandwich is a project for general human activity understanding. It consists of:
 - A novel structured semantic space to re-explain all the action classes from existing action datasets of multiple modalities.

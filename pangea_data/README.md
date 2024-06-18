@@ -5,27 +5,53 @@ To construct a shared semantic space for various datasets, semantic consistency 
 You can use semantic alignment not only for collected activities but also for any new activities you are interested in :)
 
 <p align='center'>
-    <img src="../img/semantic_alignment.png", height="300">
+    <img src="../asset/semantic_alignment.png", height="300">
 </p>
 
 ## Query Our Collected Activities
 We provide the annotated results for batch 1/2/3/4 (...more coming) data.
-You can query our collected activities via [query_collected.ipynb](./semantic_alignment/query_collected.ipynb).
+You can query our collected activities via [query_collected.ipynb](query_collected.ipynb).
+
+The training data is given [here](https://drive.google.com/drive/folders/1VO9M79JAOtf9rTqYHx_HWphOvAvqNGFa?usp=sharing). 
+Download the folder, rename it as "Data", and put it in the root dir.
+
+It covers samples in datasets (
+Willow Action,
+Phrasal Recognition, 
+Stanford 40 Actions,
+MPII, HICO, HAKE, 
+HMDB51, 
+HAA500,
+AVA , 
+YouTube Action,
+ASLAN,
+UCF101,
+Olympic Sports,
+Penn Action,
+Charades,
+Charades-Ego,
+ActivityNet,
+HACS
+Home Action Genome,
+Kinetics
+) 
+and their verb node annotation. 
+The script is given in [read_data.py](read_data.py). 
 
 ## Query New Activities
 ### Utilize Collected Knowledge
 With the collected activities and their mapping, you can query new activities via their semantic correlation with the collected ones.
 
-The script is given in [query_new.ipynb](./semantic_alignment/query_new.ipynb).
+The script is given in [query_new.ipynb](query_new.ipynb).
 
 ### Utilize LLM Knowledge
-With the recent progress of LLM, automatic semantic alignment can be established via LLM querying. We provide the script in [align_with_clip+gpt.py](./semantic_alignment/align_with_clip+gpt.py) and some results for batch4 data in [dataset_labels_align_result](./semantic_alignment/dataset_labels_align_result).
+With the recent progress of LLM, automatic semantic alignment can be established via LLM querying. We provide the script in [align_with_clip+gpt.py](align_with_clip+gpt.py) and some results for batch4 data in [dataset_labels_align_result](dataset_labels_align_result).
 
 ## Aligned Dataset Statistic
 Currently, we have aligned **10642** action labels over **52** datasets.
 
 <p align='center'>
-    <img src="../img/dataset_labels_count_wordcloud.png", height="200">
+    <img src="../asset/dataset_labels_count_wordcloud.png", height="200">
 </p>
 
 | Dataset             | Action Classes  | Collected | Aligned  |

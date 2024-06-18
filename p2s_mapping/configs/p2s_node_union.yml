@@ -1,0 +1,86 @@
+SEED: 66
+KEY: labels_n
+exp_dir: exp
+
+TRAIN:
+  DATA_DIR: Data
+  DB_CAND_PATH:
+    ["train_clean_20231001/B12_train_with_node.pkl","train_clean_20231001/B123_train_KIN-FULL_with_node.pkl"]
+
+  VERBNET:
+    Label2Node_path: 
+      ["./Data/Label2Node/Label2Node_batch1+2+3.json", "./Data/mapping_node_index/704_to_290.pkl"]
+
+  img_dir: ./Data/Images/
+
+  DATASET:
+    BATCH_SIZE: 
+      2048
+    NUM_WORKERS: 4
+    SAMPLER_NAME: "priority_object"
+    jittering: True
+
+  MAX_EPOCH: 50
+
+  OPTIMIZER:
+    TYPE: AdamW
+    CLIP_GRAD : 5.0
+    momentum: 0.9
+    weight_decay: 0.05
+    EPS: 1e-8
+    layer_decay: 0.9
+
+  LR:
+    base: 2e-6
+    warmup:
+      epoch : 2
+      lr_init : 5e-8
+    scheduler: 
+      cosine:
+        min : 1e-6
+  
+TEST:
+  DB_CAND_PATH: 
+    ["db_batch1+2_img-level.pkl", "cand_batch1+2_train_test_node290_img-level.pkl"]
+  FREQ: 1
+  BATCH_SIZE: 256
+  NUM_WORKERS: 4
+  img_dir: ./Images/
+
+MODEL:
+  CLIP:
+    model_name: 
+      model_for_node_LoL3
+
+    initial:
+      weight: ../Data/node_bst.pth
+      load_text_pretrain: True
+      load_visual_pretrain: True
+    
+    freeze:
+      freeze_visual_encoder: True
+
+    dim: 512
+    with_L3: True
+    parallel_trans: False
+    with_Lo: False
+
+    visual:
+      type: ViT
+      resolution : 224
+      patch_size: 
+        32
+      width : 768
+      heads : 12
+      layers: 12
+    
+    text:
+      type: transformer
+      context_length : 77
+      vocab_size : 49408
+      width : 512
+      heads : 8
+      layers : 12
+    
+    flag_weight: 0.1
+    content: summarized

@@ -14,7 +14,15 @@ Sandwich is a project for general human activity understanding. It consists of:
 - A large-scale multi-modal action database, **Pangea**, aggregating a plenty of existing action datasets.
 - A bidirectional mapping system to learn the bi-mapping between human action physical-semantic space and facilitate the action recognition and generation.
 
-#### We are gathering more and more human action datasets and linking their label systems to Pangea (CVPR 2024), for more details please refer to this [page](https://github.com/DirtyHarryLYL/Sandwich/tree/main/semantic_alignment). 
+## Pangea Data
+#### We are gathering more and more human action datasets and linking their label systems to Pangea (CVPR 2024), for more details please refer to this [page](https://github.com/DirtyHarryLYL/Sandwich/tree/main/pangea_data). 
 - Given our new hierarchical semantic system, you can train big models on all action datasets under ONE label system with principled knowledge! 
 
-Under construction. More content is coming soon!
+## Installation
+For python environment, see [requirements.txt](requirements.txt).
+
+The data is given [here](https://drive.google.com/drive/folders/1VO9M79JAOtf9rTqYHx_HWphOvAvqNGFa?usp=sharing). 
+Download the folder, rename it as "Data", and put it in the root dir.
+
+## P2S mapping
+See [p2s_mapping](p2s_mapping). Run [eval_node.sh](p2s_mapping/eval_node.sh) to infer verb node labels.

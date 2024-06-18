@@ -1,0 +1,1 @@
+export CUDA_VISIBLE_DEVICES=2; python -m torch.distributed.launch --nproc_per_node=1 eval_node.py --config_path configs/p2s_node_union.yml --ckpt_path ../Data/node_bst.pth

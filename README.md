@@ -26,3 +26,6 @@ Download the folder, rename it as "Data", and put it in the root dir.
 
 ## P2S mapping
 See [p2s_mapping](p2s_mapping). Run [eval_node.sh](p2s_mapping/eval_node.sh) to infer verb node labels.
+
+## Pose2SMPL used in our 3D human data curation.
+[Pose2SMPL](https://github.com/Dou-Yiming/Pose_to_SMPL)

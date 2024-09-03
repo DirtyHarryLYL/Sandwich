@@ -4,7 +4,7 @@ Maintained by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, and Cewu Lu.
 - **Pangea** (CVPR 2024 Highlight): Unified action semantic space (label system) tp aggregate all action datasets into ONE. [Pangea](https://github.com/DirtyHarryLYL/Sandwich/tree/main/semantic_alignment)
 
 <p align='center'>
-    <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/img/sandwich.png", height="400">
+    <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/asset/sandwich.png", height="400">
 </p>
 
 #### **News**: (2023.2.27) Pangea will appear at CVPR 2024!

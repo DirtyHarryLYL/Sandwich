@@ -1,7 +1,7 @@
 # Sandwich
 ## Bidirectional Mapping between Action Physical-Semantic Space
 Maintained by Yong-Lu Li, Xiaoqian Wu, Xinpeng Liu, Yiming Dou, and Cewu Lu.
-- **Pangea** (CVPR 2024 Highlight): Unified action semantic space (label system) tp aggregate all action datasets into ONE. [Pangea](https://github.com/DirtyHarryLYL/Sandwich/tree/main/semantic_alignment)
+- **Pangea** (CVPR 2024 Highlight): Unified action semantic space (label system) tp aggregate all action datasets into ONE. [Pangea](https://github.com/DirtyHarryLYL/Sandwich/tree/main/pangea_data)
 
 <p align='center'>
     <img src="https://github.com/DirtyHarryLYL/Sandwich/blob/main/asset/sandwich.png", height="400">

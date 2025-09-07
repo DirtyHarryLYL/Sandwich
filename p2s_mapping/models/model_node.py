@@ -10,6 +10,10 @@ from collections import OrderedDict
 from .base import BaseCLIP, ModifiedResNet, TextTransformer, VisionTransformer, LayerNorm, Transformer
 from .text_encoder import SentenceTransformer, Hierarchical_Transformer
 
+import geoopt.geoopt.manifolds.poincare.math as pmath
+import lorentz as L 
+# lorentz from meru: Desai, Karan, et al. "Hyperbolic image-text representations." International Conference on Machine Learning. PMLR, 2023.
+
 class TLayer(nn.Module):
     def __init__(self, num, in_features, out_features, bias=True):
         super(TLayer, self).__init__()
